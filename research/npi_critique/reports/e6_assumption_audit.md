@@ -125,11 +125,15 @@ low outlier here too, meaning the original calibration target was
 already the most forgiving of the three years available.
 
 **Tie rate is an open, unexplained observation, stated without
-interpretation.** Real data shows a nonzero "tie" rate (`Result==0.5`)
-of 6.9-8.5% across all three seasons. This project's own prior reports
+interpretation.** ~~This project's own prior reports
 (`reports/hockey_bt_results.md`) describe modern-rules ties as
 essentially eliminated by shootouts, with any residual tie flag confined
-to specific historical rule eras. Whether this real, present-day nonzero
+to specific historical rule eras.~~ **CORRECTION (see
+`reports/e9_tie_rate_resolved.md`): this is a misquote of
+`hockey_bt_results.md`, which actually says the opposite -- "ties...
+are not a data artifact... 99.3% of all ties occur in OT/SO games
+specifically." That was already correct.** Real data shows a nonzero
+"tie" rate (`Result==0.5`) of 6.9-8.5% across all three seasons. Whether this real, present-day nonzero
 rate reflects an actual current-rules edge case, a data/labeling
 convention in `games_archive.csv`, or something else was not
 investigated here -- flagged as a genuine open question rather than
@@ -165,9 +169,11 @@ conference-strength separation -- S2, S4, and S9 most directly.
    lower `MEAN_GOALS_PER_TEAM` or an adjusted regulation-tie probability
    in `simulate_season`, re-validated against all three seasons rather
    than one.
-3. **The tie-rate discrepancy is unexplained** -- worth a short,
-   dedicated check of `games_archive.csv`'s `Result==0.5` rows before
-   it's used to justify or contradict anything else.
+3. ~~The tie-rate discrepancy is unexplained~~ -- **RESOLVED as a
+   non-issue, see `reports/e9_tie_rate_resolved.md`.** These are
+   genuine, correctly-recorded ties (verified against a second
+   independent data source, 0 mismatches across 32 cross-checkable
+   games), not a data or labeling bug.
 4. ~~Distribution-shape mismatch~~ -- **RESOLVED as a non-issue, see
    `reports/e7_distribution_shape_resolution.md`.** The mismatch was
    between real win% and the *input* strength assumption; checked

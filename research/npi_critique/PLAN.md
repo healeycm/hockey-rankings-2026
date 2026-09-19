@@ -401,6 +401,45 @@ the other three models' under the fix -- not investigated further.
 **E1, S1, S2, and S4 were not re-run and remain stale** -- flagged, not
 assumed fine.
 
+**E9 -- tie-rate discrepancy (E6's remaining open item), investigated
+and resolved as a non-issue, not a bug (`reports/e9_tie_rate_resolved.md`).**
+Traced the real, nonzero tie rate (6.9-8.5% of games) all the way from
+raw scrape through the scraper's parsing logic, initially concluding it
+looked like a genuine production data bug (USCHO's composite-schedule
+page not reflecting a shootout-deciding goal for some OT games).
+Cross-checked against a second independent source (CHN) -- a first,
+loose-matching attempt produced false "mismatches" that themselves
+turned out to be a matching bug (two teams playing twice in three days,
+matched to the wrong meeting); corrected to exact date+team matching
+and found **zero mismatches across all 32 cross-checkable games**. These
+are genuine, correctly-recorded ties (NCAA hockey games can officially
+end in a tie after one OT period; some conferences layer a
+bonus-point-only shootout on top that doesn't change the official
+record), and every production model's tie handling (`NPI`, `KRACH`,
+`RPI` splitting credit; `Massey` reading zero margin) is already
+correct. **Also corrected a real self-inflicted error**: E6 had
+misquoted `reports/hockey_bt_results.md` as claiming modern rules
+eliminate ties, when that report actually already said the opposite
+("not a data artifact... 99.3% of all ties occur in OT/SO games") --
+the project's own prior work had this right; the audit introduced the
+error. No code changed.
+
+**E10 -- full re-verification of E1/S1/S2/S4 under the OT-corrected
+simulator (`reports/e10_full_reverification.md`).** Every core finding
+survives with the same direction and significance: E1's model ordering
+and headline comparisons unchanged (though the NPI paradox rate roughly
+doubled, 6.3% -> 12.0%, unexplained); S1's "no unique NPI games-played
+bias" null confirmed on both designs; S2's KRACH-shows-larger-leverage
+finding confirmed on both the aggregate and precise fluke-win tests, and
+the strength-sweep pattern strengthened; S4's filter-trigger rate fell
+substantially (22.7%->9.3% long-schedule) with a clean mechanistic
+explanation (`NPIGames`' mandatory-win set always includes OT wins
+regardless of count -- a correctly higher OT rate mechanically shrinks
+the pool of droppable *regulation* wins), which reinforces rather than
+undermines S4's original null. **Zero direction reversals across the
+entire re-verification.** Every experiment in this workspace has now
+been checked against the current simulator at least once.
+
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
 for the definitive account).** The one place S1/S2's hypothesis could
