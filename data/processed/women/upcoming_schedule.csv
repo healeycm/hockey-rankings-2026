@@ -1,0 +1,700 @@
+Date,HomeTeam,AwayTeam,NeutralSite,Season
+2026-09-18,Mercyhurst,RPI,False,20262027
+2026-09-18,Post,Lindenwood,False,20262027
+2026-09-19,Mercyhurst,RPI,False,20262027
+2026-09-19,Connecticut,Quinnipiac,False,20262027
+2026-09-19,Post,Lindenwood,False,20262027
+2026-09-24,Penn State,Ohio State,False,20262027
+2026-09-24,Merrimack,Lindenwood,False,20262027
+2026-09-25,St. Thomas,New Hampshire,False,20262027
+2026-09-25,St. Cloud State,Connecticut,False,20262027
+2026-09-25,Minnesota State,RPI,False,20262027
+2026-09-25,Minnesota Duluth,Mercyhurst,False,20262027
+2026-09-25,Sacred Heart,Providence,False,20262027
+2026-09-25,Franklin Pierce,Union,False,20262027
+2026-09-25,Maine,Quinnipiac,False,20262027
+2026-09-25,Holy Cross,Delaware,False,20262027
+2026-09-25,Merrimack,Lindenwood,False,20262027
+2026-09-25,St. Lawrence,Wisconsin,False,20262027
+2026-09-25,Clarkson,RIT,False,20262027
+2026-09-25,Penn State,Ohio State,False,20262027
+2026-09-25,Robert Morris,Post,False,20262027
+2026-09-25,Syracuse,Stonehill,False,20262027
+2026-09-25,Assumption,St. Michael's,False,20262027
+2026-09-26,St. Cloud State,Connecticut,False,20262027
+2026-09-26,St. Thomas,New Hampshire,False,20262027
+2026-09-26,Minnesota State,RPI,False,20262027
+2026-09-26,Minnesota Duluth,Mercyhurst,False,20262027
+2026-09-26,Franklin Pierce,Union,False,20262027
+2026-09-26,Boston University,LIU,False,20262027
+2026-09-26,Providence,Sacred Heart,False,20262027
+2026-09-26,Assumption,St. Michael's,False,20262027
+2026-09-26,Holy Cross,Delaware,False,20262027
+2026-09-26,St. Lawrence,Wisconsin,False,20262027
+2026-09-26,Clarkson,RIT,False,20262027
+2026-09-26,Robert Morris,Post,False,20262027
+2026-09-26,Syracuse,Stonehill,False,20262027
+2026-09-26,Maine,Quinnipiac,False,20262027
+2026-10-01,Maine,St. Lawrence,False,20262027
+2026-10-01,Holy Cross,Assumption,False,20262027
+2026-10-01,Wisconsin,Boston University,False,20262027
+2026-10-02,Vermont,Minnesota Duluth,False,20262027
+2026-10-02,Minnesota State,St. Cloud State,False,20262027
+2026-10-02,St. Thomas,Ohio State,False,20262027
+2026-10-02,Bemidji State,Minnesota,False,20262027
+2026-10-02,Wisconsin,Boston University,False,20262027
+2026-10-02,LIU,New Hampshire,False,20262027
+2026-10-02,Merrimack,Union,False,20262027
+2026-10-02,Mercyhurst,Syracuse,False,20262027
+2026-10-02,Connecticut,Clarkson,False,20262027
+2026-10-02,RPI,Northeastern,False,20262027
+2026-10-02,Quinnipiac,Providence,False,20262027
+2026-10-02,RIT,Colgate,False,20262027
+2026-10-02,St. Michael's,Franklin Pierce,False,20262027
+2026-10-02,Penn State,Robert Morris,False,20262027
+2026-10-02,Maine,St. Lawrence,False,20262027
+2026-10-03,Bemidji State,Minnesota,False,20262027
+2026-10-03,St. Thomas,Ohio State,False,20262027
+2026-10-03,Minnesota State,St. Cloud State,False,20262027
+2026-10-03,LIU,New Hampshire,False,20262027
+2026-10-03,Vermont,Minnesota Duluth,False,20262027
+2026-10-03,Providence,Quinnipiac,False,20262027
+2026-10-03,Stonehill,Boston College,False,20262027
+2026-10-03,Connecticut,Clarkson,False,20262027
+2026-10-03,Colgate,RIT,False,20262027
+2026-10-03,St. Michael's,Franklin Pierce,False,20262027
+2026-10-03,Penn State,Robert Morris,False,20262027
+2026-10-03,Delaware,Lindenwood,False,20262027
+2026-10-03,Mercyhurst,Syracuse,False,20262027
+2026-10-03,Merrimack,Union,False,20262027
+2026-10-04,Delaware,Lindenwood,False,20262027
+2026-10-06,Quinnipiac,Post,False,20262027
+2026-10-08,St. Lawrence,Clarkson,False,20262027
+2026-10-08,Lindenwood,Mercyhurst,False,20262027
+2026-10-09,Ohio State,Wisconsin,False,20262027
+2026-10-09,Minnesota Duluth,St. Thomas,False,20262027
+2026-10-09,Minnesota,Maine,False,20262027
+2026-10-09,Franklin Pierce,Vermont,False,20262027
+2026-10-09,Colgate,St. Cloud State,False,20262027
+2026-10-09,Clarkson,St. Lawrence,False,20262027
+2026-10-09,RPI,Robert Morris,False,20262027
+2026-10-09,Assumption,Sacred Heart,False,20262027
+2026-10-09,Saint Anselm,Merrimack,False,20262027
+2026-10-09,St. Michael's,Stonehill,False,20262027
+2026-10-09,New Hampshire,Boston University,False,20262027
+2026-10-09,Holy Cross,Boston College,False,20262027
+2026-10-09,Providence,Northeastern,False,20262027
+2026-10-09,Post,LIU,False,20262027
+2026-10-09,RIT,Delaware,False,20262027
+2026-10-09,Lindenwood,Mercyhurst,False,20262027
+2026-10-09,Syracuse,Penn State,False,20262027
+2026-10-10,Ohio State,Wisconsin,False,20262027
+2026-10-10,Minnesota Duluth,St. Thomas,False,20262027
+2026-10-10,Franklin Pierce,Vermont,False,20262027
+2026-10-10,Colgate,St. Cloud State,False,20262027
+2026-10-10,LIU,Post,False,20262027
+2026-10-10,Assumption,Sacred Heart,False,20262027
+2026-10-10,RPI,Robert Morris,False,20262027
+2026-10-10,Maine,Bemidji State,True,20262027
+2026-10-10,Boston College,Providence,False,20262027
+2026-10-10,St. Michael's,Stonehill,False,20262027
+2026-10-10,Northeastern,New Hampshire,False,20262027
+2026-10-10,Boston University,Holy Cross,False,20262027
+2026-10-10,RIT,Delaware,False,20262027
+2026-10-10,Syracuse,Penn State,False,20262027
+2026-10-11,Minnesota,Bemidji State,False,20262027
+2026-10-14,Boston College,Merrimack,False,20262027
+2026-10-15,New Hampshire,St. Lawrence,False,20262027
+2026-10-16,Bemidji State,Minnesota Duluth,False,20262027
+2026-10-16,St. Thomas,St. Cloud State,False,20262027
+2026-10-16,Minnesota,Ohio State,False,20262027
+2026-10-16,Wisconsin,Minnesota State,False,20262027
+2026-10-16,Boston University,Colgate,False,20262027
+2026-10-16,Holy Cross,Harvard,False,20262027
+2026-10-16,New Hampshire,St. Lawrence,False,20262027
+2026-10-16,Dartmouth,St. Michael's,False,20262027
+2026-10-16,Clarkson,Franklin Pierce,False,20262027
+2026-10-16,Quinnipiac,Northeastern,False,20262027
+2026-10-16,Penn State,Lindenwood,False,20262027
+2026-10-16,Cornell,Vermont,False,20262027
+2026-10-16,Princeton,Connecticut,False,20262027
+2026-10-16,Saint Anselm,Assumption,False,20262027
+2026-10-16,Sacred Heart,LIU,False,20262027
+2026-10-16,Robert Morris,Syracuse,False,20262027
+2026-10-16,Delaware,Union,False,20262027
+2026-10-16,RIT,Brown,False,20262027
+2026-10-16,RPI,Maine,False,20262027
+2026-10-16,Stonehill,Post,False,20262027
+2026-10-17,Harvard,Holy Cross,False,20262027
+2026-10-17,Minnesota,Ohio State,False,20262027
+2026-10-17,Wisconsin,Minnesota State,False,20262027
+2026-10-17,St. Thomas,St. Cloud State,False,20262027
+2026-10-17,Bemidji State,Minnesota Duluth,False,20262027
+2026-10-17,St. Michael's,Dartmouth,False,20262027
+2026-10-17,Boston University,Colgate,False,20262027
+2026-10-17,Clarkson,Franklin Pierce,False,20262027
+2026-10-17,RPI,Maine,False,20262027
+2026-10-17,Penn State,Lindenwood,False,20262027
+2026-10-17,Princeton,Connecticut,False,20262027
+2026-10-17,Cornell,Vermont,False,20262027
+2026-10-17,Delaware,Union,False,20262027
+2026-10-17,RIT,Brown,False,20262027
+2026-10-17,LIU,Sacred Heart,False,20262027
+2026-10-17,Stonehill,Post,False,20262027
+2026-10-17,Assumption,Saint Anselm,False,20262027
+2026-10-17,Robert Morris,Syracuse,False,20262027
+2026-10-17,Quinnipiac,Northeastern,False,20262027
+2026-10-22,Minnesota,Lindenwood,False,20262027
+2026-10-23,Ohio State,Colgate,False,20262027
+2026-10-23,Minnesota,Lindenwood,False,20262027
+2026-10-23,LIU,Delaware,False,20262027
+2026-10-23,Merrimack,Post,False,20262027
+2026-10-23,New Hampshire,Stonehill,False,20262027
+2026-10-23,Boston College,Cornell,False,20262027
+2026-10-23,Connecticut,Mercyhurst,False,20262027
+2026-10-23,St. Cloud State,Bemidji State,False,20262027
+2026-10-23,Harvard,St. Michael's,False,20262027
+2026-10-23,Dartmouth,Holy Cross,False,20262027
+2026-10-23,St. Lawrence,Penn State,False,20262027
+2026-10-23,RIT,Northeastern,False,20262027
+2026-10-23,Saint Anselm,Franklin Pierce,False,20262027
+2026-10-23,Minnesota State,Robert Morris,True,20262027
+2026-10-23,Boston University,Yale,False,20262027
+2026-10-23,Union,Quinnipiac,False,20262027
+2026-10-23,RPI,Princeton,False,20262027
+2026-10-23,Clarkson,Providence,False,20262027
+2026-10-24,Dartmouth,Holy Cross,False,20262027
+2026-10-24,St. Cloud State,Bemidji State,False,20262027
+2026-10-24,Ohio State,Colgate,False,20262027
+2026-10-24,LIU,Delaware,False,20262027
+2026-10-24,Merrimack,St. Michael's,False,20262027
+2026-10-24,Boston College,Cornell,False,20262027
+2026-10-24,Harvard,New Hampshire,False,20262027
+2026-10-24,Clarkson,Providence,False,20262027
+2026-10-24,Connecticut,Mercyhurst,False,20262027
+2026-10-24,RIT,Northeastern,False,20262027
+2026-10-24,Franklin Pierce,Saint Anselm,False,20262027
+2026-10-24,Boston University,Minnesota State/Robert Morris,False,20262027
+2026-10-24,St. Lawrence,Penn State,False,20262027
+2026-10-24,BU / Yale,Minnesota State,True,20262027
+2026-10-24,MN State/Robert Morris,Yale,True,20262027
+2026-10-24,Yale / BU,Robert Morris,True,20262027
+2026-10-24,RPI,Quinnipiac,False,20262027
+2026-10-24,Union,Princeton,False,20262027
+2026-10-26,Boston College,Minnesota State,False,20262027
+2026-10-29,Holy Cross,Connecticut,False,20262027
+2026-10-29,Lindenwood,Robert Morris,False,20262027
+2026-10-29,Syracuse,Delaware,False,20262027
+2026-10-30,Ohio State,Bemidji State,False,20262027
+2026-10-30,Minnesota Duluth,Minnesota,False,20262027
+2026-10-30,St. Thomas,Minnesota State,False,20262027
+2026-10-30,St. Cloud State,Wisconsin,False,20262027
+2026-10-30,Mercyhurst,Assumption,False,20262027
+2026-10-30,Saint Anselm,Stonehill,False,20262027
+2026-10-30,Franklin Pierce,Sacred Heart,False,20262027
+2026-10-30,Boston University,Northeastern,False,20262027
+2026-10-30,Merrimack,New Hampshire,False,20262027
+2026-10-30,Boston College,Vermont,False,20262027
+2026-10-30,Princeton,Brown,False,20262027
+2026-10-30,Connecticut,Holy Cross,False,20262027
+2026-10-30,RIT,Penn State,False,20262027
+2026-10-30,Maine,Providence,False,20262027
+2026-10-30,Lindenwood,Robert Morris,False,20262027
+2026-10-30,Dartmouth,St. Lawrence,False,20262027
+2026-10-30,Syracuse,Delaware,False,20262027
+2026-10-30,Cornell,Union,False,20262027
+2026-10-30,Harvard,Clarkson,False,20262027
+2026-10-30,Quinnipiac,Yale,False,20262027
+2026-10-30,Colgate,RPI,False,20262027
+2026-10-31,Stonehill,Saint Anselm,False,20262027
+2026-10-31,Ohio State,Bemidji State,False,20262027
+2026-10-31,Minnesota Duluth,Minnesota,False,20262027
+2026-10-31,St. Cloud State,Wisconsin,False,20262027
+2026-10-31,Minnesota State,St. Thomas,False,20262027
+2026-10-31,Mercyhurst,Assumption,False,20262027
+2026-10-31,Franklin Pierce,Sacred Heart,False,20262027
+2026-10-31,Boston University,Northeastern,False,20262027
+2026-10-31,Maine,Providence,False,20262027
+2026-10-31,Boston College,Vermont,False,20262027
+2026-10-31,New Hampshire,Merrimack,False,20262027
+2026-10-31,Harvard,St. Lawrence,False,20262027
+2026-10-31,Princeton,Yale,False,20262027
+2026-10-31,Cornell,RPI,False,20262027
+2026-10-31,Dartmouth,Clarkson,False,20262027
+2026-10-31,Quinnipiac,Brown,False,20262027
+2026-10-31,Colgate,Union,False,20262027
+2026-10-31,RIT,Penn State,False,20262027
+2026-11-03,RPI,Union,False,20262027
+2026-11-05,Boston College,Connecticut,False,20262027
+2026-11-06,Franklin Pierce,Post,False,20262027
+2026-11-06,Stonehill,Sacred Heart,False,20262027
+2026-11-06,LIU,Assumption,False,20262027
+2026-11-06,Connecticut,Boston College,False,20262027
+2026-11-06,St. Michael's,Saint Anselm,False,20262027
+2026-11-06,New Hampshire,Providence,False,20262027
+2026-11-06,Vermont,Northeastern,False,20262027
+2026-11-06,Boston University,Maine,False,20262027
+2026-11-06,Holy Cross,Merrimack,False,20262027
+2026-11-06,Quinnipiac,Cornell,False,20262027
+2026-11-06,Yale,Dartmouth,False,20262027
+2026-11-06,RPI,Clarkson,False,20262027
+2026-11-06,Brown,Harvard,False,20262027
+2026-11-06,Union,St. Lawrence,False,20262027
+2026-11-06,Lindenwood,Syracuse,False,20262027
+2026-11-06,Robert Morris,RIT,False,20262027
+2026-11-06,Princeton,Colgate,False,20262027
+2026-11-07,Stonehill,Sacred Heart,False,20262027
+2026-11-07,St. Michael's,Saint Anselm,False,20262027
+2026-11-07,Franklin Pierce,Post,False,20262027
+2026-11-07,Merrimack,Holy Cross,False,20262027
+2026-11-07,Boston University,Maine,False,20262027
+2026-11-07,Providence,New Hampshire,False,20262027
+2026-11-07,Vermont,Northeastern,False,20262027
+2026-11-07,Princeton,Cornell,False,20262027
+2026-11-07,Union,Clarkson,False,20262027
+2026-11-07,Quinnipiac,Colgate,False,20262027
+2026-11-07,Yale,Harvard,False,20262027
+2026-11-07,Brown,Dartmouth,False,20262027
+2026-11-07,Lindenwood,Syracuse,False,20262027
+2026-11-07,Robert Morris,RIT,False,20262027
+2026-11-07,Delaware,Mercyhurst,False,20262027
+2026-11-07,LIU,Assumption,False,20262027
+2026-11-07,RPI,St. Lawrence,False,20262027
+2026-11-10,Sacred Heart,Quinnipiac,False,20262027
+2026-11-12,New Hampshire,Vermont,False,20262027
+2026-11-12,Delaware,Robert Morris,False,20262027
+2026-11-13,Ohio State,Minnesota Duluth,False,20262027
+2026-11-13,Minnesota,St. Cloud State,False,20262027
+2026-11-13,Bemidji State,Minnesota State,False,20262027
+2026-11-13,RPI,Syracuse,False,20262027
+2026-11-13,Stonehill,LIU,False,20262027
+2026-11-13,Sacred Heart,Saint Anselm,False,20262027
+2026-11-13,Post,St. Michael's,False,20262027
+2026-11-13,Connecticut,Providence,False,20262027
+2026-11-13,New Hampshire,Vermont,False,20262027
+2026-11-13,Franklin Pierce,Assumption,False,20262027
+2026-11-13,Boston College,Boston University,False,20262027
+2026-11-13,Merrimack,Northeastern,False,20262027
+2026-11-13,Clarkson,Yale,False,20262027
+2026-11-13,St. Lawrence,Brown,False,20262027
+2026-11-13,Colgate,Dartmouth,False,20262027
+2026-11-13,Cornell,Harvard,False,20262027
+2026-11-13,RIT,Lindenwood,False,20262027
+2026-11-13,Delaware,Robert Morris,False,20262027
+2026-11-13,Maine,Holy Cross,False,20262027
+2026-11-13,Mercyhurst,Penn State,False,20262027
+2026-11-14,Post,St. Michael's,False,20262027
+2026-11-14,Assumption,Franklin Pierce,False,20262027
+2026-11-14,Syracuse,RPI,False,20262027
+2026-11-14,Ohio State,Minnesota Duluth,False,20262027
+2026-11-14,Bemidji State,Minnesota State,False,20262027
+2026-11-14,St. Cloud State,Minnesota,False,20262027
+2026-11-14,Stonehill,LIU,False,20262027
+2026-11-14,Wisconsin,St. Thomas,False,20262027
+2026-11-14,Sacred Heart,Saint Anselm,False,20262027
+2026-11-14,Colgate,Harvard,False,20262027
+2026-11-14,Northeastern,Merrimack,False,20262027
+2026-11-14,Maine,Holy Cross,False,20262027
+2026-11-14,Boston University,Boston College,False,20262027
+2026-11-14,Clarkson,Brown,False,20262027
+2026-11-14,Cornell,Dartmouth,False,20262027
+2026-11-14,St. Lawrence,Yale,False,20262027
+2026-11-14,RIT,Lindenwood,False,20262027
+2026-11-14,Mercyhurst,Penn State,False,20262027
+2026-11-14,Providence,Connecticut,False,20262027
+2026-11-15,Wisconsin,St. Thomas,False,20262027
+2026-11-17,Syracuse,Colgate,False,20262027
+2026-11-19,Holy Cross,New Hampshire,False,20262027
+2026-11-19,Penn State,Delaware,False,20262027
+2026-11-20,St. Cloud State,Ohio State,False,20262027
+2026-11-20,St. Thomas,Minnesota,False,20262027
+2026-11-20,New Hampshire,Holy Cross,False,20262027
+2026-11-20,Minnesota State,Minnesota Duluth,False,20262027
+2026-11-20,St. Michael's,Sacred Heart,False,20262027
+2026-11-20,Franklin Pierce,LIU,False,20262027
+2026-11-20,Saint Anselm,Post,False,20262027
+2026-11-20,Assumption,Stonehill,False,20262027
+2026-11-20,Vermont,Connecticut,False,20262027
+2026-11-20,Penn State,Delaware,False,20262027
+2026-11-20,Northeastern,Maine,False,20262027
+2026-11-20,RIT,Syracuse,False,20262027
+2026-11-20,Robert Morris,Mercyhurst,False,20262027
+2026-11-20,Cornell,Colgate,False,20262027
+2026-11-20,Providence,Boston University,False,20262027
+2026-11-20,Clarkson,Princeton,False,20262027
+2026-11-20,Merrimack,Boston College,False,20262027
+2026-11-20,St. Lawrence,Quinnipiac,False,20262027
+2026-11-21,St. Cloud State,Ohio State,False,20262027
+2026-11-21,Vermont,Connecticut,False,20262027
+2026-11-21,Minnesota State,Minnesota Duluth,False,20262027
+2026-11-21,St. Thomas,Minnesota,False,20262027
+2026-11-21,Saint Anselm,Post,False,20262027
+2026-11-21,Stonehill,Assumption,False,20262027
+2026-11-21,Franklin Pierce,LIU,False,20262027
+2026-11-21,St. Michael's,Sacred Heart,False,20262027
+2026-11-21,Wisconsin,Bemidji State,False,20262027
+2026-11-21,Northeastern,Maine,False,20262027
+2026-11-21,Union,Yale,False,20262027
+2026-11-21,St. Lawrence,Princeton,False,20262027
+2026-11-21,RPI,Brown,False,20262027
+2026-11-21,Colgate,Cornell,False,20262027
+2026-11-21,Clarkson,Quinnipiac,False,20262027
+2026-11-21,RIT,Syracuse,False,20262027
+2026-11-21,Mercyhurst,Robert Morris,False,20262027
+2026-11-21,Boston University,Providence,False,20262027
+2026-11-22,RPI,Yale,False,20262027
+2026-11-22,Union,Brown,False,20262027
+2026-11-22,Wisconsin,Bemidji State,False,20262027
+2026-11-24,Syracuse,Clarkson,False,20262027
+2026-11-24,Princeton,Delaware,False,20262027
+2026-11-27,Bemidji State,Lindenwood,False,20262027
+2026-11-27,St. Thomas,Holy Cross,False,20262027
+2026-11-27,Stonehill,Delaware,False,20262027
+2026-11-27,Connecticut,Sacred Heart,False,20262027
+2026-11-27,Quinnipiac,Yale,False,20262027
+2026-11-27,Vermont,St. Cloud State,False,20262027
+2026-11-27,Penn State,Boston College,True,20262027
+2026-11-27,Cornell,Northeastern,False,20262027
+2026-11-27,Harvard,Dartmouth,False,20262027
+2026-11-27,Minnesota,Princeton,True,20262027
+2026-11-27,Merrimack,St. Lawrence,True,20262027
+2026-11-27,Mercyhurst,RIT,False,20262027
+2026-11-28,Quinnipiac,UConn/Sacred Heart,False,20262027
+2026-11-28,UCONN / Sacred Heart,Yale,True,20262027
+2026-11-28,St. Thomas,Holy Cross,False,20262027
+2026-11-28,Bemidji State,Lindenwood,False,20262027
+2026-11-28,Stonehill,Delaware,False,20262027
+2026-11-28,Vermont,St. Cloud State,False,20262027
+2026-11-28,Merrimack,St. Lawrence,True,20262027
+2026-11-28,Wisconsin,Union,False,20262027
+2026-11-28,Cornell,Northeastern,False,20262027
+2026-11-28,Clarkson,Syracuse,False,20262027
+2026-11-28,Yale / Quinnipiac,Connecticut,True,20262027
+2026-11-28,Dartmouth,Harvard,False,20262027
+2026-11-28,Providence,Brown,False,20262027
+2026-11-28,Minnesota,Penn State,True,20262027
+2026-11-28,Princeton,Boston College,True,20262027
+2026-11-28,Mercyhurst,RIT,False,20262027
+2026-11-29,Brown,Assumption,False,20262027
+2026-11-29,Wisconsin,Union,False,20262027
+2026-12-01,Union,RPI,False,20262027
+2026-12-02,LIU,Saint Anselm,False,20262027
+2026-12-03,LIU,Saint Anselm,False,20262027
+2026-12-04,Minnesota Duluth,St. Cloud State,False,20262027
+2026-12-04,Bemidji State,St. Thomas,False,20262027
+2026-12-04,Minnesota,Wisconsin,False,20262027
+2026-12-04,Ohio State,Minnesota State,False,20262027
+2026-12-04,Assumption,Robert Morris,False,20262027
+2026-12-04,Stonehill,Franklin Pierce,False,20262027
+2026-12-04,Northeastern,Boston College,False,20262027
+2026-12-04,Merrimack,Providence,False,20262027
+2026-12-04,Maine,New Hampshire,False,20262027
+2026-12-04,Holy Cross,Vermont,False,20262027
+2026-12-04,Post,Sacred Heart,False,20262027
+2026-12-04,Brown,Union,False,20262027
+2026-12-04,Boston University,Connecticut,False,20262027
+2026-12-04,Delaware,RIT,False,20262027
+2026-12-04,Penn State,Syracuse,False,20262027
+2026-12-04,Yale,RPI,False,20262027
+2026-12-04,Mercyhurst,Lindenwood,False,20262027
+2026-12-04,Dartmouth,Quinnipiac,False,20262027
+2026-12-04,Harvard,Princeton,False,20262027
+2026-12-04,Clarkson,Cornell,False,20262027
+2026-12-04,St. Lawrence,Colgate,False,20262027
+2026-12-05,Bemidji State,St. Thomas,False,20262027
+2026-12-05,Maine,New Hampshire,False,20262027
+2026-12-05,Minnesota Duluth,St. Cloud State,False,20262027
+2026-12-05,Minnesota,Wisconsin,False,20262027
+2026-12-05,Ohio State,Minnesota State,False,20262027
+2026-12-05,Assumption,Robert Morris,False,20262027
+2026-12-05,Sacred Heart,Post,False,20262027
+2026-12-05,Franklin Pierce,Stonehill,False,20262027
+2026-12-05,Boston College,Northeastern,False,20262027
+2026-12-05,Holy Cross,Vermont,False,20262027
+2026-12-05,Providence,Merrimack,False,20262027
+2026-12-05,Clarkson,Colgate,False,20262027
+2026-12-05,Yale,Union,False,20262027
+2026-12-05,St. Lawrence,Cornell,False,20262027
+2026-12-05,Dartmouth,Princeton,False,20262027
+2026-12-05,Harvard,Quinnipiac,False,20262027
+2026-12-05,Brown,RPI,False,20262027
+2026-12-05,Delaware,RIT,False,20262027
+2026-12-05,Mercyhurst,Lindenwood,False,20262027
+2026-12-05,Penn State,Syracuse,False,20262027
+2026-12-05,Connecticut,Boston University,False,20262027
+2026-12-09,Princeton,Penn State,False,20262027
+2026-12-09,Boston University,Brown,False,20262027
+2026-12-10,Saint Anselm,Maine,False,20262027
+2026-12-11,Vermont,Dartmouth,False,20262027
+2026-12-11,Saint Anselm,Maine,False,20262027
+2026-12-11,Wisconsin,Minnesota Duluth,False,20262027
+2026-12-11,Minnesota,Minnesota State,False,20262027
+2026-12-12,Dartmouth,Vermont,False,20262027
+2026-12-12,Wisconsin,Minnesota Duluth,False,20262027
+2026-12-12,Minnesota State,Minnesota,False,20262027
+2026-12-31,Boston College,Bemidji State,False,20262027
+2027-01-01,Sacred Heart,Brown,False,20262027
+2027-01-01,Boston College,Bemidji State,False,20262027
+2027-01-01,Providence,St. Thomas,False,20262027
+2027-01-01,New Hampshire,RIT,False,20262027
+2027-01-01,Yale,Ohio State,False,20262027
+2027-01-01,Dartmouth,Maine,False,20262027
+2027-01-01,Syracuse,Union,False,20262027
+2027-01-01,Mercyhurst,Colgate,False,20262027
+2027-01-01,Penn State,Cornell,False,20262027
+2027-01-02,Providence,St. Thomas,False,20262027
+2027-01-02,Boston College,Bemidji State,False,20262027
+2027-01-02,Merrimack,Brown,False,20262027
+2027-01-02,New Hampshire,RIT,False,20262027
+2027-01-02,Yale,Ohio State,False,20262027
+2027-01-02,Minnesota Duluth,Quinnipiac,False,20262027
+2027-01-02,Dartmouth,Saint Anselm,False,20262027
+2027-01-02,Union,Syracuse,False,20262027
+2027-01-02,Lindenwood,Minnesota State,False,20262027
+2027-01-02,Mercyhurst,Colgate,False,20262027
+2027-01-02,Penn State,Cornell,False,20262027
+2027-01-02,Harvard,LIU,False,20262027
+2027-01-03,Lindenwood,Minnesota State,False,20262027
+2027-01-03,Harvard,LIU,False,20262027
+2027-01-03,Minnesota Duluth,Quinnipiac,False,20262027
+2027-01-05,Yale,Northeastern,False,20262027
+2027-01-05,Brown,Boston University,False,20262027
+2027-01-05,Colgate,Syracuse,False,20262027
+2027-01-05,Delaware,Princeton,False,20262027
+2027-01-06,Penn State,Princeton,False,20262027
+2027-01-08,Vermont,Merrimack,False,20262027
+2027-01-08,St. Cloud State,Minnesota State,False,20262027
+2027-01-08,Minnesota,Bemidji State,False,20262027
+2027-01-08,Minnesota Duluth,Ohio State,False,20262027
+2027-01-08,Northeastern,Providence,False,20262027
+2027-01-08,Connecticut,Maine,False,20262027
+2027-01-08,Boston College,Holy Cross,False,20262027
+2027-01-08,Boston University,New Hampshire,False,20262027
+2027-01-08,St. Thomas,Wisconsin,False,20262027
+2027-01-08,Harvard,Colgate,False,20262027
+2027-01-08,RIT,Robert Morris,False,20262027
+2027-01-08,Syracuse,Mercyhurst,False,20262027
+2027-01-08,Lindenwood,Delaware,False,20262027
+2027-01-08,Brown,Clarkson,False,20262027
+2027-01-08,Quinnipiac,RPI,False,20262027
+2027-01-08,Yale,St. Lawrence,False,20262027
+2027-01-08,Dartmouth,Cornell,False,20262027
+2027-01-08,Princeton,Union,False,20262027
+2027-01-09,Minnesota,Bemidji State,False,20262027
+2027-01-09,Minnesota Duluth,Ohio State,False,20262027
+2027-01-09,St. Cloud State,Minnesota State,False,20262027
+2027-01-09,Connecticut,Maine,False,20262027
+2027-01-09,Vermont,Merrimack,False,20262027
+2027-01-09,Quinnipiac,Union,False,20262027
+2027-01-09,Dartmouth,Colgate,False,20262027
+2027-01-09,Yale,Clarkson,False,20262027
+2027-01-09,Harvard,Cornell,False,20262027
+2027-01-09,St. Thomas,Wisconsin,False,20262027
+2027-01-09,Lindenwood,Delaware,False,20262027
+2027-01-09,Syracuse,Mercyhurst,False,20262027
+2027-01-09,RIT,Robert Morris,False,20262027
+2027-01-09,Brown,St. Lawrence,False,20262027
+2027-01-09,Princeton,RPI,False,20262027
+2027-01-12,Union,St. Michael's,False,20262027
+2027-01-12,Northeastern,Harvard,True,20262027
+2027-01-12,Boston College,Boston University,False,20262027
+2027-01-14,Quinnipiac,Princeton,False,20262027
+2027-01-15,Merrimack,Connecticut,False,20262027
+2027-01-15,Minnesota,Minnesota Duluth,False,20262027
+2027-01-15,Bemidji State,Ohio State,False,20262027
+2027-01-15,Minnesota State,Wisconsin,False,20262027
+2027-01-15,St. Cloud State,St. Thomas,False,20262027
+2027-01-15,Maine,Vermont,False,20262027
+2027-01-15,Dartmouth,Union,False,20262027
+2027-01-15,Clarkson,St. Lawrence,False,20262027
+2027-01-15,Cornell,Brown,False,20262027
+2027-01-15,Harvard,RPI,False,20262027
+2027-01-15,Delaware,Syracuse,False,20262027
+2027-01-15,Lindenwood,RIT,False,20262027
+2027-01-15,Robert Morris,Penn State,False,20262027
+2027-01-15,Colgate,Yale,False,20262027
+2027-01-16,Minnesota State,Wisconsin,False,20262027
+2027-01-16,Holy Cross,Boston University,False,20262027
+2027-01-16,Providence,Boston College,False,20262027
+2027-01-16,New Hampshire,Northeastern,False,20262027
+2027-01-16,Minnesota,Minnesota Duluth,False,20262027
+2027-01-16,Bemidji State,Ohio State,False,20262027
+2027-01-16,St. Cloud State,St. Thomas,False,20262027
+2027-01-16,Connecticut,Merrimack,False,20262027
+2027-01-16,Maine,Vermont,False,20262027
+2027-01-16,Colgate,Brown,False,20262027
+2027-01-16,Cornell,Yale,False,20262027
+2027-01-16,St. Lawrence,Clarkson,False,20262027
+2027-01-16,Harvard,Union,False,20262027
+2027-01-16,Dartmouth,RPI,False,20262027
+2027-01-16,Robert Morris,Penn State,False,20262027
+2027-01-16,Delaware,Syracuse,False,20262027
+2027-01-16,Lindenwood,RIT,False,20262027
+2027-01-16,Princeton,Quinnipiac,False,20262027
+2027-01-19,Providence,Yale,False,20262027
+2027-01-19,BU / BC,Northeastern,True,20262027
+2027-01-20,Providence,Yale,False,20262027
+2027-01-21,Wisconsin,St. Cloud State,False,20262027
+2027-01-22,Connecticut,Northeastern,False,20262027
+2027-01-22,St. Thomas,Bemidji State,False,20262027
+2027-01-22,Wisconsin,St. Cloud State,False,20262027
+2027-01-22,Minnesota Duluth,Minnesota State,False,20262027
+2027-01-22,Ohio State,Minnesota,False,20262027
+2027-01-22,Vermont,Boston University,False,20262027
+2027-01-22,Providence,Holy Cross,False,20262027
+2027-01-22,Boston College,New Hampshire,False,20262027
+2027-01-22,Yale,Brown,False,20262027
+2027-01-22,Princeton,Dartmouth,False,20262027
+2027-01-22,Quinnipiac,Harvard,False,20262027
+2027-01-22,Colgate,Clarkson,False,20262027
+2027-01-22,Cornell,St. Lawrence,False,20262027
+2027-01-22,Penn State,Mercyhurst,False,20262027
+2027-01-22,Syracuse,Lindenwood,False,20262027
+2027-01-22,Robert Morris,Delaware,False,20262027
+2027-01-22,Merrimack,Maine,False,20262027
+2027-01-23,Holy Cross,Providence,False,20262027
+2027-01-23,Minnesota Duluth,Minnesota State,False,20262027
+2027-01-23,St. Thomas,Bemidji State,False,20262027
+2027-01-23,Ohio State,Minnesota,False,20262027
+2027-01-23,Wisconsin,St. Cloud State,False,20262027
+2027-01-23,Union,RPI,True,20262027
+2027-01-23,Northeastern,Connecticut,False,20262027
+2027-01-23,New Hampshire,Boston College,False,20262027
+2027-01-23,Vermont,Boston University,False,20262027
+2027-01-23,Quinnipiac,Dartmouth,False,20262027
+2027-01-23,Merrimack,Maine,False,20262027
+2027-01-23,Syracuse,Lindenwood,False,20262027
+2027-01-23,Robert Morris,Delaware,False,20262027
+2027-01-23,Brown,Yale,False,20262027
+2027-01-23,Penn State,Mercyhurst,False,20262027
+2027-01-23,Colgate,St. Lawrence,False,20262027
+2027-01-23,Princeton,Harvard,False,20262027
+2027-01-23,Cornell,Clarkson,False,20262027
+2027-01-29,Minnesota,St. Thomas,False,20262027
+2027-01-29,Boston University,Merrimack,False,20262027
+2027-01-29,St. Cloud State,Minnesota Duluth,False,20262027
+2027-01-29,Minnesota State,Ohio State,False,20262027
+2027-01-29,Bemidji State,Wisconsin,False,20262027
+2027-01-29,Providence,Vermont,False,20262027
+2027-01-29,Holy Cross,Northeastern,False,20262027
+2027-01-29,New Hampshire,Connecticut,False,20262027
+2027-01-29,Maine,Boston College,False,20262027
+2027-01-29,Clarkson,Dartmouth,False,20262027
+2027-01-29,Yale,Princeton,False,20262027
+2027-01-29,St. Lawrence,Harvard,False,20262027
+2027-01-29,Union,Colgate,False,20262027
+2027-01-29,RPI,Cornell,False,20262027
+2027-01-29,Mercyhurst,Robert Morris,False,20262027
+2027-01-29,Delaware,Penn State,False,20262027
+2027-01-29,RIT,Syracuse,False,20262027
+2027-01-29,Brown,Quinnipiac,False,20262027
+2027-01-30,Maine,Boston College,False,20262027
+2027-01-30,Merrimack,Boston University,False,20262027
+2027-01-30,St. Cloud State,Minnesota Duluth,False,20262027
+2027-01-30,Bemidji State,Wisconsin,False,20262027
+2027-01-30,Minnesota,St. Thomas,False,20262027
+2027-01-30,Connecticut,New Hampshire,False,20262027
+2027-01-30,Northeastern,Holy Cross,False,20262027
+2027-01-30,Providence,Vermont,False,20262027
+2027-01-30,Yale,Quinnipiac,False,20262027
+2027-01-30,Brown,Princeton,False,20262027
+2027-01-30,Clarkson,Harvard,False,20262027
+2027-01-30,St. Lawrence,Dartmouth,False,20262027
+2027-01-30,RPI,Colgate,False,20262027
+2027-01-30,Robert Morris,Mercyhurst,False,20262027
+2027-01-30,Delaware,Penn State,False,20262027
+2027-01-30,Syracuse,RIT,False,20262027
+2027-01-30,Minnesota State,Ohio State,False,20262027
+2027-01-30,Union,Cornell,False,20262027
+2027-02-04,Vermont,Holy Cross,False,20262027
+2027-02-04,Wisconsin,Minnesota,False,20262027
+2027-02-04,Maine,Connecticut,False,20262027
+2027-02-04,Northeastern,New Hampshire,False,20262027
+2027-02-05,Mercyhurst,Delaware,False,20262027
+2027-02-05,Ohio State,St. Cloud State,False,20262027
+2027-02-05,Minnesota State,St. Thomas,False,20262027
+2027-02-05,Minnesota Duluth,Bemidji State,False,20262027
+2027-02-05,Merrimack,Providence,False,20262027
+2027-02-05,Boston University,Boston College,False,20262027
+2027-02-05,Harvard,Yale,False,20262027
+2027-02-05,Wisconsin,Minnesota,False,20262027
+2027-02-05,Colgate,Quinnipiac,False,20262027
+2027-02-05,Dartmouth,Brown,False,20262027
+2027-02-05,St. Lawrence,RPI,False,20262027
+2027-02-05,Clarkson,Union,False,20262027
+2027-02-05,Penn State,RIT,False,20262027
+2027-02-05,Robert Morris,Lindenwood,False,20262027
+2027-02-05,Cornell,Princeton,False,20262027
+2027-02-06,Connecticut,New Hampshire,False,20262027
+2027-02-06,Minnesota Duluth,Bemidji State,False,20262027
+2027-02-06,St. Thomas,Minnesota State,False,20262027
+2027-02-06,Wisconsin,Minnesota,False,20262027
+2027-02-06,Ohio State,St. Cloud State,False,20262027
+2027-02-06,Boston College,Merrimack,False,20262027
+2027-02-06,Vermont,Maine,False,20262027
+2027-02-06,Holy Cross,Northeastern,False,20262027
+2027-02-06,Providence,Boston University,False,20262027
+2027-02-06,Cornell,Quinnipiac,False,20262027
+2027-02-06,Harvard,Brown,False,20262027
+2027-02-06,Colgate,Princeton,False,20262027
+2027-02-06,Dartmouth,Yale,False,20262027
+2027-02-06,Robert Morris,Lindenwood,False,20262027
+2027-02-06,Mercyhurst,Delaware,False,20262027
+2027-02-06,Penn State,RIT,False,20262027
+2027-02-06,Clarkson,RPI,False,20262027
+2027-02-06,St. Lawrence,Union,False,20262027
+2027-02-12,Ohio State,St. Thomas,False,20262027
+2027-02-12,New Hampshire,Merrimack,False,20262027
+2027-02-12,Minnesota State,Minnesota,False,20262027
+2027-02-12,Bemidji State,St. Cloud State,False,20262027
+2027-02-12,Minnesota Duluth,Wisconsin,False,20262027
+2027-02-12,Boston College,Providence,False,20262027
+2027-02-12,Boston University,Northeastern,False,20262027
+2027-02-12,Holy Cross,Maine,False,20262027
+2027-02-12,Connecticut,Vermont,False,20262027
+2027-02-12,Brown,Colgate,False,20262027
+2027-02-12,Princeton,St. Lawrence,False,20262027
+2027-02-12,Union,Harvard,False,20262027
+2027-02-12,Yale,Cornell,False,20262027
+2027-02-12,Quinnipiac,Clarkson,False,20262027
+2027-02-12,RIT,Mercyhurst,False,20262027
+2027-02-12,Lindenwood,Penn State,False,20262027
+2027-02-12,Syracuse,Robert Morris,False,20262027
+2027-02-12,RPI,Dartmouth,False,20262027
+2027-02-13,Providence,Maine,False,20262027
+2027-02-13,Northeastern,Boston College,False,20262027
+2027-02-13,Bemidji State,St. Cloud State,False,20262027
+2027-02-13,Minnesota Duluth,Wisconsin,False,20262027
+2027-02-13,Minnesota,Minnesota State,False,20262027
+2027-02-13,Merrimack,Vermont,False,20262027
+2027-02-13,Ohio State,St. Thomas,False,20262027
+2027-02-13,Holy Cross,Connecticut,False,20262027
+2027-02-13,New Hampshire,Boston University,False,20262027
+2027-02-13,Brown,Cornell,False,20262027
+2027-02-13,RPI,Harvard,False,20262027
+2027-02-13,Yale,Colgate,False,20262027
+2027-02-13,Union,Dartmouth,False,20262027
+2027-02-13,Quinnipiac,St. Lawrence,False,20262027
+2027-02-13,Lindenwood,Penn State,False,20262027
+2027-02-13,RIT,Mercyhurst,False,20262027
+2027-02-13,Syracuse,Robert Morris,False,20262027
+2027-02-13,Princeton,Clarkson,False,20262027
+2027-02-18,Wisconsin,Ohio State,False,20262027
+2027-02-18,Merrimack,Boston University,False,20262027
+2027-02-18,New Hampshire,Holy Cross,False,20262027
+2027-02-18,Connecticut,Boston College,False,20262027
+2027-02-18,Vermont,Providence,False,20262027
+2027-02-18,Maine,Northeastern,False,20262027
+2027-02-19,Wisconsin,Ohio State,False,20262027
+2027-02-19,St. Thomas,Minnesota Duluth,False,20262027
+2027-02-19,Minnesota State,Bemidji State,False,20262027
+2027-02-19,St. Cloud State,Minnesota,False,20262027
+2027-02-20,St. Thomas,Minnesota Duluth,False,20262027
+2027-02-20,Boston University,Vermont,False,20262027
+2027-02-20,Northeastern,Connecticut,False,20262027
+2027-02-20,Providence,New Hampshire,False,20262027
+2027-02-20,Boston College,Holy Cross,False,20262027
+2027-02-20,Maine,Merrimack,False,20262027
+2027-02-20,Wisconsin,Ohio State,False,20262027
+2027-02-20,Minnesota State,Bemidji State,False,20262027
+2027-02-20,Minnesota,St. Cloud State,False,20262027

@@ -1,0 +1,965 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Fri.,2026-09-25,7 AT,Mount Royal,,@,Alaska Anchorage,,,,ex,False,False,True,False,20262027
+Fri.,2026-09-25,7:07 AT,University of Mary,,@,Alaska,,,,ex,False,False,True,False,20262027
+Sat.,2026-09-26,7:07 AT,Mount Royal,,@,Alaska,,,,ex,False,False,True,False,20262027
+Sat.,2026-09-26,7 AT,University of Mary,,@,Alaska Anchorage,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,TBA,RIT,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-02,7:30 ET,Lake Superior,,@,Windsor,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,TBA,RPI,,@,Army,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,,Merrimack,,@,Sacred Heart,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,7:05 MT,Omaha,,@,Air Force,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,6:00,Colgate,,@,Union,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,7 ET,Stonehill,,@,Providence,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-02,7:00 ET,Ferris State,,@,Canisius,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,,Maine,,@,Holy Cross,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,TBA,Robert Morris,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,TBA,Bowling Green,,@,Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:07 ET,Minnesota,,@,Michigan Tech,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:07 ET,Miami,,@,Northern Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:07 AT,Boston University,,@,Alaska,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:00 CT,Arizona State,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,TBA,Denver,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,6:00,mvl,,@,St. Lawrence,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,TBA,New Hampshire,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:07 CT,LIU,,@,Minnesota Duluth,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-02,7:00 MT,Massachusetts,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,5:05 ET,Niagara,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-03,3:00 ET,Lake Superior,,@,Windsor,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,TBA,carleton,,@,Bentley,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,4:00,Ottawa,,@,Clarkson,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,5:00,mvl,,@,St. Lawrence,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,6:00 ET,Western Ontario,,@,Western Michigan,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,6:07 CT,Augustana,,@,North Dakota,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-03,6:00 ET,Ferris State,,@,Canisius,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,TBA,Union,,@,Army,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,,Maine,,@,Holy Cross,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,TBA,Robert Morris,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,6:07 ET,Minnesota,,@,Michigan Tech,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,6:07 ET,Michigan,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,TBA,St. Cloud State,,@,Bemidji State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,6:07 ET,Miami,,@,Northern Michigan,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,7:07 AT,Boston University,,@,Alaska,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,5:00 CT,Arizona State,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,TBA,Denver,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,TBA,Merrimack,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,6:07 CT,LIU,,@,Minnesota Duluth,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-03,6:00 MT,Massachusetts,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Sun.,2026-10-04,2:00 ET,Carleton,,@,Sacred Heart,,,,ex,False,False,True,False,20262027
+Sun.,2026-10-04,3:07 CT,Manitoba,,@,North Dakota,,,,ex,False,False,True,False,20262027
+Wed.,2026-10-07,6:30 CT,Manitoba,,@,Omaha,,,,ex,False,False,True,False,20262027
+Thu.,2026-10-08,,New Hampshire,,@,Merrimack,,,,he,False,False,False,False,20262027
+Thu.,2026-10-08,TBA,Niagara,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-08,7:00 CT,Lake Superior,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-08,7:00 ET,Ferris State,,@,Western Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00 MT,USNTDP,,@,Colorado College,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-09,,Penn State,,@,Connecticut,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,Bowling Green,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,,Vermont,,@,Bentley,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,Niagara,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,Northern Michigan,,@,Michigan State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA AT,Alaska Anchorage,,@,Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:07 CT,Wisconsin,,@,Minnesota State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:07 CT,North Dakota,,@,Bemidji State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:07 CT,Minnesota Duluth,,@,Augustana,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00 ET,Western Michigan,,@,Ferris State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:30 ET,Canisius,,@,LIU,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00 CT,Lake Superior,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7 ET,Colgate,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00,Ohio State,,@,RPI,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,,RIT,,@,Massachusetts,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,3 AT,Alaska,,@,Boston College,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,St. Lawrence,,@,Providence,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00 ET,Quinnipiac,,@,Maine,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00,Clarkson,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,7:00 CT,Air Force,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,Holy Cross,,@,Arizona State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-09,TBA,Michigan Tech,,@,St. Cloud State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,6:00 MT,USNTDP,,@,Denver,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-10,,Bowling Green,,@,Connecticut,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,Penn State,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,Northeastern,,@,Bentley,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,Northern Michigan,,@,Michigan State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA AT,Alaska Anchorage,,@,Michigan,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,6:07 CT,Wisconsin,,@,Minnesota State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,6:07 CT,Minnesota Duluth,,@,Augustana,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,7:30 ET,Canisius,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,7 ET,Colgate,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,7:00,Ohio State,,@,RPI,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,3 AT,Alaska,,@,Union,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,,RIT,,@,Massachusetts,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,7:00 ET,Quinnipiac,,@,Maine,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,,Clarkson,,@,Providence,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,St. Lawrence,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,Holy Cross,,@,Arizona State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,6:00 CT,Air Force,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,6:07 CT,Bemidji State,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-10,TBA,Michigan Tech,,@,St. Cloud State,,,,nc,False,False,False,False,20262027
+Sun.,2026-10-11,2:00 ET,Royal Military of Canada,,@,Army,,,,ex,False,False,True,False,20262027
+Thu.,2026-10-15,TBA CT,Lindenwood,,@,Air Force,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-15,TBA,Omaha,,@,Augustana,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-15,TBA,St. Cloud State,,@,Boston College,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-15,7:00 ET,Robert Morris,,@,Miami,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00 ET,Boston University,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2026-10-16,,Northeastern,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2026-10-16,TBA,Ohio State,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,TBA CT,Lindenwood,,@,Air Force,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,TBA,Quinnipiac,,@,Penn State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:07 ET,Niagara,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7 ET,Stonehill,,@,Northern Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,3:07 AT,Alaska,,@,Michigan Tech,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,TBA,Lake Superior,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00,Canisius,,@,Clarkson,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7 ET,LIU,,@,RPI,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00 ET,Providence,,@,Union,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,,New Hampshire,,@,Colgate,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,,Minnesota State,,@,Merrimack,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00 ET,Colorado College,,@,Connecticut,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:15 ET,Arizona State,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:07 CT,Bentley,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00 ET,Notre Dame,,@,Western Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:07 CT,Minnesota,,@,Minnesota Duluth,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-16,7:00 MT,Michigan,,@,Denver,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,TBA,Army,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-17,7:00,mvl,,@,Princeton,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-17,7:00,Waterloo,,@,Cornell,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-17,7:00,Dartmouth,,@,Norwich,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-17,7:00 ET,Boston University,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2026-10-17,TBA,Ohio State,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,7:05 ET,Michigan State,,@,RIT,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,7:00 ET,Miami,,@,Robert Morris,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,TBA,Western Michigan,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:07 ET,Niagara,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6 ET,Stonehill,,@,Northern Michigan,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,2:07 AT,Alaska,,@,Michigan Tech,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,3 AT,Lake Superior,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,4:00,Canisius,,@,Clarkson,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,7 ET,LIU,,@,RPI,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,,New Hampshire,,@,Colgate,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,,Minnesota State,,@,Merrimack,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,,Northeastern,,@,Massachusetts,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,5:00 ET,Colorado College,,@,Connecticut,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,TBA,St. Cloud State,,@,Boston College,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:05 ET,Arizona State,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:07 CT,Bentley,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:00 MT,Michigan,,@,Denver,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:07 CT,Minnesota,,@,Minnesota Duluth,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-17,6:00 CT,Augustana,,@,Omaha,,,,nc,False,False,False,False,20262027
+Sun.,2026-10-18,TBA,Army,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Tue.,2026-10-20,7:00 ET,Robert Morris,,@,Penn State,,,,nc,False,False,False,False,20262027
+Tue.,2026-10-20,7 ET,LIU,,@,St. Lawrence,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-22,TBA,North Dakota,,@,Minnesota,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Robert Morris,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Sacred Heart,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-23,7:07 ET,Michigan Tech,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-10-23,7:07 ET,Bowling Green,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2026-10-23,,Northeastern,,@,Harvard,,,,ex,False,False,True,False,20262027
+Fri.,2026-10-23,,Boston University,,@,Connecticut,,,,he,False,False,False,False,20262027
+Fri.,2026-10-23,7:15 ET,Providence,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Union,,@,Niagara,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:05,RPI,,@,RIT,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Canisius,,@,Penn State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Augustana,,@,Ohio State,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,,Merrimack,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Western Michigan,,@,Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,North Dakota,,@,Minnesota,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 CT,Omaha,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,TBA,Army,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 ET,Colgate,,@,Maine,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 ET,Clarkson,,@,Vermont,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 MT,Air Force,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 CT,Minnesota State,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 CT,Bemidji State,,@,Minnesota Duluth,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,3 AT,Alaska Anchorage,,@,Miami,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-23,7:00 MT,Boston College,,@,Denver,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,TBA,Holy Cross,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-24,6:00,Robert Morris,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-24,6:07 ET,Bowling Green,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2026-10-24,6:07 ET,Michigan Tech,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-10-24,7:00 ET,USNTDP,,@,Army,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-24,6:00 ET,Wisconsin,,@,Western Michigan,,,,ex,False,False,True,False,20262027
+Sat.,2026-10-24,TBA,Union,,@,Niagara,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7:05,RPI,,@,RIT,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7:00 MT,Colorado College,,@,Air Force,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,TBA,Canisius,,@,Penn State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,TBA,Augustana,,@,Ohio State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,,Merrimack,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,6:00 CT,St. Thomas,,@,Minnesota State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,6:00 CT,Minnesota Duluth,,@,Bemidji State,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7:00 CT,Omaha,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7:00 ET,Michigan State,,@,New Hampshire,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7 ET,Stonehill,,@,Massachusetts,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,7:00 ET,Colgate,,@,Maine,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,2 AT,Alaska Anchorage,,@,Miami,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-24,6:00 MT,Boston College,,@,Denver,,,,nc,False,False,False,False,20262027
+Sun.,2026-10-25,4:00 ET,Vermont,,@,Clarkson,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-29,,Massachusetts,,@,Harvard,,,,nc,False,False,False,False,20262027
+Thu.,2026-10-29,7:00 ET,LIU,,@,Western Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,7:05 ET,RIT,,@,Army,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-30,7:00 ET,Air Force,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-30,TBA,Bentley,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Fri.,2026-10-30,7:07 CT,Northern Michigan,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2026-10-30,7:07 CT,Ferris State,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-10-30,7:07 CT,Lake Superior,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-10-30,7:00,Union,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2026-10-30,7:00,Brown,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2026-10-30,7:00 ET,New Hampshire,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2026-10-30,7:00 MT,Minnesota Duluth,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Fri.,2026-10-30,7:05 ET,St. Thomas,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2026-10-30,TBA,Arizona State,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2026-10-30,7:00 MT,Omaha,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2026-10-30,7 ET,Princeton,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,7:00,Sacred Heart,,@,Cornell,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,7:00,Niagara,,@,Clarkson,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,7:30,UMass Lowell,,@,Colgate,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,,Harvard,,@,Massachusetts,,,,nc,False,False,False,False,20262027
+Fri.,2026-10-30,7:00 ET,LIU,,@,Western Michigan,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,TBA,Holy Cross,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-31,7:00 ET,Air Force,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-31,4:05 ET,RIT,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2026-10-31,6:07 CT,Lake Superior,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-10-31,6:07 CT,Northern Michigan,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2026-10-31,6:07 CT,Ferris State,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-10-31,5:00,RPI,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2026-10-31,,Connecticut,,@,Merrimack,,,,he,False,False,False,False,20262027
+Sat.,2026-10-31,,Boston College,,@,Northeastern,,,,he,False,False,False,False,20262027
+Sat.,2026-10-31,4:00 ET,New Hampshire,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2026-10-31,7:30 ET,St. Thomas,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2026-10-31,TBA,Arizona State,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2026-10-31,6:00 MT,Omaha,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2026-10-31,7:00 MT,Minnesota Duluth,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2026-10-31,7:07 CT,North Dakota,,vs,Michigan State,,,,nc,False,True,False,False,20262027
+Sat.,2026-10-31,7 ET,Princeton,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,4:00,Niagara,,@,Clarkson,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,7:00,Sacred Heart,,@,Cornell,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,3 AT,Alaska,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,,Providence,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Sat.,2026-10-31,7:30,UMass Lowell,,@,Colgate,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-01,11 AT,Alaska,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Thu.,2026-11-05,,Connecticut,,@,Providence,,,,he,False,False,False,False,20262027
+Thu.,2026-11-05,7:07 ET,mvl,,@,Lake Superior,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,TBA,RIT,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-06,TBA,Canisius,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-06,7:05 MT,Army,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-06,7:07 ET,Minnesota State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-06,7:07 ET,Bemidji State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-06,7:07 ET,Augustana,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,RPI,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,Union,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,Brown,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,Princeton,,@,Colgate,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,Quinnipiac,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00,Yale,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-06,7:00 ET,Massachusetts,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2026-11-06,7:00 ET,Vermont,,@,Boston College,,,,he,False,False,False,False,20262027
+Fri.,2026-11-06,7:15 ET,New Hampshire,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2026-11-06,7:00 CT,St. Cloud State,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-06,7:07 CT,Western Michigan,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-06,TBA,Denver,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-06,7:07 CT,Miami,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-06,,Boston University,,@,Michigan State,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,6:07 ET,mvl,,@,Lake Superior,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,7:30 ET,Robert Morris,,@,LIU,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,3 AT,Alaska,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,TBA,Holy Cross,,@,Merrimack,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,7:00 MT,Lindenwood,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-06,4 AT,Alaska Anchorage,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,TBA,RIT,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-07,TBA,Canisius,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-07,5:05 MT,Army,,@,Air Force,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 ET,Augustana,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 ET,Bemidji State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 ET,Minnesota State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,Yale,,@,Harvard,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,Quinnipiac,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,Union,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,Brown,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,RPI,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,7:00,Princeton,,@,Cornell,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 ET,mvl,,@,Ferris State,,,,ex,False,False,True,False,20262027
+Sat.,2026-11-07,,Providence,,@,Connecticut,,,,he,False,False,False,False,20262027
+Sat.,2026-11-07,7:00 ET,Massachusetts,,@,Maine,,,,he,False,False,False,False,20262027
+Sat.,2026-11-07,7:00 ET,UMass Lowell,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2026-11-07,7:00 CT,St. Cloud State,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 CT,Miami,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-07,6:07 CT,Western Michigan,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-07,,Northeastern,,@,Holy Cross,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,,Boston University,,@,Michigan State,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,7:30 ET,Robert Morris,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,3 AT,Alaska,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,3 AT,Alaska Anchorage,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-07,4:00 MT,Lindenwood,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-08,12:00,Denver,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Tue.,2026-11-10,,Harvard,,@,Boston University,,,,nc,False,False,False,False,20262027
+Thu.,2026-11-12,7:05 MT,Bentley,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-13,TBA,Holy Cross,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-13,7:00 ET,Sacred Heart,,@,Army,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-13,7:05 MT,Bentley,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-13,7:07 CT,Ferris State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-13,7:07 CT,Minnesota State,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-13,7:07 ET,Lake Superior,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-13,7:07 ET,Bowling Green,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-13,TBA,Dartmouth,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-13,7:00,Cornell,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-13,7:00,Colgate,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-13,7:00,Harvard,,@,Princeton,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-13,,Merrimack,,@,Providence,,,,he,False,False,False,False,20262027
+Fri.,2026-11-13,7:00 ET,Maine,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2026-11-13,,Connecticut,,@,Northeastern,,,,he,False,False,False,False,20262027
+Fri.,2026-11-13,,Boston College,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2026-11-13,7:05 ET,Omaha,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-13,TBD,Minnesota Duluth,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-13,7:00 CT,North Dakota,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-13,7:00 ET,Colorado College,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-13,TBA AT,Alaska Anchorage,,@,Minnesota,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-13,7:00,RPI,,@,New Hampshire,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-13,TBA,Union,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-13,7:00 MT,Lindenwood,,@,Denver,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-14,TBA,Holy Cross,,@,Niagara,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-14,5:05 ET,Canisius,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-14,7:00 ET,Sacred Heart,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-14,6:07 CT,Ferris State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-14,6:07 CT,Minnesota State,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-14,6:07 ET,Lake Superior,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-14,6:07 ET,Bowling Green,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-14,7:00,Dartmouth,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-14,7:00,Cornell,,@,Yale,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-14,6:00,Colgate,,@,Brown,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-14,TBA,Harvard,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-14,,Providence,,@,Merrimack,,,,he,False,False,False,False,20262027
+Sat.,2026-11-14,3:00 ET,Northeastern,,@,Connecticut,,,,he,False,False,False,False,20262027
+Sat.,2026-11-14,5:00 ET,Maine,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2026-11-14,7:00 ET,Massachusetts,,@,Boston College,,,,he,False,False,False,False,20262027
+Sat.,2026-11-14,TBD,Minnesota Duluth,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-14,6:00 CT,North Dakota,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-14,6:00 ET,Colorado College,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-14,6:05 ET,Omaha,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-14,TBA AT,Alaska Anchorage,,@,Minnesota,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-14,7:00 ET,Union,,@,New Hampshire,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-14,4:05,RPI,,@,UMass Lowell,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-14,6:00 MT,Lindenwood,,@,Denver,,,,nc,False,False,False,False,20262027
+Wed.,2026-11-18,,Quinnipiac,,@,Boston University,,,,nc,False,False,False,False,20262027
+Thu.,2026-11-19,,Providence,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Thu.,2026-11-19,7 ET,Northeastern,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-20,TBA,Canisius,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-20,TBA,Robert Morris,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 CT,Michigan Tech,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 ET,Augustana,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 ET,Bemidji State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 ET,Northern Michigan,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-11-20,7:00,Clarkson,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-20,7:00,St. Lawrence,,@,Colgate,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-20,7:00,Brown,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-20,7:00,Yale,,@,Union,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-20,,New Hampshire,,@,Connecticut,,,,he,False,False,False,False,20262027
+Fri.,2026-11-20,7:00 ET,Boston College,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2026-11-20,7:15 ET,Vermont,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 CT,St. Cloud State,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-20,7:00 CT,Western Michigan,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-20,7:00 MT,Miami,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-20,7:00 MT,St. Thomas,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 CT,Arizona State,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Fri.,2026-11-20,7:07 AT,Alaska Anchorage,,@,Alaska,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-20,TBA ET,LIU,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-20,7 ET,Northeastern,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-21,5:00,Robert Morris,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-21,7:00 ET,Niagara,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-21,6:07 CT,Michigan Tech,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-21,6:07 ET,Augustana,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-21,6:07 ET,Bemidji State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-21,6:07 ET,Northern Michigan,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-11-21,7:00,Yale,,@,RPI,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-21,7:00,Brown,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-21,7:00,St. Lawrence,,@,Cornell,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-21,7:30,Clarkson,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2026-11-21,,Massachusetts,,@,Providence,,,,he,False,False,False,False,20262027
+Sat.,2026-11-21,7:00 ET,Boston College,,@,Maine,,,,he,False,False,False,False,20262027
+Sat.,2026-11-21,7:00 ET,Connecticut,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2026-11-21,6:05 ET,Vermont,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Sat.,2026-11-21,7:00 CT,Western Michigan,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-21,6:07 CT,St. Cloud State,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-21,6:00 MT,St. Thomas,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-21,6:00 MT,Miami,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-21,5:07 CT,Arizona State,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2026-11-21,TBA ET,LIU,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-21,7:07 AT,Alaska Anchorage,,@,Alaska,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-21,7:00,Air Force,,@,Princeton,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-21,TBA,Holy Cross,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-22,4:00,Air Force,,@,Princeton,,,,nc,False,False,False,False,20262027
+Tue.,2026-11-24,TBA,Canisius,,@,Niagara,,,,ah,False,False,False,False,20262027
+Tue.,2026-11-24,TBA,Bentley,,@,Harvard,,,,nc,False,False,False,False,20262027
+Tue.,2026-11-24,,Northeastern,,@,Brown,,,,nc,False,False,False,False,20262027
+Wed.,2026-11-25,TBA,Bowling Green,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Wed.,2026-11-25,6:00 CT,St. Thomas,,@,Bemidji State,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,7:00 ET,Niagara,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-27,TBA,Air Force,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Fri.,2026-11-27,7:30,Dartmouth,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2026-11-27,TBA,Colgate,,vs,Connecticut,,,,nc,False,True,False,False,20262027
+Fri.,2026-11-27,8:00 CT,Providence,,vs,Minnesota Duluth,,,,nc,False,True,False,False,20262027
+Fri.,2026-11-27,TBA,Ferris State,,@,Michigan,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,TBA,Minnesota State,,@,Minnesota,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,3:00 ET,Boston College,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,7:07 ET,mvl,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,7 ET,Miami,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,7:00,Army,,@,RPI,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,TBA,RIT,,vs,Clarkson,,,,nc,False,True,False,False,20262027
+Fri.,2026-11-27,7:00,Ohio State,,@,Union,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,4:00,St. Lawrence,,vs,Merrimack,,,,nc,False,True,False,False,20262027
+Fri.,2026-11-27,6:00 CT,St. Cloud State,,@,Vermont,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,TBA,Denver,,@,Boston University,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,7:07 CT,Lindenwood,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,5 AT,Alaska Anchorage,,@,Arizona State,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,5 AT,Alaska,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Fri.,2026-11-27,6:00 CT,Yale,,@,Omaha,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,5:05,Air Force,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-28,7:00 ET,Niagara,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2026-11-28,6:07 ET,mvl,,@,Bowling Green,,,,ex,False,False,True,False,20262027
+Sat.,2026-11-28,TBA,Colgate,,vs,Providence/UMD,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,,Providence/UMD,,vs,Connecticut,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,TBA,UConn/Colgate,,vs,Minnesota Duluth,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,TBA ET,LIU,,@,Bentley,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,7:00,RPI,,@,Army,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,4:00,St. Lawrence,,vs,RIT,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,TBA,Canisius,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,TBA,Ferris State,,@,Michigan,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,6:07 CT,Minnesota,,@,Minnesota State,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,7 ET,Miami,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,5:00,Ohio State,,@,Union,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,4:00 ET,Brown,,@,New Hampshire,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,12:00,Cornell,,vs,Maine,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,7:30,Clarkson,,vs,Merrimack,,,,nc,False,True,False,False,20262027
+Sat.,2026-11-28,6:00 CT,St. Cloud State,,@,Vermont,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,TBA,Denver,,@,Boston University,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,6:00 CT,Bemidji State,,@,St. Thomas,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,6:07 CT,Lindenwood,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,3 AT,Alaska Anchorage,,@,Arizona State,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,4 AT,Alaska,,@,Colorado College,,,,nc,False,False,False,False,20262027
+Sat.,2026-11-28,6:00 CT,Yale,,@,Omaha,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-29,4:00,Quinnipiac,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sun.,2026-11-29,TBA ET,LIU,,@,Bentley,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-29,TBA,Canisius,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-29,,Northeastern,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Sun.,2026-11-29,4:00 ET,Boston College,,@,Harvard,,,,nc,False,False,False,False,20262027
+Tue.,2026-12-01,7:00,Sacred Heart,,@,Brown,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 ET,Robert Morris,,@,Canisius,,,,ah,False,False,False,False,20262027
+Fri.,2026-12-04,TBD,Niagara,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2026-12-04,TBD,Bentley,,@,Army,,,,ah,False,False,False,False,20262027
+Fri.,2026-12-04,7:07 CT,Bowling Green,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-04,7:07 CT,Bemidji State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-04,7:07 ET,Lake Superior,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-04,7:07 ET,Michigan Tech,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,St. Lawrence,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,Harvard,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,Dartmouth,,@,Union,,,,ec,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,Clarkson,,@,Princeton,,,,ec,False,False,False,False,20262027
+Fri.,2026-12-04,,Northeastern,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 ET,Maine,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 ET,UMass Lowell,,@,Boston College,,,,he,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 MT,North Dakota,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 ET,Miami,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 CT,Omaha,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,Colorado College,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-04,7:30 ET,Sacred Heart,,@,LIU,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-04,7 AT,Alaska,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-04,7:00,RIT,,@,Colgate,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-04,7:00 ET,Boston University,,@,Cornell,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,5:00,Robert Morris,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2026-12-05,4:00 ET,Bentley,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2026-12-05,5:05 MT,Niagara,,@,Air Force,,,,ah,False,False,False,False,20262027
+Sat.,2026-12-05,6:07 CT,Bowling Green,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-05,6:07 CT,Bemidji State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-05,6:07 ET,Lake Superior,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-05,6:07 ET,Northern Michigan,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-05,7:00,Dartmouth,,@,RPI,,,,ec,False,False,False,False,20262027
+Sat.,2026-12-05,7:00,Clarkson,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Sat.,2026-12-05,7:00,St. Lawrence,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sat.,2026-12-05,5:00,Harvard,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2026-12-05,7:07 CT,USNTDP,,@,Minnesota Duluth,,,,ex,False,False,True,False,20262027
+Sat.,2026-12-05,7:15 ET,Boston College,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Sat.,2026-12-05,,Northeastern,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Sat.,2026-12-05,5:00 ET,Providence,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2026-12-05,7:00 ET,Maine,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2026-12-05,5:00,Colorado College,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-05,6:00 CT,Omaha,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-05,6:00 ET,Miami,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-05,6:00 MT,North Dakota,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-05,7 ET,LIU,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,6 AT,Alaska,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,7 ET,Yale,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,7:00,RIT,,@,Cornell,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,,Boston University,,@,Colgate,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-05,6:00,Brown,,@,Merrimack,,,,nc,False,False,False,False,20262027
+Sun.,2026-12-06,4 ET,Stonehill,,@,Brown,,,,nc,False,False,False,False,20262027
+Tue.,2026-12-08,7:00,Holy Cross,,@,Cornell,,,,nc,False,False,False,False,20262027
+Thu.,2026-12-10,7:00 ET,Army,,vs,Penn State,,,,nc,False,True,False,False,20262027
+Thu.,2026-12-10,TBA,Omaha,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Thu.,2026-12-10,7 ET,Stonehill,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Thu.,2026-12-10,7:00 ET,Vermont,,@,St. Lawrence,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 ET,Augustana,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 ET,Ferris State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 CT,Michigan Tech,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 ET,Minnesota State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2026-12-11,,Northeastern,,@,Boston University,,,,he,False,False,False,False,20262027
+Fri.,2026-12-11,,Massachusetts,,@,Merrimack,,,,he,False,False,False,False,20262027
+Fri.,2026-12-11,,New Hampshire,,@,Providence,,,,he,False,False,False,False,20262027
+Fri.,2026-12-11,7:15 ET,Maine,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2026-12-11,TBA,Western Michigan,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-11,TBA,Denver,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-11,7:00 MT,St. Thomas,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 CT,Minnesota Duluth,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2026-12-11,,Connecticut,,@,Ohio State,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-11,TBA,Omaha,,@,Wisconsin,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-11,7:00 CT,mvl,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-11,7 AT,LIU,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-11,7:07 AT,Union,,@,Alaska,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,5:05 ET,Niagara,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2026-12-12,6:07 ET,Ferris State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-12,6:07 ET,Augustana,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-12,6:07 ET,Minnesota State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-12,6:07 CT,Michigan Tech,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2026-12-12,,Northeastern,,@,Boston University,,,,he,False,False,False,False,20262027
+Sat.,2026-12-12,,Merrimack,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Sat.,2026-12-12,TBA,Western Michigan,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-12,TBA,Denver,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-12,6:00 MT,St. Thomas,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-12,6:07 CT,Minnesota Duluth,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2026-12-12,TBA,Army,,@,Penn State,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,,Connecticut,,@,Ohio State,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,10 ET,LIU,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,7:07 AT,Union,,@,Alaska,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,TBD ET,Stonehill,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-12,5:00 ET,St. Lawrence,,@,Vermont,,,,nc,False,False,False,False,20262027
+Sun.,2026-12-13,,New Hampshire,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Tue.,2026-12-15,6:30,Holy Cross,,@,Dartmouth,,,,nc,False,False,False,False,20262027
+Wed.,2026-12-16,TBA,Bemidji State,,@,St. Cloud State,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-18,7:07 CT,Alaska,,@,Augustana,,,,nc,False,False,False,False,20262027
+Fri.,2026-12-18,5 AT,Alaska,,@,Augsburg,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-19,6:07 CT,Alaska,,@,Augustana,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-19,4:00 ET,Army,,@,Maine,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-19,4:00 ET,Dartmouth,,@,Vermont,,,,nc,False,False,False,False,20262027
+Sat.,2026-12-19,4 AT,Alaska,,@,Augsburg,,,,nc,False,False,False,False,20262027
+Mon.,2026-12-28,3:00,St. Lawrence,,vs,Ferris State,,,,nc,False,True,False,False,20262027
+Mon.,2026-12-28,TBA,Bowling Green,,@,USNTDP,,,,ex,False,False,True,False,20262027
+Mon.,2026-12-28,TBA,Holy Cross,,@,UMass Lowell,,,,ex,False,False,True,False,20262027
+Mon.,2026-12-28,7 ET,Army,,@,LIU,,,,nc,False,False,False,False,20262027
+Tue.,2026-12-29,TBA,St. Lawrence,,vs,liu or army,,,,nc,False,True,False,False,20262027
+Tue.,2026-12-29,TBA ET,SLU / FSU,,@,LIU,,,,nc,False,False,False,False,20262027
+Tue.,2026-12-29,4:00 CT,Arizona State,,vs,Massachusetts,,,,nc,False,True,False,False,20262027
+Tue.,2026-12-29,TBA,Yale,,@,Sacred Heart,,,,nc,False,False,False,False,20262027
+Wed.,2026-12-30,TBA,Arizona State,,vs,Wisconsin/NMU,,,,nc,False,True,False,False,20262027
+Thu.,2026-12-31,4:05 ET,Guelph,,@,RIT,,,,ex,False,False,True,False,20262027
+Thu.,2026-12-31,TBA,Niagara,,@,Penn State,,,,nc,False,False,False,False,20262027
+Thu.,2026-12-31,6 AT,Colorado College,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,7:00,Dartmouth,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-01,7:00,Harvard,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-01,TBD ET,Stonehill,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,7:00 ET,Denver,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,TBA,Colorado College,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,7:00,Bentley,,@,Union,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,TBA,St. Thomas,,@,Providence,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,7:00 ET,Miami,,@,Maine,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,TBA AT,Alaska,,@,St. Cloud State,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-01,7:07 CT,Clarkson,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,5:00 ET,Sacred Heart,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-02,5:00,Harvard,,@,Brown,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-02,7:00,Dartmouth,,@,Yale,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-02,TBA,Bemidji State,,@,Minnesota,,,,ex,False,False,True,False,20262027
+Sat.,2027-01-02,1:00 CT,Manitoba,,@,Minnesota Duluth,,,,ex,False,False,True,False,20262027
+Sat.,2027-01-02,,Merrimack,,@,Connecticut,,,,he,False,False,False,False,20262027
+Sat.,2027-01-02,TBA,Penn State,,@,Niagara,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,TBA,Lake Superior,,@,Air Force,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,7:00 ET,St. Lawrence,,@,Robert Morris,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,TBD ET,Stonehill,,@,Notre Dame,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,6:00 ET,Denver,,@,Bowling Green,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,8 ET,Northeastern,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,TBA,mvl,,@,Quinnipiac,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,7:00,Bentley,,@,Union,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,,Vermont,,@,RPI,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,7:05 ET,RIT,,@,New Hampshire,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,7:00 ET,Miami,,@,Maine,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,TBA,St. Thomas,,@,Providence,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,TBA AT,Alaska,,@,St. Cloud State,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,4:00 CT,Cornell,,@,Omaha,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-02,6:07 CT,Clarkson,,@,North Dakota,,,,nc,False,False,False,False,20262027
+Sun.,2027-01-03,3:00 ET,Sacred Heart,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sun.,2027-01-03,TBA,Guelph,,@,Quinnipiac,,,,ex,False,False,True,False,20262027
+Sun.,2027-01-03,TBA,mvl,,@,Holy Cross,,,,nc,False,False,False,False,20262027
+Sun.,2027-01-03,TBA,Lake Superior,,@,Air Force,,,,nc,False,False,False,False,20262027
+Sun.,2027-01-03,4:00 ET,St. Lawrence,,@,Robert Morris,,,,nc,False,False,False,False,20262027
+Sun.,2027-01-03,2:00 CT,Cornell,,@,Omaha,,,,nc,False,False,False,False,20262027
+Tue.,2027-01-05,7:00,Army,,@,Brown,,,,nc,False,False,False,False,20262027
+Thu.,2027-01-07,7:05 ET,Connecticut,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2027-01-08,TBA,Air Force,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Robert Morris,,@,RIT,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-08,TBA,Bentley,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 ET,Holy Cross,,@,Canisius,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-08,7:07 CT,Michigan Tech,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-08,7:07 ET,Lake Superior,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-08,7:07 ET,Minnesota State,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-08,7:07 ET,Bemidji State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Princeton,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Brown,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Quinnipiac,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Cornell,,@,Union,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Colgate,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,7:00,Yale,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-08,6 AT,Grand  Canyon,,@,Alaska Anchorage,,,,ex,False,False,True,False,20262027
+Fri.,2027-01-08,,New Hampshire,,@,Merrimack,,,,he,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 ET,Providence,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2027-01-08,7:05 ET,North Dakota,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-08,7:07 CT,Colorado College,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 ET,Denver,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 CT,Arizona State,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 CT,St. Cloud State,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-08,7:00 CT,mvl,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-08,7 ET,Stonehill,,@,Boston College,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-09,5:05,Air Force,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-09,TBA,Bentley,,@,Niagara,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-09,5:00 ET,Holy Cross,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-09,7:00,Robert Morris,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-09,6:07 CT,Michigan Tech,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-09,6:07 ET,Lake Superior,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-09,6:07 ET,Minnesota State,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-09,6:07 ET,Bemidji State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-09,5:00,Colgate,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,7:00,Brown,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,7:00,Princeton,,@,Harvard,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,7:00,Quinnipiac,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,4:00,Cornell,,@,RPI,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,4:00,Yale,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-09,7:07 AT,Grand Canyon,,@,Alaska,,,,ex,False,False,True,False,20262027
+Sat.,2027-01-09,,Boston University,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Sat.,2027-01-09,4:00 ET,Merrimack,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2027-01-09,7:00 ET,Providence,,@,Maine,,,,he,False,False,False,False,20262027
+Sat.,2027-01-09,6:05 ET,North Dakota,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-09,6:00 CT,St. Cloud State,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-09,6:00 ET,Denver,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-09,6:07 CT,Colorado College,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-09,7:00 CT,Arizona State,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-09,5:00 CT,mvl,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-15,TBA,Sacred Heart,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-15,7:00 ET,Army,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-15,TBA,Niagara,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-15,TBD,RIT,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-15,7:07 CT,Augustana,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-15,7:07 CT,Bowling Green,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-15,7:07 ET,Northern Michigan,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-15,7:07 ET,Ferris State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-15,7:00,St. Lawrence,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,7:00,Cornell,,@,Princeton,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,7:00,Clarkson,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,7:00,Union,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,7:00,RPI,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,TBA,Colgate,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-15,,Maine,,@,Connecticut,,,,he,False,False,False,False,20262027
+Fri.,2027-01-15,,Boston College,,@,Providence,,,,he,False,False,False,False,20262027
+Fri.,2027-01-15,7:00 ET,Northeastern,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Fri.,2027-01-15,7:00 ET,Merrimack,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2027-01-15,7:15 ET,Boston University,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2027-01-15,7:07 CT,St. Thomas,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-15,TBA,Minnesota Duluth,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-15,TBA,Miami,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-15,7:00 ET,Omaha,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-15,7 ET,Lindenwood,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-15,3:30 AT,Alaska,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-16,TBA,Sacred Heart,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-16,TBA,Niagara,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-16,5:05 MT,RIT,,@,Air Force,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-16,7:00 ET,Army,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-16,6:07 CT,Augustana,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-16,6:07 CT,Bowling Green,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-16,6:07 ET,Northern Michigan,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-16,6:07 ET,Ferris State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-16,5:00,RPI,,@,Brown,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,7:00,Union,,@,Yale,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,7:00,Colgate,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,7:00,Clarkson,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,TBA,Cornell,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,7:00,St. Lawrence,,@,Harvard,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-16,,Merrimack,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2027-01-16,7:00 ET,Providence,,@,Boston College,,,,he,False,False,False,False,20262027
+Sat.,2027-01-16,TBA,Minnesota Duluth,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-16,TBA,Miami,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-16,6:00 ET,Omaha,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-16,6:00 MT,Colorado College,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-16,6:07 CT,St. Thomas,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-16,7 ET,Lindenwood,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-16,3:30 AT,Alaska,,@,LIU,,,,nc,False,False,False,False,20262027
+Thu.,2027-01-21,7 ET,Stonehill,,@,Bentley,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-22,TBD,Canisius,,@,Army,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-22,7:05 ET,Holy Cross,,@,RIT,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-22,TBA,Air Force,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-22,7:00 ET,Sacred Heart,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-22,7:07 CT,Lake Superior,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-22,7:07 ET,Minnesota State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-22,7:07 ET,Northern Michigan,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-22,7:00,Princeton,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-22,7:00,Harvard,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-22,7:00,Clarkson,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-22,7:00,Quinnipiac,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-22,7:30,Dartmouth,,@,Colgate,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-22,,Providence,,@,Boston University,,,,he,False,False,False,False,20262027
+Fri.,2027-01-22,,Vermont,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2027-01-22,7:00 ET,UMass Lowell,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2027-01-22,7:07 CT,Denver,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-22,7:00 MT,St. Cloud State,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-22,7:00 CT,North Dakota,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-22,7:05 ET,Arizona State,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-22,7:00 CT,Western Michigan,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-22,4 AT,Alaska,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-22,10 AT,Alaska Anchorage,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-23,7:00 ET,Sacred Heart,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-23,6:05,Air Force,,@,Niagara,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-23,5:05 ET,Holy Cross,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-23,7:00 ET,Canisius,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-23,6:07 CT,Lake Superior,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-23,6:07 ET,Minnesota State,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-23,6:07 ET,Michigan Tech,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-23,5:00,Princeton,,@,Brown,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-23,7:00,Quinnipiac,,@,Yale,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-23,7:00,St. Lawrence,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-23,7:00,Dartmouth,,@,Cornell,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-23,7:30,Harvard,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-23,,Boston University,,@,Providence,,,,he,False,False,False,False,20262027
+Sat.,2027-01-23,,Vermont,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Sat.,2027-01-23,7:00 ET,UMass Lowell,,@,Maine,,,,he,False,False,False,False,20262027
+Sat.,2027-01-23,6:05 ET,Arizona State,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-23,6:00 CT,Western Michigan,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-23,6:00 MT,St. Cloud State,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-23,6:07 CT,Denver,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-23,7:00 CT,North Dakota,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-23,2 AT,Alaska,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-23,10 AT,Alaska Anchorage,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-23,6:00,RPI,,@,Union,,,,nc,False,False,False,False,20262027
+Tue.,2027-01-26,TBD,Princeton,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-29,7:00 ET,Bentley,,@,Canisius,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-29,7:05 ET,Army,,@,RIT,,,,ah,False,False,False,False,20262027
+Fri.,2027-01-29,7:07 CT,Bemidji State,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-29,7:07 ET,Ferris State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-29,7:07 ET,Michigan Tech,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2027-01-29,7:00,St. Lawrence,,@,Union,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-29,7:00,Clarkson,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-29,7:00,Colgate,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2027-01-29,7:00 ET,Boston University,,@,Boston College,,,,he,False,False,False,False,20262027
+Fri.,2027-01-29,7:00 CT,Minnesota Duluth,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2027-01-29,7:30 ET,Lindenwood,,@,LIU,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-29,3 AT,Alaska Anchorage,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2027-01-29,7:00 ET,Vermont,,@,Harvard,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-30,4:00,Robert Morris,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-30,5:00 ET,Bentley,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-30,5:05 ET,Army,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2027-01-30,6:07 CT,Bemidji State,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-30,6:07 ET,Ferris State,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-30,6:07 ET,Michigan Tech,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2027-01-30,7:00,St. Lawrence,,@,RPI,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-30,7:00,Cornell,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-30,4:00,Clarkson,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2027-01-30,4:30 CT,St. Cloud State,,vs,St. Thomas,,,,ex,False,True,True,False,20262027
+Sat.,2027-01-30,6:00 MT,Denver,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-30,7:00 CT,Minnesota Duluth,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2027-01-30,7:30 ET,Lindenwood,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-30,3 AT,Alaska Anchorage,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-30,7:00,Princeton,,@,Brown,,,,nc,False,False,False,False,20262027
+Sat.,2027-01-30,TBA,Michigan,,@,Western Michigan,,,,nc,False,False,False,False,20262027
+Sun.,2027-01-31,2:00,Robert Morris,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sun.,2027-01-31,TBA,Dartmouth,,@,Merrimack,,,,nc,False,False,False,False,20262027
+Mon.,2027-02-01,TBA,Harvard,,vs,Northeastern,,,,nc,False,True,False,False,20262027
+Mon.,2027-02-01,,Boston University,,vs,Boston College,,,,nc,False,True,False,False,20262027
+Tue.,2027-02-02,,Brown,,@,Providence,,,,nc,False,False,False,False,20262027
+Fri.,2027-02-05,TBA,Holy Cross,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 ET,Air Force,,@,Canisius,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-05,TBD,Niagara,,@,Army,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-05,7:05 ET,RIT,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-05,7:07 ET,Minnesota State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-05,7:07 ET,Northern Michigan,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-05,7:07 CT,Lake Superior,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-05,7:07 ET,Augustana,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,RPI,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,Union,,@,Princeton,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,Colgate,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,Yale,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,Cornell,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00,Harvard,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 ET,Boston University,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 ET,Boston College,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2027-02-05,,Northeastern,,@,Connecticut,,,,he,False,False,False,False,20262027
+Fri.,2027-02-05,7:15 ET,Merrimack,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 CT,Miami,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 ET,St. Cloud State,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-05,7:00 MT,Arizona State,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-05,7:07 CT,Colorado College,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-05,8 ET ET,Stonehill,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-06,TBA,Bentley,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-06,5:05 ET,RIT,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-06,5:00 ET,Air Force,,@,Canisius,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-06,4:00 ET,Niagara,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-06,5:07 ET,Minnesota State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-06,6:07 CT,Lake Superior,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-06,6:07 ET,Augustana,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-06,6:07 ET,Northern Michigan,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-06,TBA,Union,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-06,7:00,Colgate,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-06,7:00,RPI,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-06,7:00,Cornell,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-06,7:00 ET,Massachusetts,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2027-02-06,6:07 CT,Colorado College,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-06,6:00 MT,Arizona State,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-06,6:00 ET,St. Cloud State,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-06,6:00 CT,Miami,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-06,6 ET ET,Stonehill,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-06,TBA ET,LIU,,@,Providence,,,,nc,False,False,False,False,20262027
+Sun.,2027-02-07,2:00 ET,Penn State,,@,Robert Morris,,,,nc,False,False,False,False,20262027
+Mon.,2027-02-08,TBA,Harvard,,vs,BC/BU,,,,nc,False,True,False,False,20262027
+Mon.,2027-02-08,,Northeastern/Harvard,,vs,Boston University,,,,nc,False,True,False,False,20262027
+Mon.,2027-02-08,,Harvard/Northeastern,,vs,Boston College,,,,nc,False,True,False,False,20262027
+Mon.,2027-02-08,,BC/BU,,vs,Northeastern,,,,nc,False,True,False,False,20262027
+Fri.,2027-02-12,TBA,Army,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-12,7:00 ET,Canisius,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-12,TBD,Holy Cross,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-12,7:05 ET,Bentley,,@,RIT,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-12,7:07 CT,Bowling Green,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-12,7:07 ET,Bemidji State,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,Union,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,Quinnipiac,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,Brown,,@,Colgate,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,Princeton,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,RPI,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:00,Yale,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-12,7:07 AT,mvl,,@,Alaska,,,,ex,False,False,True,False,20262027
+Fri.,2027-02-12,,Vermont,,@,Providence,,,,he,False,False,False,False,20262027
+Fri.,2027-02-12,,Maine,,@,Merrimack,,,,he,False,False,False,False,20262027
+Fri.,2027-02-12,,New Hampshire,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2027-02-12,7:15 ET,Northeastern,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2027-02-12,TBA,North Dakota,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-12,TBA,Omaha,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-12,7:00 MT,Western Michigan,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-12,7:05 ET,Denver,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-12,7:07 CT,St. Thomas,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-12,7 AT,Lindenwood,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Fri.,2027-02-12,7 ET,LIU,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-13,7:00 ET,Canisius,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-13,5:05 MT,Holy Cross,,@,Air Force,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-13,5:00 ET,Army,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-13,7:05 ET,Bentley,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-13,6:07 CT,Bowling Green,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-13,6:07 ET,Bemidji State,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-13,5:00,Yale,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,7:00,Quinnipiac,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,7:00,RPI,,@,Harvard,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,7:00,Union,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,7:00,Brown,,@,Cornell,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,7:00,Princeton,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-13,5:37 AT,mvl,,@,Alaska,,,,ex,False,False,True,False,20262027
+Sat.,2027-02-13,,New Hampshire,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Sat.,2027-02-13,6:05 ET,Northeastern,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Sat.,2027-02-13,,Boston College,,@,Connecticut,,,,he,False,False,False,False,20262027
+Sat.,2027-02-13,TBA,North Dakota,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-13,TBA,Omaha,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-13,6:00 MT,Western Michigan,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-13,6:05 ET,Denver,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-13,6:07 CT,St. Thomas,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-13,9:00 (6 AKDT) CT,Lindenwood,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-13,7 ET,LIU,,@,Stonehill,,,,nc,False,False,False,False,20262027
+Fri.,2027-02-19,TBA,Sacred Heart,,@,Niagara,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-19,7:05 ET,RIT,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-19,TBA,Canisius,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-19,7:07 CT,Augustana,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-19,7:07 CT,Northern Michigan,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-19,7:07 ET,Michigan Tech,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-19,7:07 ET,Ferris State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,Clarkson,,@,Yale,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,St. Lawrence,,@,Brown,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,Princeton,,@,RPI,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,Cornell,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,Colgate,,@,Harvard,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,7:00,Quinnipiac,,@,Union,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-19,,New Hampshire,,@,Boston University,,,,he,False,False,False,False,20262027
+Fri.,2027-02-19,7:00 ET,Connecticut,,@,Vermont,,,,he,False,False,False,False,20262027
+Fri.,2027-02-19,,Northeastern,,@,Providence,,,,he,False,False,False,False,20262027
+Fri.,2027-02-19,,Boston College,,@,Merrimack,,,,he,False,False,False,False,20262027
+Fri.,2027-02-19,7:00 CT,Colorado College,,@,Omaha,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-19,7:00 CT,Arizona State,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-19,7:00 ET,Minnesota Duluth,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-19,7:00 MT,St. Cloud State,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-19,7:07 CT,Miami,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-19,2 ET,Stonehill,,@,LIU,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-20,4:00 ET,Air Force,,@,Army,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-20,TBA,Canisius,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-20,TBA,Sacred Heart,,@,Niagara,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-20,7:05 ET,RIT,,@,Robert Morris,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-20,6:07 CT,Augustana,,@,Bemidji State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-20,7:07 ET,Ferris State,,@,Lake Superior,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-20,6:07 ET,Michigan Tech,,@,Bowling Green,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-20,6:07 CT,Northern Michigan,,@,Minnesota State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-20,5:00,Princeton,,@,Union,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,5:00,Clarkson,,@,Brown,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,7:00,Cornell,,@,Harvard,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,7:00,Colgate,,@,Dartmouth,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,7:00,Quinnipiac,,@,RPI,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,7:00,St. Lawrence,,@,Yale,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-20,6:05 ET,Massachusetts,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Sat.,2027-02-20,,Boston University,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2027-02-20,7:00 ET,Connecticut,,@,Vermont,,,,he,False,False,False,False,20262027
+Sat.,2027-02-20,6:07 CT,Miami,,@,North Dakota,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-20,6:00 ET,Minnesota Duluth,,@,Western Michigan,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-20,6:00 CT,Arizona State,,@,St. Thomas,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-20,6:00 MT,St. Cloud State,,@,Denver,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-20,7:00 CT,Colorado College,,@,Omaha,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-20,7 AT,Alaska,,@,Alaska Anchorage,,,,nc,False,False,False,False,20262027
+Sat.,2027-02-20,3 ET,Stonehill,,@,LIU,,,,nc,False,False,False,False,20262027
+Sun.,2027-02-21,2:00 CT,mvl,,@,Lindenwood,,,,nc,False,False,False,False,20262027
+Thu.,2027-02-25,TBA,RIT,,@,Niagara,,,,ah,False,False,False,False,20262027
+Thu.,2027-02-25,,Connecticut,,@,Massachusetts,,,,he,False,False,False,False,20262027
+Fri.,2027-02-26,TBA,Holy Cross,,@,Sacred Heart,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-26,TBA,Army,,@,Bentley,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-26,6:30 ET,Niagara,,@,Canisius,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-26,9:00,Robert Morris,,@,Air Force,,,,ah,False,False,False,False,20262027
+Fri.,2027-02-26,7:07 CT,Minnesota State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-26,7:07 ET,Bemidji State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-26,7:07 ET,Bowling Green,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-26,7:07 ET,Lake Superior,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,Dartmouth,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,Brown,,@,Princeton,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,Harvard,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,RPI,,@,Cornell,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,Union,,@,Colgate,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00,Yale,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Fri.,2027-02-26,7:00 ET,Northeastern,,@,Maine,,,,he,False,False,False,False,20262027
+Fri.,2027-02-26,7:00 ET,Providence,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Fri.,2027-02-26,7:00 ET,Boston University,,@,Boston College,,,,he,False,False,False,False,20262027
+Fri.,2027-02-26,TBA,Omaha,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-26,7:00 MT,Colorado College,,@,Denver,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-26,7:05 ET,Western Michigan,,@,Miami,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-26,TBA,St. Thomas,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Fri.,2027-02-26,7:07 CT,North Dakota,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,5:05 ET,Canisius,,@,RIT,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-27,TBA,Sacred Heart,,@,Holy Cross,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-27,TBA,Army,,@,Bentley,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-27,5:00,Robert Morris,,@,Air Force,,,,ah,False,False,False,False,20262027
+Sat.,2027-02-27,6:07 CT,Minnesota State,,@,Augustana,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-27,6:07 ET,Bemidji State,,@,Michigan Tech,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-27,6:07 ET,Bowling Green,,@,Ferris State,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-27,6:07 ET,Lake Superior,,@,Northern Michigan,,,,cc2,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,RPI,,@,Colgate,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,Harvard,,@,Clarkson,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,Brown,,@,Quinnipiac,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,Yale,,@,Princeton,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,Dartmouth,,@,St. Lawrence,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,7:00,Union,,@,Cornell,,,,ec,False,False,False,False,20262027
+Sat.,2027-02-27,,Boston College,,@,Boston University,,,,he,False,False,False,False,20262027
+Sat.,2027-02-27,,Vermont,,@,Merrimack,,,,he,False,False,False,False,20262027
+Sat.,2027-02-27,,New Hampshire,,@,Providence,,,,he,False,False,False,False,20262027
+Sat.,2027-02-27,2:00 ET,Massachusetts,,@,Connecticut,,,,he,False,False,False,False,20262027
+Sat.,2027-02-27,7:00 ET,Northeastern,,@,Maine,,,,he,False,False,False,False,20262027
+Sat.,2027-02-27,6:00 MT,Denver,,@,Colorado College,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,6:07 CT,North Dakota,,@,Minnesota Duluth,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,TBA,Omaha,,@,Arizona State,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,TBA,St. Thomas,,@,St. Cloud State,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,6:05 ET,Western Michigan,,@,Miami,,,,nt,False,False,False,False,20262027
+Sat.,2027-02-27,7:07 AT,Alaska Anchorage,,@,Alaska,,,,nc,False,False,False,False,20262027
+Thu.,2027-03-04,,Providence,,@,Connecticut,,,,he,False,False,False,False,20262027
+Fri.,2027-03-05,,Northeastern,,@,Boston University,,,,he,False,False,False,False,20262027
+Fri.,2027-03-05,7:15 ET,Merrimack,,@,UMass Lowell,,,,he,False,False,False,False,20262027
+Fri.,2027-03-05,7:00 ET,Massachusetts,,@,Boston College,,,,he,False,False,False,False,20262027
+Sat.,2027-03-06,,Boston College,,@,Northeastern,,,,he,False,False,False,False,20262027
+Sat.,2027-03-06,4:00 ET,Connecticut,,@,New Hampshire,,,,he,False,False,False,False,20262027
+Sat.,2027-03-06,7:00 ET,Vermont,,@,Maine,,,,he,False,False,False,False,20262027

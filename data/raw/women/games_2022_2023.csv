@@ -1,0 +1,777 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Sat.,2022-09-17,3:00 ET,Syracuse,3,@,Union,1,,,ex,True,False,True,False,20222023
+Sat.,2022-09-17,3:00 ET,New Brunswick,2,@,Maine,3,,,ex,True,False,True,False,20222023
+Sat.,2022-09-17,3:00 ET,Quinnipiac,2,@,Connecticut,1,,,ex,True,False,True,False,20222023
+Sun.,2022-09-18,3:00 ET,Montreal,3,@,RPI,2,OT,,ex,True,False,True,True,20222023
+Sun.,2022-09-18,2:00 ET,St. Lawrence,0,@,Colgate,3,,,ex,True,False,True,False,20222023
+Thu.,2022-09-22,7:00 ET,Wisconsin,1,@,Penn State,4,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,7:00 ET,Moncton,1,@,Boston University,5,,,ex,True,False,True,False,20222023
+Fri.,2022-09-23,6:00 CT,Manitoba,1,@,Minnesota State,5,,,ex,True,False,True,False,20222023
+Fri.,2022-09-23,6:00 ET,Saint Anselm,0,@,Mercyhurst,3,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,7:00 ET,Wisconsin,9,@,Penn State,1,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,6:00 ET,RIT,0,@,Connecticut,3,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,6:00 ET,Union,3,@,New Hampshire,2,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,6:00 ET,Quinnipiac,3,@,Maine,2,OT,,nc,True,False,False,True,20222023
+Fri.,2022-09-23,6:00 ET,St. Lawrence,2,@,Providence,3,OT,,nc,True,False,False,True,20222023
+Fri.,2022-09-23,4:00 ET,Clarkson,3,@,Sacred Heart,0,,,nc,True,False,False,False,20222023
+Fri.,2022-09-23,6:00 CT,Lindenwood,2,@,Bemidji State,3,OT,,nc,True,False,False,True,20222023
+Sat.,2022-09-24,3:00 ET,Ottawa,0,@,Vermont,6,,,ex,True,False,True,False,20222023
+Sat.,2022-09-24,3:00 ET,Stanstead,2,@,Merrimack,6,,,ex,True,False,True,False,20222023
+Sat.,2022-09-24,3:00 ET,Moncton,1,@,Stonehill,1,OT,,ex,True,False,True,True,20222023
+Sat.,2022-09-24,2:00 ET,Saint Anselm,0,@,Mercyhurst,9,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,4:00 ET,Syracuse,0,@,Colgate,3,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,3:00 ET,RIT,2,@,Connecticut,3,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,2:00 ET,Quinnipiac,3,@,Maine,0,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,3:00 ET,Union,2,@,New Hampshire,5,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,3:00 ET,St. Lawrence,5,@,Providence,2,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,1:00 ET,Franklin Pierce,1,@,Boston College,4,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,2:30 ET,Clarkson,2,@,Sacred Heart,1,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,7:45 ET,Minnesota Duluth,4,@,LIU,1,,,nc,True,False,False,False,20222023
+Sat.,2022-09-24,3:00 CT,Lindenwood,3,@,Bemidji State,6,,,nc,True,False,False,False,20222023
+Sun.,2022-09-25,3:00 CT,Durham West,1,@,St. Cloud State,5,,,ex,True,False,True,False,20222023
+Sun.,2022-09-25,2:00 CT,Manitoba,1,@,St. Thomas,4,,,ex,True,False,True,False,20222023
+Sun.,2022-09-25,7:45 ET,Minnesota Duluth,5,@,LIU,0,,,nc,True,False,False,False,20222023
+Thu.,2022-09-29,6:00 ET,Minnesota Duluth,3,@,St. Lawrence,2,OT,,nc,True,False,False,True,20222023
+Thu.,2022-09-29,7:00 CT,Lindenwood,0,@,Wisconsin,6,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,Post,2,@,St. Michael's,6,,,new,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,Colgate,5,@,Mercyhurst,0,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,Boston College,0,@,Quinnipiac,5,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,Bemidji State,0,@,Clarkson,5,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,RIT,2,@,Vermont,5,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,2:00 ET,Syracuse,3,@,Merrimack,2,OT,,nc,True,False,False,True,20222023
+Fri.,2022-09-30,6:00 ET,Union,3,@,Holy Cross,4,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,LIU,1,@,Northeastern,3,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,6:00 ET,Stonehill,1,@,Connecticut,7,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,7:00 CT,Lindenwood,0,@,Wisconsin,10,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,4:00 ET,Penn State,0,vs,Minnesota Duluth,4,,,nc,True,True,False,False,20222023
+Fri.,2022-09-30,6:00 CT,RPI,0,@,St. Cloud State,5,,,nc,True,False,False,False,20222023
+Fri.,2022-09-30,3:00 CT,Ohio State,2,@,Minnesota State,1,,,wc,True,False,False,False,20222023
+Sat.,2022-10-01,6:00 ET,New Brunswick,1,@,Franklin Pierce,3,,,ex,True,False,True,False,20222023
+Sat.,2022-10-01,4:00 ET,Post,2,@,St. Michael's,0,,,new,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,Colgate,2,@,Mercyhurst,0,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,Penn State,4,@,St. Lawrence,2,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,Bemidji State,2,@,Clarkson,2,OT,,nc,True,False,False,True,20222023
+Sat.,2022-10-01,2:00 ET,Syracuse,0,@,Merrimack,2,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,RIT,2,@,Vermont,5,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,Union,3,@,Holy Cross,1,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,2:00 ET,LIU,1,@,Northeastern,10,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,3:00 ET,Maine,6,@,Saint Anselm,3,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,5:00 ET,Connecticut,3,@,Stonehill,2,OT,,nc,True,False,False,True,20222023
+Sat.,2022-10-01,3:00 CT,RPI,2,@,St. Cloud State,3,,,nc,True,False,False,False,20222023
+Sat.,2022-10-01,12:00 CT,Ohio State,5,@,Minnesota State,4,,,wc,True,False,False,False,20222023
+Sun.,2022-10-02,3:00 ET,Concordia,3,@,Saint Anselm,2,OT,,ex,True,False,True,True,20222023
+Sun.,2022-10-02,3:00 ET,New Hampshire,0,@,Quinnipiac,2,,,nc,True,False,False,False,20222023
+Tue.,2022-10-04,1:00 ET,Sacred Heart,7,@,Post,1,,,new,True,False,False,False,20222023
+Thu.,2022-10-06,6:00 ET,Boston College,4,@,Merrimack,1,,,he,True,False,False,False,20222023
+Thu.,2022-10-06,6:00 ET,St. Lawrence,2,@,Syracuse,0,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 ET,McGill,0,@,Cornell,6,,,ex,True,False,True,False,20222023
+Fri.,2022-10-07,6:00 ET,Montreal,1,@,Harvard,3,,,ex,True,False,True,False,20222023
+Fri.,2022-10-07,6:00 ET,New Hampshire,2,@,Maine,3,,,he,True,False,False,False,20222023
+Fri.,2022-10-07,2:00 ET,Merrimack,0,@,Boston College,4,,,he,True,False,False,False,20222023
+Fri.,2022-10-07,2:00 ET,Connecticut,0,@,Northeastern,3,,,he,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 ET,Post,3,@,Stonehill,4,OT,,new,True,False,False,True,20222023
+Fri.,2022-10-07,2:00 ET,LIU,4,@,Sacred Heart,3,,,new,True,False,False,False,20222023
+Fri.,2022-10-07,3:00 ET,Colgate,3,@,Penn State,2,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 ET,Clarkson,3,@,Mercyhurst,1,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,2:00 ET,St. Michael's,0,@,RIT,8,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,7:00 ET,RPI,0,@,Boston University,4,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,2:00 ET,Union,0,@,Providence,7,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,3:00 ET,Quinnipiac,6,@,Saint Anselm,1,,,nc,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 CT,Minnesota State,1,@,Minnesota Duluth,2,OT,,wc,True,False,False,True,20222023
+Fri.,2022-10-07,7:00 CT,St. Thomas,0,@,Wisconsin,5,,,wc,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 CT,Bemidji State,0,@,Minnesota,6,,,wc,True,False,False,False,20222023
+Fri.,2022-10-07,6:00 ET,St. Cloud State,2,@,Ohio State,5,,,wc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,McGill,0,@,Yale,5,,,ex,True,False,True,False,20222023
+Sat.,2022-10-08,3:00 ET,Montreal,3,@,Brown,1,,,ex,True,False,True,False,20222023
+Sat.,2022-10-08,2:00 ET,New Hampshire,0,@,Maine,4,,,he,True,False,False,False,20222023
+Sat.,2022-10-08,1:00 ET,Vermont,1,@,Holy Cross,2,,,he,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,Northeastern,4,@,Connecticut,1,,,he,True,False,False,False,20222023
+Sat.,2022-10-08,2:00 ET,Post,2,@,Stonehill,4,,,new,True,False,False,False,20222023
+Sat.,2022-10-08,2:00 ET,Colgate,2,@,Penn State,1,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,2:00 ET,Clarkson,1,@,Mercyhurst,2,OT,,nc,True,False,False,True,20222023
+Sat.,2022-10-08,1:00 ET,St. Michael's,0,@,RIT,9,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,Syracuse,3,@,St. Lawrence,5,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,Saint Anselm,1,@,Quinnipiac,7,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,4:00 ET,Union,3,@,Boston University,1,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,RPI,0,@,Providence,2,,,nc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 ET,St. Cloud State,2,@,Ohio State,6,,,wc,True,False,False,False,20222023
+Sat.,2022-10-08,2:00 CT,Bemidji State,1,@,Minnesota,4,,,wc,True,False,False,False,20222023
+Sat.,2022-10-08,6:00 CT,St. Thomas,1,@,Wisconsin,9,,,wc,True,False,False,False,20222023
+Sat.,2022-10-08,3:00 CT,Minnesota State,0,@,Minnesota Duluth,2,,,wc,True,False,False,False,20222023
+Sun.,2022-10-09,6:00 ET,McGill,2,@,Dartmouth,5,,,ex,True,False,True,False,20222023
+Sun.,2022-10-09,1:00 ET,Montreal,0,@,Princeton,1,,,ex,True,False,True,False,20222023
+Sun.,2022-10-09,3:00 ET,Vermont,3,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Tue.,2022-10-11,1:00 ET,Sacred Heart,3,@,Post,0,,,new,True,False,False,False,20222023
+Thu.,2022-10-13,6:00 ET,Clarkson,5,@,Syracuse,2,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Holy Cross,0,@,Providence,4,,,he,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Boston University,2,@,New Hampshire,0,,,he,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Northeastern,5,@,Merrimack,0,,,he,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Connecticut,1,@,Vermont,1,OT,,he,True,False,False,True,20222023
+Fri.,2022-10-14,7:00 ET,Sacred Heart,6,@,Saint Anselm,3,,,new,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,St. Michael's,0,@,Stonehill,2,,,new,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Syracuse,2,@,Clarkson,3,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,RIT,0,@,Colgate,9,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,3:00 ET,Mercyhurst,2,@,RPI,0,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,Penn State,3,@,Boston College,2,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 ET,LIU,3,@,Maine,4,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,3:00 CT,Franklin Pierce,0,@,St. Thomas,3,,,nc,True,False,False,False,20222023
+Fri.,2022-10-14,3:00 CT,Minnesota,11,@,Minnesota State,0,,,wc,True,False,False,False,20222023
+Fri.,2022-10-14,6:00 CT,Wisconsin,5,@,St. Cloud State,0,,,wc,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 ET,Quinnipiac,5,@,Harvard,2,,,ec,True,False,False,False,20222023
+Sat.,2022-10-15,2:00 ET,Concordia,2,@,Cornell,5,,,ex,True,False,True,False,20222023
+Sat.,2022-10-15,7:30 ET,Providence,4,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 ET,New Hampshire,3,@,Boston University,2,OT,,he,True,False,False,True,20222023
+Sat.,2022-10-15,2:00 ET,Merrimack,1,@,Northeastern,4,,,he,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 ET,Connecticut,1,@,Vermont,6,,,he,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 ET,Sacred Heart,0,@,Saint Anselm,7,,,new,True,False,False,False,20222023
+Sat.,2022-10-15,2:00 ET,St. Michael's,0,@,Stonehill,9,,,new,True,False,False,False,20222023
+Sat.,2022-10-15,2:00 ET,Mercyhurst,4,@,RPI,1,,,nc,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 ET,RIT,0,@,Colgate,5,,,nc,True,False,False,False,20222023
+Sat.,2022-10-15,2:00 ET,Penn State,2,@,Boston College,2,OT,,nc,True,False,False,True,20222023
+Sat.,2022-10-15,2:00 ET,LIU,1,@,Maine,0,,,nc,True,False,False,False,20222023
+Sat.,2022-10-15,6:00 CT,Franklin Pierce,2,@,St. Thomas,1,OT,,nc,True,False,False,True,20222023
+Sat.,2022-10-15,3:00 CT,Ohio State,4,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Sat.,2022-10-15,3:00 CT,Wisconsin,3,@,St. Cloud State,2,OT,,wc,True,False,False,True,20222023
+Sat.,2022-10-15,2:00 CT,Minnesota State,4,@,Minnesota,9,,,wc,True,False,False,False,20222023
+Sun.,2022-10-16,2:00 CT,Ohio State,5,@,Bemidji State,2,,,wc,True,False,False,False,20222023
+Thu.,2022-10-20,7:00 CT,Bemidji State,0,@,Wisconsin,8,,,wc,True,False,False,False,20222023
+Thu.,2022-10-20,6:00 CT,St. Thomas,1,@,Minnesota State,3,,,wc,True,False,False,False,20222023
+Fri.,2022-10-21,7:00 ET,Syracuse,0,vs,Clarkson,3,,,nc,True,True,False,False,20222023
+Fri.,2022-10-21,4:00 ET,Holy Cross,1,vs,St. Lawrence,2,,,nc,True,True,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Dartmouth,0,@,Harvard,3,,,ec,True,False,False,False,20222023
+Fri.,2022-10-21,2:00 ET,Providence,4,@,New Hampshire,1,,,he,True,False,False,False,20222023
+Fri.,2022-10-21,2:00 ET,Connecticut,3,@,Merrimack,0,,,he,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Boston University,0,@,Boston College,3,,,he,True,False,False,False,20222023
+Fri.,2022-10-21,2:00 ET,Northeastern,6,@,Maine,1,,,he,True,False,False,False,20222023
+Fri.,2022-10-21,7:00 ET,LIU,2,@,Saint Anselm,3,,,new,True,False,False,False,20222023
+Fri.,2022-10-21,3:00 ET,RIT,0,@,RPI,2,,,nc,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Mercyhurst,0,@,Cornell,3,,,nc,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Vermont,1,@,Colgate,4,,,nc,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Stonehill,2,@,Brown,2,OT,,nc,True,False,False,True,20222023
+Fri.,2022-10-21,7:00 CT,Bemidji State,1,@,Wisconsin,7,,,wc,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 CT,Minnesota State,2,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Fri.,2022-10-21,6:00 ET,Minnesota Duluth,2,@,Ohio State,3,OT,,wc,True,False,False,True,20222023
+Fri.,2022-10-21,3:00 CT,Minnesota,4,@,St. Cloud State,2,,,wc,True,False,False,False,20222023
+Sat.,2022-10-22,4:00 ET,Holy Cross,3,vs,Syracuse,3,OT,,nc,True,True,False,True,20222023
+Sat.,2022-10-22,7:00 ET,Clarkson,3,vs,St. Lawrence,1,,,nc,True,True,False,False,20222023
+Sat.,2022-10-22,2:00 ET,Northeastern,0,@,Maine,1,,,he,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Boston College,5,@,Boston University,4,,,he,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Merrimack,2,@,Connecticut,2,OT,,he,True,False,False,True,20222023
+Sat.,2022-10-22,2:00 ET,New Hampshire,1,@,Providence,2,,,he,True,False,False,False,20222023
+Sat.,2022-10-22,2:00 ET,LIU,2,@,Saint Anselm,0,,,new,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,RIT,0,@,RPI,3,,,nc,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Mercyhurst,2,@,Cornell,7,,,nc,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Vermont,2,@,Colgate,3,,,nc,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Brown,3,@,Stonehill,1,,,nc,True,False,False,False,20222023
+Sat.,2022-10-22,2:00 CT,St. Cloud State,1,@,Minnesota,2,,,wc,True,False,False,False,20222023
+Sat.,2022-10-22,3:00 ET,Minnesota Duluth,2,@,Ohio State,3,,,wc,True,False,False,False,20222023
+Sun.,2022-10-23,2:00 ET,Franklin Pierce,0,@,Penn State,6,,,nc,True,False,False,False,20222023
+Mon.,2022-10-24,2:00 ET,Franklin Pierce,1,@,Penn State,4,,,nc,True,False,False,False,20222023
+Thu.,2022-10-27,6:00 ET,RIT,0,@,Syracuse,1,,,ch,True,False,False,False,20222023
+Fri.,2022-10-28,7:10 CT,Penn State,4,@,Lindenwood,3,,,ch,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,RPI,0,@,St. Lawrence,3,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Colgate,5,@,Princeton,1,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Cornell,1,@,Quinnipiac,4,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Union,0,@,Clarkson,4,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Brown,2,@,Dartmouth,1,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,3:00 ET,Yale,2,@,Harvard,1,,,ec,True,False,False,False,20222023
+Fri.,2022-10-28,7:00 ET,Plattsburgh,2,@,St. Michael's,1,,,ex,True,False,True,False,20222023
+Fri.,2022-10-28,3:00 ET,Northeastern,4,@,Providence,1,,,he,True,False,False,False,20222023
+Fri.,2022-10-28,7:00 ET,New Hampshire,2,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Boston University,2,@,Merrimack,5,,,he,True,False,False,False,20222023
+Fri.,2022-10-28,3:00 ET,Boston College,2,@,Vermont,3,,,he,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Maine,1,@,Connecticut,0,,,he,True,False,False,False,20222023
+Fri.,2022-10-28,3:00 ET,LIU,5,@,Post,1,,,new,True,False,False,False,20222023
+Fri.,2022-10-28,4:00 ET,Saint Anselm,5,@,Sacred Heart,3,,,new,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Franklin Pierce,1,@,Stonehill,4,,,new,True,False,False,False,20222023
+Fri.,2022-10-28,3:00 CT,Minnesota State,1,@,Bemidji State,2,,,wc,True,False,False,False,20222023
+Fri.,2022-10-28,6:00 ET,Minnesota,4,@,Ohio State,2,,,wc,True,False,False,False,20222023
+Fri.,2022-10-28,3:00 CT,Wisconsin,1,@,Minnesota Duluth,2,OT,,wc,True,False,False,True,20222023
+Fri.,2022-10-28,6:00 CT,St. Cloud State,4,@,St. Thomas,1,,,wc,True,False,False,False,20222023
+Sat.,2022-10-29,7:30 ET,Syracuse,4,@,RIT,1,,,ch,True,False,False,False,20222023
+Sat.,2022-10-29,1:10 CT,Penn State,7,@,Lindenwood,0,,,ch,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,RPI,1,@,Clarkson,6,,,ec,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Colgate,0,@,Quinnipiac,3,,,ec,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Union,0,@,St. Lawrence,1,,,ec,True,False,False,False,20222023
+Sat.,2022-10-29,6:00 ET,Cornell,3,@,Princeton,1,,,ec,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Yale,4,@,Dartmouth,1,,,ec,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Brown,2,@,Harvard,1,OT,,ec,True,False,False,True,20222023
+Sat.,2022-10-29,3:00 ET,St. Michael's,0,@,Plattsburgh,6,,,ex,True,False,True,False,20222023
+Sat.,2022-10-29,6:00 ET,Providence,2,@,Northeastern,2,OT,,he,True,False,False,True,20222023
+Sat.,2022-10-29,3:00 ET,Boston College,4,@,Vermont,3,OT,,he,True,False,False,True,20222023
+Sat.,2022-10-29,3:00 ET,Merrimack,2,@,Boston University,5,,,he,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Maine,0,@,Connecticut,2,,,he,True,False,False,False,20222023
+Sat.,2022-10-29,2:00 ET,Holy Cross,1,@,New Hampshire,4,,,he,True,False,False,False,20222023
+Sat.,2022-10-29,2:00 ET,Post,1,@,LIU,3,,,new,True,False,False,False,20222023
+Sat.,2022-10-29,2:30 ET,Saint Anselm,3,@,Sacred Heart,3,OT,,new,True,False,False,True,20222023
+Sat.,2022-10-29,7:30 ET,Stonehill,2,@,Franklin Pierce,3,OT,,new,True,False,False,True,20222023
+Sat.,2022-10-29,3:00 CT,Wisconsin,4,@,Minnesota Duluth,3,,,wc,True,False,False,False,20222023
+Sat.,2022-10-29,2:00 CT,St. Thomas,0,@,St. Cloud State,4,,,wc,True,False,False,False,20222023
+Sat.,2022-10-29,3:00 ET,Minnesota,4,@,Ohio State,4,OT,,wc,True,False,False,True,20222023
+Sat.,2022-10-29,3:00 CT,Minnesota State,3,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Tue.,2022-11-01,3:30 ET,Saint Anselm,4,@,Post,0,,,new,True,False,False,False,20222023
+Fri.,2022-11-04,3:00 ET,Mercyhurst,1,@,Penn State,4,,,ch,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Lindenwood,1,@,Syracuse,4,,,ch,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Harvard,2,@,Union,2,OT,,ec,True,False,False,True,20222023
+Fri.,2022-11-04,6:00 ET,Clarkson,1,@,Colgate,2,,,ec,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Princeton,3,@,Brown,2,,,ec,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Quinnipiac,2,@,Yale,4,,,ec,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Dartmouth,2,@,RPI,0,,,ec,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,St. Lawrence,6,@,Cornell,7,,,ec,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Northeastern,5,@,New Hampshire,0,,,he,True,False,False,False,20222023
+Fri.,2022-11-04,7:00 ET,Providence,3,@,Boston University,2,OT,,he,True,False,False,True,20222023
+Fri.,2022-11-04,6:00 ET,Boston College,0,@,Connecticut,1,,,he,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 ET,Vermont,6,@,Maine,1,,,he,True,False,False,False,20222023
+Fri.,2022-11-04,7:00 ET,Merrimack,4,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Fri.,2022-11-04,7:30 ET,St. Michael's,0,@,Franklin Pierce,0,OT,,new,True,False,False,True,20222023
+Fri.,2022-11-04,7:00 ET,Stonehill,3,@,Saint Anselm,4,OT,,new,True,False,False,True,20222023
+Fri.,2022-11-04,3:00 CT,Sacred Heart,1,@,Minnesota State,4,,,nc,True,False,False,False,20222023
+Fri.,2022-11-04,6:00 CT,Minnesota Duluth,2,@,Minnesota,3,OT,,wc,True,False,False,True,20222023
+Fri.,2022-11-04,3:00 CT,St. Cloud State,2,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Sat.,2022-11-05,1:00 ET,Mercyhurst,3,@,Penn State,1,,,ch,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Lindenwood,3,@,Syracuse,4,,,ch,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Princeton,0,@,Yale,2,,,ec,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Dartmouth,4,@,Union,5,OT,,ec,True,False,False,True,20222023
+Sat.,2022-11-05,3:00 ET,Harvard,3,@,RPI,3,OT,,ec,True,False,False,True,20222023
+Sat.,2022-11-05,3:00 ET,Clarkson,1,@,Cornell,8,,,ec,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Quinnipiac,4,@,Brown,1,,,ec,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,New Hampshire,2,@,Northeastern,8,,,he,True,False,False,False,20222023
+Sat.,2022-11-05,6:00 ET,Connecticut,3,@,Boston College,1,,,he,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Boston University,1,@,Providence,4,,,he,True,False,False,False,20222023
+Sat.,2022-11-05,2:00 ET,Vermont,7,@,Maine,2,,,he,True,False,False,False,20222023
+Sat.,2022-11-05,4:00 ET,Holy Cross,2,@,Merrimack,3,,,he,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,St. Michael's,0,@,Franklin Pierce,2,,,new,True,False,False,False,20222023
+Sat.,2022-11-05,3:00 ET,Saint Anselm,3,@,Stonehill,1,,,new,True,False,False,False,20222023
+Sat.,2022-11-05,2:00 ET,RIT,0,@,St. Lawrence,3,,,nc,True,False,False,False,20222023
+Sat.,2022-11-05,2:00 CT,Sacred Heart,1,@,Minnesota State,5,,,nc,True,False,False,False,20222023
+Sat.,2022-11-05,6:00 CT,Ohio State,4,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Sat.,2022-11-05,2:00 CT,St. Cloud State,3,@,Bemidji State,1,,,wc,True,False,False,False,20222023
+Sat.,2022-11-05,2:00 CT,Minnesota Duluth,3,@,Minnesota,5,,,wc,True,False,False,False,20222023
+Sun.,2022-11-06,2:00 CT,Ohio State,6,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Mon.,2022-11-07,7:00 CT,St. Cloud State,4,vs,Minnesota,1,,,nc,True,True,False,False,20222023
+Thu.,2022-11-10,6:00 ET,St. Lawrence,4,@,Clarkson,5,OT,,nc,True,False,False,True,20222023
+Fri.,2022-11-11,6:00 ET,Colgate,5,@,Harvard,4,,,ec,True,False,False,False,20222023
+Fri.,2022-11-11,6:00 ET,Cornell,6,@,Dartmouth,5,,,ec,True,False,False,False,20222023
+Fri.,2022-11-11,2:00 ET,Boston College,0,@,Northeastern,4,,,he,True,False,False,False,20222023
+Fri.,2022-11-11,6:00 ET,Holy Cross,0,@,Maine,4,,,he,True,False,False,False,20222023
+Fri.,2022-11-11,6:00 ET,Providence,1,@,Connecticut,2,,,he,True,False,False,False,20222023
+Fri.,2022-11-11,2:00 ET,Boston University,1,@,Vermont,2,,,he,True,False,False,False,20222023
+Fri.,2022-11-11,5:00 ET,Merrimack,0,@,New Hampshire,3,,,he,True,False,False,False,20222023
+Fri.,2022-11-11,4:00 ET,Saint Anselm,5,@,Franklin Pierce,2,,,new,True,False,False,False,20222023
+Fri.,2022-11-11,7:00 ET,LIU,3,@,St. Michael's,1,,,new,True,False,False,False,20222023
+Fri.,2022-11-11,4:00 ET,Stonehill,4,@,Sacred Heart,1,,,new,True,False,False,False,20222023
+Fri.,2022-11-11,11:30am CT,St. Thomas,5,@,Lindenwood,3,,,nc,True,False,False,False,20222023
+Fri.,2022-11-11,6:00 ET,Syracuse,2,@,Princeton,4,,,nc,True,False,False,False,20222023
+Fri.,2022-11-11,3:00 ET,RIT,2,@,Union,3,OT,,nc,True,False,False,True,20222023
+Fri.,2022-11-11,3:00 CT,Minnesota Duluth,2,@,St. Cloud State,0,,,wc,True,False,False,False,20222023
+Sat.,2022-11-12,3:00 ET,Cornell,0,@,Harvard,2,,,ec,True,False,False,False,20222023
+Sat.,2022-11-12,3:00 ET,Colgate,3,@,Dartmouth,2,,,ec,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 ET,Northeastern,2,@,Boston College,0,,,he,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 ET,New Hampshire,4,@,Merrimack,5,OT,,he,True,False,False,True,20222023
+Sat.,2022-11-12,3:00 ET,Connecticut,2,@,Providence,1,,,he,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 ET,Boston University,4,@,Vermont,3,OT,,he,True,False,False,True,20222023
+Sat.,2022-11-12,2:00 ET,Holy Cross,1,@,Maine,4,,,he,True,False,False,False,20222023
+Sat.,2022-11-12,4:00 ET,LIU,1,@,St. Michael's,0,,,new,True,False,False,False,20222023
+Sat.,2022-11-12,2:30 ET,Stonehill,4,@,Sacred Heart,6,,,new,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 ET,Franklin Pierce,2,@,Saint Anselm,0,,,new,True,False,False,False,20222023
+Sat.,2022-11-12,1:10 CT,St. Thomas,4,@,Lindenwood,1,,,nc,True,False,False,False,20222023
+Sat.,2022-11-12,3:00 ET,Syracuse,0,@,Princeton,1,,,nc,True,False,False,False,20222023
+Sat.,2022-11-12,3:00 ET,RIT,1,@,Union,2,,,nc,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 ET,Clarkson,1,@,St. Lawrence,0,,,nc,True,False,False,False,20222023
+Sat.,2022-11-12,2:00 CT,Minnesota Duluth,5,@,St. Cloud State,1,,,wc,True,False,False,False,20222023
+Sun.,2022-11-13,6:00 ET,Brown,0,@,Penn State,3,,,nc,True,False,False,False,20222023
+Mon.,2022-11-14,2:00 ET,Brown,2,@,Penn State,4,,,nc,True,False,False,False,20222023
+Tue.,2022-11-15,6:00 ET,RPI,1,@,Union,2,OT,,ec,True,False,False,True,20222023
+Tue.,2022-11-15,6:00 ET,Northeastern,0,@,Providence,3,,,he,True,False,False,False,20222023
+Tue.,2022-11-15,2:30 ET,Dartmouth,6,@,Post,0,,,nc,True,False,False,False,20222023
+Thu.,2022-11-17,7:00 ET,Vermont,5,@,Merrimack,1,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,4:00 ET,Lindenwood,1,@,RIT,0,,,ch,True,False,False,False,20222023
+Fri.,2022-11-18,3:00 ET,St. Lawrence,0,@,Princeton,1,,,ec,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,Clarkson,0,@,Quinnipiac,4,,,ec,True,False,False,False,20222023
+Fri.,2022-11-18,7:00 ET,Vermont,3,@,Merrimack,0,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,Boston University,2,@,Connecticut,1,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,New Hampshire,1,@,Boston College,3,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,2:00 ET,Maine,0,@,Providence,3,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,Holy Cross,1,@,Northeastern,2,,,he,True,False,False,False,20222023
+Fri.,2022-11-18,3:00 ET,Stonehill,1,@,LIU,5,,,new,True,False,False,False,20222023
+Fri.,2022-11-18,6:10 ET,Saint Anselm,4,@,St. Michael's,2,,,new,True,False,False,False,20222023
+Fri.,2022-11-18,4:00 ET,Franklin Pierce,1,@,Sacred Heart,3,,,new,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,Penn State,0,@,Yale,3,,,nc,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 CT,Harvard,0,@,Minnesota Duluth,4,,,nc,True,False,False,False,20222023
+Fri.,2022-11-18,6:00 ET,Bemidji State,0,@,Ohio State,5,,,wc,True,False,False,False,20222023
+Sat.,2022-11-19,12:00 ET,Lindenwood,2,@,RIT,1,OT,,ch,True,False,False,True,20222023
+Sat.,2022-11-19,3:00 ET,St. Lawrence,2,@,Quinnipiac,5,,,ec,True,False,False,False,20222023
+Sat.,2022-11-19,3:00 ET,Clarkson,1,@,Princeton,0,,,ec,True,False,False,False,20222023
+Sat.,2022-11-19,7:30 ET,Northeastern,5,@,Holy Cross,2,,,he,True,False,False,False,20222023
+Sat.,2022-11-19,2:00 ET,Maine,1,@,Providence,5,,,he,True,False,False,False,20222023
+Sat.,2022-11-19,3:00 ET,Connecticut,2,@,Boston University,5,,,he,True,False,False,False,20222023
+Sat.,2022-11-19,2:00 ET,Boston College,3,@,New Hampshire,2,OT,,he,True,False,False,True,20222023
+Sat.,2022-11-19,2:30 ET,Franklin Pierce,2,@,Sacred Heart,1,,,new,True,False,False,False,20222023
+Sat.,2022-11-19,2:00 ET,Stonehill,2,@,LIU,3,,,new,True,False,False,False,20222023
+Sat.,2022-11-19,4:00 ET,Saint Anselm,4,@,St. Michael's,2,,,new,True,False,False,False,20222023
+Sat.,2022-11-19,3:00 ET,Penn State,1,@,Yale,2,OT,,nc,True,False,False,True,20222023
+Sat.,2022-11-19,3:00 ET,Post,0,@,RPI,9,,,nc,True,False,False,False,20222023
+Sat.,2022-11-19,3:00 CT,Harvard,0,@,Minnesota Duluth,9,,,nc,True,False,False,False,20222023
+Sat.,2022-11-19,2:00 CT,St. Thomas,1,@,Minnesota State,3,,,wc,True,False,False,False,20222023
+Sat.,2022-11-19,3:00 ET,Bemidji State,1,@,Ohio State,7,,,wc,True,False,False,False,20222023
+Sat.,2022-11-19,2:00 CT,Minnesota,3,@,Wisconsin,3,OT,,wc,True,False,False,True,20222023
+Sun.,2022-11-20,2:00 CT,Minnesota,1,@,Wisconsin,4,,,wc,True,False,False,False,20222023
+Sun.,2022-11-20,2:00 CT,Minnesota State,2,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Tue.,2022-11-22,6:00 ET,St. Lawrence,4,@,Mercyhurst,6,,,nc,True,False,False,False,20222023
+Tue.,2022-11-22,6:00 ET,Holy Cross,0,@,Brown,1,,,nc,True,False,False,False,20222023
+Tue.,2022-11-22,6:00 ET,Harvard,1,@,Boston College,5,,,nc,True,False,False,False,20222023
+Tue.,2022-11-22,1:00 ET,Sacred Heart,3,@,Post,1,,,nc,True,False,False,False,20222023
+Tue.,2022-11-22,6:00 ET,Colgate,4,@,Ohio State,4,OT,,nc,True,False,False,True,20222023
+Wed.,2022-11-23,2:00 ET,St. Lawrence,5,@,Mercyhurst,2,,,nc,True,False,False,False,20222023
+Wed.,2022-11-23,3:00 ET,Colgate,2,@,Ohio State,6,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,3:00 ET,Post,0,@,Syracuse,10,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,7:10 CT,St. Cloud State,7,@,Lindenwood,2,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,6:00 ET,Maine,1,@,Clarkson,8,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,5:00 ET,RPI,1,@,Stonehill,3,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,3:00 ET,Bemidji State,0,@,Quinnipiac,5,,,nc,True,False,False,False,20222023
+Fri.,2022-11-25,6:00 ET,Sacred Heart,2,vs,Connecticut,3,OT,,nc,True,True,False,True,20222023
+Fri.,2022-11-25,3:00 CT,Princeton,1,vs,Northeastern,4,,,nc,True,True,False,False,20222023
+Fri.,2022-11-25,1:00 PT,Boston University,0,vs,Yale,2,,,nc,True,True,False,False,20222023
+Fri.,2022-11-25,4:00 PT,Penn State,1,vs,Minnesota,5,,,nc,True,True,False,False,20222023
+Sat.,2022-11-26,2:00 ET,Brown,3,@,Providence,4,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,2:00 ET,Post,1,@,Syracuse,6,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,2:10 CT,St. Cloud State,4,@,Lindenwood,2,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,2:00 ET,Maine,5,@,Clarkson,4,OT,,nc,True,False,False,True,20222023
+Sat.,2022-11-26,3:00 ET,New Hampshire,0,@,Harvard,1,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,4:00 ET,Dartmouth,2,@,Saint Anselm,1,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,1:00 ET,RPI,5,@,Stonehill,0,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,7:30 ET,Holy Cross,1,@,Franklin Pierce,4,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,6:00 ET,Connecticut,0,@,Quinnipiac,1,,,nc,True,False,False,False,20222023
+Sat.,2022-11-26,3:00 ET,Bemidji State,4,vs,Sacred Heart,1,,,nc,True,True,False,False,20222023
+Sat.,2022-11-26,3:00 CT,Cornell,1,vs,Northeastern,5,,,nc,True,True,False,False,20222023
+Sat.,2022-11-26,1:00 PT,Boston University,0,vs,Penn State,3,,,nc,True,True,False,False,20222023
+Sat.,2022-11-26,4:00 PT,Yale,4,vs,Minnesota,3,,,nc,True,True,False,False,20222023
+Sun.,2022-11-27,3:00 ET,Saint Anselm,2,@,Dartmouth,0,,,nc,True,False,False,False,20222023
+Sun.,2022-11-27,12:00 CT,Princeton,2,vs,Cornell,2,OT,,nc,True,True,False,True,20222023
+Tue.,2022-11-29,3:30 ET,Saint Anselm,4,@,Post,2,,,new,True,False,False,False,20222023
+Tue.,2022-11-29,7:00 ET,Dartmouth,1,@,Vermont,4,,,nc,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,RIT,1,@,Mercyhurst,5,,,ch,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Cornell,4,@,Yale,4,OT,,ec,True,False,False,True,20222023
+Fri.,2022-12-02,6:00 ET,Colgate,5,@,Brown,2,,,ec,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Princeton,5,@,RPI,1,,,ec,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Quinnipiac,5,@,Union,0,,,ec,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Harvard,1,@,Clarkson,5,,,ec,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Dartmouth,2,@,St. Lawrence,4,,,ec,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Boston College,2,@,Holy Cross,1,OT,,he,True,False,False,True,20222023
+Fri.,2022-12-02,2:00 ET,Connecticut,0,@,New Hampshire,4,,,he,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Merrimack,2,@,Providence,4,,,he,True,False,False,False,20222023
+Fri.,2022-12-02,7:00 ET,Maine,3,@,Boston University,0,,,he,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 ET,Vermont,1,@,Northeastern,3,,,he,True,False,False,False,20222023
+Fri.,2022-12-02,7:45 ET,Sacred Heart,0,@,LIU,2,,,new,True,False,False,False,20222023
+Fri.,2022-12-02,2:00 ET,Post,2,@,Franklin Pierce,1,,,new,True,False,False,False,20222023
+Fri.,2022-12-02,5:00 ET,Lindenwood,1,@,Stonehill,2,OT,,nc,True,False,False,True,20222023
+Fri.,2022-12-02,3:00 CT,Wisconsin,13,@,Bemidji State,1,,,wc,True,False,False,False,20222023
+Fri.,2022-12-02,3:00 ET,Ohio State,2,@,Minnesota Duluth,1,,,wc,True,False,False,False,20222023
+Fri.,2022-12-02,3:00 CT,St. Thomas,2,@,St. Cloud State,3,,,wc,True,False,False,False,20222023
+Fri.,2022-12-02,6:00 CT,Minnesota State,1,@,Minnesota,4,,,wc,True,False,False,False,20222023
+Sat.,2022-12-03,1:00 ET,Syracuse,0,@,Penn State,4,,,ch,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 ET,RIT,1,@,Mercyhurst,7,,,ch,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Princeton,1,@,Union,4,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Colgate,5,@,Yale,3,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Cornell,4,@,Brown,2,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Quinnipiac,3,@,RPI,0,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Dartmouth,0,@,Clarkson,5,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Harvard,2,@,St. Lawrence,1,,,ec,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Maine,3,@,Boston University,2,,,he,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 ET,Holy Cross,2,@,Boston College,4,,,he,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 ET,Merrimack,1,@,Providence,4,,,he,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 ET,Connecticut,1,@,New Hampshire,0,,,he,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Vermont,1,@,Northeastern,5,,,he,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 ET,Post,2,@,Franklin Pierce,7,,,new,True,False,False,False,20222023
+Sat.,2022-12-03,1:00 ET,Lindenwood,3,@,Stonehill,5,,,nc,True,False,False,False,20222023
+Sat.,2022-12-03,3:00 ET,Ohio State,4,@,Minnesota Duluth,5,OT,,wc,True,False,False,True,20222023
+Sat.,2022-12-03,2:00 CT,Wisconsin,4,@,Bemidji State,1,,,wc,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 CT,St. Cloud State,6,@,St. Thomas,3,,,wc,True,False,False,False,20222023
+Sat.,2022-12-03,2:00 CT,Minnesota,6,@,Minnesota State,0,,,wc,True,False,False,False,20222023
+Sun.,2022-12-04,2:00 ET,Syracuse,3,@,Penn State,11,,,ch,True,False,False,False,20222023
+Tue.,2022-12-06,7:00 ET,Post,2,@,Wesleyan,4,,,nc,True,False,False,False,20222023
+Wed.,2022-12-07,7:00 ET,Dartmouth,2,@,Merrimack,1,OT,,nc,True,False,False,True,20222023
+Fri.,2022-12-09,6:00 ET,RPI,0,@,Yale,3,,,ec,True,False,False,False,20222023
+Fri.,2022-12-09,6:00 ET,Union,1,@,Brown,3,,,ec,True,False,False,False,20222023
+Fri.,2022-12-09,7:00 ET,Holy Cross,2,@,Boston University,3,OT,,he,True,False,False,True,20222023
+Fri.,2022-12-09,3:00 ET,Franklin Pierce,2,@,LIU,2,OT,,new,True,False,False,True,20222023
+Fri.,2022-12-09,6:00 ET,Sacred Heart,1,@,St. Michael's,0,,,new,True,False,False,False,20222023
+Fri.,2022-12-09,3:00 ET,Princeton,6,@,Mercyhurst,5,OT,,nc,True,False,False,True,20222023
+Fri.,2022-12-09,6:00 ET,Vermont,3,@,Syracuse,1,,,nc,True,False,False,False,20222023
+Fri.,2022-12-09,6:00 ET,Quinnipiac,3,@,Providence,2,,,nc,True,False,False,False,20222023
+Fri.,2022-12-09,6:00 CT,St. Cloud State,0,@,Minnesota,6,,,wc,True,False,False,False,20222023
+Fri.,2022-12-09,6:00 CT,Wisconsin,5,@,Minnesota State,2,,,wc,True,False,False,False,20222023
+Fri.,2022-12-09,3:00 CT,St. Thomas,1,@,Minnesota Duluth,8,,,wc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 ET,Union,1,@,Yale,6,,,ec,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 ET,RPI,3,@,Brown,0,,,ec,True,False,False,False,20222023
+Sat.,2022-12-10,2:00 ET,Franklin Pierce,2,@,LIU,4,,,new,True,False,False,False,20222023
+Sat.,2022-12-10,4:00 ET,Sacred Heart,4,@,St. Michael's,0,,,new,True,False,False,False,20222023
+Sat.,2022-12-10,2:00 ET,Princeton,5,@,Mercyhurst,1,,,nc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 ET,Vermont,2,@,Syracuse,1,,,nc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 ET,Providence,3,@,Quinnipiac,2,,,nc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 ET,Merrimack,4,@,Dartmouth,3,,,nc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 CT,Wisconsin,5,@,Minnesota State,1,,,wc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 CT,Minnesota,9,@,St. Cloud State,0,,,wc,True,False,False,False,20222023
+Sat.,2022-12-10,3:00 CT,St. Thomas,1,@,Minnesota Duluth,1,OT,,wc,True,False,False,True,20222023
+Fri.,2022-12-16,7:30 ET,Union,3,@,Franklin Pierce,4,OT,,nc,True,False,False,True,20222023
+Fri.,2022-12-16,7:45 ET,Minnesota State,8,@,LIU,1,,,nc,True,False,False,False,20222023
+Fri.,2022-12-16,2:00 CT,Bemidji State,1,@,St. Thomas,3,,,wc,True,False,False,False,20222023
+Sat.,2022-12-17,7:00 ET,Ohio State,4,@,Cornell,3,,,nc,True,False,False,False,20222023
+Sat.,2022-12-17,3:00 ET,Union,3,@,Franklin Pierce,1,,,nc,True,False,False,False,20222023
+Sat.,2022-12-17,2:00 ET,Minnesota State,5,@,LIU,1,,,nc,True,False,False,False,20222023
+Sat.,2022-12-17,2:00 CT,Bemidji State,2,@,St. Thomas,5,,,wc,True,False,False,False,20222023
+Sun.,2022-12-18,1:00 ET,Ohio State,4,@,Cornell,0,,,nc,True,False,False,False,20222023
+Fri.,2022-12-30,2:00 ET,LIU,3,@,Penn State,4,,,nc,True,False,False,False,20222023
+Fri.,2022-12-30,7:10 CT,Ohio State,9,@,Lindenwood,1,,,nc,True,False,False,False,20222023
+Fri.,2022-12-30,2:00 ET,Dartmouth,3,@,Stonehill,2,,,nc,True,False,False,False,20222023
+Sat.,2022-12-31,1:00 ET,LIU,1,@,Penn State,4,,,nc,True,False,False,False,20222023
+Sat.,2022-12-31,2:10 CT,Ohio State,6,@,Lindenwood,0,,,nc,True,False,False,False,20222023
+Sat.,2022-12-31,2:00 ET,Connecticut,3,@,Brown,0,,,nc,True,False,False,False,20222023
+Sat.,2022-12-31,3:00 ET,Wisconsin,3,@,Quinnipiac,0,,,nc,True,False,False,False,20222023
+Sat.,2022-12-31,5:00 ET,Merrimack,4,@,Saint Anselm,2,,,nc,True,False,False,False,20222023
+Sun.,2023-01-01,3:00 ET,Wisconsin,0,@,Quinnipiac,3,,,nc,True,False,False,False,20222023
+Mon.,2023-01-02,3:00 ET,Mercyhurst,1,@,Yale,3,,,nc,True,False,False,False,20222023
+Mon.,2023-01-02,1:00 ET,St. Michael's,1,@,Union,6,,,nc,True,False,False,False,20222023
+Mon.,2023-01-02,6:00 ET,Saint Anselm,2,@,New Hampshire,4,,,nc,True,False,False,False,20222023
+Tue.,2023-01-03,3:00 ET,Mercyhurst,0,@,Yale,5,,,nc,True,False,False,False,20222023
+Tue.,2023-01-03,11:00am ET,Sacred Heart,4,@,St. Michael's,0,,,nc,True,False,False,False,20222023
+Thu.,2023-01-05,6:00 ET,Maine,1,@,Boston College,4,,,he,True,False,False,False,20222023
+Thu.,2023-01-05,1:00 ET,Mercyhurst,13,@,Post,0,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,Brown,0,@,St. Lawrence,5,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,Yale,3,@,Clarkson,1,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,3:00 ET,Harvard,1,@,Quinnipiac,3,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,3:00 ET,Dartmouth,2,@,Princeton,5,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,RPI,0,@,Colgate,4,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,Union,2,@,Cornell,7,,,ec,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,Providence,0,@,Vermont,2,,,he,True,False,False,False,20222023
+Fri.,2023-01-06,6:30 ET,Boston University,2,@,Holy Cross,3,,,he,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 ET,Maine,1,@,Boston College,4,,,he,True,False,False,False,20222023
+Fri.,2023-01-06,3:00 ET,Saint Anselm,4,@,LIU,4,OT,,new,True,False,False,True,20222023
+Fri.,2023-01-06,6:00 ET,Sacred Heart,4,@,Stonehill,3,OT,,new,True,False,False,True,20222023
+Fri.,2023-01-06,7:10 CT,Minnesota State,8,@,Lindenwood,0,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,10:00am ET,Mercyhurst,8,@,Post,0,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,6:10 ET,Lake Forest,1,@,St. Michael's,0,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 CT,RIT,1,@,St. Thomas,5,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,6:00 CT,Merrimack,2,@,Minnesota,9,,,nc,True,False,False,False,20222023
+Fri.,2023-01-06,1:00 CT,New Hampshire,0,vs,St. Cloud State,3,,,nc,True,True,False,False,20222023
+Sat.,2023-01-07,3:00 ET,Yale,4,@,St. Lawrence,2,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,3:00 ET,Union,0,@,Colgate,10,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,3:00 ET,Harvard,0,@,Princeton,3,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,3:00 ET,Brown,1,@,Clarkson,2,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,3:00 ET,Dartmouth,2,@,Quinnipiac,3,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,3:00 ET,RPI,0,@,Cornell,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-07,4:00 ET,Providence,1,@,Vermont,4,,,he,True,False,False,False,20222023
+Sat.,2023-01-07,2:00 ET,Saint Anselm,1,@,LIU,2,OT,,new,True,False,False,True,20222023
+Sat.,2023-01-07,2:00 ET,Sacred Heart,1,@,Stonehill,2,,,new,True,False,False,False,20222023
+Sat.,2023-01-07,2:10 CT,Minnesota State,5,@,Lindenwood,2,,,nc,True,False,False,False,20222023
+Sat.,2023-01-07,6:00 CT,RIT,0,@,St. Thomas,3,,,nc,True,False,False,False,20222023
+Sat.,2023-01-07,4:30 CT,New Hampshire,1,@,Minnesota,8,,,nc,True,False,False,False,20222023
+Sat.,2023-01-07,1:00 CT,Merrimack,1,vs,St. Cloud State,3,,,nc,True,True,False,False,20222023
+Sat.,2023-01-07,1:00 CT,Minnesota Duluth,3,@,Wisconsin,1,,,wc,True,False,False,False,20222023
+Sun.,2023-01-08,3:00 ET,Boston University,0,@,Northeastern,6,,,he,True,False,False,False,20222023
+Sun.,2023-01-08,12:00 CT,Minnesota Duluth,1,@,Wisconsin,0,,,wc,True,False,False,False,20222023
+Tue.,2023-01-10,12:00 ET,St. Lawrence,2,@,Harvard,2,OT,,ec,True,False,False,True,20222023
+Tue.,2023-01-10,1:00 ET,St. Michael's,1,@,Post,1,OT,,new,True,False,False,True,20222023
+Tue.,2023-01-10,6:00 ET,Colgate,5,@,Syracuse,2,,,nc,True,False,False,False,20222023
+Tue.,2023-01-10,3:00 ET,Yale,6,@,Saint Anselm,0,,,nc,True,False,False,False,20222023
+Wed.,2023-01-11,11:20am ET,St. Michael's,3,@,Post,7,,,new,True,False,False,False,20222023
+Thu.,2023-01-12,6:00 ET,Brown,1,@,Yale,4,,,ec,True,False,False,False,20222023
+Fri.,2023-01-13,7:10 CT,Mercyhurst,4,@,Lindenwood,3,OT,,ch,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,RIT,2,@,Penn State,4,,,ch,True,False,False,False,20222023
+Fri.,2023-01-13,6:00 ET,Clarkson,2,@,RPI,1,OT,,ec,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,Quinnipiac,2,@,Colgate,1,OT,,ec,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,Princeton,1,@,Cornell,4,,,ec,True,False,False,False,20222023
+Fri.,2023-01-13,6:00 ET,St. Lawrence,3,@,Union,0,,,ec,True,False,False,False,20222023
+Fri.,2023-01-13,3:00 ET,Harvard,3,@,Dartmouth,2,OT,,ec,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,Vermont,3,@,Providence,0,,,he,True,False,False,False,20222023
+Fri.,2023-01-13,3:00 ET,Boston College,0,@,Northeastern,1,OT,,he,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,Maine,4,@,New Hampshire,5,,,he,True,False,False,False,20222023
+Fri.,2023-01-13,1:00 ET,Boston University,1,@,Holy Cross,2,OT,,he,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 ET,Merrimack,2,@,Connecticut,4,,,he,True,False,False,False,20222023
+Fri.,2023-01-13,3:00 ET,Post,1,@,LIU,7,,,new,True,False,False,False,20222023
+Fri.,2023-01-13,7:30 ET,Stonehill,6,@,Franklin Pierce,3,,,new,True,False,False,False,20222023
+Fri.,2023-01-13,6:00 CT,Bemidji State,1,@,Minnesota Duluth,8,,,wc,True,False,False,False,20222023
+Fri.,2023-01-13,6:00 CT,St. Thomas,0,@,Minnesota,5,,,wc,True,False,False,False,20222023
+Fri.,2023-01-13,6:00 ET,Wisconsin,1,@,Ohio State,2,OT,,wc,True,False,False,True,20222023
+Fri.,2023-01-13,6:00 CT,St. Cloud State,1,@,Minnesota State,3,,,wc,True,False,False,False,20222023
+Sat.,2023-01-14,1:10 CT,Mercyhurst,3,@,Lindenwood,2,,,ch,True,False,False,False,20222023
+Sat.,2023-01-14,2:00 ET,RIT,2,@,Penn State,2,OT,,ch,True,False,False,True,20222023
+Sat.,2023-01-14,3:00 ET,Quinnipiac,6,@,Cornell,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,St. Lawrence,0,@,RPI,2,,,ec,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,Clarkson,7,@,Union,0,,,ec,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,Princeton,2,@,Colgate,6,,,ec,True,False,False,False,20222023
+Sat.,2023-01-14,2:00 ET,Yale,4,@,Brown,0,,,ec,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,Vermont,1,@,Connecticut,4,,,he,True,False,False,False,20222023
+Sat.,2023-01-14,2:00 ET,Providence,5,@,Merrimack,2,,,he,True,False,False,False,20222023
+Sat.,2023-01-14,6:00 ET,Boston College,3,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,Maine,0,@,Northeastern,5,,,he,True,False,False,False,20222023
+Sat.,2023-01-14,6:15 ET,LIU,4,@,Post,0,,,new,True,False,False,False,20222023
+Sat.,2023-01-14,5:00 ET,Franklin Pierce,1,@,Stonehill,4,,,new,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 CT,Bemidji State,0,@,Minnesota Duluth,5,,,wc,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 ET,Wisconsin,0,@,Ohio State,5,,,wc,True,False,False,False,20222023
+Sat.,2023-01-14,2:00 CT,St. Thomas,1,@,Minnesota,4,,,wc,True,False,False,False,20222023
+Sat.,2023-01-14,3:00 CT,St. Cloud State,1,@,Minnesota State,4,,,wc,True,False,False,False,20222023
+Sun.,2023-01-15,3:00 ET,Harvard,1,@,Sacred Heart,2,OT,,nc,True,False,False,True,20222023
+Tue.,2023-01-17,6:00 ET,Connecticut,3,@,Boston College,1,,,he,True,False,False,False,20222023
+Tue.,2023-01-17,7:00 ET,Providence,2,@,Boston University,2,OT,,he,True,False,False,True,20222023
+Tue.,2023-01-17,6:00 ET,St. Lawrence,1,@,RIT,2,,,nc,True,False,False,False,20222023
+Tue.,2023-01-17,6:00 ET,Cornell,4,@,Syracuse,1,,,nc,True,False,False,False,20222023
+Fri.,2023-01-20,7:10 CT,Syracuse,4,@,Lindenwood,1,,,ch,True,False,False,False,20222023
+Fri.,2023-01-20,2:00 ET,Cornell,3,@,Colgate,9,,,ec,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,RPI,1,@,Harvard,3,,,ec,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Clarkson,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20222023
+Fri.,2023-01-20,6:00 ET,Brown,1,@,Quinnipiac,3,,,ec,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Yale,3,@,Princeton,1,,,ec,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Union,1,@,Dartmouth,3,,,ec,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Connecticut,2,@,Providence,2,OT,,he,True,False,False,True,20222023
+Fri.,2023-01-20,6:00 ET,Boston College,3,@,New Hampshire,5,,,he,True,False,False,False,20222023
+Fri.,2023-01-20,2:00 ET,Northeastern,3,@,Merrimack,1,,,he,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Holy Cross,1,@,Vermont,3,,,he,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Boston University,3,@,Maine,3,OT,,he,True,False,False,True,20222023
+Fri.,2023-01-20,2:00 ET,Post,2,@,Sacred Heart,3,,,new,True,False,False,False,20222023
+Fri.,2023-01-20,6:10 ET,Franklin Pierce,2,@,St. Michael's,0,,,new,True,False,False,False,20222023
+Fri.,2023-01-20,6:00 ET,Saint Anselm,5,@,Stonehill,3,,,new,True,False,False,False,20222023
+Fri.,2023-01-20,3:00 CT,Minnesota,7,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Fri.,2023-01-20,3:00 CT,Ohio State,6,@,St. Cloud State,2,,,wc,True,False,False,False,20222023
+Sat.,2023-01-21,1:10 CT,Syracuse,3,@,Lindenwood,6,,,ch,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,Brown,4,@,Princeton,3,OT,,ec,True,False,False,True,20222023
+Sat.,2023-01-21,3:00 ET,Union,3,@,Harvard,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,RPI,2,@,Dartmouth,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,Yale,4,@,Quinnipiac,2,,,ec,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,St. Lawrence,1,@,Clarkson,3,,,ec,True,False,False,False,20222023
+Sat.,2023-01-21,2:00 ET,Colgate,2,@,Cornell,4,,,ec,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,Boston College,1,@,Maine,2,OT,,he,True,False,False,True,20222023
+Sat.,2023-01-21,2:00 ET,Boston University,3,@,New Hampshire,1,,,he,True,False,False,False,20222023
+Sat.,2023-01-21,4:00 ET,Holy Cross,5,@,Merrimack,1,,,he,True,False,False,False,20222023
+Sat.,2023-01-21,4:00 ET,Northeastern,3,@,Vermont,1,,,he,True,False,False,False,20222023
+Sat.,2023-01-21,2:00 ET,Post,2,@,Sacred Heart,3,,,new,True,False,False,False,20222023
+Sat.,2023-01-21,3:00 ET,Stonehill,8,@,Saint Anselm,3,,,new,True,False,False,False,20222023
+Sat.,2023-01-21,4:00 ET,Franklin Pierce,4,@,St. Michael's,1,,,new,True,False,False,False,20222023
+Sat.,2023-01-21,2:00 CT,Ohio State,3,@,St. Cloud State,2,OT,,wc,True,False,False,True,20222023
+Sat.,2023-01-21,2:00 CT,Minnesota,4,@,Bemidji State,1,,,wc,True,False,False,False,20222023
+Sat.,2023-01-21,6:00 CT,Minnesota Duluth,3,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Sat.,2023-01-21,7:00 CT,Minnesota State,1,@,Wisconsin,2,,,wc,True,False,False,False,20222023
+Sun.,2023-01-22,5:00 ET,Penn State,5,@,Mercyhurst,2,,,ch,True,False,False,False,20222023
+Sun.,2023-01-22,2:00 CT,Minnesota Duluth,5,@,St. Thomas,1,,,wc,True,False,False,False,20222023
+Sun.,2023-01-22,3:00 CT,Minnesota State,0,@,Wisconsin,6,,,wc,True,False,False,False,20222023
+Mon.,2023-01-23,2:00 ET,Penn State,3,@,Mercyhurst,2,OT,,ch,True,False,False,True,20222023
+Tue.,2023-01-24,6:00 ET,Syracuse,3,@,RIT,5,,,ch,True,False,False,False,20222023
+Wed.,2023-01-25,6:00 ET,RIT,1,@,Syracuse,4,,,ch,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Lindenwood,1,@,Penn State,5,,,ch,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Harvard,7,@,Cornell,6,,,ec,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Dartmouth,0,@,Colgate,7,,,ec,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Union,1,@,RPI,2,,,ec,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Clarkson,3,@,Brown,1,,,ec,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,St. Lawrence,1,@,Yale,6,,,ec,True,False,False,False,20222023
+Fri.,2023-01-27,7:00 ET,Merrimack,1,@,Boston University,4,,,he,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Providence,7,@,New Hampshire,4,,,he,True,False,False,False,20222023
+Fri.,2023-01-27,3:00 ET,Holy Cross,0,@,Northeastern,4,,,he,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Vermont,3,@,Boston College,2,,,he,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Connecticut,4,@,Maine,5,OT,,he,True,False,False,True,20222023
+Fri.,2023-01-27,3:00 ET,St. Michael's,0,@,LIU,6,,,new,True,False,False,False,20222023
+Fri.,2023-01-27,4:00 ET,Franklin Pierce,4,@,Saint Anselm,4,OT,,new,True,False,False,True,20222023
+Fri.,2023-01-27,8:00 ET,Stonehill,7,@,Post,1,,,new,True,False,False,False,20222023
+Fri.,2023-01-27,3:00 CT,Minnesota,3,@,Minnesota Duluth,1,,,wc,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 CT,Bemidji State,0,@,St. Cloud State,2,,,wc,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 ET,Minnesota State,2,@,Ohio State,6,,,wc,True,False,False,False,20222023
+Fri.,2023-01-27,6:00 CT,Wisconsin,6,@,St. Thomas,1,,,wc,True,False,False,False,20222023
+Sat.,2023-01-28,2:00 ET,Lindenwood,3,@,Penn State,6,,,ch,True,False,False,False,20222023
+Sat.,2023-01-28,1:00 ET,Syracuse,1,@,Mercyhurst,6,,,ch,True,False,False,False,20222023
+Sat.,2023-01-28,1:00 ET,Princeton,0,@,Quinnipiac,4,,,ec,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 ET,Clarkson,0,@,Yale,3,,,ec,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 ET,Dartmouth,5,@,Cornell,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 ET,Harvard,1,@,Colgate,3,,,ec,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 ET,St. Lawrence,6,@,Brown,1,,,ec,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 ET,Vermont,1,@,Boston University,2,OT,,he,True,False,False,True,20222023
+Sat.,2023-01-28,2:00 ET,Merrimack,0,@,Boston College,4,,,he,True,False,False,False,20222023
+Sat.,2023-01-28,6:00 ET,Providence,4,@,Maine,4,OT,,he,True,False,False,True,20222023
+Sat.,2023-01-28,3:00 ET,Union,1,vs,RPI,3,,,nc,True,True,False,False,20222023
+Sat.,2023-01-28,2:30 ET,Stonehill,4,@,Post,1,,,new,True,False,False,False,20222023
+Sat.,2023-01-28,2:00 ET,St. Michael's,1,@,LIU,8,,,new,True,False,False,False,20222023
+Sat.,2023-01-28,7:30 ET,Saint Anselm,2,@,Franklin Pierce,3,OT,,new,True,False,False,True,20222023
+Sat.,2023-01-28,3:00 ET,Minnesota State,2,@,Ohio State,4,,,wc,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 CT,Bemidji State,1,@,St. Cloud State,2,,,wc,True,False,False,False,20222023
+Sat.,2023-01-28,6:00 CT,Wisconsin,3,@,St. Thomas,0,,,wc,True,False,False,False,20222023
+Sat.,2023-01-28,3:00 CT,Minnesota,4,@,Minnesota Duluth,3,,,wc,True,False,False,False,20222023
+Sun.,2023-01-29,1:00 ET,Syracuse,1,@,Mercyhurst,1,OT,,ch,True,False,False,True,20222023
+Sun.,2023-01-29,2:00 ET,Quinnipiac,3,@,Princeton,11,,,ec,True,False,False,False,20222023
+Sun.,2023-01-29,3:00 ET,New Hampshire,3,@,Connecticut,0,,,he,True,False,False,False,20222023
+Tue.,2023-01-31,6:00 ET,St. Lawrence,3,@,Colgate,3,OT,,ec,True,False,False,True,20222023
+Tue.,2023-01-31,4:00 ET,Post,2,@,Sacred Heart,2,OT,,nc,True,False,False,True,20222023
+Fri.,2023-02-03,6:00 ET,Mercyhurst,1,@,RIT,1,OT,,ch,True,False,False,True,20222023
+Fri.,2023-02-03,6:00 ET,Penn State,7,@,Syracuse,0,,,ch,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Colgate,2,@,St. Lawrence,1,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Cornell,1,@,Clarkson,2,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Princeton,3,@,Harvard,2,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Brown,4,@,RPI,1,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,3:00 ET,Quinnipiac,8,@,Dartmouth,0,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Yale,10,@,Union,1,,,ec,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Merrimack,2,@,Vermont,6,,,he,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Maine,1,@,Holy Cross,2,OT,,he,True,False,False,True,20222023
+Fri.,2023-02-03,7:00 ET,Connecticut,2,@,Boston University,2,OT,,he,True,False,False,True,20222023
+Fri.,2023-02-03,6:00 ET,New Hampshire,1,@,Northeastern,4,,,he,True,False,False,False,20222023
+Fri.,2023-02-03,6:00 ET,Providence,0,@,Boston College,3,,,he,True,False,False,False,20222023
+Fri.,2023-02-03,7:30 ET,Sacred Heart,1,@,Franklin Pierce,3,,,new,True,False,False,False,20222023
+Fri.,2023-02-03,4:00 ET,St. Michael's,1,@,Saint Anselm,1,OT,,new,True,False,False,True,20222023
+Fri.,2023-02-03,6:00 ET,LIU,2,@,Stonehill,0,,,new,True,False,False,False,20222023
+Fri.,2023-02-03,3:00 CT,St. Thomas,3,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Fri.,2023-02-03,7:00 CT,St. Cloud State,1,@,Wisconsin,0,,,wc,True,False,False,False,20222023
+Fri.,2023-02-03,3:00 CT,Minnesota Duluth,4,@,Minnesota State,3,OT,,wc,True,False,False,True,20222023
+Fri.,2023-02-03,6:00 CT,Ohio State,2,@,Minnesota,4,,,wc,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 ET,Penn State,4,@,Syracuse,1,,,ch,True,False,False,False,20222023
+Sat.,2023-02-04,2:00 ET,Mercyhurst,3,@,RIT,0,,,ch,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 ET,Colgate,2,@,Clarkson,0,,,ec,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 ET,Brown,2,@,Union,0,,,ec,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 ET,Princeton,2,@,Dartmouth,1,,,ec,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 ET,Cornell,2,@,St. Lawrence,3,OT,,ec,True,False,False,True,20222023
+Sat.,2023-02-04,3:00 ET,Yale,4,@,RPI,2,,,ec,True,False,False,False,20222023
+Sat.,2023-02-04,2:00 ET,LIU,2,@,Stonehill,2,OT,,new,True,False,False,True,20222023
+Sat.,2023-02-04,1:00 ET,St. Michael's,4,@,Saint Anselm,5,,,new,True,False,False,False,20222023
+Sat.,2023-02-04,4:00 ET,Sacred Heart,1,@,Franklin Pierce,7,,,new,True,False,False,False,20222023
+Sat.,2023-02-04,3:00 CT,St. Cloud State,2,@,Wisconsin,3,,,wc,True,False,False,False,20222023
+Sat.,2023-02-04,2:00 CT,Minnesota Duluth,0,@,Minnesota State,0,OT,,wc,True,False,False,True,20222023
+Sat.,2023-02-04,2:00 CT,St. Thomas,1,@,Bemidji State,4,,,wc,True,False,False,False,20222023
+Sat.,2023-02-04,2:00 CT,Ohio State,5,@,Minnesota,1,,,wc,True,False,False,False,20222023
+Sun.,2023-02-05,2:00 ET,New Hampshire,7,@,Holy Cross,4,,,he,True,False,False,False,20222023
+Tue.,2023-02-07,7:30 ET,Harvard,0,@,Boston College,3,,,nc,True,False,False,False,20222023
+Tue.,2023-02-07,5:00 ET,Boston University,1,vs,Northeastern,4,,,nc,True,True,False,False,20222023
+Fri.,2023-02-10,6:00 ET,Mercyhurst,2,@,Syracuse,0,,,ch,True,False,False,False,20222023
+Fri.,2023-02-10,7:10 CT,RIT,2,@,Lindenwood,4,,,ch,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,Union,2,@,Princeton,3,OT,,ec,True,False,False,True,20222023
+Fri.,2023-02-10,3:00 ET,Yale,3,@,Colgate,5,,,ec,True,False,False,False,20222023
+Fri.,2023-02-10,3:00 ET,Brown,2,@,Cornell,4,,,ec,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,RPI,1,@,Quinnipiac,2,,,ec,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,Clarkson,4,@,Harvard,2,,,ec,True,False,False,False,20222023
+Fri.,2023-02-10,3:00 ET,St. Lawrence,7,@,Dartmouth,3,,,ec,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,Northeastern,3,@,Connecticut,2,OT,,he,True,False,False,True,20222023
+Fri.,2023-02-10,2:00 ET,Holy Cross,1,@,Providence,3,,,he,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,New Hampshire,3,@,Vermont,3,OT,,he,True,False,False,True,20222023
+Fri.,2023-02-10,6:00 ET,Maine,1,@,Merrimack,0,,,he,True,False,False,False,20222023
+Fri.,2023-02-10,2:00 ET,Franklin Pierce,2,@,Post,3,OT,,new,True,False,False,True,20222023
+Fri.,2023-02-10,2:00 ET,LIU,2,@,Sacred Heart,1,,,new,True,False,False,False,20222023
+Fri.,2023-02-10,4:00 ET,Stonehill,3,@,St. Michael's,1,,,new,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 ET,St. Thomas,1,@,Ohio State,6,,,wc,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 CT,Wisconsin,2,@,Minnesota,2,OT,,wc,True,False,False,True,20222023
+Fri.,2023-02-10,6:00 CT,Bemidji State,2,@,Minnesota State,3,,,wc,True,False,False,False,20222023
+Fri.,2023-02-10,6:00 CT,St. Cloud State,1,@,Minnesota Duluth,1,OT,,wc,True,False,False,True,20222023
+Sat.,2023-02-11,1:10 CT,RIT,2,@,Lindenwood,3,OT,,ch,True,False,False,True,20222023
+Sat.,2023-02-11,3:00 ET,Mercyhurst,4,@,Syracuse,2,,,ch,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 ET,Brown,1,@,Colgate,3,,,ec,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 ET,Yale,3,@,Cornell,2,OT,,ec,True,False,False,True,20222023
+Sat.,2023-02-11,3:00 ET,RPI,3,@,Princeton,4,OT,,ec,True,False,False,True,20222023
+Sat.,2023-02-11,3:00 ET,Union,1,@,Quinnipiac,5,,,ec,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 ET,Clarkson,4,@,Dartmouth,0,,,ec,True,False,False,False,20222023
+Sat.,2023-02-11,4:00 ET,Maine,0,@,Vermont,3,,,he,True,False,False,False,20222023
+Sat.,2023-02-11,4:00 ET,New Hampshire,3,@,Merrimack,3,OT,,he,True,False,False,True,20222023
+Sat.,2023-02-11,6:00 ET,Boston College,2,@,Boston University,1,,,he,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 ET,Holy Cross,2,@,Connecticut,1,,,he,True,False,False,False,20222023
+Sat.,2023-02-11,2:30 ET,Franklin Pierce,8,@,Post,0,,,new,True,False,False,False,20222023
+Sat.,2023-02-11,7:00 ET,Sacred Heart,2,@,LIU,1,,,new,True,False,False,False,20222023
+Sat.,2023-02-11,1:00 ET,Stonehill,5,@,St. Michael's,1,,,new,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 CT,St. Cloud State,0,@,Minnesota Duluth,2,,,wc,True,False,False,False,20222023
+Sat.,2023-02-11,2:00 CT,Wisconsin,7,@,Minnesota,5,,,wc,True,False,False,False,20222023
+Sat.,2023-02-11,3:00 CT,Bemidji State,0,@,Minnesota State,4,,,wc,True,False,False,False,20222023
+Sat.,2023-02-11,1:00 ET,St. Thomas,0,@,Ohio State,5,,,wc,True,False,False,False,20222023
+Tue.,2023-02-14,5:00 ET,Harvard,4,vs,Boston University,7,,,nc,True,True,False,False,20222023
+Tue.,2023-02-14,7:30 ET,Northeastern,2,@,Boston College,1,,,nc,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Lindenwood,0,@,Mercyhurst,3,,,ch,True,False,False,False,20222023
+Fri.,2023-02-17,2:00 ET,Penn State,8,@,RIT,1,,,ch,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Princeton,4,@,Clarkson,5,OT,,ec,True,False,False,True,20222023
+Fri.,2023-02-17,6:00 ET,Colgate,6,@,Union,0,,,ec,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Cornell,6,@,RPI,2,,,ec,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Quinnipiac,1,@,St. Lawrence,4,,,ec,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Dartmouth,1,@,Yale,6,,,ec,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Harvard,1,@,Brown,4,,,ec,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Holy Cross,0,@,Connecticut,3,,,he,True,False,False,False,20222023
+Fri.,2023-02-17,7:00 ET,Northeastern,5,@,Boston University,1,,,he,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 ET,Merrimack,2,@,Maine,5,,,he,True,False,False,False,20222023
+Fri.,2023-02-17,2:00 ET,Vermont,3,@,New Hampshire,3,OT,,he,True,False,False,True,20222023
+Fri.,2023-02-17,2:00 ET,Boston College,5,@,Providence,2,,,he,True,False,False,False,20222023
+Fri.,2023-02-17,2:00 ET,LIU,2,@,Franklin Pierce,3,,,new,True,False,False,False,20222023
+Fri.,2023-02-17,7:00 ET,Post,1,@,Saint Anselm,7,,,new,True,False,False,False,20222023
+Fri.,2023-02-17,7:00 ET,St. Michael's,3,@,Sacred Heart,4,OT,,new,True,False,False,True,20222023
+Fri.,2023-02-17,3:00 CT,Minnesota Duluth,6,@,Bemidji State,0,,,wc,True,False,False,False,20222023
+Fri.,2023-02-17,6:00 CT,Minnesota,2,@,St. Thomas,1,OT,,wc,True,False,False,True,20222023
+Fri.,2023-02-17,6:00 CT,Minnesota State,3,@,St. Cloud State,6,,,wc,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,Lindenwood,0,@,Mercyhurst,2,,,ch,True,False,False,False,20222023
+Sat.,2023-02-18,1:00 ET,Penn State,3,@,RIT,1,,,ch,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Quinnipiac,1,@,Clarkson,2,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Princeton,1,@,St. Lawrence,3,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Colgate,6,@,RPI,1,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Cornell,3,@,Union,1,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Dartmouth,2,@,Brown,1,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Harvard,1,@,Yale,10,,,ec,True,False,False,False,20222023
+Sat.,2023-02-18,6:00 ET,Connecticut,3,@,Holy Cross,0,,,he,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,Providence,3,@,Boston College,0,,,he,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,Merrimack,3,@,Maine,1,,,he,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,Vermont,3,@,New Hampshire,1,,,he,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 ET,Boston University,0,@,Northeastern,4,,,he,True,False,False,False,20222023
+Sat.,2023-02-18,12:00 ET,LIU,0,@,Franklin Pierce,2,,,new,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,St. Michael's,0,@,Sacred Heart,0,OT,,new,True,False,False,True,20222023
+Sat.,2023-02-18,3:00 ET,Post,0,@,Saint Anselm,10,,,new,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 ET,Stonehill,2,@,Syracuse,4,,,nc,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 CT,Minnesota State,2,@,St. Cloud State,5,,,wc,True,False,False,False,20222023
+Sat.,2023-02-18,6:00 CT,Minnesota,4,@,St. Thomas,2,,,wc,True,False,False,False,20222023
+Sat.,2023-02-18,2:00 CT,Minnesota Duluth,5,@,Bemidji State,1,,,wc,True,False,False,False,20222023
+Sat.,2023-02-18,3:00 CT,Ohio State,5,@,Wisconsin,6,OT,,wc,True,False,False,True,20222023
+Sun.,2023-02-19,2:00 CT,Ohio State,3,@,Wisconsin,1,,,wc,True,False,False,False,20222023
+Wed.,2023-02-22,7:00 ET,Merrimack,5,@,Boston University,4,OT,,nc,True,False,False,True,20222023
+Wed.,2023-02-22,7:00 ET,Holy Cross,3,@,New Hampshire,6,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,1:00 ET,Syracuse,3,@,Mercyhurst,5,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,2:30 ET,Lindenwood,1,@,Penn State,4,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,3:00 ET,Cornell,1,@,Clarkson,5,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,6:00 ET,St. Lawrence,1,@,Quinnipiac,2,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,6:00 ET,Princeton,3,@,Colgate,2,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,3:00 ET,Harvard,2,@,Yale,4,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,4:00 ET,Sacred Heart,2,@,Franklin Pierce,1,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,5:00 ET,Post,1,@,Stonehill,7,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,4:00 ET,St. Michael's,4,@,Saint Anselm,3,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,7:00 CT,Minnesota State,0,@,Wisconsin,3,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,6:00 CT,St. Thomas,0,@,Minnesota,7,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,3:00 CT,St. Cloud State,0,@,Minnesota Duluth,1,,,nc,True,False,False,False,20222023
+Fri.,2023-02-24,6:00 ET,Bemidji State,1,@,Ohio State,4,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,12:30 ET,Lindenwood,1,@,Penn State,7,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,2:00 ET,Syracuse,0,@,Mercyhurst,6,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,2:00 ET,Cornell,2,@,Clarkson,1,2OT,,nc,True,False,False,True,20222023
+Sat.,2023-02-25,3:00 ET,St. Lawrence,3,@,Quinnipiac,2,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,3:00 ET,Princeton,3,@,Colgate,4,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,3:00 ET,Harvard,0,@,Yale,4,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,2:00 ET,Merrimack,1,@,Northeastern,5,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,1:00 ET,New Hampshire,1,@,Vermont,2,OT,,nc,True,False,False,True,20222023
+Sat.,2023-02-25,3:00 ET,Maine,2,@,Providence,5,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,2:30 ET,Connecticut,3,@,Boston College,4,OT,,nc,True,False,False,True,20222023
+Sat.,2023-02-25,1:00 ET,St. Michael's,0,@,Saint Anselm,8,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,1:30 ET,Post,3,@,Stonehill,4,2OT,,nc,True,False,False,True,20222023
+Sat.,2023-02-25,4:00 ET,Sacred Heart,1,@,Franklin Pierce,2,OT,,nc,True,False,False,True,20222023
+Sat.,2023-02-25,5:00 CT,St. Cloud State,1,@,Minnesota Duluth,5,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,2:00 CT,St. Thomas,2,@,Minnesota,6,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,3:00 ET,Bemidji State,1,@,Ohio State,2,,,nc,True,False,False,False,20222023
+Sat.,2023-02-25,3:00 CT,Minnesota State,1,@,Wisconsin,4,,,nc,True,False,False,False,20222023
+Sun.,2023-02-26,3:00 ET,St. Lawrence,1,@,Quinnipiac,2,OT,,nc,True,False,False,True,20222023
+Sun.,2023-02-26,3:00 ET,Princeton,1,@,Colgate,2,,,nc,True,False,False,False,20222023
+Sun.,2023-02-26,2:00 ET,Cornell,1,@,Clarkson,4,,,nc,True,False,False,False,20222023
+Sun.,2023-02-26,4:00 ET,Sacred Heart,0,@,Franklin Pierce,4,,,nc,True,False,False,False,20222023
+Sun.,2023-02-26,1:00 ET,St. Michael's,2,@,Saint Anselm,3,OT,,nc,True,False,False,True,20222023
+Wed.,2023-03-01,7:30 ET,Providence,1,@,Vermont,0,,,nc,True,False,False,False,20222023
+Wed.,2023-03-01,6:00 ET,Boston College,0,@,Northeastern,3,,,nc,True,False,False,False,20222023
+Wed.,2023-03-01,3:00 ET,Franklin Pierce,1,@,LIU,2,OT,,nc,True,False,False,True,20222023
+Wed.,2023-03-01,7:00 ET,Stonehill,2,@,Saint Anselm,4,,,nc,True,False,False,False,20222023
+Fri.,2023-03-03,3:00 ET,Clarkson,4,@,Yale,3,2OT,,nc,True,False,False,True,20222023
+Fri.,2023-03-03,6:30 ET,Quinnipiac,1,vs,Colgate,5,,,nc,True,True,False,False,20222023
+Fri.,2023-03-03,1:00 CT,Minnesota Duluth,1,vs,Ohio State,2,,,nc,True,True,False,False,20222023
+Fri.,2023-03-03,5:00 CT,Wisconsin,2,@,Minnesota,4,,,nc,True,False,False,False,20222023
+Sat.,2023-03-04,2:00 ET,Mercyhurst,1,@,Penn State,2,OT,,nc,True,False,False,True,20222023
+Sat.,2023-03-04,4:00 ET,Clarkson,2,vs,Colgate,8,,,nc,True,True,False,False,20222023
+Sat.,2023-03-04,12:00 ET,Providence,1,@,Northeastern,4,,,nc,True,False,False,False,20222023
+Sat.,2023-03-04,7:00 ET,Saint Anselm,0,@,LIU,2,,,nc,True,False,False,False,20222023
+Sat.,2023-03-04,2:00 CT,Minnesota,3,@,Ohio State,1,,,nc,True,False,False,False,20222023
+Thu.,2023-03-09,6:00 ET,Penn State,2,vs,Quinnipiac,3,3OT,,nc,True,True,False,True,20222023
+Thu.,2023-03-09,6:00 ET,Wisconsin,9,vs,LIU,1,,,nc,True,True,False,False,20222023
+Thu.,2023-03-09,6:00 CT,Clarkson,0,vs,Minnesota Duluth,2,,,nc,True,True,False,False,20222023
+Sat.,2023-03-11,3:00 ET,Northeastern,4,@,Yale,1,,,nc,True,False,False,False,20222023
+Sat.,2023-03-11,3:00 ET,Wisconsin,4,@,Colgate,2,,,nc,True,False,False,False,20222023
+Sat.,2023-03-11,5:00 ET,Quinnipiac,2,@,Ohio State,5,,,nc,True,False,False,False,20222023
+Sat.,2023-03-11,2:00 CT,Minnesota Duluth,0,@,Minnesota,3,,,nc,True,False,False,False,20222023
+Fri.,2023-03-17,2:30 CT,Northeastern,0,vs,Ohio State,3,,,nc,True,True,False,False,20222023
+Fri.,2023-03-17,6:00 CT,Wisconsin,3,vs,Minnesota,2,OT,,nc,True,True,False,True,20222023
+Sun.,2023-03-19,3:00 CT,Wisconsin,1,vs,Ohio State,0,,,nc,True,True,False,False,20222023

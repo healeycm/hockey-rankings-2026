@@ -1,0 +1,31 @@
+# Pinned to the exact versions this project's reports/backtests were
+# produced with (conda env "hockey-rankings-2026"), for reproducibility.
+# Install: pip install -r requirements.txt  (Python 3.11+)
+
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+statsmodels==0.14.6
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# Scraping
+beautifulsoup4==4.14.3
+requests==2.32.5
+selenium==4.39.0
+
+# Config / progress
+PyYAML==6.0.3
+tqdm==4.67.1
+
+# Plotting / reports
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Web app (webpage/)
+dash==3.3.0
+dash-bootstrap-components==2.0.4
+plotly==6.5.0
+
+# Testing
+pytest==9.0.2

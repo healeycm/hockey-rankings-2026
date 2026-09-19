@@ -1,0 +1,1213 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Fri.,2018-09-28,7:07 AT,Simon Fraser,1,@,Alaska Anchorage,5,,,ex,True,False,True,False,20182019
+Sat.,2018-09-29,7:07 AT,Simon Fraser,1,@,Alaska,13,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,4:35 ET,Toronto,4,@,Canisius,0,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:05 ET,Wilfrid Laurier,2,@,RIT,5,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,3:00 ET,York,5,@,Niagara,2,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,5:00 ET,Brock,2,@,Penn State,3,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,5:00 ET,Ottawa,3,@,St. Lawrence,1,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:00 ET,Prince Edward Island,2,@,Quinnipiac,5,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:00 ET,Guelph,3,@,Clarkson,4,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:00 ET,New Brunswick,1,@,Boston College,8,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,8:00 ET,Royal Military,1,@,Massachusetts,6,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:00 ET,Acadia,1,@,Boston University,7,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:07 MT,Alberta,4,@,Denver,6,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:07 CT,Manitoba,2,@,North Dakota,3,OT,,ex,True,False,True,True,20182019
+Sat.,2018-10-06,7:05 ET,Lethbridge,1,@,Western Michigan,4,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:07 CT,Lakehead,1,@,Bemidji State,5,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:07 CT,Mount Royal,3,@,Minnesota State,7,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,5:07 ET,USA Under-18 Team,1,@,Ferris State,3,,,ex,True,False,True,False,20182019
+Sat.,2018-10-06,7:05 ET,Bowling Green,8,@,Mercyhurst,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:30 ET,Vermont,5,@,Michigan,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:00 ET,Lake Superior,5,@,Merrimack,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:05 ZT,Alaska,0,@,Arizona State,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:00 ET,Army,1,@,Union,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:00 ET,aic,1,@,Providence,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:00 ET,Lake Superior,5,@,Merrimack,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:07 CT,Minnesota,1,@,Minnesota Duluth,1,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-06,7:05 ET,uah,1,@,Miami,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-06,7:07 AT,Colorado College,10,@,Alaska Anchorage,2,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,4:05 ET,Brock,2,@,Robert Morris,4,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:05 MT,Alberta,2,@,Air Force,2,OT,,ex,True,False,True,True,20182019
+Sun.,2018-10-07,4:00 ET,Windsor,1,@,Michigan State,3,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:00 CT,Victoria,2,@,Wisconsin,8,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:00 ET,USA Under-18 Team,4,@,Notre Dame,1,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,4:00 ET,Waterloo,4,@,Michigan,7,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,4:00 ET,Guelph,2,@,Colgate,5,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:00 ET,Prince Edward Island,2,@,RPI,3,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,1:00 ET,Acadia,3,@,UMass Lowell,4,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:00 CT,Mount Royal,2,@,St. Cloud State,6,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,5:07 CT,Manitoba,1,@,Omaha,6,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,3:07 ET,Lethbridge,2,@,Ferris State,5,,,ex,True,False,True,False,20182019
+Sun.,2018-10-07,7:00 CT,Minnesota Duluth,4,@,Minnesota,7,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,3:00 ZT,Alaska,0,@,Arizona State,5,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,4:00 ET,Lake Superior,1,@,Merrimack,0,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,4:00 ET,Lake Superior,1,@,Merrimack,0,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,3:00 ET,uah,0,@,Miami,4,,,nc,True,False,False,False,20182019
+Sun.,2018-10-07,5:07 AT,Colorado College,3,@,Alaska Anchorage,4,,,nc,True,False,False,False,20182019
+Mon.,2018-10-08,6:00 ET,Prince Edward Island,1,@,Maine,6,,,ex,True,False,True,False,20182019
+Tue.,2018-10-09,7:05 ET,Bowling Green,6,@,Western Michigan,2,,,nc,True,False,False,False,20182019
+Thu.,2018-10-11,7:05 ET,Laurentian,4,@,Vermont,1,,,ex,True,False,True,False,20182019
+Thu.,2018-10-11,7:00 ET,Clarkson,3,@,Penn State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ET,aic,3,@,Niagara,4,OT,,ah,True,False,False,True,20182019
+Fri.,2018-10-12,7:05 ET,Canisius,2,@,Holy Cross,4,,,ah,True,False,False,False,20182019
+Fri.,2018-10-12,7:30 ET,USA Under-18 Team,6,@,Michigan,3,,,ex,True,False,True,False,20182019
+Fri.,2018-10-12,7:07 ET,Nipissing,1,@,Lake Superior,3,,,ex,True,False,True,False,20182019
+Fri.,2018-10-12,7:30 ET,Notre Dame,6,vs,Mercyhurst,6,OT,,nc,True,True,False,True,20182019
+Fri.,2018-10-12,7:05 ET,Merrimack,1,@,Bentley,0,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ET,Merrimack,1,@,Bentley,0,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ET,Northeastern,5,@,Sacred Heart,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ET,Connecticut,5,@,Army,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 MT,Denver,4,@,Air Force,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ET,Bowling Green,2,@,Robert Morris,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,Clarkson,1,@,Penn State,5,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 CT,Boston College,0,@,Wisconsin,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,Northern Michigan,2,@,Michigan State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:05 ZT,Ohio State,3,@,Arizona State,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,New Hampshire,1,@,Colgate,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,Omaha,3,@,Union,3,OT,,nc,True,False,False,True,20182019
+Fri.,2018-10-12,7:15 ET,RIT,1,@,UMass Lowell,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,St. Lawrence,1,@,Maine,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:00 ET,RPI,1,@,Massachusetts,6,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,4:00 ET,Providence,4,vs,Miami,0,,,NC,True,True,False,False,20182019
+Fri.,2018-10-12,7:30 MT,uah,0,@,Colorado College,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:07 CT,Boston University,3,@,Minnesota State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:07 CT,North Dakota,1,@,Bemidji State,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:37 ET,Minnesota Duluth,2,@,Michigan Tech,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:07 ET,Western Michigan,4,@,Ferris State,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-12,7:07 AT,St. Cloud State,3,@,Alaska,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ET,aic,3,@,Niagara,1,,,ah,True,False,False,False,20182019
+Sat.,2018-10-13,5:05 ET,Canisius,7,@,Holy Cross,6,,,ah,True,False,False,False,20182019
+Sat.,2018-10-13,1:00 ET,Minnesota,7,@,USA Under-18 Team,1,,,EX,True,False,False,False,20182019
+Sat.,2018-10-13,7:00 ET,Laurentian,1,@,Cornell,6,,,ex,True,False,True,False,20182019
+Sat.,2018-10-13,7:07 ET,Nipissing,0,@,Lake Superior,4,,,ex,True,False,True,False,20182019
+Sat.,2018-10-13,4:00 ET,Miami,3,vs,Mercyhurst,0,,,nc,True,True,False,False,20182019
+Sat.,2018-10-13,7:30 ET,Providence,0,vs,Notre Dame,3,,,nc,True,True,False,False,20182019
+Sat.,2018-10-13,7:05 ET,Merrimack,2,@,Army,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ET,Merrimack,2,@,Army,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ET,Northeastern,5,@,Sacred Heart,0,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:00 CT,Boston College,5,@,Wisconsin,7,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:30 ET,Northern Michigan,4,@,Michigan State,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ZT,Ohio State,3,@,Arizona State,0,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:00 ET,Massachusetts,3,@,RPI,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,4:00 ET,New Hampshire,1,@,Colgate,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:00 ET,Omaha,4,@,Union,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,6:00 ET,RIT,5,@,UMass Lowell,4,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-13,7:00 ET,St. Lawrence,1,@,Maine,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ET,Quinnipiac,3,@,Vermont,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:07 MT,Air Force,1,@,Colorado College,6,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:07 MT,uah,0,@,Denver,6,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:05 ET,Ferris State,0,@,Western Michigan,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:07 CT,Bemidji State,1,@,North Dakota,1,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-13,7:07 CT,Boston University,3,@,Minnesota State,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:07 AT,St. Cloud State,6,@,Alaska,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-13,7:07 ET,Minnesota Duluth,5,@,Michigan Tech,2,,,nc,True,False,False,False,20182019
+Sun.,2018-10-14,5:07 ET,Robert Morris,0,@,Bowling Green,6,,,nc,True,False,False,False,20182019
+Tue.,2018-10-16,7:05 ET,Bentley,4,@,aic,5,OT,,ah,True,False,False,True,20182019
+Tue.,2018-10-16,7:00 ET,Connecticut,2,@,Quinnipiac,4,,,nc,True,False,False,False,20182019
+Thu.,2018-10-18,7:05 ET,Bentley,4,@,aic,4,OT,,ah,True,False,False,True,20182019
+Fri.,2018-10-19,7:35 ET,Air Force,7,@,Canisius,3,,,ah,True,False,False,False,20182019
+Fri.,2018-10-19,7:05 ET,Army,2,@,Robert Morris,2,OT,,ah,True,False,False,True,20182019
+Fri.,2018-10-19,7:30 ET,USA Under-18 Team,4,@,Boston University,5,OT,,ex,True,False,True,True,20182019
+Fri.,2018-10-19,7:00 ET,Connecticut,2,@,Providence,7,,,he,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Niagara,2,@,Penn State,8,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Massachusetts,6,@,Ohio State,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:30 ET,Western Michigan,5,@,Michigan,6,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Holy Cross,3,@,St. Lawrence,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Wisconsin,2,@,Clarkson,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Boston College,0,@,Quinnipiac,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:00 ET,Union,4,@,Northeastern,3,OT,,nc,True,False,False,True,20182019
+Fri.,2018-10-19,6:38 CT,Notre Dame,4,@,Omaha,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:37 MT,New Hampshire,3,@,Colorado College,3,OT,,nc,True,False,False,True,20182019
+Fri.,2018-10-19,7:07 CT,Maine,2,@,Minnesota Duluth,8,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:35 ET,UMass Lowell,3,@,Miami,0,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:07 CT,Northern Michigan,1,@,St. Cloud State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:37 CT,Minnesota State,7,@,North Dakota,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:07 MT,Alaska,1,@,Denver,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:07 ET,Mercyhurst,2,@,Ferris State,5,,,nc,True,False,False,False,20182019
+Fri.,2018-10-19,7:07 CT,Arizona State,2,@,uah,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:05 ET,Army,5,@,Robert Morris,2,,,ah,True,False,False,False,20182019
+Sat.,2018-10-20,7:35 ET,Air Force,0,@,Canisius,2,,,ah,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 CT,Trinity Western,1,@,Minnesota,7,,,ex,True,False,True,False,20182019
+Sat.,2018-10-20,7:00 ET,USA Under-18 Team,6,@,Harvard,3,,,ex,True,False,True,False,20182019
+Sat.,2018-10-20,7:00 ET,Boston University,0,@,Merrimack,4,,,he,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 ET,Boston University,0,@,Merrimack,4,,,he,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 ET,Colgate,1,@,RIT,6,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:05 ET,Providence,2,@,Sacred Heart,2,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-20,3:30 ET,Niagara,1,@,Penn State,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,5:00 ET,Massachusetts,1,@,Ohio State,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:30 ET,Holy Cross,1,@,Clarkson,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 ET,Wisconsin,7,@,St. Lawrence,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 ET,Connecticut,3,@,RPI,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:00 ET,Union,3,@,Northeastern,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 CT,Notre Dame,8,@,Omaha,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:05 ET,Michigan,4,@,Western Michigan,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:05 ET,UMass Lowell,1,@,Miami,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,6:07 MT,New Hampshire,3,@,Colorado College,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 CT,Maine,2,@,Minnesota Duluth,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 MT,Alaska,3,@,Denver,3,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-20,6:07 CT,Northern Michigan,0,@,St. Cloud State,5,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 CT,Minnesota State,3,@,North Dakota,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 ET,Mercyhurst,3,@,Ferris State,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-20,7:07 CT,Arizona State,5,@,uah,1,,,nc,True,False,False,False,20182019
+Sun.,2018-10-21,4:00 ET,Guelph,0,@,Cornell,7,,,ex,True,False,True,False,20182019
+Mon.,2018-10-22,7:00 ET,USA Under-18 Team,6,@,Dartmouth,4,,,ex,True,False,True,False,20182019
+Tue.,2018-10-23,7:37 ET,Western Michigan,1,@,Bowling Green,4,,,nc,True,False,False,False,20182019
+Thu.,2018-10-25,7:05 MT,Niagara,5,@,Air Force,0,,,ah,True,False,False,False,20182019
+Thu.,2018-10-25,7:00 ET,St. Cloud State,7,@,Boston College,0,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 MT,Niagara,1,@,Air Force,2,,,ah,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 ET,RIT,0,@,Robert Morris,3,,,ah,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 ET,Army,5,@,Mercyhurst,1,,,ah,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 ET,Holy Cross,4,@,Bentley,7,,,ah,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Yale,3,@,Brown,2,,,ec,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Union,3,@,RPI,5,,,ec,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Merrimack,1,@,Massachusetts,5,,,he,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 ET,Maine,2,@,Connecticut,5,,,he,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Merrimack,1,@,Massachusetts,5,,,he,True,False,False,False,20182019
+Fri.,2018-10-26,7:30 ET,Providence,5,@,Boston University,0,,,he,True,False,False,False,20182019
+Fri.,2018-10-26,7:15 ET,Northeastern,4,@,UMass Lowell,1,,,he,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Quinnipiac,4,@,aic,1,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Princeton,2,@,Penn State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:30 ET,St. Lawrence,0,@,Michigan,3,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Minnesota Duluth,3,@,Notre Dame,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 CT,Michigan Tech,6,@,Wisconsin,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Bowling Green,8,@,Ohio State,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:05 ZT,Omaha,3,@,Arizona State,6,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:00 ET,Michigan State,5,@,Cornell,2,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:35 ET,Colgate,1,@,Miami,4,,,nc,True,False,False,False,20182019
+Fri.,2018-10-26,7:07 CT,Alaska,0,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Fri.,2018-10-26,7:07 ET,Bemidji State,0,@,Northern Michigan,3,,,wc,True,False,False,False,20182019
+Fri.,2018-10-26,7:07 ET,Alaska Anchorage,0,@,Ferris State,4,,,wc,True,False,False,False,20182019
+Fri.,2018-10-26,7:07 CT,Lake Superior,4,@,uah,3,,,wc,True,False,False,False,20182019
+Sat.,2018-10-27,7:05 ET,RIT,2,@,Robert Morris,1,OT,,ah,True,False,False,True,20182019
+Sat.,2018-10-27,7:05 ET,Army,3,@,Mercyhurst,2,OT,,ah,True,False,False,True,20182019
+Sat.,2018-10-27,7:00 ET,Harvard,6,@,Dartmouth,7,OT,,ec,True,False,False,True,20182019
+Sat.,2018-10-27,7:00 ET,RPI,4,@,Union,2,,,ec,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 ET,Massachusetts,4,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Sat.,2018-10-27,7:00 ET,Massachusetts,4,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Sat.,2018-10-27,7:00 ET,Vermont,2,@,New Hampshire,3,OT,,he,True,False,False,True,20182019
+Sat.,2018-10-27,3:05 ET,Maine,2,@,Connecticut,2,OT,,he,True,False,False,True,20182019
+Sat.,2018-10-27,7:05 ET,UMass Lowell,4,@,Bentley,2,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:30 ET,St. Lawrence,1,@,Michigan,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,5:05 ET,Minnesota Duluth,3,@,Notre Dame,1,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 CT,Michigan Tech,2,@,Wisconsin,6,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:05 ZT,Omaha,2,@,Arizona State,7,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 ET,Canisius,1,@,Clarkson,4,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 ET,aic,2,@,Quinnipiac,9,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 ET,Michigan State,4,@,Cornell,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:00 ET,St. Cloud State,2,@,Northeastern,3,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,8:00 MT,Minnesota,1,vs,North Dakota,3,,,NC,True,True,False,False,20182019
+Sat.,2018-10-27,5:05 ET,Colgate,0,@,Miami,6,,,nc,True,False,False,False,20182019
+Sat.,2018-10-27,7:07 ET,Ohio State,2,@,Bowling Green,2,OT,,nc,True,False,False,True,20182019
+Sat.,2018-10-27,7:07 CT,Lake Superior,2,@,uah,1,,,wc,True,False,False,False,20182019
+Sat.,2018-10-27,7:07 ET,Bemidji State,2,@,Northern Michigan,1,,,wc,True,False,False,False,20182019
+Sat.,2018-10-27,7:07 ET,Alaska Anchorage,2,@,Ferris State,3,,,wc,True,False,False,False,20182019
+Sat.,2018-10-27,7:07 CT,Alaska,1,@,Minnesota State,3,,,wc,True,False,False,False,20182019
+Sun.,2018-10-28,5:00 ET,Vermont,2,@,Brown,1,,,nc,True,False,False,False,20182019
+Thu.,2018-11-01,7:00 ET,Boston University,5,@,Northeastern,5,OT,,he,True,False,False,True,20182019
+Fri.,2018-11-02,7:35 ET,aic,2,@,Canisius,4,,,ah,True,False,False,False,20182019
+Fri.,2018-11-02,7:05 ET,Air Force,4,@,Army,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-02,7:05 ET,Sacred Heart,3,@,Bentley,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-02,7:05 ET,Niagara,1,@,Robert Morris,3,,,ah,True,False,False,False,20182019
+Fri.,2018-11-02,7:05 ET,RIT,3,@,Mercyhurst,4,,,ah,True,False,False,False,20182019
+Fri.,2018-11-02,7:35 ET,Ohio State,1,@,Notre Dame,0,,,b10,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Quinnipiac,5,@,Harvard,3,,,ec,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Princeton,7,@,Dartmouth,1,,,ec,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Yale,2,@,Cornell,4,,,ec,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,St. Lawrence,1,@,Union,4,,,ec,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Brown,2,@,Colgate,2,OT,,ec,True,False,False,True,20182019
+Fri.,2018-11-02,7:00 ET,Clarkson,6,@,RPI,0,,,ec,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Boston College,1,@,Merrimack,2,,,he,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Boston College,1,@,Merrimack,2,,,he,True,False,False,False,20182019
+Fri.,2018-11-02,7:05 ET,Connecticut,1,@,Vermont,0,,,he,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,UMass Lowell,3,@,Maine,4,,,he,True,False,False,False,20182019
+Fri.,2018-11-02,7:37 MT,St. Cloud State,5,@,Colorado College,3,,,nt,True,False,False,False,20182019
+Fri.,2018-11-02,7:07 MT,Western Michigan,2,@,Denver,5,,,nt,True,False,False,False,20182019
+Fri.,2018-11-02,7:07 CT,Miami,4,@,Omaha,1,,,nt,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Arizona State,5,@,Penn State,6,,,nc,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 ET,Ferris State,3,@,Michigan State,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-02,7:00 CT,Minnesota State,5,@,Minnesota,1,,,nc,True,False,False,False,20182019
+Fri.,2018-11-02,7:37 CT,Wisconsin,0,@,North Dakota,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-02,7:37 ET,Michigan,2,@,Lake Superior,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-02,7:37 ET,Northern Michigan,1,@,Bowling Green,3,,,wc,True,False,False,False,20182019
+Fri.,2018-11-02,7:07 AT,Bemidji State,2,@,Alaska Anchorage,0,,,wc,True,False,False,False,20182019
+Fri.,2018-11-02,7:07 CT,Michigan Tech,2,@,uah,1,,,wc,True,False,False,False,20182019
+Sat.,2018-11-03,6:05 ET,Sacred Heart,2,@,Bentley,3,OT,,ah,True,False,False,True,20182019
+Sat.,2018-11-03,8:05 ET,Air Force,4,@,Army,2,,,ah,True,False,False,False,20182019
+Sat.,2018-11-03,7:35 ET,aic,6,@,Canisius,1,,,ah,True,False,False,False,20182019
+Sat.,2018-11-03,7:05 ET,RIT,2,@,Mercyhurst,2,OT,,ah,True,False,False,True,20182019
+Sat.,2018-11-03,7:05 ET,Niagara,4,@,Robert Morris,2,,,ah,True,False,False,False,20182019
+Sat.,2018-11-03,7:35 ET,Ohio State,1,@,Notre Dame,2,,,b10,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Princeton,4,@,Harvard,4,OT,,ec,True,False,False,True,20182019
+Sat.,2018-11-03,7:00 ET,Yale,4,@,Colgate,2,,,ec,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Brown,2,@,Cornell,3,,,ec,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Clarkson,2,@,Union,3,,,ec,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,St. Lawrence,2,@,RPI,3,,,ec,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Quinnipiac,1,@,Dartmouth,5,,,ec,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Merrimack,1,@,Boston College,4,,,he,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Merrimack,1,@,Boston College,4,,,he,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Northeastern,1,@,Boston University,4,,,he,True,False,False,False,20182019
+Sat.,2018-11-03,7:00 ET,Massachusetts,5,@,New Hampshire,1,,,he,True,False,False,False,20182019
+Sat.,2018-11-03,7:05 ET,Connecticut,1,@,Vermont,2,OT,,he,True,False,False,True,20182019
+Sat.,2018-11-03,7:30 ET,UMass Lowell,1,@,Maine,0,,,he,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 MT,Western Michigan,3,@,Denver,4,OT,,nt,True,False,False,True,20182019
+Sat.,2018-11-03,6:07 MT,St. Cloud State,2,@,Colorado College,1,,,nt,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 CT,Miami,3,@,Omaha,6,,,nt,True,False,False,False,20182019
+Sat.,2018-11-03,7:05 ET,Providence,3,@,Holy Cross,0,,,nc,True,False,False,False,20182019
+Sat.,2018-11-03,8:00 ET,Arizona State,4,@,Penn State,3,OT,,nc,True,False,False,True,20182019
+Sat.,2018-11-03,7:07 CT,Wisconsin,2,@,North Dakota,3,OT,,nc,True,False,False,True,20182019
+Sat.,2018-11-03,7:07 ET,Michigan,5,@,Lake Superior,3,,,nc,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 CT,Minnesota,1,@,Minnesota State,2,,,nc,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 ET,Michigan State,1,@,Ferris State,4,,,nc,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 CT,Michigan Tech,4,@,uah,1,,,wc,True,False,False,False,20182019
+Sat.,2018-11-03,7:07 ET,Northern Michigan,2,@,Bowling Green,0,,,wc,True,False,False,False,20182019
+Sat.,2018-11-03,4:07 AT,Bemidji State,3,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Thu.,2018-11-08,7:00 ET,Vermont,1,@,Boston College,4,,,he,True,False,False,False,20182019
+Thu.,2018-11-08,7:00 ET,Providence,2,@,Massachusetts,3,,,he,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 ET,Holy Cross,3,@,Niagara,6,,,ah,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 ET,Sacred Heart,4,@,Army,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 MT,Bentley,2,@,Air Force,4,,,ah,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 ET,aic,1,@,RIT,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 CT,Minnesota,3,@,Wisconsin,2,,,b10,True,False,False,False,20182019
+Fri.,2018-11-09,7:30 ET,Notre Dame,1,@,Michigan,2,,,b10,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 ET,Harvard,3,@,Yale,3,OT,,ec,True,False,False,True,20182019
+Fri.,2018-11-09,7:00 ET,RPI,0,@,Quinnipiac,3,,,ec,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 ET,Union,3,@,Princeton,4,OT,,ec,True,False,False,True,20182019
+Fri.,2018-11-09,7:00 ET,Dartmouth,2,@,Brown,4,,,ec,True,False,False,False,20182019
+Fri.,2018-11-09,7:15 ET,New Hampshire,2,@,UMass Lowell,2,OT,,he,True,False,False,True,20182019
+Fri.,2018-11-09,7:00 ET,Connecticut,2,@,Northeastern,3,,,he,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 ET,Vermont,2,@,Boston College,3,,,he,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 CT,Colorado College,0,@,Minnesota Duluth,3,,,nt,True,False,False,False,20182019
+Fri.,2018-11-09,7:35 ET,North Dakota,3,@,Miami,1,,,nt,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 CT,Denver,3,@,St. Cloud State,4,,,nt,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 ET,Omaha,2,@,Western Michigan,7,,,nt,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 ET,Robert Morris,2,@,Penn State,7,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:05 MT,Michigan State,4,@,Arizona State,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:00 ET,Ohio State,3,@,Colgate,0,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 CT,Merrimack,3,@,Bemidji State,8,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 ET,Cornell,3,@,Northern Michigan,1,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 CT,Merrimack,3,@,Bemidji State,8,,,nc,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 ET,Michigan Tech,5,@,Ferris State,4,,,wc,True,False,False,False,20182019
+Fri.,2018-11-09,7:07 AT,Bowling Green,0,@,Alaska Anchorage,0,OT,,wc,True,False,False,True,20182019
+Fri.,2018-11-09,7:07 ET,Alaska,3,@,Lake Superior,3,OT,,wc,True,False,False,True,20182019
+Sat.,2018-11-10,7:35 MT,Bentley,1,@,Air Force,4,,,ah,True,False,False,False,20182019
+Sat.,2018-11-10,2:05 ET,Army,4,@,Sacred Heart,1,,,ah,True,False,False,False,20182019
+Sat.,2018-11-10,5:05 ET,aic,2,@,RIT,5,,,ah,True,False,False,False,20182019
+Sat.,2018-11-10,7:05 ET,Holy Cross,3,@,Niagara,3,OT,,ah,True,False,False,True,20182019
+Sat.,2018-11-10,7:30 ET,Notre Dame,6,@,Michigan,2,,,b10,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 CT,Minnesota,1,@,Wisconsin,3,,,b10,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Harvard,5,@,Brown,2,,,ec,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,RPI,1,@,Princeton,4,,,ec,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Dartmouth,3,@,Yale,0,,,ec,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Union,5,@,Quinnipiac,1,,,ec,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,UMass Lowell,4,@,Northeastern,5,OT,,he,True,False,False,True,20182019
+Sat.,2018-11-10,7:00 ET,Massachusetts,3,@,Providence,2,,,he,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Boston University,3,@,New Hampshire,2,OT,,he,True,False,False,True,20182019
+Sat.,2018-11-10,6:07 CT,Denver,3,@,St. Cloud State,4,,,nt,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 CT,Colorado College,1,@,Minnesota Duluth,5,,,nt,True,False,False,False,20182019
+Sat.,2018-11-10,7:05 ET,North Dakota,2,@,Miami,3,,,nt,True,False,False,False,20182019
+Sat.,2018-11-10,7:05 ET,Omaha,4,@,Western Michigan,2,,,nt,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Penn State,11,@,Robert Morris,6,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:35 ET,Clarkson,3,@,Canisius,6,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:05 MT,Michigan State,0,@,Arizona State,2,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:00 ET,Mercyhurst,4,@,St. Lawrence,1,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,4:00 ET,Ohio State,1,@,Colgate,0,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 CT,Merrimack,1,@,Bemidji State,0,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 ET,Cornell,3,@,Northern Michigan,2,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 CT,Merrimack,1,@,Bemidji State,0,,,nc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 AT,Bowling Green,3,@,Alaska Anchorage,0,,,wc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 ET,Alaska,4,@,Lake Superior,3,,,wc,True,False,False,False,20182019
+Sat.,2018-11-10,7:07 ET,Michigan Tech,4,@,Ferris State,3,,,wc,True,False,False,False,20182019
+Tue.,2018-11-13,7:05 ET,Canisius,0,@,RIT,2,,,ah,True,False,False,False,20182019
+Tue.,2018-11-13,7:05 ET,Brown,1,@,Connecticut,3,,,nc,True,False,False,False,20182019
+Thu.,2018-11-15,7:35 ET,Niagara,5,@,Canisius,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-16,7:05 ET,Mercyhurst,4,@,Sacred Heart,3,OT,,ah,True,False,False,True,20182019
+Fri.,2018-11-16,2:05 ET,Air Force,0,@,aic,5,,,ah,True,False,False,False,20182019
+Fri.,2018-11-16,7:05 ET,Army,3,@,Bentley,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Wisconsin,0,@,Ohio State,4,,,b10,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Notre Dame,3,@,Michigan State,1,,,b10,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Michigan,6,@,Penn State,4,,,b10,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Princeton,1,@,Colgate,2,,,ec,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Quinnipiac,4,@,Cornell,2,,,ec,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Providence,7,@,Merrimack,2,,,he,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,New Hampshire,2,@,Boston College,2,OT,,he,True,False,False,True,20182019
+Fri.,2018-11-16,7:30 ET,Maine,2,@,Boston University,3,,,he,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Providence,7,@,Merrimack,2,,,he,True,False,False,False,20182019
+Fri.,2018-11-16,7:05 ET,Northeastern,1,@,Vermont,0,,,he,True,False,False,False,20182019
+Fri.,2018-11-16,7:05 ET,UMass Lowell,5,@,Connecticut,2,,,he,True,False,False,False,20182019
+Fri.,2018-11-16,7:07 MT,Minnesota Duluth,0,@,Denver,2,,,nt,True,False,False,False,20182019
+Fri.,2018-11-16,8:07 MT,Miami,1,@,Colorado College,2,,,nt,True,False,False,False,20182019
+Fri.,2018-11-16,7:37 CT,Western Michigan,2,@,North Dakota,0,,,nt,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Massachusetts,3,@,Holy Cross,1,,,nc,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 CT,St. Lawrence,4,@,Minnesota,3,OT,,nc,True,False,False,True,20182019
+Fri.,2018-11-16,7:00 ET,Arizona State,1,@,Harvard,4,,,nc,True,False,False,False,20182019
+Fri.,2018-11-16,7:00 ET,Michigan Tech,1,@,Clarkson,3,,,nc,True,False,False,False,20182019
+Fri.,2018-11-16,7:07 CT,Bemidji State,0,@,St. Cloud State,2,,,nc,True,False,False,False,20182019
+Fri.,2018-11-16,7:07 ET,Alaska Anchorage,0,@,Northern Michigan,3,,,wc,True,False,False,False,20182019
+Fri.,2018-11-16,7:07 AT,uah,3,@,Alaska,1,,,wc,True,False,False,False,20182019
+Fri.,2018-11-16,7:37 ET,Lake Superior,5,@,Bowling Green,0,,,wc,True,False,False,False,20182019
+Fri.,2018-11-16,7:07 CT,Ferris State,1,@,Minnesota State,7,,,wc,True,False,False,False,20182019
+Sat.,2018-11-17,7:05 ET,Canisius,6,@,Niagara,9,,,ah,True,False,False,False,20182019
+Sat.,2018-11-17,7:05 ET,Mercyhurst,3,@,Sacred Heart,0,,,ah,True,False,False,False,20182019
+Sat.,2018-11-17,5:05 ET,Army,2,@,Bentley,4,,,ah,True,False,False,False,20182019
+Sat.,2018-11-17,1:05 ET,Air Force,0,@,aic,4,,,ah,True,False,False,False,20182019
+Sat.,2018-11-17,7:30 ET,Notre Dame,2,@,Michigan State,1,,,b10,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Michigan,6,@,Penn State,7,OT,,b10,True,False,False,True,20182019
+Sat.,2018-11-17,5:00 ET,Wisconsin,1,@,Ohio State,3,,,b10,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Quinnipiac,5,@,Colgate,0,,,ec,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Princeton,1,@,Cornell,5,,,ec,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Merrimack,5,@,Providence,7,,,he,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Maine,3,@,Boston University,1,,,he,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Merrimack,5,@,Providence,7,,,he,True,False,False,False,20182019
+Sat.,2018-11-17,5:00 ET,Connecticut,0,@,UMass Lowell,3,,,he,True,False,False,False,20182019
+Sat.,2018-11-17,7:07 CT,Western Michigan,6,@,North Dakota,2,,,nt,True,False,False,False,20182019
+Sat.,2018-11-17,6:07 MT,Miami,3,@,Colorado College,2,OT,,nt,True,False,False,True,20182019
+Sat.,2018-11-17,7:07 MT,Minnesota Duluth,4,@,Denver,3,OT,,nt,True,False,False,True,20182019
+Sat.,2018-11-17,8:00 CT,St. Lawrence,0,@,Minnesota,3,,,nc,True,False,False,False,20182019
+Sat.,2018-11-17,7:00 ET,Arizona State,3,@,Harvard,2,OT,,nc,True,False,False,True,20182019
+Sat.,2018-11-17,7:00 ET,Michigan Tech,1,@,Clarkson,3,,,nc,True,False,False,False,20182019
+Sat.,2018-11-17,6:07 CT,Bemidji State,4,@,St. Cloud State,7,,,nc,True,False,False,False,20182019
+Sat.,2018-11-17,7:07 ET,Lake Superior,2,@,Bowling Green,5,,,wc,True,False,False,False,20182019
+Sat.,2018-11-17,7:07 CT,Ferris State,2,@,Minnesota State,5,,,wc,True,False,False,False,20182019
+Sat.,2018-11-17,7:07 ET,Alaska Anchorage,1,@,Northern Michigan,2,,,wc,True,False,False,False,20182019
+Sat.,2018-11-17,7:07 AT,uah,1,@,Alaska,2,,,wc,True,False,False,False,20182019
+Sun.,2018-11-18,2:00 ET,New Hampshire,2,@,Massachusetts,4,,,he,True,False,False,False,20182019
+Wed.,2018-11-21,7:00 ET,Bowling Green,5,@,USA Under-18 Team,4,,,ex,True,False,True,False,20182019
+Fri.,2018-11-23,1:05 ET,Sacred Heart,3,@,Canisius,3,OT,,ah,True,False,False,True,20182019
+Fri.,2018-11-23,7:05 ET,Mercyhurst,1,@,Robert Morris,3,,,ah,True,False,False,False,20182019
+Fri.,2018-11-23,7:05 ET,Niagara,3,@,Army,1,,,ah,True,False,False,False,20182019
+Fri.,2018-11-23,7:30 ET,Wisconsin,1,@,Michigan,1,OT,,b10,True,False,False,True,20182019
+Fri.,2018-11-23,7:00 CT,Michigan State,2,@,Minnesota,7,,,b10,True,False,False,False,20182019
+Fri.,2018-11-23,5:00 ET,Penn State,4,@,Ohio State,3,,,b10,True,False,False,False,20182019
+Fri.,2018-11-23,7:00 GT,Connecticut,2,vs,Boston University,3,,,he,True,True,False,False,20182019
+Fri.,2018-11-23,4:00 ET,Holy Cross,2,@,Merrimack,2,OT,,nc,True,False,False,True,20182019
+Fri.,2018-11-23,3:00 GT,Yale,1,vs,Union,1,,,NC,True,True,False,False,20182019
+Fri.,2018-11-23,4:00 ET,Holy Cross,2,@,Merrimack,2,OT,,nc,True,False,False,True,20182019
+Fri.,2018-11-23,3:00 ET,Bentley,4,@,Boston College,2,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,4:00 ET,RPI,2,@,UMass Lowell,1,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,7:00 ET,Quinnipiac,7,@,Maine,2,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,7:00 ET,Miami,3,@,New Hampshire,3,OT,,nc,True,False,False,True,20182019
+Fri.,2018-11-23,7:07 CT,Arizona State,4,@,Omaha,6,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,7:07 MT,Providence,1,@,Denver,3,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,7:37 CT,Alaska Anchorage,2,@,North Dakota,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-23,7:07 ET,Northern Michigan,2,@,Lake Superior,4,,,wc,True,False,False,False,20182019
+Fri.,2018-11-23,7:07 CT,Minnesota State,3,@,Bemidji State,2,,,wc,True,False,False,False,20182019
+Fri.,2018-11-23,7:07 ET,Alaska,1,@,Michigan Tech,2,,,wc,True,False,False,False,20182019
+Sat.,2018-11-24,7:05 ET,Bentley,4,@,Holy Cross,2,,,ah,True,False,False,False,20182019
+Sat.,2018-11-24,1:05 ET,Sacred Heart,2,@,Canisius,3,,,ah,True,False,False,False,20182019
+Sat.,2018-11-24,4:05 ET,Niagara,1,@,Army,5,,,ah,True,False,False,False,20182019
+Sat.,2018-11-24,7:05 ET,Robert Morris,7,@,Mercyhurst,1,,,ah,True,False,False,False,20182019
+Sat.,2018-11-24,7:30 ET,Wisconsin,2,@,Michigan,2,OT,,b10,True,False,False,True,20182019
+Sat.,2018-11-24,8:00 ET,Penn State,2,@,Ohio State,5,,,b10,True,False,False,False,20182019
+Sat.,2018-11-24,7:00 CT,Michigan State,4,@,Minnesota,2,,,b10,True,False,False,False,20182019
+Sat.,2018-11-24,7:00 GT,Boston University,1,vs,Union,2,,,nc,True,True,False,False,20182019
+Sat.,2018-11-24,3:00 GT,Yale,6,vs,Connecticut,3,,,nc,True,True,False,False,20182019
+Sat.,2018-11-24,7:00 ET,St. Lawrence,2,vs,Clarkson,6,,,nc,True,True,False,False,20182019
+Sat.,2018-11-24,8:00 ET,Harvard,4,vs,Cornell,1,,,nc,True,True,False,False,20182019
+Sat.,2018-11-24,7:00 ET,Vermont,5,@,Dartmouth,3,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:00 ET,RIT,3,@,Northeastern,4,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:00 ET,Princeton,2,@,Massachusetts,3,OT,,nc,True,False,False,True,20182019
+Sat.,2018-11-24,7:30 ET,Quinnipiac,2,@,Maine,0,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:00 ET,Miami,1,@,New Hampshire,4,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:07 CT,Arizona State,0,@,Omaha,4,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:07 MT,Providence,4,@,Denver,4,OT,,nc,True,False,False,True,20182019
+Sat.,2018-11-24,7:07 CT,Alaska Anchorage,3,@,North Dakota,4,,,nc,True,False,False,False,20182019
+Sat.,2018-11-24,7:07 ET,Northern Michigan,2,@,Lake Superior,1,,,wc,True,False,False,False,20182019
+Sat.,2018-11-24,7:07 CT,Minnesota State,2,@,Bemidji State,4,,,wc,True,False,False,False,20182019
+Sat.,2018-11-24,7:07 ET,Alaska,2,@,Michigan Tech,7,,,wc,True,False,False,False,20182019
+Sun.,2018-11-25,4:00 ET,UMass Lowell,5,@,RPI,2,,,nc,True,False,False,False,20182019
+Tue.,2018-11-27,7:05 ET,Holy Cross,3,@,aic,4,,,ah,True,False,False,False,20182019
+Tue.,2018-11-27,7:30 ET,Northern Michigan,1,@,Notre Dame,2,OT,,nc,True,False,False,True,20182019
+Fri.,2018-11-30,7:05 ET,Canisius,4,@,Army,5,,,ah,True,False,False,False,20182019
+Fri.,2018-11-30,7:05 ET,Air Force,3,@,RIT,1,,,ah,True,False,False,False,20182019
+Fri.,2018-11-30,7:05 ET,Robert Morris,1,@,Sacred Heart,2,,,ah,True,False,False,False,20182019
+Fri.,2018-11-30,7:05 ET,Mercyhurst,5,@,Bentley,3,,,ah,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Michigan,3,@,Michigan State,4,,,b10,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 CT,Penn State,3,@,Wisconsin,3,OT,,b10,True,False,False,True,20182019
+Fri.,2018-11-30,7:00 CT,Ohio State,2,@,Minnesota,2,OT,,b10,True,False,False,True,20182019
+Fri.,2018-11-30,7:30 ET,Colgate,1,@,Harvard,6,,,ec,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Brown,1,@,Clarkson,5,,,ec,True,False,False,False,20182019
+Fri.,2018-11-30,7:30 ET,Cornell,2,@,Dartmouth,3,,,ec,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Yale,5,@,St. Lawrence,3,,,ec,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Princeton,0,@,Quinnipiac,3,,,ec,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Merrimack,1,@,Northeastern,9,,,he,True,False,False,False,20182019
+Fri.,2018-11-30,7:30 ET,Boston College,4,@,Boston University,1,,,he,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,New Hampshire,1,@,Providence,1,OT,,he,True,False,False,True,20182019
+Fri.,2018-11-30,7:00 ET,Connecticut,4,@,Massachusetts,7,,,he,True,False,False,False,20182019
+Fri.,2018-11-30,7:00 ET,Merrimack,1,@,Northeastern,9,,,he,True,False,False,False,20182019
+Fri.,2018-11-30,7:05 ET,Maine,2,@,Vermont,1,OT,,he,True,False,False,True,20182019
+Fri.,2018-11-30,7:07 CT,Colorado College,3,@,Omaha,3,OT,,nt,True,False,False,True,20182019
+Fri.,2018-11-30,7:07 CT,North Dakota,0,@,Minnesota Duluth,5,,,nt,True,False,False,False,20182019
+Fri.,2018-11-30,7:35 ET,St. Cloud State,4,@,Miami,4,OT,,nt,True,False,False,True,20182019
+Fri.,2018-11-30,7:05 ET,RPI,1,@,Notre Dame,5,,,nc,True,False,False,False,20182019
+Fri.,2018-11-30,7:05 ET,Niagara,2,@,Western Michigan,3,,,nc,True,False,False,False,20182019
+Fri.,2018-11-30,7:07 ET,Minnesota State,4,@,Lake Superior,2,,,wc,True,False,False,False,20182019
+Fri.,2018-11-30,7:07 AT,Ferris State,3,@,Alaska,4,OT,,wc,True,False,False,True,20182019
+Fri.,2018-11-30,7:07 ET,Bemidji State,3,@,Michigan Tech,3,OT,,wc,True,False,False,True,20182019
+Sat.,2018-12-01,7:05 ET,Mercyhurst,3,@,Bentley,2,,,ah,True,False,False,False,20182019
+Sat.,2018-12-01,2:05 ET,Robert Morris,2,@,Sacred Heart,1,OT,,ah,True,False,False,True,20182019
+Sat.,2018-12-01,4:05 ET,Canisius,4,@,Army,2,,,ah,True,False,False,False,20182019
+Sat.,2018-12-01,7:05 ET,aic,4,@,Holy Cross,2,,,ah,True,False,False,False,20182019
+Sat.,2018-12-01,7:05 ET,Air Force,3,@,RIT,0,,,ah,True,False,False,False,20182019
+Sat.,2018-12-01,7:30 ET,Michigan State,1,@,Michigan,1,OT,,b10,True,False,False,True,20182019
+Sat.,2018-12-01,7:00 CT,Penn State,5,@,Wisconsin,8,,,b10,True,False,False,False,20182019
+Sat.,2018-12-01,4:00 CT,Ohio State,2,@,Minnesota,2,OT,,b10,True,False,False,True,20182019
+Sat.,2018-12-01,7:00 ET,Cornell,2,@,Harvard,1,,,ec,True,False,False,False,20182019
+Sat.,2018-12-01,7:30 ET,Colgate,2,@,Dartmouth,2,OT,,ec,True,False,False,True,20182019
+Sat.,2018-12-01,7:00 ET,Quinnipiac,6,@,Princeton,3,,,ec,True,False,False,False,20182019
+Sat.,2018-12-01,7:00 ET,Brown,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20182019
+Sat.,2018-12-01,7:00 ET,Yale,2,@,Clarkson,1,,,ec,True,False,False,False,20182019
+Sat.,2018-12-01,7:00 ET,Boston University,0,@,Boston College,0,OT,,he,True,False,False,True,20182019
+Sat.,2018-12-01,7:00 ET,Providence,3,@,New Hampshire,1,,,he,True,False,False,False,20182019
+Sat.,2018-12-01,5:05 ET,Maine,3,@,Vermont,3,OT,,he,True,False,False,True,20182019
+Sat.,2018-12-01,7:07 CT,North Dakota,2,@,Minnesota Duluth,1,,,nt,True,False,False,False,20182019
+Sat.,2018-12-01,7:07 CT,Colorado College,6,@,Omaha,3,,,nt,True,False,False,False,20182019
+Sat.,2018-12-01,7:05 ET,St. Cloud State,2,@,Miami,2,OT,,nt,True,False,False,True,20182019
+Sat.,2018-12-01,7:05 ET,RPI,0,@,Notre Dame,3,,,nc,True,False,False,False,20182019
+Sat.,2018-12-01,7:05 ET,Niagara,3,@,Western Michigan,7,,,nc,True,False,False,False,20182019
+Sat.,2018-12-01,6:07 CT,Bowling Green,6,@,uah,2,,,wc,True,False,False,False,20182019
+Sat.,2018-12-01,7:07 ET,Minnesota State,3,@,Lake Superior,0,,,wc,True,False,False,False,20182019
+Sat.,2018-12-01,7:07 AT,Ferris State,2,@,Alaska,6,,,wc,True,False,False,False,20182019
+Sat.,2018-12-01,7:07 ET,Bemidji State,2,@,Michigan Tech,7,,,wc,True,False,False,False,20182019
+Sun.,2018-12-02,3:07 CT,Bowling Green,2,@,uah,1,,,wc,True,False,False,False,20182019
+Tue.,2018-12-04,7:05 ET,Harvard,2,@,Bentley,1,,,nc,True,False,False,False,20182019
+Thu.,2018-12-06,7:05 ET,Boston College,4,@,Connecticut,0,,,he,True,False,False,False,20182019
+Fri.,2018-12-07,7:05 ET,Holy Cross,0,@,Robert Morris,2,,,ah,True,False,False,False,20182019
+Fri.,2018-12-07,7:35 MT,Mercyhurst,0,@,Air Force,2,,,ah,True,False,False,False,20182019
+Fri.,2018-12-07,7:05 ET,Sacred Heart,4,@,RIT,3,OT,,ah,True,False,False,True,20182019
+Fri.,2018-12-07,7:00 ET,Notre Dame,5,@,Penn State,4,,,b10,True,False,False,False,20182019
+Fri.,2018-12-07,8:00 ET,Minnesota,2,@,Michigan,2,OT,,b10,True,False,False,True,20182019
+Fri.,2018-12-07,7:00 CT,Michigan State,3,@,Wisconsin,5,,,b10,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Union,3,@,Brown,3,OT,,ec,True,False,False,True,20182019
+Fri.,2018-12-07,7:00 ET,Clarkson,2,@,St. Lawrence,4,,,ec,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,RPI,2,@,Yale,4,,,ec,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Providence,6,@,Merrimack,0,,,he,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Providence,6,@,Merrimack,0,,,he,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Connecticut,2,@,Boston College,3,,,he,True,False,False,False,20182019
+Fri.,2018-12-07,7:30 ET,UMass Lowell,5,@,Boston University,3,,,he,True,False,False,False,20182019
+Fri.,2018-12-07,7:37 CT,Denver,1,@,North Dakota,4,,,nt,True,False,False,False,20182019
+Fri.,2018-12-07,7:07 CT,Omaha,0,@,St. Cloud State,2,,,nt,True,False,False,False,20182019
+Fri.,2018-12-07,7:05 ET,Minnesota Duluth,2,@,Western Michigan,3,,,nt,True,False,False,False,20182019
+Fri.,2018-12-07,7:05 ET,Colgate,2,@,Niagara,4,,,nc,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Arizona State,4,@,Princeton,0,,,nc,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,Massachusetts,0,@,Quinnipiac,4,,,nc,True,False,False,False,20182019
+Fri.,2018-12-07,7:00 ET,New Hampshire,3,@,Dartmouth,2,,,nc,True,False,False,False,20182019
+Fri.,2018-12-07,7:37 MT,Vermont,2,@,Colorado College,5,,,nc,True,False,False,False,20182019
+Fri.,2018-12-07,7:07 ET,Bowling Green,3,@,Ferris State,3,OT,,wc,True,False,False,True,20182019
+Fri.,2018-12-07,7:07 AT,Lake Superior,4,@,Alaska,1,,,wc,True,False,False,False,20182019
+Fri.,2018-12-07,7:07 CT,Alaska Anchorage,1,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Fri.,2018-12-07,7:07 CT,uah,0,@,Bemidji State,4,,,wc,True,False,False,False,20182019
+Fri.,2018-12-07,7:07 ET,Michigan Tech,3,@,Northern Michigan,5,,,wc,True,False,False,False,20182019
+Sat.,2018-12-08,5:05 MT,Mercyhurst,4,@,Air Force,1,,,ah,True,False,False,False,20182019
+Sat.,2018-12-08,4:05 ET,Holy Cross,2,@,Robert Morris,0,,,ah,True,False,False,False,20182019
+Sat.,2018-12-08,5:05 ET,Sacred Heart,6,@,RIT,4,,,ah,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 CT,Michigan State,0,@,Wisconsin,3,,,b10,True,False,False,False,20182019
+Sat.,2018-12-08,8:00 ET,Minnesota,4,@,Michigan,3,,,b10,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Notre Dame,1,@,Penn State,9,,,b10,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,RPI,1,@,Brown,2,,,ec,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,St. Lawrence,0,@,Clarkson,3,,,ec,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Union,0,@,Yale,3,,,ec,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Maine,4,@,USA Under-18 Team,6,,,ex,True,False,True,False,20182019
+Sat.,2018-12-08,7:00 ET,Northeastern,7,@,Merrimack,2,,,he,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Northeastern,7,@,Merrimack,2,,,he,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Boston University,5,@,UMass Lowell,2,,,he,True,False,False,False,20182019
+Sat.,2018-12-08,7:07 CT,Denver,2,@,North Dakota,1,OT,,nt,True,False,False,True,20182019
+Sat.,2018-12-08,7:05 ET,Minnesota Duluth,1,@,Western Michigan,1,OT,,nt,True,False,False,True,20182019
+Sat.,2018-12-08,6:07 CT,Omaha,1,@,St. Cloud State,7,,,nt,True,False,False,False,20182019
+Sat.,2018-12-08,7:05 ET,Colgate,2,@,Niagara,0,,,nc,True,False,False,False,20182019
+Sat.,2018-12-08,7:00 ET,Arizona State,3,@,Princeton,2,OT,,nc,True,False,False,True,20182019
+Sat.,2018-12-08,7:00 ET,Dartmouth,0,@,New Hampshire,4,,,nc,True,False,False,False,20182019
+Sat.,2018-12-08,7:30 ET,Quinnipiac,1,@,Massachusetts,3,,,nc,True,False,False,False,20182019
+Sat.,2018-12-08,6:07 MT,Vermont,2,@,Colorado College,1,,,nc,True,False,False,False,20182019
+Sat.,2018-12-08,7:07 CT,uah,4,@,Bemidji State,2,,,wc,True,False,False,False,20182019
+Sat.,2018-12-08,7:07 ET,Bowling Green,4,@,Ferris State,3,OT,,wc,True,False,False,True,20182019
+Sat.,2018-12-08,7:07 ET,Northern Michigan,1,@,Michigan Tech,3,,,wc,True,False,False,False,20182019
+Sat.,2018-12-08,7:07 CT,Alaska Anchorage,0,@,Minnesota State,6,,,wc,True,False,False,False,20182019
+Sat.,2018-12-08,7:07 AT,Lake Superior,5,@,Alaska,2,,,wc,True,False,False,False,20182019
+Tue.,2018-12-11,7:00 ET,Yale,2,@,Massachusetts,5,,,nc,True,False,False,False,20182019
+Fri.,2018-12-14,7:05 MT,Colorado College,2,@,Arizona State,4,,,nc,True,False,False,False,20182019
+Fri.,2018-12-14,7:30 ET,Dartmouth,1,@,Boston University,4,,,nc,True,False,False,False,20182019
+Fri.,2018-12-14,7:07 CT,Alaska Anchorage,1,@,Bemidji State,5,,,wc,True,False,False,False,20182019
+Fri.,2018-12-14,7:37 ET,Minnesota State,1,@,Bowling Green,4,,,wc,True,False,False,False,20182019
+Fri.,2018-12-14,7:07 ET,Ferris State,1,@,Northern Michigan,4,,,wc,True,False,False,False,20182019
+Fri.,2018-12-14,7:07 ET,uah,1,@,Michigan Tech,0,,,wc,True,False,False,False,20182019
+Sat.,2018-12-15,7:05 ET,Niagara,4,@,RIT,8,,,ah,True,False,False,False,20182019
+Sat.,2018-12-15,7:00 ET,USA Under-18 Team,0,@,Michigan State,1,,,ex,True,False,True,False,20182019
+Sat.,2018-12-15,7:05 MT,Colorado College,0,@,Arizona State,4,,,nc,True,False,False,False,20182019
+Sat.,2018-12-15,7:30 ET,Penn State,4,vs,Princeton,4,OT,,nc,True,True,False,True,20182019
+Sat.,2018-12-15,7:07 ET,Ferris State,2,@,Northern Michigan,4,,,wc,True,False,False,False,20182019
+Sat.,2018-12-15,7:07 ET,Minnesota State,1,@,Bowling Green,4,,,wc,True,False,False,False,20182019
+Sat.,2018-12-15,7:07 ET,uah,1,@,Michigan Tech,2,OT,,wc,True,False,False,True,20182019
+Sat.,2018-12-15,5:07 CT,Alaska Anchorage,2,@,Bemidji State,1,OT,,wc,True,False,False,True,20182019
+Sun.,2018-12-16,2:00 ET,Lake Superior,7,@,USA Under-18 Team,3,,,ex,True,False,True,False,20182019
+Thu.,2018-12-27,6:07 CT,USA Under-18 Team,6,@,St. Cloud State,4,,,ex,True,False,True,False,20182019
+Fri.,2018-12-28,4:00 ET,RPI,2,vs,Northeastern,3,OT,,nc,True,True,False,True,20182019
+Fri.,2018-12-28,7:05 ET,uah,1,@,Vermont,4,,,nc,True,False,False,False,20182019
+Fri.,2018-12-28,7:30 MT,Clarkson,3,vs,Arizona State,0,,,nc,True,True,False,False,20182019
+Fri.,2018-12-28,4:30 MT,Minnesota Duluth,4,vs,Minnesota State,3,OT,,nc,True,True,False,True,20182019
+Fri.,2018-12-28,7:00 ET,Mercyhurst,1,@,Ohio State,3,,,nc,True,False,False,False,20182019
+Fri.,2018-12-28,7:00 CT,Ferris State,3,@,Minnesota,5,,,nc,True,False,False,False,20182019
+Fri.,2018-12-28,7:00 ET,Denver,3,@,Merrimack,1,,,nc,True,False,False,False,20182019
+Fri.,2018-12-28,7:00 ET,Canisius,2,@,Union,2,OT,,nc,True,False,False,True,20182019
+Fri.,2018-12-28,7:00 ET,Maine,0,@,Princeton,1,,,nc,True,False,False,False,20182019
+Fri.,2018-12-28,7:00 ET,Denver,3,@,Merrimack,1,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,7:05 ET,Robert Morris,3,@,aic,4,,,ah,True,False,False,False,20182019
+Sat.,2018-12-29,7:05 ET,RPI,2,@,Vermont,4,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,4:00 ET,uah,0,vs,Northeastern,2,,,nc,True,True,False,False,20182019
+Sat.,2018-12-29,7:30 MT,Minnesota State,2,vs,Arizona State,2,OT,,nc,True,True,False,True,20182019
+Sat.,2018-12-29,4:30 MT,Minnesota Duluth,1,vs,Clarkson,3,,,nc,True,True,False,False,20182019
+Sat.,2018-12-29,7:00 ET,McGill,2,@,Yale,5,,,ex,True,False,True,False,20182019
+Sat.,2018-12-29,7:07 CT,USA Under-18 Team,2,@,North Dakota,6,,,ex,True,False,True,False,20182019
+Sat.,2018-12-29,7:00 ET,Army,2,@,Dartmouth,5,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,4:00 ET,Providence,3,vs,Brown,1,,,nc,True,True,False,False,20182019
+Sat.,2018-12-29,7:05 MT,Bemidji State,3,@,Air Force,3,OT,,nc,True,False,False,True,20182019
+Sat.,2018-12-29,8:00 ET,Mercyhurst,4,@,Ohio State,5,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,7:00 CT,Ferris State,3,@,Minnesota,2,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,4:00 ET,Canisius,3,@,Union,5,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,5:00 ET,Colgate,0,vs,Quinnipiac,6,,,nc,True,True,False,False,20182019
+Sat.,2018-12-29,7:00 ET,Maine,3,@,Princeton,7,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,7:00 ET,Denver,4,@,UMass Lowell,1,,,nc,True,False,False,False,20182019
+Sat.,2018-12-29,7:07 CT,Alaska Anchorage,0,@,Omaha,3,,,nc,True,False,False,False,20182019
+Sun.,2018-12-30,3:05 ET,Robert Morris,3,@,aic,1,,,ah,True,False,False,False,20182019
+Sun.,2018-12-30,4:30 ET,Concordia,1,@,Harvard,5,,,ex,True,False,True,False,20182019
+Sun.,2018-12-30,4:05 ET,Guelph,1,@,Miami,3,,,ex,True,False,True,False,20182019
+Sun.,2018-12-30,12:00 ET,Windsor,3,@,Bowling Green,7,,,ex,True,False,True,False,20182019
+Sun.,2018-12-30,4:00 ET,Lake Superior,4,vs,Michigan State,3,OT,,nc,True,True,False,True,20182019
+Sun.,2018-12-30,1:00 ET,Michigan,2,vs,Michigan Tech,2,OT,,nc,True,True,False,True,20182019
+Sun.,2018-12-30,4:00 ET,Brown,5,vs,Army,3,,,nc,True,True,False,False,20182019
+Sun.,2018-12-30,7:00 ET,Providence,5,@,Dartmouth,3,,,nc,True,False,False,False,20182019
+Sun.,2018-12-30,5:05 MT,Bemidji State,3,@,Air Force,6,,,nc,True,False,False,False,20182019
+Sun.,2018-12-30,5:00 ET,Bentley,3,@,New Hampshire,4,,,nc,True,False,False,False,20182019
+Mon.,2018-12-31,11:30 AM ET,Michigan State,2,vs,Michigan,2,OT,,nc,True,True,False,True,20182019
+Mon.,2018-12-31,2:30 ET,Lake Superior,6,vs,Michigan Tech,3,,,nc,True,True,False,False,20182019
+Mon.,2018-12-31,5:05 ET,Boston College,0,@,Notre Dame,4,,,nc,True,False,False,False,20182019
+Mon.,2018-12-31,4:00 ET,Colorado College,5,@,Merrimack,1,,,nc,True,False,False,False,20182019
+Mon.,2018-12-31,4:00 ET,Connecticut,3,@,Yale,1,,,nc,True,False,False,False,20182019
+Mon.,2018-12-31,4:00 ET,Colorado College,5,@,Merrimack,1,,,nc,True,False,False,False,20182019
+Mon.,2018-12-31,12:07 CT,Alaska Anchorage,0,@,Omaha,4,,,nc,True,False,False,False,20182019
+Tue.,2019-01-01,2:00 ET,Holy Cross,3,@,USA Under-18 Team,6,,,ex,True,False,True,False,20182019
+Wed.,2019-01-02,6:00 ET,Colorado College,2,@,Maine,4,,,nc,True,False,False,False,20182019
+Thu.,2019-01-03,7:37 ET,Bemidji State,3,@,Bowling Green,2,,,wc,True,False,False,False,20182019
+Fri.,2019-01-04,7:05 ET,RIT,4,@,Niagara,4,OT,,ah,True,False,False,True,20182019
+Fri.,2019-01-04,7:05 ET,Holy Cross,3,@,Mercyhurst,4,,,ah,True,False,False,False,20182019
+Fri.,2019-01-04,7:00 ET,Ohio State,7,@,Michigan State,7,OT,,b10,True,False,False,True,20182019
+Fri.,2019-01-04,8:00 CT,Penn State,4,@,Minnesota,2,,,b10,True,False,False,False,20182019
+Fri.,2019-01-04,7:00 ET,Colgate,5,@,Quinnipiac,4,OT,,ec,True,False,False,True,20182019
+Fri.,2019-01-04,7:00 ET,Cornell,3,@,Princeton,2,,,ec,True,False,False,False,20182019
+Fri.,2019-01-04,7:30 ET,RPI,2,@,Harvard,3,OT,,ec,True,False,False,True,20182019
+Fri.,2019-01-04,8:30 PT,Air Force,7,vs,St. Lawrence,1,,,nc,True,True,False,False,20182019
+Fri.,2019-01-04,5:00 PT,Western Michigan,5,vs,Connecticut,1,,,nc,True,True,False,False,20182019
+Fri.,2019-01-04,7:00 ET,Merrimack,1,@,New Hampshire,2,OT,,he,True,False,False,True,20182019
+Fri.,2019-01-04,7:00 ET,Merrimack,1,@,New Hampshire,2,OT,,he,True,False,False,True,20182019
+Fri.,2019-01-04,7:00 ET,UMass Lowell,2,@,Massachusetts,1,,,he,True,False,False,False,20182019
+Fri.,2019-01-04,7:35 ET,North Dakota,1,@,Canisius,3,,,nc,True,False,False,False,20182019
+Fri.,2019-01-04,7:00 CT,Denver,6,@,Wisconsin,3,,,nc,True,False,False,False,20182019
+Fri.,2019-01-04,7:05 MT,Boston College,2,@,Arizona State,5,,,nc,True,False,False,False,20182019
+Fri.,2019-01-04,7:05 ET,Sacred Heart,2,@,Vermont,3,,,nc,True,False,False,False,20182019
+Fri.,2019-01-04,7:00 ET,Miami,2,@,Providence,4,,,nc,True,False,False,False,20182019
+Fri.,2019-01-04,8:00 ET,Brown,7,vs,Robert Morris,4,,,nc,True,True,False,False,20182019
+Fri.,2019-01-04,5:00 ET,St. Cloud State,2,vs,Union,7,,,nc,True,True,False,False,20182019
+Fri.,2019-01-04,7:07 AT,Northern Michigan,4,@,Alaska,0,,,wc,True,False,False,False,20182019
+Fri.,2019-01-04,7:07 CT,Michigan Tech,1,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Fri.,2019-01-04,7:37 ET,Bemidji State,1,@,Bowling Green,3,,,wc,True,False,False,False,20182019
+Fri.,2019-01-04,7:07 AT,Lake Superior,5,@,Alaska Anchorage,2,,,wc,True,False,False,False,20182019
+Fri.,2019-01-04,7:07 CT,Ferris State,6,@,uah,5,OT,,wc,True,False,False,True,20182019
+Sat.,2019-01-05,7:05 ET,Niagara,1,@,RIT,2,,,ah,True,False,False,False,20182019
+Sat.,2019-01-05,7:05 ET,Holy Cross,5,@,Mercyhurst,4,,,ah,True,False,False,False,20182019
+Sat.,2019-01-05,4:30 ET,Michigan,4,@,Notre Dame,2,,,b10,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 CT,Penn State,1,@,Minnesota,4,,,b10,True,False,False,False,20182019
+Sat.,2019-01-05,8:00 ET,Ohio State,6,@,Michigan State,0,,,b10,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 ET,Colgate,4,@,Princeton,3,,,ec,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 ET,Cornell,2,@,Quinnipiac,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-01-05,7:07 CT,USA Under-18 Team,4,@,Minnesota Duluth,2,,,ex,True,False,True,False,20182019
+Sat.,2019-01-05,8:30 PT,Western Michigan,4,vs,Air Force,1,,,nc,True,True,False,False,20182019
+Sat.,2019-01-05,5:00 PT,St. Lawrence,3,vs,Connecticut,6,,,nc,True,True,False,False,20182019
+Sat.,2019-01-05,7:00 ET,Merrimack,1,@,Northeastern,0,,,he,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 ET,Merrimack,1,@,Northeastern,0,,,he,True,False,False,False,20182019
+Sat.,2019-01-05,5:05 ET,Dartmouth,3,@,Bentley,3,OT,,nc,True,False,False,True,20182019
+Sat.,2019-01-05,2:05 ET,Massachusetts,6,@,aic,1,,,nc,True,False,False,False,20182019
+Sat.,2019-01-05,7:35 ET,North Dakota,1,@,Canisius,2,,,nc,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 CT,Denver,4,@,Wisconsin,3,OT,,nc,True,False,False,True,20182019
+Sat.,2019-01-05,7:05 MT,Boston College,0,@,Arizona State,2,,,nc,True,False,False,False,20182019
+Sat.,2019-01-05,7:00 ET,Army,1,@,RPI,2,OT,,nc,True,False,False,True,20182019
+Sat.,2019-01-05,7:00 ET,Yale,5,@,New Hampshire,5,OT,,nc,True,False,False,True,20182019
+Sat.,2019-01-05,7:00 ET,Miami,3,@,Providence,3,OT,,nc,True,False,False,True,20182019
+Sat.,2019-01-05,5:00 ET,St. Cloud State,5,vs,Robert Morris,2,,,nc,True,True,False,False,20182019
+Sat.,2019-01-05,8:00 ET,Union,3,vs,Brown,6,,,nc,True,True,False,False,20182019
+Sat.,2019-01-05,7:07 CT,Michigan Tech,2,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Sat.,2019-01-05,7:07 CT,Ferris State,3,@,uah,4,OT,,wc,True,False,False,True,20182019
+Sat.,2019-01-05,7:07 AT,Northern Michigan,4,@,Alaska,2,,,wc,True,False,False,False,20182019
+Sat.,2019-01-05,7:07 AT,Lake Superior,3,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Sun.,2019-01-06,4:05 ET,Clarkson,3,@,Vermont,2,OT,,nc,True,False,False,True,20182019
+Mon.,2019-01-07,7:00 ET,Yale,3,@,Maine,4,OT,,nc,True,False,False,True,20182019
+Tue.,2019-01-08,7:05 ET,aic,6,@,Sacred Heart,5,,,AH,True,False,False,False,20182019
+Tue.,2019-01-08,7:30 ET,Merrimack,4,@,Michigan,2,,,nc,True,False,False,False,20182019
+Tue.,2019-01-08,7:30 ET,Merrimack,4,@,Michigan,2,,,nc,True,False,False,False,20182019
+Tue.,2019-01-08,7:00 ET,Boston University,2,@,Harvard,2,OT,,nc,True,False,False,True,20182019
+Fri.,2019-01-11,7:05 ET,Bentley,5,@,Robert Morris,2,,,ah,True,False,False,False,20182019
+Fri.,2019-01-11,7:05 ET,Niagara,3,@,Holy Cross,3,OT,,ah,True,False,False,True,20182019
+Fri.,2019-01-11,7:05 MT,Army,2,@,Air Force,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-01-11,7:35 ET,Mercyhurst,6,@,Canisius,2,,,ah,True,False,False,False,20182019
+Fri.,2019-01-11,2:05 ET,RIT,6,@,aic,3,,,ah,True,False,False,False,20182019
+Fri.,2019-01-11,8:00 ET,Michigan State,2,@,Penn State,4,,,b10,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Michigan,2,@,Ohio State,1,,,b10,True,False,False,False,20182019
+Fri.,2019-01-11,7:05 ET,Minnesota,5,@,Notre Dame,1,,,b10,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Harvard,2,@,Princeton,4,,,ec,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Union,1,@,Clarkson,5,,,ec,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,RPI,6,@,St. Lawrence,5,,,ec,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Dartmouth,1,@,Quinnipiac,5,,,ec,True,False,False,False,20182019
+Fri.,2019-01-11,7:30 ET,Northeastern,3,@,Maine,2,,,he,True,False,False,False,20182019
+Fri.,2019-01-11,7:30 ET,New Hampshire,2,@,Boston University,5,,,he,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Vermont,1,@,Massachusetts,4,,,he,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Providence,2,@,Boston College,4,,,he,True,False,False,False,20182019
+Fri.,2019-01-11,7:37 MT,Omaha,0,@,Denver,1,,,nt,True,False,False,False,20182019
+Fri.,2019-01-11,7:37 CT,Colorado College,3,@,North Dakota,4,OT,,nt,True,False,False,True,20182019
+Fri.,2019-01-11,7:07 CT,St. Cloud State,1,@,Minnesota Duluth,3,,,nt,True,False,False,False,20182019
+Fri.,2019-01-11,7:05 ET,Miami,3,@,Western Michigan,4,,,nt,True,False,False,False,20182019
+Fri.,2019-01-11,7:00 ET,Arizona State,1,@,Cornell,6,,,nc,True,False,False,False,20182019
+Fri.,2019-01-11,7:30 ET,UMass Lowell,3,@,Colgate,0,,,nc,True,False,False,False,20182019
+Fri.,2019-01-11,7:07 AT,Northern Michigan,5,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Fri.,2019-01-11,7:07 ET,uah,2,@,Lake Superior,7,,,wc,True,False,False,False,20182019
+Fri.,2019-01-11,7:07 ET,Minnesota State,3,@,Ferris State,2,OT,,wc,True,False,False,True,20182019
+Fri.,2019-01-11,7:07 ET,Bowling Green,0,@,Michigan Tech,2,,,wc,True,False,False,False,20182019
+Fri.,2019-01-11,7:07 CT,Alaska,0,@,Bemidji State,3,,,wc,True,False,False,False,20182019
+Sat.,2019-01-12,7:05 ET,Niagara,1,@,Holy Cross,4,,,ah,True,False,False,False,20182019
+Sat.,2019-01-12,4:05 ET,Bentley,5,@,Robert Morris,1,,,ah,True,False,False,False,20182019
+Sat.,2019-01-12,5:05 MT,Army,2,@,Air Force,2,OT,,ah,True,False,False,True,20182019
+Sat.,2019-01-12,1:05 ET,RIT,3,@,aic,2,,,ah,True,False,False,False,20182019
+Sat.,2019-01-12,7:05 ET,Canisius,3,@,Mercyhurst,6,,,ah,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Michigan State,6,@,Penn State,4,,,b10,True,False,False,False,20182019
+Sat.,2019-01-12,7:05 ET,Minnesota,2,@,Notre Dame,1,,,b10,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Michigan,2,@,Ohio State,4,,,b10,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Harvard,2,@,Quinnipiac,1,,,ec,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Union,4,@,St. Lawrence,3,,,ec,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Dartmouth,5,@,Princeton,0,,,ec,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,RPI,2,@,Clarkson,5,,,ec,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 CT,USA Under-18 Team,6,@,Wisconsin,2,,,ex,True,False,True,False,20182019
+Sat.,2019-01-12,7:00 ET,Connecticut,2,@,Merrimack,5,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Boston University,4,@,Providence,3,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Connecticut,2,@,Merrimack,5,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Vermont,1,@,Massachusetts,5,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Northeastern,4,@,Maine,0,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Boston College,4,@,New Hampshire,6,,,he,True,False,False,False,20182019
+Sat.,2019-01-12,7:07 MT,Omaha,2,@,Denver,3,OT,,nt,True,False,False,True,20182019
+Sat.,2019-01-12,7:07 CT,Colorado College,2,@,North Dakota,3,OT,,nt,True,False,False,True,20182019
+Sat.,2019-01-12,7:07 CT,St. Cloud State,4,@,Minnesota Duluth,2,,,nt,True,False,False,False,20182019
+Sat.,2019-01-12,7:05 ET,Miami,2,@,Western Michigan,3,,,nt,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Sacred Heart,1,@,Yale,3,,,nc,True,False,False,False,20182019
+Sat.,2019-01-12,7:00 ET,Arizona State,2,@,Cornell,3,,,nc,True,False,False,False,20182019
+Sat.,2019-01-12,7:30 ET,UMass Lowell,4,@,Colgate,1,,,nc,True,False,False,False,20182019
+Sat.,2019-01-12,7:07 ET,uah,1,@,Lake Superior,1,OT,,wc,True,False,False,True,20182019
+Sat.,2019-01-12,7:07 ET,Minnesota State,2,@,Ferris State,1,,,wc,True,False,False,False,20182019
+Sat.,2019-01-12,5:07 CT,Alaska,2,@,Bemidji State,1,OT,,wc,True,False,False,True,20182019
+Sat.,2019-01-12,7:07 ET,Bowling Green,3,@,Michigan Tech,2,,,wc,True,False,False,False,20182019
+Sat.,2019-01-12,7:07 AT,Northern Michigan,4,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Tue.,2019-01-15,7:05 ET,aic,2,@,Sacred Heart,1,,,ah,True,False,False,False,20182019
+Tue.,2019-01-15,7:00 ET,Providence,5,@,Brown,1,,,nc,True,False,False,False,20182019
+Wed.,2019-01-16,7:00 ET,Maine,7,@,Boston College,2,,,HE,True,False,False,False,20182019
+Wed.,2019-01-16,7:05 ET,RPI,5,@,Connecticut,2,,,nc,True,False,False,False,20182019
+Thu.,2019-01-17,7:05 ET,Holy Cross,0,@,aic,2,,,ah,True,False,False,False,20182019
+Fri.,2019-01-18,7:05 ET,RIT,2,@,Bentley,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-01-18,7:05 ET,Mercyhurst,3,@,Niagara,7,,,ah,True,False,False,False,20182019
+Fri.,2019-01-18,7:35 ET,Robert Morris,7,@,Canisius,2,,,ah,True,False,False,False,20182019
+Fri.,2019-01-18,8:00 CT,Notre Dame,6,@,Wisconsin,4,,,b10,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,Ohio State,4,@,Penn State,1,,,b10,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,St. Lawrence,1,@,Brown,3,,,ec,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,Dartmouth,1,@,Colgate,0,,,ec,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,Clarkson,4,@,Yale,2,,,ec,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,Harvard,0,@,Cornell,2,,,ec,True,False,False,False,20182019
+Fri.,2019-01-18,7:30 ET,New Hampshire,5,@,Merrimack,0,,,he,True,False,False,False,20182019
+Fri.,2019-01-18,7:30 ET,New Hampshire,5,@,Merrimack,0,,,he,True,False,False,False,20182019
+Fri.,2019-01-18,7:15 ET,Vermont,5,@,UMass Lowell,6,,,he,True,False,False,False,20182019
+Fri.,2019-01-18,7:00 ET,Northeastern,1,@,Massachusetts,6,,,he,True,False,False,False,20182019
+Fri.,2019-01-18,7:35 ET,Minnesota Duluth,4,@,Miami,0,,,nt,True,False,False,False,20182019
+Fri.,2019-01-18,7:07 CT,Western Michigan,0,@,St. Cloud State,3,,,nt,True,False,False,False,20182019
+Fri.,2019-01-18,7:07 CT,North Dakota,4,@,Omaha,3,,,nt,True,False,False,False,20182019
+Fri.,2019-01-18,7:07 CT,Lake Superior,3,@,Minnesota State,5,,,wc,True,False,False,False,20182019
+Fri.,2019-01-18,7:07 CT,Michigan Tech,3,@,Bemidji State,4,OT,,wc,True,False,False,True,20182019
+Fri.,2019-01-18,7:07 AT,Bowling Green,1,@,Alaska,4,,,wc,True,False,False,False,20182019
+Fri.,2019-01-18,7:07 CT,Alaska Anchorage,2,@,uah,6,,,wc,True,False,False,False,20182019
+Sat.,2019-01-19,4:35 ET,Robert Morris,4,@,Canisius,6,,,ah,True,False,False,False,20182019
+Sat.,2019-01-19,7:05 ET,Mercyhurst,4,@,Niagara,5,,,ah,True,False,False,False,20182019
+Sat.,2019-01-19,7:05 ET,RIT,2,@,Bentley,5,,,ah,True,False,False,False,20182019
+Sat.,2019-01-19,7:05 ET,aic,3,@,Holy Cross,2,,,ah,True,False,False,False,20182019
+Sat.,2019-01-19,2:05 ET,Air Force,1,@,Sacred Heart,3,,,ah,True,False,False,False,20182019
+Sat.,2019-01-19,5:30 ET,Minnesota,3,@,Michigan State,5,,,b10,True,False,False,False,20182019
+Sat.,2019-01-19,3:00 ET,Ohio State,6,@,Penn State,4,,,b10,True,False,False,False,20182019
+Sat.,2019-01-19,3:00 ET,Harvard,2,@,Colgate,1,,,ec,True,False,False,False,20182019
+Sat.,2019-01-19,7:00 ET,St. Lawrence,2,@,Yale,3,,,ec,True,False,False,False,20182019
+Sat.,2019-01-19,3:00 ET,Dartmouth,1,@,Cornell,5,,,ec,True,False,False,False,20182019
+Sat.,2019-01-19,7:00 ET,Clarkson,4,@,Brown,0,,,ec,True,False,False,False,20182019
+Sat.,2019-01-19,7:05 ET,Royal Military,2,@,Army,5,,,ex,True,False,True,False,20182019
+Sat.,2019-01-19,7:00 ET,Massachusetts,1,@,Northeastern,2,OT,,HE,True,False,False,True,20182019
+Sat.,2019-01-19,6:00 ET,Vermont,0,@,UMass Lowell,2,,,he,True,False,False,False,20182019
+Sat.,2019-01-19,4:00 ET,Providence,1,@,Boston College,4,,,he,True,False,False,False,20182019
+Sat.,2019-01-19,7:07 MT,Colorado College,4,@,Denver,4,OT,,nt,True,False,False,True,20182019
+Sat.,2019-01-19,7:07 CT,North Dakota,3,@,Omaha,4,,,nt,True,False,False,False,20182019
+Sat.,2019-01-19,6:07 CT,Western Michigan,3,@,St. Cloud State,5,,,nt,True,False,False,False,20182019
+Sat.,2019-01-19,7:05 ET,Minnesota Duluth,3,@,Miami,0,,,nt,True,False,False,False,20182019
+Sat.,2019-01-19,5:00 ET,Quinnipiac,4,@,Boston University,3,,,nc,True,False,False,False,20182019
+Sat.,2019-01-19,7:07 AT,Bowling Green,2,@,Alaska,0,,,wc,True,False,False,False,20182019
+Sat.,2019-01-19,3:07 CT,Alaska Anchorage,3,@,uah,6,,,wc,True,False,False,False,20182019
+Sat.,2019-01-19,7:37 CT,Michigan Tech,0,@,Bemidji State,3,,,wc,True,False,False,False,20182019
+Sat.,2019-01-19,7:07 CT,Lake Superior,1,@,Minnesota State,0,,,wc,True,False,False,False,20182019
+Sun.,2019-01-20,4:05 ET,Air Force,2,@,Sacred Heart,2,OT,,ah,True,False,False,True,20182019
+Sun.,2019-01-20,5:00 ET,Minnesota,3,@,Michigan State,5,,,b10,True,False,False,False,20182019
+Sun.,2019-01-20,6:30 CT,Notre Dame,2,vs,Wisconsin,2,OT,,b10,True,True,False,True,20182019
+Mon.,2019-01-21,4:00 ET,Merrimack,2,@,Boston University,7,,,he,True,False,False,False,20182019
+Mon.,2019-01-21,2:00 ET,New Hampshire,4,@,Maine,4,OT,,he,True,False,False,True,20182019
+Mon.,2019-01-21,4:00 ET,Merrimack,2,@,Boston University,7,,,he,True,False,False,False,20182019
+Tue.,2019-01-22,7:00 ET,Holy Cross,1,@,Quinnipiac,4,,,nc,True,False,False,False,20182019
+Thu.,2019-01-24,7:30 ET,Penn State,1,@,Michigan,5,,,b10,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 MT,Robert Morris,1,@,Air Force,3,,,ah,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,aic,2,@,Mercyhurst,4,,,ah,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,Army,2,@,RIT,4,,,ah,True,False,False,False,20182019
+Fri.,2019-01-25,7:35 ET,Bentley,4,@,Canisius,2,,,ah,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,Holy Cross,2,@,Sacred Heart,5,,,ah,True,False,False,False,20182019
+Fri.,2019-01-25,7:00 CT,Wisconsin,4,@,Minnesota,9,,,b10,True,False,False,False,20182019
+Fri.,2019-01-25,7:35 ET,Michigan State,3,@,Notre Dame,6,,,b10,True,False,False,False,20182019
+Fri.,2019-01-25,7:00 ET,Clarkson,3,@,Harvard,4,OT,,ec,True,False,False,True,20182019
+Fri.,2019-01-25,7:00 ET,Brown,3,@,RPI,0,,,ec,True,False,False,False,20182019
+Fri.,2019-01-25,7:00 ET,Yale,3,@,Union,4,OT,,ec,True,False,False,True,20182019
+Fri.,2019-01-25,7:30 ET,Cornell,3,@,Colgate,2,,,ec,True,False,False,False,20182019
+Fri.,2019-01-25,7:00 ET,St. Lawrence,1,@,Dartmouth,4,,,ec,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,Merrimack,1,@,Vermont,5,,,he,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,Merrimack,1,@,Vermont,5,,,he,True,False,False,False,20182019
+Fri.,2019-01-25,7:00 ET,Northeastern,1,@,Providence,4,,,he,True,False,False,False,20182019
+Fri.,2019-01-25,7:30 ET,Massachusetts,4,@,Maine,2,,,he,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,New Hampshire,2,@,Connecticut,2,OT,,he,True,False,False,True,20182019
+Fri.,2019-01-25,7:00 ET,UMass Lowell,3,@,Boston College,1,,,he,True,False,False,False,20182019
+Fri.,2019-01-25,7:07 CT,Omaha,2,@,Minnesota Duluth,7,,,nt,True,False,False,False,20182019
+Fri.,2019-01-25,7:37 CT,St. Cloud State,3,@,North Dakota,1,,,nt,True,False,False,False,20182019
+Fri.,2019-01-25,7:35 ET,Colorado College,6,@,Miami,1,,,nt,True,False,False,False,20182019
+Fri.,2019-01-25,7:05 ET,Denver,1,@,Western Michigan,3,,,nt,True,False,False,False,20182019
+Fri.,2019-01-25,7:30 ET,Arizona State,2,@,Boston University,4,,,nc,True,False,False,False,20182019
+Fri.,2019-01-25,7:07 CT,Alaska,3,@,uah,1,,,wc,True,False,False,False,20182019
+Fri.,2019-01-25,7:37 ET,Ferris State,0,@,Bowling Green,2,,,wc,True,False,False,False,20182019
+Fri.,2019-01-25,7:07 AT,Michigan Tech,3,@,Alaska Anchorage,0,,,wc,True,False,False,False,20182019
+Fri.,2019-01-25,7:07 ET,Bemidji State,2,@,Lake Superior,5,,,wc,True,False,False,False,20182019
+Fri.,2019-01-25,7:07 ET,Minnesota State,3,@,Northern Michigan,2,,,wc,True,False,False,False,20182019
+Sat.,2019-01-26,5:05 ET,Army,2,@,RIT,4,,,ah,True,False,False,False,20182019
+Sat.,2019-01-26,2:05 ET,Holy Cross,4,@,Sacred Heart,1,,,ah,True,False,False,False,20182019
+Sat.,2019-01-26,4:35 ET,Bentley,3,@,Canisius,1,,,ah,True,False,False,False,20182019
+Sat.,2019-01-26,7:05 ET,aic,8,@,Mercyhurst,5,,,ah,True,False,False,False,20182019
+Sat.,2019-01-26,5:05 MT,Robert Morris,1,@,Air Force,3,,,ah,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 CT,Wisconsin,4,@,Minnesota,3,,,b10,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Penn State,5,vs,Michigan,2,,,b10,True,True,False,False,20182019
+Sat.,2019-01-26,7:05 ET,Michigan State,1,@,Notre Dame,1,OT,,b10,True,False,False,True,20182019
+Sat.,2019-01-26,7:00 ET,St. Lawrence,3,@,Harvard,7,,,ec,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Clarkson,2,@,Dartmouth,0,,,ec,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Brown,3,@,Union,2,,,ec,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Yale,3,@,RPI,2,,,ec,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Colgate,3,@,Cornell,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-01-26,7:05 ET,Merrimack,3,@,Vermont,4,OT,,he,True,False,False,True,20182019
+Sat.,2019-01-26,7:00 ET,Connecticut,0,@,New Hampshire,6,,,he,True,False,False,False,20182019
+Sat.,2019-01-26,7:05 ET,Merrimack,3,@,Vermont,4,OT,,he,True,False,False,True,20182019
+Sat.,2019-01-26,7:00 ET,Providence,3,@,Northeastern,0,,,he,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Massachusetts,3,@,Maine,4,,,he,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Boston College,4,@,UMass Lowell,4,OT,,he,True,False,False,True,20182019
+Sat.,2019-01-26,7:05 ET,Denver,1,@,Western Michigan,5,,,nt,True,False,False,False,20182019
+Sat.,2019-01-26,7:05 ET,Colorado College,3,@,Miami,2,,,nt,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 CT,Omaha,1,@,Minnesota Duluth,3,,,nt,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 CT,St. Cloud State,1,@,North Dakota,5,,,nt,True,False,False,False,20182019
+Sat.,2019-01-26,7:00 ET,Arizona State,3,@,Boston University,0,,,nc,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 ET,Bemidji State,5,@,Lake Superior,3,,,wc,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 AT,Michigan Tech,0,@,Alaska Anchorage,0,OT,,wc,True,False,False,True,20182019
+Sat.,2019-01-26,7:07 ET,Minnesota State,8,@,Northern Michigan,2,,,wc,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 ET,Ferris State,3,@,Bowling Green,0,,,wc,True,False,False,False,20182019
+Sat.,2019-01-26,7:07 CT,Alaska,5,@,uah,2,,,wc,True,False,False,False,20182019
+Tue.,2019-01-29,7:00 ET,RPI,0,vs,Union,0,OT,,nc,True,True,False,True,20182019
+Tue.,2019-01-29,7:05 ET,Sacred Heart,2,@,Connecticut,1,,,nc,True,False,False,False,20182019
+Fri.,2019-02-01,2:05 ET,Niagara,4,@,aic,6,,,ah,True,False,False,False,20182019
+Fri.,2019-02-01,7:05 ET,Sacred Heart,6,@,Robert Morris,2,,,ah,True,False,False,False,20182019
+Fri.,2019-02-01,7:05 ET,Air Force,3,@,Bentley,4,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-01,7:05 ET,Canisius,3,@,Mercyhurst,5,,,ah,True,False,False,False,20182019
+Fri.,2019-02-01,7:05 ET,Army,2,@,Holy Cross,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-01,7:00 CT,Michigan,4,@,Minnesota,2,,,b10,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Wisconsin,1,@,Michigan State,4,,,b10,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Notre Dame,2,@,Ohio State,4,,,b10,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Princeton,2,@,St. Lawrence,3,,,ec,True,False,False,False,20182019
+Fri.,2019-02-01,7:30 ET,Dartmouth,1,@,Harvard,4,,,ec,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Cornell,4,@,Union,0,,,ec,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Colgate,1,@,RPI,3,,,ec,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Quinnipiac,4,@,Clarkson,2,,,ec,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,UMass Lowell,3,@,Northeastern,1,,,he,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Vermont,3,@,Providence,1,,,he,True,False,False,False,20182019
+Fri.,2019-02-01,7:00 ET,Maine,2,@,New Hampshire,3,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-01,7:05 ET,Boston College,5,@,Connecticut,3,,,he,True,False,False,False,20182019
+Fri.,2019-02-01,7:30 ET,Massachusetts,7,@,Boston University,5,,,he,True,False,False,False,20182019
+Fri.,2019-02-01,7:07 MT,North Dakota,1,@,Denver,2,,,nt,True,False,False,False,20182019
+Fri.,2019-02-01,7:37 MT,Minnesota Duluth,1,@,Colorado College,4,,,nt,True,False,False,False,20182019
+Fri.,2019-02-01,7:07 CT,Miami,1,@,St. Cloud State,5,,,nt,True,False,False,False,20182019
+Fri.,2019-02-01,7:07 CT,Western Michigan,4,@,Omaha,3,,,nt,True,False,False,False,20182019
+Fri.,2019-02-01,7:05 ET,Arizona State,6,@,RIT,1,,,nc,True,False,False,False,20182019
+Fri.,2019-02-01,7:07 ET,Bowling Green,3,@,Northern Michigan,2,OT,,wc,True,False,False,True,20182019
+Fri.,2019-02-01,7:07 CT,uah,1,@,Minnesota State,6,,,wc,True,False,False,False,20182019
+Fri.,2019-02-01,7:07 ET,Lake Superior,6,@,Ferris State,3,,,wc,True,False,False,False,20182019
+Sat.,2019-02-02,4:05 ET,Sacred Heart,3,@,Robert Morris,1,,,ah,True,False,False,False,20182019
+Sat.,2019-02-02,1:05 ET,Niagara,3,@,aic,6,,,ah,True,False,False,False,20182019
+Sat.,2019-02-02,7:05 ET,Air Force,0,@,Bentley,4,,,ah,True,False,False,False,20182019
+Sat.,2019-02-02,7:05 ET,Army,4,@,Holy Cross,5,,,ah,True,False,False,False,20182019
+Sat.,2019-02-02,7:35 ET,Mercyhurst,1,@,Canisius,1,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-02,5:30 ET,Wisconsin,2,@,Michigan State,2,OT,,b10,True,False,False,True,20182019
+Sat.,2019-02-02,7:00 CT,Michigan,3,@,Minnesota,4,,,b10,True,False,False,False,20182019
+Sat.,2019-02-02,8:00 ET,Notre Dame,0,@,Ohio State,2,,,b10,True,False,False,False,20182019
+Sat.,2019-02-02,7:00 ET,Cornell,1,@,RPI,1,OT,,ec,True,False,False,True,20182019
+Sat.,2019-02-02,7:00 ET,Colgate,0,@,Union,6,,,ec,True,False,False,False,20182019
+Sat.,2019-02-02,7:00 ET,Princeton,1,@,Clarkson,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-02,7:00 ET,Brown,3,@,Yale,4,,,ec,True,False,False,False,20182019
+Sat.,2019-02-02,7:00 ET,Quinnipiac,7,@,St. Lawrence,2,,,ec,True,False,False,False,20182019
+Sat.,2019-02-02,7:00 ET,Vermont,1,@,Providence,1,OT,,he,True,False,False,True,20182019
+Sat.,2019-02-02,7:00 ET,Maine,5,@,New Hampshire,3,,,he,True,False,False,False,20182019
+Sat.,2019-02-02,7:07 MT,North Dakota,1,@,Denver,1,OT,,nt,True,False,False,True,20182019
+Sat.,2019-02-02,6:07 MT,Minnesota Duluth,6,@,Colorado College,0,,,nt,True,False,False,False,20182019
+Sat.,2019-02-02,6:07 CT,Miami,1,@,St. Cloud State,5,,,nt,True,False,False,False,20182019
+Sat.,2019-02-02,7:07 CT,Western Michigan,3,@,Omaha,6,,,nt,True,False,False,False,20182019
+Sat.,2019-02-02,7:05 ET,Arizona State,4,@,RIT,2,,,nc,True,False,False,False,20182019
+Sat.,2019-02-02,7:07 ET,Bowling Green,2,@,Northern Michigan,3,,,wc,True,False,False,False,20182019
+Sat.,2019-02-02,7:07 CT,uah,0,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Sat.,2019-02-02,7:07 ET,Lake Superior,4,@,Ferris State,2,,,wc,True,False,False,False,20182019
+Mon.,2019-02-04,5:00 ET,Harvard,1,vs,Boston College,2,,,nc,True,True,False,False,20182019
+Mon.,2019-02-04,8:00 ET,Northeastern,2,vs,Boston University,1,OT,,nc,True,True,False,True,20182019
+Thu.,2019-02-07,7:05 ET,Northeastern,2,@,Connecticut,3,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-08,7:05 ET,Canisius,2,@,Bentley,3,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-08,7:05 ET,RIT,4,@,Holy Cross,3,,,ah,True,False,False,False,20182019
+Fri.,2019-02-08,7:05 ET,aic,3,@,Army,0,,,ah,True,False,False,False,20182019
+Fri.,2019-02-08,7:05 ET,Sacred Heart,4,@,Niagara,2,,,ah,True,False,False,False,20182019
+Fri.,2019-02-08,6:00 ET,Minnesota,2,@,Penn State,7,,,b10,True,False,False,False,20182019
+Fri.,2019-02-08,7:30 ET,Michigan State,3,@,Michigan,5,,,b10,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 CT,Ohio State,2,@,Wisconsin,1,OT,,b10,True,False,False,True,20182019
+Fri.,2019-02-08,7:00 ET,Clarkson,0,@,Cornell,5,,,ec,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,St. Lawrence,2,@,Colgate,3,,,ec,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,RPI,3,@,Dartmouth,3,OT,,ec,True,False,False,True,20182019
+Fri.,2019-02-08,7:00 ET,Brown,4,@,Princeton,2,,,ec,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,Union,3,@,Harvard,5,,,ec,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,Yale,0,@,Quinnipiac,4,,,ec,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,Boston College,0,@,UMass Lowell,3,,,he,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,Boston University,2,@,Massachusetts,4,,,he,True,False,False,False,20182019
+Fri.,2019-02-08,7:00 ET,Providence,1,@,Maine,0,,,he,True,False,False,False,20182019
+Fri.,2019-02-08,7:05 ET,New Hampshire,1,@,Vermont,0,,,he,True,False,False,False,20182019
+Fri.,2019-02-08,8:07 CT,Colorado College,2,@,St. Cloud State,2,OT,,nt,True,False,False,True,20182019
+Fri.,2019-02-08,6:35 ET,Omaha,3,@,Miami,0,,,nt,True,False,False,False,20182019
+Fri.,2019-02-08,7:07 ET,Minnesota State,1,@,Michigan Tech,1,OT,,wc,True,False,False,True,20182019
+Fri.,2019-02-08,6:07 CT,Northern Michigan,2,@,uah,2,OT,,wc,True,False,False,True,20182019
+Fri.,2019-02-08,7:07 AT,Alaska Anchorage,4,@,Alaska,1,,,wc,True,False,False,False,20182019
+Fri.,2019-02-08,7:07 ET,Bemidji State,3,@,Ferris State,3,OT,,wc,True,False,False,True,20182019
+Sat.,2019-02-09,4:05 ET,Sacred Heart,6,@,Niagara,3,,,ah,True,False,False,False,20182019
+Sat.,2019-02-09,4:05 ET,Canisius,4,@,Bentley,6,,,ah,True,False,False,False,20182019
+Sat.,2019-02-09,7:05 ET,RIT,3,@,Holy Cross,4,,,ah,True,False,False,False,20182019
+Sat.,2019-02-09,7:05 ET,aic,5,@,Army,2,,,ah,True,False,False,False,20182019
+Sat.,2019-02-09,6:00 ET,Minnesota,2,@,Penn State,6,,,b10,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Michigan State,2,vs,Michigan,5,,,b10,True,True,False,False,20182019
+Sat.,2019-02-09,7:00 CT,Ohio State,4,@,Wisconsin,1,,,b10,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Brown,4,@,Quinnipiac,1,,,ec,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Yale,1,@,Princeton,4,,,ec,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Union,3,@,Dartmouth,1,,,ec,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,St. Lawrence,1,@,Cornell,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Clarkson,2,@,Colgate,1,,,ec,True,False,False,False,20182019
+Sat.,2019-02-09,5:00 ET,Merrimack,0,@,Connecticut,5,,,he,True,False,False,False,20182019
+Sat.,2019-02-09,7:05 ET,New Hampshire,1,@,Vermont,4,,,he,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Providence,1,@,Maine,3,,,he,True,False,False,False,20182019
+Sat.,2019-02-09,5:00 ET,Merrimack,0,@,Connecticut,5,,,he,True,False,False,False,20182019
+Sat.,2019-02-09,7:00 ET,Massachusetts,0,@,UMass Lowell,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-09,7:05 ET,Omaha,2,@,Miami,4,,,nt,True,False,False,False,20182019
+Sat.,2019-02-09,6:07 CT,Colorado College,4,@,St. Cloud State,5,OT,,nt,True,False,False,True,20182019
+Sat.,2019-02-09,7:07 ET,Bemidji State,6,@,Ferris State,1,,,wc,True,False,False,False,20182019
+Sat.,2019-02-09,7:07 AT,Alaska Anchorage,1,@,Alaska,2,,,wc,True,False,False,False,20182019
+Sat.,2019-02-09,3:37 CT,Northern Michigan,6,@,uah,3,,,wc,True,False,False,False,20182019
+Sat.,2019-02-09,5:07 ET,Minnesota State,3,@,Michigan Tech,2,OT,,wc,True,False,False,True,20182019
+Mon.,2019-02-11,4:30 ET,Harvard,5,vs,Boston University,2,,,nc,True,True,False,False,20182019
+Mon.,2019-02-11,7:30 ET,Boston College,2,vs,Northeastern,4,,,nc,True,True,False,False,20182019
+Tue.,2019-02-12,7:35 ET,Michigan,2,@,Notre Dame,5,,,b10,True,False,False,False,20182019
+Thu.,2019-02-14,7:05 ET,Bentley,3,@,Niagara,1,,,ah,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 ET,Robert Morris,5,@,Holy Cross,3,,,ah,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 ET,Bentley,3,@,Niagara,4,,,ah,True,False,False,False,20182019
+Fri.,2019-02-15,11:05 AM ET,RIT,2,@,Sacred Heart,0,,,ah,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 MT,Canisius,0,@,Air Force,3,,,ah,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 ET,Mercyhurst,1,@,Army,1,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-15,7:00 ET,Penn State,3,@,Michigan State,5,,,b10,True,False,False,False,20182019
+Fri.,2019-02-15,6:00 ET,Minnesota,4,@,Ohio State,3,,,b10,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 ET,Wisconsin,2,@,Notre Dame,1,,,b10,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Harvard,3,@,St. Lawrence,2,,,ec,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Dartmouth,1,@,Clarkson,0,,,ec,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Cornell,3,@,Brown,3,OT,,ec,True,False,False,True,20182019
+Fri.,2019-02-15,7:00 ET,Colgate,0,@,Yale,3,,,ec,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Quinnipiac,1,@,Union,1,OT,,ec,True,False,False,True,20182019
+Fri.,2019-02-15,7:00 ET,Princeton,2,@,RPI,6,,,ec,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Maine,3,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-15,7:00 ET,Boston College,3,@,Massachusetts,4,,,he,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Vermont,1,@,Northeastern,4,,,he,True,False,False,False,20182019
+Fri.,2019-02-15,7:00 ET,Maine,3,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-15,7:05 ET,Boston University,2,@,Connecticut,3,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-15,7:15 ET,Providence,6,@,UMass Lowell,1,,,he,True,False,False,False,20182019
+Fri.,2019-02-15,8:07 CT,Denver,2,@,Minnesota Duluth,5,,,nt,True,False,False,False,20182019
+Fri.,2019-02-15,6:30 ET,North Dakota,5,@,Western Michigan,1,,,nt,True,False,False,False,20182019
+Fri.,2019-02-15,7:05 MT,aic,1,@,Arizona State,4,,,nc,True,False,False,False,20182019
+Fri.,2019-02-15,7:37 ET,Alaska,0,@,Bowling Green,8,,,wc,True,False,False,False,20182019
+Fri.,2019-02-15,7:07 AT,Ferris State,2,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Fri.,2019-02-15,7:07 ET,Michigan Tech,1,@,Lake Superior,3,,,wc,True,False,False,False,20182019
+Fri.,2019-02-15,7:07 CT,Northern Michigan,2,@,Bemidji State,2,OT,,wc,True,False,False,True,20182019
+Sat.,2019-02-16,5:05 ET,Robert Morris,0,@,Holy Cross,2,,,ah,True,False,False,False,20182019
+Sat.,2019-02-16,5:05 MT,Canisius,3,@,Air Force,0,,,ah,True,False,False,False,20182019
+Sat.,2019-02-16,7:05 ET,Mercyhurst,3,@,Army,4,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-16,2:05 ET,RIT,3,@,Sacred Heart,4,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-16,6:05 ET,Wisconsin,2,@,Notre Dame,5,,,b10,True,False,False,False,20182019
+Sat.,2019-02-16,6:00 ET,Minnesota,4,@,Ohio State,3,,,b10,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Penn State,5,@,Michigan State,3,,,b10,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Colgate,3,@,Brown,3,OT,,ec,True,False,False,True,20182019
+Sat.,2019-02-16,7:00 ET,Harvard,3,@,Clarkson,5,,,ec,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Dartmouth,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-02-16,7:00 ET,Cornell,2,@,Yale,5,,,ec,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Princeton,2,@,Union,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Quinnipiac,2,@,RPI,1,,,ec,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Maine,4,@,Merrimack,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Connecticut,0,@,Boston University,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Vermont,1,@,Northeastern,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,8:00 ET,Massachusetts,4,@,Boston College,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,Maine,4,@,Merrimack,2,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,7:00 ET,UMass Lowell,0,@,Providence,1,,,he,True,False,False,False,20182019
+Sat.,2019-02-16,7:07 CT,Denver,1,@,Minnesota Duluth,0,,,nt,True,False,False,False,20182019
+Sat.,2019-02-16,7:05 ET,North Dakota,2,@,Western Michigan,4,,,nt,True,False,False,False,20182019
+Sat.,2019-02-16,7:05 MT,aic,4,@,Arizona State,5,OT,,nc,True,False,False,True,20182019
+Sat.,2019-02-16,7:07 ET,Alaska,3,@,Bowling Green,3,OT,,wc,True,False,False,True,20182019
+Sat.,2019-02-16,7:07 AT,Ferris State,1,@,Alaska Anchorage,1,OT,,wc,True,False,False,True,20182019
+Sat.,2019-02-16,7:07 CT,Northern Michigan,0,@,Bemidji State,3,,,wc,True,False,False,False,20182019
+Sat.,2019-02-16,7:07 ET,Michigan Tech,1,@,Lake Superior,3,,,wc,True,False,False,False,20182019
+Thu.,2019-02-21,7:00 ET,Connecticut,0,@,Massachusetts,3,,,he,True,False,False,False,20182019
+Fri.,2019-02-22,7:35 ET,Niagara,2,@,Canisius,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-22,7:05 ET,Robert Morris,3,@,RIT,5,,,ah,True,False,False,False,20182019
+Fri.,2019-02-22,7:05 ET,Holy Cross,5,@,Bentley,3,,,ah,True,False,False,False,20182019
+Fri.,2019-02-22,7:05 ET,Army,0,@,Sacred Heart,5,,,ah,True,False,False,False,20182019
+Fri.,2019-02-22,7:05 ET,Air Force,3,@,Mercyhurst,3,OT,,ah,True,False,False,True,20182019
+Fri.,2019-02-22,6:30 ET,Ohio State,2,@,Michigan,4,,,b10,True,False,False,False,20182019
+Fri.,2019-02-22,8:00 CT,Notre Dame,3,@,Minnesota,2,,,b10,True,False,False,False,20182019
+Fri.,2019-02-22,6:30 ET,Wisconsin,2,@,Penn State,8,,,b10,True,False,False,False,20182019
+Fri.,2019-02-22,7:00 ET,Brown,2,@,Harvard,4,,,ec,True,False,False,False,20182019
+Fri.,2019-02-22,7:00 ET,Clarkson,1,@,Princeton,1,OT,,ec,True,False,False,True,20182019
+Fri.,2019-02-22,7:00 ET,Yale,0,@,Dartmouth,2,,,ec,True,False,False,False,20182019
+Fri.,2019-02-22,7:00 ET,St. Lawrence,2,@,Quinnipiac,7,,,ec,True,False,False,False,20182019
+Fri.,2019-02-22,7:00 ET,RPI,3,@,Cornell,2,OT,,ec,True,False,False,True,20182019
+Fri.,2019-02-22,7:00 ET,Union,1,@,Colgate,5,,,ec,True,False,False,False,20182019
+Fri.,2019-02-22,7:15 ET,Merrimack,3,@,UMass Lowell,6,,,he,True,False,False,False,20182019
+Fri.,2019-02-22,7:15 ET,Merrimack,3,@,UMass Lowell,6,,,he,True,False,False,False,20182019
+Fri.,2019-02-22,7:05 ET,Boston University,1,@,Vermont,0,OT,,he,True,False,False,True,20182019
+Fri.,2019-02-22,7:00 ET,Northeastern,6,@,New Hampshire,3,,,he,True,False,False,False,20182019
+Fri.,2019-02-22,7:00 ET,Boston College,1,@,Maine,2,,,he,True,False,False,False,20182019
+Fri.,2019-02-22,7:37 MT,Western Michigan,5,@,Colorado College,4,OT,,nt,True,False,False,True,20182019
+Fri.,2019-02-22,7:07 MT,Miami,3,@,Denver,1,,,nt,True,False,False,False,20182019
+Fri.,2019-02-22,7:37 CT,Minnesota Duluth,1,@,North Dakota,4,,,nt,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 CT,St. Cloud State,4,@,Omaha,1,,,nt,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 ET,Lake Superior,2,@,Northern Michigan,4,,,wc,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 ET,uah,2,@,Ferris State,0,,,wc,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 ET,Alaska Anchorage,2,@,Michigan Tech,3,,,wc,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 AT,Minnesota State,6,@,Alaska,1,,,wc,True,False,False,False,20182019
+Fri.,2019-02-22,7:07 CT,Bowling Green,3,@,Bemidji State,1,,,wc,True,False,False,False,20182019
+Sat.,2019-02-23,7:05 ET,Robert Morris,2,@,RIT,2,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-23,7:05 ET,Canisius,3,@,Niagara,3,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-23,7:05 ET,Sacred Heart,3,@,Army,3,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-23,7:05 ET,Bentley,1,@,Holy Cross,1,OT,,ah,True,False,False,True,20182019
+Sat.,2019-02-23,7:05 ET,Air Force,4,@,Mercyhurst,2,,,ah,True,False,False,False,20182019
+Sat.,2019-02-23,6:00 ET,Ohio State,3,@,Michigan,3,OT,,b10,True,False,False,True,20182019
+Sat.,2019-02-23,7:00 ET,Wisconsin,7,@,Penn State,3,,,b10,True,False,False,False,20182019
+Sat.,2019-02-23,4:30 CT,Notre Dame,1,@,Minnesota,2,,,b10,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,Yale,0,@,Harvard,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,Clarkson,5,@,Quinnipiac,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,St. Lawrence,3,@,Princeton,5,,,ec,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,RPI,1,@,Colgate,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-02-23,7:00 ET,Union,1,@,Cornell,3,,,ec,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,Brown,2,@,Dartmouth,0,,,ec,True,False,False,False,20182019
+Sat.,2019-02-23,7:00 ET,UMass Lowell,3,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Sat.,2019-02-23,7:00 ET,UMass Lowell,3,@,Merrimack,3,OT,,he,True,False,False,True,20182019
+Sat.,2019-02-23,7:30 ET,Boston College,1,@,Maine,2,OT,,he,True,False,False,True,20182019
+Sat.,2019-02-23,5:00 ET,Massachusetts,2,@,Providence,3,,,he,True,False,False,False,20182019
+Sat.,2019-02-23,7:05 ET,Boston University,2,@,Vermont,1,,,he,True,False,False,False,20182019
+Sat.,2019-02-23,7:15 ET,Northeastern,6,@,New Hampshire,0,,,he,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 MT,Miami,2,@,Denver,5,,,nt,True,False,False,False,20182019
+Sat.,2019-02-23,4:37 MT,Western Michigan,2,@,Colorado College,8,,,nt,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 CT,Minnesota Duluth,3,@,North Dakota,2,,,nt,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 CT,St. Cloud State,5,@,Omaha,0,,,nt,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 ET,uah,2,@,Ferris State,5,,,wc,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 ET,Alaska Anchorage,1,@,Michigan Tech,3,,,wc,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 AT,Minnesota State,0,@,Alaska,1,,,wc,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 ET,Lake Superior,3,@,Northern Michigan,5,,,wc,True,False,False,False,20182019
+Sat.,2019-02-23,7:07 CT,Bowling Green,2,@,Bemidji State,2,OT,,wc,True,False,False,True,20182019
+Tue.,2019-02-26,7:05 ET,Providence,5,@,Connecticut,2,,,HE,True,False,False,False,20182019
+Tue.,2019-02-26,7:07 MT,Denver,1,@,Colorado College,0,,,nt,True,False,False,False,20182019
+Wed.,2019-02-27,7:35 ET,RIT,2,@,Niagara,4,,,ah,True,False,False,False,20182019
+Thu.,2019-02-28,7:05 ET,Sacred Heart,5,@,aic,2,,,ah,True,False,False,False,20182019
+Thu.,2019-02-28,7:00 ET,Massachusetts,4,@,Merrimack,2,,,he,True,False,False,False,20182019
+Thu.,2019-02-28,7:00 ET,Massachusetts,4,@,Merrimack,2,,,he,True,False,False,False,20182019
+Thu.,2019-02-28,7:00 ET,Boston University,1,@,Providence,1,OT,,he,True,False,False,True,20182019
+Fri.,2019-03-01,7:05 MT,Holy Cross,2,@,Air Force,1,OT,,ah,True,False,False,True,20182019
+Fri.,2019-03-01,7:05 ET,Bentley,2,@,Army,1,,,ah,True,False,False,False,20182019
+Fri.,2019-03-01,7:05 ET,Robert Morris,5,@,Mercyhurst,4,OT,,ah,True,False,False,True,20182019
+Fri.,2019-03-01,6:30 ET,Michigan State,1,@,Ohio State,5,,,b10,True,False,False,False,20182019
+Fri.,2019-03-01,8:00 CT,Michigan,4,@,Wisconsin,5,OT,,b10,True,False,False,True,20182019
+Fri.,2019-03-01,7:05 ET,Penn State,4,@,Notre Dame,5,OT,,b10,True,False,False,True,20182019
+Fri.,2019-03-01,7:00 ET,Harvard,4,@,RPI,1,,,ec,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Colgate,2,@,Clarkson,3,,,ec,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Quinnipiac,4,@,Brown,1,,,ec,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Cornell,4,@,St. Lawrence,2,,,ec,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Princeton,3,@,Yale,2,,,ec,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Dartmouth,3,@,Union,4,OT,,ec,True,False,False,True,20182019
+Fri.,2019-03-01,7:00 ET,UMass Lowell,0,@,New Hampshire,1,,,he,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Northeastern,1,@,Boston College,3,,,he,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 ET,Vermont,1,@,Connecticut,5,,,he,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 CT,Denver,4,@,Omaha,1,,,nt,True,False,False,False,20182019
+Fri.,2019-03-01,8:07 MT,North Dakota,1,@,Colorado College,3,,,nt,True,False,False,False,20182019
+Fri.,2019-03-01,7:05 ET,St. Cloud State,5,@,Western Michigan,4,,,nt,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 CT,Miami,2,@,Minnesota Duluth,4,,,nt,True,False,False,False,20182019
+Fri.,2019-03-01,7:00 CT,Arizona State,1,@,Minnesota,5,,,nc,True,False,False,False,20182019
+Fri.,2019-03-01,8:07 ET,uah,4,@,Bowling Green,2,,,wc,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 ET,Ferris State,2,@,Lake Superior,5,,,wc,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 AT,Alaska,4,@,Alaska Anchorage,0,,,wc,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 CT,Bemidji State,1,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Fri.,2019-03-01,7:07 ET,Northern Michigan,4,@,Michigan Tech,2,,,wc,True,False,False,False,20182019
+Sat.,2019-03-02,7:05 ET,Mercyhurst,3,@,Robert Morris,4,,,ah,True,False,False,False,20182019
+Sat.,2019-03-02,1:05 ET,Sacred Heart,1,@,aic,4,,,ah,True,False,False,False,20182019
+Sat.,2019-03-02,7:05 ET,Bentley,3,@,Army,3,OT,,ah,True,False,False,True,20182019
+Sat.,2019-03-02,5:05 MT,Holy Cross,2,@,Air Force,4,,,ah,True,False,False,False,20182019
+Sat.,2019-03-02,7:05 ET,Canisius,2,@,RIT,1,,,ah,True,False,False,False,20182019
+Sat.,2019-03-02,5:00 ET,Michigan State,3,@,Ohio State,2,,,b10,True,False,False,False,20182019
+Sat.,2019-03-02,8:00 CT,Michigan,3,@,Wisconsin,4,OT,,b10,True,False,False,True,20182019
+Sat.,2019-03-02,7:05 ET,Penn State,3,@,Notre Dame,2,,,b10,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Quinnipiac,4,@,Yale,1,,,ec,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Princeton,5,@,Brown,1,,,ec,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Colgate,2,@,St. Lawrence,5,,,ec,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Harvard,3,@,Union,4,,,ec,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Cornell,2,@,Clarkson,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-03-02,7:00 ET,Dartmouth,5,@,RPI,2,,,ec,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Merrimack,1,@,Boston University,5,,,he,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,New Hampshire,2,@,UMass Lowell,2,OT,,he,True,False,False,True,20182019
+Sat.,2019-03-02,7:00 ET,Boston College,2,@,Northeastern,4,,,he,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 ET,Merrimack,1,@,Boston University,5,,,he,True,False,False,False,20182019
+Sat.,2019-03-02,8:00 ET,Maine,0,@,Massachusetts,6,,,he,True,False,False,False,20182019
+Sat.,2019-03-02,6:07 MT,North Dakota,2,@,Colorado College,1,,,nt,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 CT,Denver,3,@,Omaha,3,OT,,nt,True,False,False,True,20182019
+Sat.,2019-03-02,7:05 ET,St. Cloud State,8,@,Western Michigan,2,,,nt,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 CT,Miami,5,@,Minnesota Duluth,6,,,nt,True,False,False,False,20182019
+Sat.,2019-03-02,7:00 CT,Arizona State,2,@,Minnesota,5,,,nc,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 ET,Ferris State,3,@,Lake Superior,2,,,wc,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 ET,uah,1,@,Bowling Green,7,,,wc,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 AT,Alaska,2,@,Alaska Anchorage,1,,,wc,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 ET,Michigan Tech,0,@,Northern Michigan,3,,,wc,True,False,False,False,20182019
+Sat.,2019-03-02,7:07 CT,Bemidji State,1,@,Minnesota State,3,,,wc,True,False,False,False,20182019
+Thu.,2019-03-07,7:00 ET,Boston College,1,@,Providence,3,,,he,True,False,False,False,20182019
+Fri.,2019-03-08,7:05 ET,Army,3,@,Mercyhurst,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-03-08,7:05 ET,Holy Cross,0,@,Robert Morris,1,,,ah,True,False,False,False,20182019
+Fri.,2019-03-08,7:05 ET,Canisius,4,@,Niagara,5,2OT,,ah,True,False,False,True,20182019
+Fri.,2019-03-08,8:00 ET,Wisconsin,4,@,Penn State,3,,,b10,True,False,False,False,20182019
+Fri.,2019-03-08,7:00 ET,Michigan State,0,@,Notre Dame,1,,,b10,True,False,False,False,20182019
+Fri.,2019-03-08,6:00 CT,Michigan,2,@,Minnesota,3,OT,,b10,True,False,False,True,20182019
+Fri.,2019-03-08,7:00 ET,St. Lawrence,2,@,Dartmouth,3,,,ec,True,False,False,False,20182019
+Fri.,2019-03-08,7:00 ET,RPI,1,@,Yale,4,,,ec,True,False,False,False,20182019
+Fri.,2019-03-08,7:00 ET,Colgate,1,@,Union,4,,,ec,True,False,False,False,20182019
+Fri.,2019-03-08,7:00 ET,Princeton,0,@,Brown,3,,,ec,True,False,False,False,20182019
+Fri.,2019-03-08,7:00 ET,New Hampshire,0,@,Northeastern,4,,,he,True,False,False,False,20182019
+Fri.,2019-03-08,7:05 ET,Massachusetts,3,@,Connecticut,4,,,he,True,False,False,False,20182019
+Fri.,2019-03-08,7:05 ET,UMass Lowell,2,@,Vermont,2,OT,,he,True,False,False,True,20182019
+Fri.,2019-03-08,7:07 MT,Colorado College,2,@,Denver,1,,,nt,True,False,False,False,20182019
+Fri.,2019-03-08,7:37 CT,Omaha,1,@,North Dakota,2,,,nt,True,False,False,False,20182019
+Fri.,2019-03-08,7:37 CT,Minnesota Duluth,3,@,St. Cloud State,4,OT,,nt,True,False,False,True,20182019
+Fri.,2019-03-08,7:35 ET,Western Michigan,5,@,Miami,1,,,nt,True,False,False,False,20182019
+Fri.,2019-03-08,7:37 ET,Michigan Tech,2,@,Bowling Green,3,,,wc,True,False,False,False,20182019
+Fri.,2019-03-08,7:07 ET,Bemidji State,2,@,Lake Superior,4,,,wc,True,False,False,False,20182019
+Fri.,2019-03-08,7:07 ET,Alaska,4,@,Northern Michigan,5,2OT,,wc,True,False,False,True,20182019
+Fri.,2019-03-08,7:07 CT,uah,1,@,Minnesota State,3,,,wc,True,False,False,False,20182019
+Sat.,2019-03-09,7:05 ET,Canisius,4,@,Niagara,3,OT,,ah,True,False,False,True,20182019
+Sat.,2019-03-09,7:05 ET,Army,5,@,Mercyhurst,1,,,ah,True,False,False,False,20182019
+Sat.,2019-03-09,7:05 ET,Holy Cross,2,@,Robert Morris,3,,,ah,True,False,False,False,20182019
+Sat.,2019-03-09,6:00 ET,Wisconsin,2,@,Penn State,6,,,b10,True,False,False,False,20182019
+Sat.,2019-03-09,4:00 CT,Michigan,1,@,Minnesota,4,,,b10,True,False,False,False,20182019
+Sat.,2019-03-09,7:00 ET,Michigan State,0,@,Notre Dame,2,,,b10,True,False,False,False,20182019
+Sat.,2019-03-09,7:00 ET,St. Lawrence,3,@,Dartmouth,2,OT,,ec,True,False,False,True,20182019
+Sat.,2019-03-09,7:00 ET,Princeton,5,@,Brown,6,3OT,,ec,True,False,False,True,20182019
+Sat.,2019-03-09,7:00 ET,Colgate,0,@,Union,4,,,ec,True,False,False,False,20182019
+Sat.,2019-03-09,7:00 ET,RPI,0,@,Yale,4,,,ec,True,False,False,False,20182019
+Sat.,2019-03-09,7:30 ET,Boston University,0,@,Maine,6,,,he,True,False,False,False,20182019
+Sat.,2019-03-09,7:07 MT,Denver,0,@,Colorado College,1,,,nt,True,False,False,False,20182019
+Sat.,2019-03-09,7:07 CT,Omaha,4,@,North Dakota,5,OT,,nt,True,False,False,True,20182019
+Sat.,2019-03-09,4:07 CT,Minnesota Duluth,3,@,St. Cloud State,4,,,nt,True,False,False,False,20182019
+Sat.,2019-03-09,7:05 ET,Western Michigan,6,@,Miami,1,,,nt,True,False,False,False,20182019
+Sat.,2019-03-09,7:07 ET,Michigan Tech,2,@,Bowling Green,6,,,wc,True,False,False,False,20182019
+Sat.,2019-03-09,7:07 ET,Bemidji State,1,@,Lake Superior,3,,,wc,True,False,False,False,20182019
+Sat.,2019-03-09,7:07 ET,Alaska,3,@,Northern Michigan,4,,,wc,True,False,False,False,20182019
+Sat.,2019-03-09,4:07 CT,uah,1,@,Minnesota State,4,,,wc,True,False,False,False,20182019
+Sun.,2019-03-10,4:05 ET,Canisius,1,@,Niagara,2,,,ah,True,False,False,False,20182019
+Sun.,2019-03-10,6:00 ET,Wisconsin,3,@,Penn State,4,OT,,b10,True,False,False,True,20182019
+Sun.,2019-03-10,7:00 ET,St. Lawrence,0,@,Dartmouth,8,,,ec,True,False,False,False,20182019
+Wed.,2019-03-13,7:05 ET,RIT,4,@,Sacred Heart,9,,,ah,True,False,False,False,20182019
+Thu.,2019-03-14,7:05 ET,RIT,7,@,Sacred Heart,3,,,ah,True,False,False,False,20182019
+Fri.,2019-03-15,7:05 ET,Robert Morris,2,@,Bentley,3,,,ah,True,False,False,False,20182019
+Fri.,2019-03-15,7:05 MT,Niagara,3,@,Air Force,2,OT,,ah,True,False,False,True,20182019
+Fri.,2019-03-15,7:05 ET,Army,0,@,aic,4,,,ah,True,False,False,False,20182019
+Fri.,2019-03-15,7:05 ET,RIT,3,@,Sacred Heart,1,,,ah,True,False,False,False,20182019
+Fri.,2019-03-15,7:00 ET,Union,3,@,Cornell,2,,,ec,True,False,False,False,20182019
+Fri.,2019-03-15,7:00 ET,Brown,2,@,Quinnipiac,1,OT,,ec,True,False,False,True,20182019
+Fri.,2019-03-15,7:00 ET,Yale,1,@,Clarkson,3,,,ec,True,False,False,False,20182019
+Fri.,2019-03-15,7:00 ET,Dartmouth,1,@,Harvard,3,,,ec,True,False,False,False,20182019
+Fri.,2019-03-15,7:00 ET,Boston College,4,@,Providence,5,OT,,he,True,False,False,True,20182019
+Fri.,2019-03-15,7:00 ET,New Hampshire,4,@,Massachusetts,5,2OT,,he,True,False,False,True,20182019
+Fri.,2019-03-15,7:00 ET,Maine,1,@,Northeastern,2,OT,,he,True,False,False,True,20182019
+Fri.,2019-03-15,7:15 ET,Boston University,3,@,UMass Lowell,0,,,he,True,False,False,False,20182019
+Fri.,2019-03-15,7:07 CT,Miami,2,@,St. Cloud State,5,,,nt,True,False,False,False,20182019
+Fri.,2019-03-15,7:07 MT,North Dakota,0,@,Denver,2,,,nt,True,False,False,False,20182019
+Fri.,2019-03-15,7:07 CT,Omaha,1,@,Minnesota Duluth,2,OT,,nt,True,False,False,True,20182019
+Fri.,2019-03-15,7:07 ET,Bowling Green,6,@,Northern Michigan,1,,,wc,True,False,False,False,20182019
+Fri.,2019-03-15,7:07 CT,Lake Superior,1,@,Minnesota State,2,,,wc,True,False,False,False,20182019
+Sat.,2019-03-16,7:05 MT,Niagara,5,@,Air Force,4,,,ah,True,False,False,False,20182019
+Sat.,2019-03-16,7:05 ET,Robert Morris,2,@,Bentley,1,,,ah,True,False,False,False,20182019
+Sat.,2019-03-16,7:05 ET,Army,2,@,aic,1,,,ah,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Minnesota,1,@,Notre Dame,2,OT,,b10,True,False,False,True,20182019
+Sat.,2019-03-16,7:00 ET,Brown,4,@,Quinnipiac,3,,,ec,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Yale,2,@,Clarkson,5,,,ec,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Dartmouth,3,@,Harvard,4,OT,,ec,True,False,False,True,20182019
+Sat.,2019-03-16,7:00 ET,Union,0,@,Cornell,4,,,ec,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,New Hampshire,0,@,Massachusetts,6,,,he,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Boston University,4,@,UMass Lowell,6,,,he,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Maine,1,@,Northeastern,2,,,he,True,False,False,False,20182019
+Sat.,2019-03-16,7:00 ET,Boston College,4,@,Providence,3,OT,,he,True,False,False,True,20182019
+Sat.,2019-03-16,6:07 CT,Miami,3,@,St. Cloud State,6,,,nt,True,False,False,False,20182019
+Sat.,2019-03-16,7:07 MT,North Dakota,2,@,Denver,4,,,nt,True,False,False,False,20182019
+Sat.,2019-03-16,7:05 ET,Colorado College,2,@,Western Michigan,1,,,nt,True,False,False,False,20182019
+Sat.,2019-03-16,7:07 CT,Omaha,1,@,Minnesota Duluth,4,,,nt,True,False,False,False,20182019
+Sat.,2019-03-16,7:07 CT,Lake Superior,0,@,Minnesota State,2,,,wc,True,False,False,False,20182019
+Sat.,2019-03-16,7:07 ET,Bowling Green,2,@,Northern Michigan,1,2OT,,wc,True,False,False,True,20182019
+Sun.,2019-03-17,7:05 ET,Army,1,@,aic,4,,,ah,True,False,False,False,20182019
+Sun.,2019-03-17,4:05 ET,Robert Morris,3,@,Bentley,2,OT,,ah,True,False,False,True,20182019
+Sun.,2019-03-17,3:30 ET,Penn State,5,@,Ohio State,1,,,b10,True,False,False,False,20182019
+Sun.,2019-03-17,4:00 ET,Union,2,@,Cornell,4,,,ec,True,False,False,False,20182019
+Sun.,2019-03-17,4:05 ET,Boston University,4,@,UMass Lowell,1,,,he,True,False,False,False,20182019
+Sun.,2019-03-17,5:00 ET,Boston College,2,@,Providence,1,,,he,True,False,False,False,20182019
+Sun.,2019-03-17,7:05 ET,Colorado College,2,@,Western Michigan,5,,,nt,True,False,False,False,20182019
+Mon.,2019-03-18,7:05 ET,Colorado College,3,@,Western Michigan,2,,,nt,True,False,False,False,20182019
+Fri.,2019-03-22,7:35 ET,Niagara,1,vs,RIT,0,OT,,ah,True,True,False,True,20182019
+Fri.,2019-03-22,4:35 ET,Robert Morris,2,vs,aic,3,OT,,ah,True,True,False,True,20182019
+Fri.,2019-03-22,4:00 ET,Brown,0,vs,Cornell,6,,,ec,True,True,False,False,20182019
+Fri.,2019-03-22,7:30 ET,Harvard,2,vs,Clarkson,5,,,ec,True,True,False,False,20182019
+Fri.,2019-03-22,4:00 ET,Boston University,1,vs,Northeastern,2,OT,,he,True,True,False,True,20182019
+Fri.,2019-03-22,7:30 ET,Boston College,3,vs,Massachusetts,0,,,he,True,True,False,False,20182019
+Fri.,2019-03-22,7:37 CT,Denver,0,vs,Minnesota Duluth,3,,,nt,True,True,False,False,20182019
+Fri.,2019-03-22,4:07 CT,Colorado College,2,vs,St. Cloud State,5,,,nt,True,True,False,False,20182019
+Sat.,2019-03-23,7:30 ET,Niagara,2,vs,aic,3,OT,,ah,True,True,False,True,20182019
+Sat.,2019-03-23,8:00 ET,Penn State,2,@,Notre Dame,3,,,b10,True,False,False,False,20182019
+Sat.,2019-03-23,7:30 ET,Clarkson,3,vs,Cornell,2,OT,,ec,True,True,False,True,20182019
+Sat.,2019-03-23,7:00 ET,Boston College,2,vs,Northeastern,3,,,he,True,True,False,False,20182019
+Sat.,2019-03-23,3:37 CT,Colorado College,1,vs,Denver,6,,,nt,True,True,False,False,20182019
+Sat.,2019-03-23,7:37 CT,Minnesota Duluth,3,vs,St. Cloud State,2,OT,,nt,True,True,False,True,20182019
+Sat.,2019-03-23,7:07 CT,Bowling Green,2,@,Minnesota State,3,OT,,wc,True,False,False,True,20182019
+Fri.,2019-03-29,6:30 ET,Notre Dame,3,vs,Clarkson,2,OT,,nc,True,True,False,True,20182019
+Fri.,2019-03-29,3:00 ET,Harvard,0,vs,Massachusetts,4,,,nc,True,True,False,False,20182019
+Fri.,2019-03-29,6:30 CT,aic,2,vs,St. Cloud State,1,,,nc,True,True,False,False,20182019
+Fri.,2019-03-29,3:00 CT,Ohio State,0,vs,Denver,2,,,nc,True,True,False,False,20182019
+Sat.,2019-03-30,4:30 ET,Cornell,5,vs,Northeastern,1,,,nc,True,True,False,False,20182019
+Sat.,2019-03-30,1:00 ET,Providence,6,vs,Minnesota State,3,,,nc,True,True,False,False,20182019
+Sat.,2019-03-30,7:30 ET,Arizona State,1,vs,Quinnipiac,2,,,nc,True,True,False,False,20182019
+Sat.,2019-03-30,4:00 ET,Bowling Green,1,vs,Minnesota Duluth,2,OT,,nc,True,True,False,True,20182019
+Sat.,2019-03-30,6:30 ET,Notre Dame,0,vs,Massachusetts,4,,,nc,True,True,False,False,20182019
+Sat.,2019-03-30,8:00 CT,aic,0,vs,Denver,3,,,nc,True,True,False,False,20182019
+Sun.,2019-03-31,4:00 ET,Providence,4,vs,Cornell,0,,,nc,True,True,False,False,20182019
+Sun.,2019-03-31,6:30 ET,Quinnipiac,1,vs,Minnesota Duluth,3,,,nc,True,True,False,False,20182019
+Thu.,2019-04-11,8:30 ET,Denver,3,vs,Massachusetts,4,OT,,nc,True,True,False,True,20182019
+Thu.,2019-04-11,5:00 ET,Providence,1,vs,Minnesota Duluth,4,,,nc,True,True,False,False,20182019
+Sat.,2019-04-13,8:00 ET,Massachusetts,0,vs,Minnesota Duluth,3,,,nc,True,True,False,False,20182019

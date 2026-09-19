@@ -1,0 +1,15 @@
+{
+  "men:2026-09-13": {
+    "ELO": "Michigan",
+    "Massey": "Michigan",
+    "KRACH": "Michigan",
+    "NPI": "Michigan"
+  },
+  "women:2026-09-13": {
+    "Massey": "Ohio State",
+    "HockeyBT": "Ohio State",
+    "KRACH": "Ohio State",
+    "ELO": "Wisconsin",
+    "RPI": "Ohio State"
+  }
+}

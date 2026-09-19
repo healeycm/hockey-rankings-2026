@@ -1,0 +1,1130 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Sat.,2019-10-05,7:00 ET,Northern Michigan,4,@,US Under-18 Team,3,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,4:00 ET,Ryerson,3,@,Niagara,4,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:05 ET,Simon Fraser,0,@,Holy Cross,9,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:00 ET,Royal Military,0,@,Clarkson,7,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,4:00 ET,Brock,3,@,RPI,6,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:05 ET,Guelph,1,@,Vermont,6,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,2:00 ET,New Brunswick,2,@,Boston College,4,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:05 ET,No. Alberta IT,1,@,Western Michigan,6,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:07 CT,Alberta,5,@,Minnesota Duluth,3,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,6:07 MT,Trinity Western,1,@,Colorado College,4,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,7:07 CT,Manitoba,1,@,North Dakota,5,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,,Mount Royal,2,@,Minnesota State,5,,,ex,True,False,True,False,20192020
+Sat.,2019-10-05,4:00 ET,Maine,0,@,Providence,7,,,he,True,False,False,False,20192020
+Sat.,2019-10-05,7:05 ET,Connecticut,3,@,Sacred Heart,3,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-05,7:05 ET,Michigan Tech,2,@,Robert Morris,1,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-05,7:05 MT,Mercyhurst,3,@,Arizona State,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,7:00 ET,RIT,3,@,Colgate,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,4:00 ET,Boston University,7,@,Union,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,6:00 ET,uah,1,@,UMass Lowell,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,7:00 ET,Merrimack,2,@,Lake Superior,6,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,7:00 ET,Merrimack,2,@,Lake Superior,6,,,nc,True,False,False,False,20192020
+Sat.,2019-10-05,7:07 AT,Denver,4,@,Alaska,3,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,4:00 ET,Notre Dame,4,@,US Under-18 Team,2,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,3:05 ET,Simon Fraser,1,@,Sacred Heart,6,OT,,ex,True,False,True,True,20192020
+Sun.,2019-10-06,5:05 MT,Trinity Western,0,@,Air Force,8,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,4:00 ET,Windsor,2,@,Michigan,8,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,5:00 ET,Western,2,@,Ohio State,5,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,5:00 CT,Mount Royal,2,@,Minnesota,2,OT,,ex,True,False,True,True,20192020
+Sun.,2019-10-06,1:00 ET,Ottawa,0,@,Penn State,5,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,4:00 ET,Brock,4,@,Quinnipiac,4,OT,,ex,True,False,True,True,20192020
+Sun.,2019-10-06,5:00 ET,Guelph,3,@,New Hampshire,4,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,4:00 ET,New Brunswick,5,@,Maine,0,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,5:07 CT,Alberta,2,@,St. Cloud State,4,,,ex,True,False,True,False,20192020
+Sun.,2019-10-06,2:00 ET,Waterloo,2,@,Ferris State,2,OT,,ex,True,False,True,True,20192020
+Sun.,2019-10-06,4:05 ET,Union,2,@,Army,3,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,3:05 ET,Michigan Tech,7,@,Robert Morris,0,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,3:00 MT,Mercyhurst,4,@,Arizona State,6,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,4:00 ET,uah,1,@,UMass Lowell,3,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,5:05 ET,Bowling Green,7,@,Miami,4,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,5:00 ET,Merrimack,3,@,Lake Superior,4,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,5:00 ET,Merrimack,3,@,Lake Superior,4,,,nc,True,False,False,False,20192020
+Sun.,2019-10-06,7:07 AT,Denver,3,@,Alaska,0,,,nc,True,False,False,False,20192020
+Mon.,2019-10-07,7:00 ET,Western,1,@,Michigan State,6,,,ex,True,False,True,False,20192020
+Mon.,2019-10-07,7:07 CT,Manitoba,3,@,Omaha,3,OT,,ex,True,False,True,True,20192020
+Tue.,2019-10-08,7:07 ET,US Under-18 Team,0,@,Ferris State,5,,,ex,True,False,True,False,20192020
+Thu.,2019-10-10,7:07 ET,Colgate,1,@,Ferris State,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:05 ET,Bentley,0,@,Robert Morris,3,,,ah,True,False,False,False,20192020
+Fri.,2019-10-11,5:05 ET,Ohio State,2,vs,Western Michigan,2,OT,,nc,True,True,False,True,20192020
+Fri.,2019-10-11,8:00 ET,RIT,3,vs,Bowling Green,2,OT,,nc,True,True,False,True,20192020
+Fri.,2019-10-11,7:05 ET,St. Lawrence,2,@,Mercyhurst,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-11,7:00 ET,Air Force,3,@,Notre Dame,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:00 ET,Sacred Heart,2,@,Penn State,8,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:30 ET,Clarkson,1,@,Michigan,1,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-11,7:00 ET,aic,2,@,Quinnipiac,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:00 ET,Northeastern,2,@,Union,1,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:05 ET,Army,2,@,Connecticut,1,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:15 ET,Holy Cross,3,@,Providence,2,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-11,7:00 ET,Wisconsin,3,@,Boston College,5,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:00 ET,RPI,3,@,Massachusetts,5,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:00 ET,Alaska Anchorage,1,@,Maine,7,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:37 CT,Canisius,0,@,North Dakota,5,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:37 MT,Minnesota,2,@,Colorado College,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:05 ET,New Hampshire,6,@,Miami,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:07 CT,UMass Lowell,3,@,Minnesota Duluth,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:07 CT,uah,1,@,Omaha,6,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:00 ET,Michigan State,5,@,Northern Michigan,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:07 CT,Arizona State,1,@,Minnesota State,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:30 ET,Denver,3,@,Lake Superior,1,,,nc,True,False,False,False,20192020
+Fri.,2019-10-11,7:07 CT,St. Cloud State,4,@,Bemidji State,4,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-11,7:07 ET,Alaska,3,@,Michigan Tech,2,,,wc,True,False,False,False,20192020
+Sat.,2019-10-12,5:05 ET,Bentley,1,@,Robert Morris,4,,,ah,True,False,False,False,20192020
+Sat.,2019-10-12,5:00 ET,US Under-18 Team,1,@,Providence,2,OT,,ex,True,False,True,True,20192020
+Sat.,2019-10-12,5:05 ET,Ohio State,3,vs,RIT,1,,,nc,True,True,False,False,20192020
+Sat.,2019-10-12,8:00 ET,Western Michigan,5,vs,Bowling Green,2,,,nc,True,True,False,False,20192020
+Sat.,2019-10-12,7:05 ET,St. Lawrence,3,@,Mercyhurst,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:05 ET,Quinnipiac,3,@,aic,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,4:30 ET,Sacred Heart,4,@,Penn State,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:30 ET,Clarkson,3,@,Michigan,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:00 ET,Wisconsin,11,@,Merrimack,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,4:00 ET,Northeastern,2,@,Union,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:00 ET,Wisconsin,11,@,Merrimack,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,3:35 ET,RPI,5,@,Connecticut,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:00 ET,Alaska Anchorage,1,@,Maine,2,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-12,7:07 CT,Canisius,1,@,North Dakota,8,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:07 MT,Minnesota,4,@,Colorado College,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:05 ET,New Hampshire,4,@,Miami,4,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-12,7:07 CT,UMass Lowell,1,@,Minnesota Duluth,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,7:07 CT,uah,0,@,Omaha,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,6:00 ET,Michigan State,0,@,Northern Michigan,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,6:07 CT,Arizona State,0,@,Minnesota State,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,6:07 CT,St. Cloud State,2,@,Bemidji State,2,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-12,7:00 ET,Denver,4,@,Lake Superior,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-12,6:07 ET,Alaska,2,@,Michigan Tech,1,,,wc,True,False,False,False,20192020
+Sun.,2019-10-13,4:05 ET,US Under-18 Team,4,@,Holy Cross,2,,,ex,True,False,True,False,20192020
+Sun.,2019-10-13,3:00 ET,Air Force,1,@,Notre Dame,6,,,nc,True,False,False,False,20192020
+Sun.,2019-10-13,4:00 ET,Boston College,3,@,Colgate,0,,,nc,True,False,False,False,20192020
+Tue.,2019-10-15,7:00 ET,Massachusetts,1,@,Northeastern,3,,,he,True,False,False,False,20192020
+Thu.,2019-10-17,7:05 ET,Merrimack,3,@,Holy Cross,1,,,nc,True,False,False,False,20192020
+Thu.,2019-10-17,7:05 ET,Merrimack,3,@,Holy Cross,1,,,nc,True,False,False,False,20192020
+Thu.,2019-10-17,7:00 ET,Alaska,0,@,Penn State,7,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:05 ET,aic,2,@,Sacred Heart,1,,,ah,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,US Under-18 Team,1,@,Michigan State,2,,,ex,True,False,True,False,20192020
+Fri.,2019-10-18,7:05 MT,Arizona State,3,@,Air Force,0,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:05 ET,New Hampshire,2,@,Bentley,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-18,7:00 CT,Niagara,2,@,Minnesota,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-18,7:00 CT,Minnesota Duluth,2,@,Wisconsin,6,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Omaha,2,@,Ohio State,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Alaska,4,@,Penn State,0,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:30 ET,Lake Superior,0,@,Michigan,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Maine,4,@,Quinnipiac,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Providence,6,@,St. Lawrence,0,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Connecticut,5,@,RPI,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:00 ET,Vermont,2,@,Clarkson,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:15 ET,Colgate,4,@,UMass Lowell,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-18,7:00 ET,Union,1,@,Massachusetts,6,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:30 ET,Northern Michigan,4,@,Boston University,4,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-18,7:07 MT,Boston College,0,@,Denver,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:05 ET,Ferris State,3,@,Miami,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-18,7:07 CT,North Dakota,4,@,Minnesota State,4,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-18,7:07 ET,Western Michigan,1,@,Bowling Green,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 ET,Robert Morris,1,@,Army,4,,,ah,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 MT,Arizona State,5,@,Air Force,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 ET,Merrimack,0,@,RIT,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 ET,Merrimack,0,@,RIT,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 CT,Niagara,2,@,Minnesota,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 CT,Minnesota Duluth,1,@,Wisconsin,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,5:00 ET,Omaha,2,@,Ohio State,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:30 ET,Lake Superior,3,@,Michigan,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 ET,Canisius,2,@,RPI,7,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 ET,Maine,3,@,Quinnipiac,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:30 ET,Providence,4,@,Clarkson,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 ET,Vermont,2,@,St. Lawrence,0,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 ET,Holy Cross,2,@,Northeastern,2,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-19,6:00 ET,Colgate,0,@,UMass Lowell,0,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-19,7:00 ET,Union,0,@,Massachusetts,5,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:00 ET,Northern Michigan,4,@,Boston University,3,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:07 MT,Boston College,4,@,Denver,6,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 ET,Ferris State,3,@,Miami,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-19,7:05 ET,Bowling Green,2,@,Western Michigan,1,OT,,nc,True,False,False,True,20192020
+Sat.,2019-10-19,6:07 CT,North Dakota,1,@,Minnesota State,2,,,nc,True,False,False,False,20192020
+Sun.,2019-10-20,4:05 ET,Robert Morris,3,@,Army,0,,,ah,True,False,False,False,20192020
+Sun.,2019-10-20,2:00 ET,Nipissing,2,@,Cornell,6,,,ex,True,False,True,False,20192020
+Thu.,2019-10-24,7:05 MT,RIT,2,@,Air Force,1,,,ah,True,False,False,False,20192020
+Fri.,2019-10-25,7:05 MT,RIT,1,@,Air Force,0,,,ah,True,False,False,False,20192020
+Fri.,2019-10-25,7:05 ET,Sacred Heart,4,@,Niagara,0,,,ah,True,False,False,False,20192020
+Fri.,2019-10-25,7:05 ET,Army,0,@,Bentley,5,,,ah,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 ET,RPI,3,@,Union,2,,,ec,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 ET,New Hampshire,3,@,Merrimack,2,OT,,he,True,False,False,True,20192020
+Fri.,2019-10-25,7:00 ET,Providence,6,@,Boston College,2,,,he,True,False,False,False,20192020
+Fri.,2019-10-25,7:05 ET,Maine,2,@,Vermont,1,,,he,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 ET,New Hampshire,3,@,Merrimack,2,OT,,he,True,False,False,True,20192020
+Fri.,2019-10-25,7:15 ET,Boston University,3,@,UMass Lowell,3,OT,,he,True,False,False,True,20192020
+Fri.,2019-10-25,7:05 ET,Ohio State,7,@,Mercyhurst,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:05 ET,St. Lawrence,2,@,Holy Cross,2,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-25,7:00 ET,Robert Morris,1,@,Penn State,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 CT,Clarkson,4,@,Wisconsin,0,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 CT,Minnesota Duluth,5,@,Minnesota,2,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:30 ET,Western Michigan,0,@,Michigan,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 ET,Lake Superior,2,@,Notre Dame,5,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:00 ET,Miami,3,@,Colgate,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-25,7:00 ET,aic,1,@,Massachusetts,4,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:37 MT,Michigan State,1,@,Colorado College,3,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:37 CT,Northeastern,4,@,St. Cloud State,1,,,nc,True,False,False,False,20192020
+Fri.,2019-10-25,7:37 CT,Bemidji State,1,@,North Dakota,2,OT,,nc,True,False,False,True,20192020
+Fri.,2019-10-25,7:07 CT,Minnesota State,5,@,uah,1,,,wc,True,False,False,False,20192020
+Fri.,2019-10-25,7:07 AT,Alaska,2,@,Alaska Anchorage,1,,,wc,True,False,False,False,20192020
+Fri.,2019-10-25,7:07 ET,Michigan Tech,1,@,Bowling Green,3,,,wc,True,False,False,False,20192020
+Fri.,2019-10-25,7:07 ET,Northern Michigan,4,@,Ferris State,3,,,wc,True,False,False,False,20192020
+Sat.,2019-10-26,4:05 ET,Sacred Heart,3,@,Niagara,1,,,ah,True,False,False,False,20192020
+Sat.,2019-10-26,7:00 ET,Union,2,@,RPI,1,,,ec,True,False,False,False,20192020
+Sat.,2019-10-26,7:00 ET,US Under-18 Team,0,@,Cornell,3,,,ex,True,False,True,False,20192020
+Sat.,2019-10-26,7:00 ET,UMass Lowell,3,@,Providence,2,OT,,he,True,False,False,True,20192020
+Sat.,2019-10-26,7:00 ET,New Hampshire,0,@,Boston University,3,,,he,True,False,False,False,20192020
+Sat.,2019-10-26,7:05 ET,Ohio State,3,@,Mercyhurst,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:05 ET,St. Lawrence,3,@,Bentley,0,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:00 CT,Clarkson,3,@,Wisconsin,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,6:00 ET,Lake Superior,4,@,Notre Dame,6,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,4:00 ET,Miami,2,@,Colgate,0,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,6:07 MT,Michigan State,5,@,Colorado College,1,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:07 CT,Minnesota,0,@,Minnesota Duluth,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:05 ET,Michigan,1,@,Western Michigan,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,6:07 CT,Northeastern,1,@,St. Cloud State,2,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:07 CT,Bemidji State,1,@,North Dakota,4,,,nc,True,False,False,False,20192020
+Sat.,2019-10-26,7:07 CT,Minnesota State,4,@,uah,1,,,wc,True,False,False,False,20192020
+Sat.,2019-10-26,7:07 ET,Michigan Tech,4,@,Bowling Green,2,,,wc,True,False,False,False,20192020
+Sat.,2019-10-26,5:07 AT,Alaska,0,@,Alaska Anchorage,4,,,wc,True,False,False,False,20192020
+Sat.,2019-10-26,6:07 ET,Northern Michigan,6,@,Ferris State,4,,,wc,True,False,False,False,20192020
+Sun.,2019-10-27,3:05 ET,US Under-18 Team,3,@,Canisius,1,,,ex,True,False,True,False,20192020
+Sun.,2019-10-27,2:00 ET,Vermont,0,@,Quinnipiac,4,,,nc,True,False,False,False,20192020
+Thu.,2019-10-31,7:00 ET,Wisconsin,1,@,Penn State,6,,,b10,True,False,False,False,20192020
+Thu.,2019-10-31,7:07 AT,Omaha,4,@,Alaska Anchorage,3,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 ET,Mercyhurst,4,@,Bentley,3,OT,,ah,True,False,False,True,20192020
+Fri.,2019-11-01,6:05 ET,Air Force,1,@,Sacred Heart,7,,,ah,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 ET,Holy Cross,4,@,RIT,7,,,ah,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 ET,aic,1,@,Army,2,,,ah,True,False,False,False,20192020
+Fri.,2019-11-01,6:00 ET,Wisconsin,2,@,Penn State,4,,,b10,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Michigan,2,@,Ohio State,3,,,b10,True,False,False,False,20192020
+Fri.,2019-11-01,7:30 CT,Notre Dame,2,@,Minnesota,2,OT,,b10,True,False,False,True,20192020
+Fri.,2019-11-01,7:30 ET,Dartmouth,3,@,Harvard,7,,,ec,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Brown,2,@,Yale,3,,,ec,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 ET,US Under-18 Team,2,@,Miami,4,,,ex,True,False,True,False,20192020
+Fri.,2019-11-01,7:00 ET,Connecticut,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Boston College,0,@,New Hampshire,1,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-01,7:00 ET,Connecticut,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Massachusetts,6,@,Northeastern,3,,,he,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Boston University,2,@,Maine,4,,,he,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 ET,UMass Lowell,2,@,Vermont,1,,,he,True,False,False,False,20192020
+Fri.,2019-11-01,7:37 MT,Western Michigan,6,@,Colorado College,3,,,nt,True,False,False,False,20192020
+Fri.,2019-11-01,7:35 ET,Union,3,@,Canisius,0,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,Cornell,3,@,Michigan State,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:05 MT,Quinnipiac,3,@,Arizona State,5,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:00 ET,St. Lawrence,3,@,Clarkson,4,OT,,nc,True,False,False,True,20192020
+Fri.,2019-11-01,7:15 ET,Colgate,3,@,Providence,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-11-01,7:07 MT,Niagara,2,@,Denver,6,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:37 CT,Princeton,5,@,St. Cloud State,3,,,nc,True,False,False,False,20192020
+Fri.,2019-11-01,7:07 AT,Omaha,3,@,Alaska Anchorage,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-11-01,7:00 ET,uah,3,@,Northern Michigan,5,,,wc,True,False,False,False,20192020
+Fri.,2019-11-01,7:07 AT,Bemidji State,4,@,Alaska,0,,,wc,True,False,False,False,20192020
+Fri.,2019-11-01,7:07 CT,Bowling Green,3,@,Minnesota State,2,OT,,wc,True,False,False,True,20192020
+Fri.,2019-11-01,7:00 ET,Ferris State,4,@,Lake Superior,5,OT,,wc,True,False,False,True,20192020
+Sat.,2019-11-02,1:05 ET,Air Force,4,@,Sacred Heart,3,,,ah,True,False,False,False,20192020
+Sat.,2019-11-02,7:05 ET,Mercyhurst,3,@,Bentley,6,,,ah,True,False,False,False,20192020
+Sat.,2019-11-02,1:05 ET,Army,1,@,aic,4,,,ah,True,False,False,False,20192020
+Sat.,2019-11-02,5:05 ET,Holy Cross,3,@,RIT,3,OT,,ah,True,False,False,True,20192020
+Sat.,2019-11-02,5:00 ET,Michigan,1,@,Ohio State,2,,,b10,True,False,False,False,20192020
+Sat.,2019-11-02,4:00 CT,Notre Dame,5,@,Minnesota,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-02,7:00 ET,Yale,1,@,Brown,5,,,ec,True,False,False,False,20192020
+Sat.,2019-11-02,7:05 ET,UMass Lowell,5,@,Vermont,3,,,he,True,False,False,False,20192020
+Sat.,2019-11-02,8:00 ET,Northeastern,2,@,Massachusetts,4,,,he,True,False,False,False,20192020
+Sat.,2019-11-02,7:00 ET,Boston College,3,@,Providence,2,,,he,True,False,False,False,20192020
+Sat.,2019-11-02,6:00 ET,Boston University,2,@,Maine,2,OT,,he,True,False,False,True,20192020
+Sat.,2019-11-02,6:07 MT,Western Michigan,4,@,Colorado College,4,OT,,nt,True,False,False,True,20192020
+Sat.,2019-11-02,4:05 ET,Union,0,@,Canisius,4,,,nc,True,False,False,False,20192020
+Sat.,2019-11-02,7:00 ET,Cornell,6,@,Michigan State,2,,,nc,True,False,False,False,20192020
+Sat.,2019-11-02,7:05 MT,Quinnipiac,1,@,Arizona State,4,,,nc,True,False,False,False,20192020
+Sat.,2019-11-02,7:00 ET,St. Lawrence,2,@,Clarkson,3,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-02,7:00 ET,Dartmouth,4,@,New Hampshire,5,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-02,7:07 MT,Niagara,0,@,Denver,4,,,nc,True,False,False,False,20192020
+Sat.,2019-11-02,6:07 CT,Princeton,5,@,St. Cloud State,5,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-02,7:07 CT,Michigan Tech,1,@,North Dakota,3,,,nc,True,False,False,False,20192020
+Sat.,2019-11-02,6:00 ET,uah,2,@,Northern Michigan,4,,,wc,True,False,False,False,20192020
+Sat.,2019-11-02,7:07 AT,Bemidji State,1,@,Alaska,3,,,wc,True,False,False,False,20192020
+Sat.,2019-11-02,6:07 CT,Bowling Green,1,@,Minnesota State,5,,,wc,True,False,False,False,20192020
+Sat.,2019-11-02,7:00 ET,Ferris State,3,@,Lake Superior,4,,,wc,True,False,False,False,20192020
+Sun.,2019-11-03,2:05 ET,Merrimack,3,@,Connecticut,2,,,he,True,False,False,False,20192020
+Sun.,2019-11-03,2:05 ET,Merrimack,3,@,Connecticut,2,,,he,True,False,False,False,20192020
+Thu.,2019-11-07,7:05 ET,Holy Cross,2,@,Sacred Heart,1,,,ah,True,False,False,False,20192020
+Fri.,2019-11-08,7:05 ET,Niagara,2,@,RIT,2,OT,,ah,True,False,False,True,20192020
+Fri.,2019-11-08,7:35 ET,Robert Morris,4,@,Canisius,2,,,ah,True,False,False,False,20192020
+Fri.,2019-11-08,7:05 MT,Bentley,2,@,Air Force,4,,,ah,True,False,False,False,20192020
+Fri.,2019-11-08,7:05 ET,Sacred Heart,4,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,Michigan State,2,@,Penn State,0,,,b10,True,False,False,False,20192020
+Fri.,2019-11-08,8:00 ET,Ohio State,2,@,Notre Dame,3,OT,,b10,True,False,False,True,20192020
+Fri.,2019-11-08,6:30 ET,Minnesota,1,@,Michigan,1,OT,,b10,True,False,False,True,20192020
+Fri.,2019-11-08,7:00 ET,Quinnipiac,2,@,Dartmouth,2,OT,,ec,True,False,False,True,20192020
+Fri.,2019-11-08,7:00 ET,Yale,1,@,Colgate,2,,,ec,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,Clarkson,5,@,Union,1,,,ec,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,Brown,1,@,Cornell,4,,,ec,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,St. Lawrence,2,@,RPI,6,,,ec,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,Princeton,0,@,Harvard,3,,,ec,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,Northeastern,1,@,Merrimack,1,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-08,7:30 ET,Providence,3,@,Boston University,3,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-08,7:00 ET,Northeastern,1,@,Merrimack,1,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-08,7:00 ET,Connecticut,0,@,Boston College,6,,,he,True,False,False,False,20192020
+Fri.,2019-11-08,7:15 ET,Maine,1,@,UMass Lowell,1,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-08,7:37 CT,Miami,1,@,North Dakota,7,,,nt,True,False,False,False,20192020
+Fri.,2019-11-08,7:07 CT,Denver,3,@,Minnesota Duluth,3,OT,,nt,True,False,False,True,20192020
+Fri.,2019-11-08,7:07 CT,Wisconsin,5,@,Omaha,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-08,7:05 ET,Ferris State,2,@,Western Michigan,4,,,nc,True,False,False,False,20192020
+Fri.,2019-11-08,7:07 AT,Arizona State,3,@,Alaska,4,,,nc,True,False,False,False,20192020
+Fri.,2019-11-08,7:00 ET,St. Cloud State,3,@,Northern Michigan,3,OT,,nc,True,False,False,True,20192020
+Fri.,2019-11-08,7:07 ET,Minnesota State,3,@,Michigan Tech,0,,,wc,True,False,False,False,20192020
+Fri.,2019-11-08,7:07 CT,Alaska Anchorage,4,@,uah,4,OT,,wc,True,False,False,True,20192020
+Fri.,2019-11-08,7:07 CT,Lake Superior,1,@,Bemidji State,7,,,wc,True,False,False,False,20192020
+Sat.,2019-11-09,7:05 ET,RIT,4,@,Niagara,1,,,ah,True,False,False,False,20192020
+Sat.,2019-11-09,7:05 ET,Canisius,2,@,Robert Morris,4,,,ah,True,False,False,False,20192020
+Sat.,2019-11-09,7:05 MT,Bentley,2,@,Air Force,3,,,ah,True,False,False,False,20192020
+Sat.,2019-11-09,,Michigan State,4,@,Penn State,6,,,b10,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Ohio State,1,@,Notre Dame,2,,,b10,True,False,False,False,20192020
+Sat.,2019-11-09,5:00 ET,Minnesota,3,@,Michigan,1,,,b10,True,False,False,False,20192020
+Sat.,2019-11-09,4:00 ET,Brown,4,@,Colgate,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Clarkson,2,@,RPI,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Quinnipiac,2,@,Harvard,7,,,ec,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Yale,2,@,Cornell,6,,,ec,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,St. Lawrence,3,@,Union,2,OT,,ec,True,False,False,True,20192020
+Sat.,2019-11-09,7:00 ET,Princeton,1,@,Dartmouth,3,,,ec,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Merrimack,1,@,Northeastern,3,,,he,True,False,False,False,20192020
+Sat.,2019-11-09,3:35 ET,Boston College,5,@,Connecticut,1,,,he,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Merrimack,1,@,Northeastern,3,,,he,True,False,False,False,20192020
+Sat.,2019-11-09,7:00 ET,Boston University,5,@,Providence,6,,,he,True,False,False,False,20192020
+Sat.,2019-11-09,6:00 ET,Maine,2,@,UMass Lowell,3,,,he,True,False,False,False,20192020
+Sat.,2019-11-09,7:07 CT,Denver,2,@,Minnesota Duluth,5,,,nt,True,False,False,False,20192020
+Sat.,2019-11-09,7:07 CT,Miami,4,@,North Dakota,5,,,nt,True,False,False,False,20192020
+Sat.,2019-11-09,7:07 CT,Wisconsin,2,@,Omaha,5,,,nc,True,False,False,False,20192020
+Sat.,2019-11-09,7:07 AT,Arizona State,4,@,Alaska,0,,,nc,True,False,False,False,20192020
+Sat.,2019-11-09,6:00 ET,St. Cloud State,5,@,Northern Michigan,4,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-09,7:07 ET,Western Michigan,8,@,Ferris State,2,,,nc,True,False,False,False,20192020
+Sat.,2019-11-09,6:07 CT,Lake Superior,1,@,Bemidji State,5,,,wc,True,False,False,False,20192020
+Sat.,2019-11-09,7:07 CT,Alaska Anchorage,3,@,uah,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-09,6:07 ET,Minnesota State,2,@,Michigan Tech,1,,,wc,True,False,False,False,20192020
+Sun.,2019-11-10,1:00 ET,Massachusetts,1,@,New Hampshire,3,,,he,True,False,False,False,20192020
+Thu.,2019-11-14,6:30 ET,Michigan State,4,@,Michigan,3,,,b10,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,aic,12,@,Mercyhurst,0,,,ah,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Robert Morris,6,@,Bentley,4,,,ah,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Army,4,@,Holy Cross,1,,,ah,True,False,False,False,20192020
+Fri.,2019-11-15,7:35 ET,Niagara,2,@,Canisius,4,,,ah,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Sacred Heart,9,@,RIT,5,,,ah,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 CT,Notre Dame,0,@,Wisconsin,3,,,b10,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 CT,Penn State,8,@,Minnesota,2,,,b10,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Harvard,4,@,Brown,1,,,ec,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Cornell,4,@,Clarkson,2,,,ec,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,RPI,2,@,Princeton,2,OT,,ec,True,False,False,True,20192020
+Fri.,2019-11-15,7:00 ET,Dartmouth,4,@,Yale,3,,,ec,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Colgate,4,@,St. Lawrence,1,,,ec,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Union,1,@,Quinnipiac,2,,,ec,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,UMass Lowell,3,@,Connecticut,3,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-15,7:00 ET,New Hampshire,1,@,Maine,3,,,he,True,False,False,False,20192020
+Fri.,2019-11-15,7:30 ET,Massachusetts,3,@,Boston University,4,,,he,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Boston College,5,@,Vermont,1,,,he,True,False,False,False,20192020
+Fri.,2019-11-15,7:15 ET,Northeastern,2,@,Providence,3,,,he,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Omaha,2,@,Western Michigan,3,,,nt,True,False,False,False,20192020
+Fri.,2019-11-15,7:37 CT,Colorado College,4,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Fri.,2019-11-15,7:05 ET,Minnesota Duluth,1,@,Miami,3,,,nt,True,False,False,False,20192020
+Fri.,2019-11-15,7:07 MT,North Dakota,1,@,Denver,1,OT,,nt,True,False,False,True,20192020
+Fri.,2019-11-15,7:07 AT,Bowling Green,3,@,Alaska Anchorage,1,,,wc,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Alaska,1,@,Northern Michigan,2,,,wc,True,False,False,False,20192020
+Fri.,2019-11-15,7:00 ET,Michigan Tech,4,@,Lake Superior,2,,,wc,True,False,False,False,20192020
+Fri.,2019-11-15,7:07 ET,Bemidji State,1,@,Ferris State,2,,,wc,True,False,False,False,20192020
+Sat.,2019-11-16,5:05 ET,Army,3,@,Holy Cross,1,,,ah,True,False,False,False,20192020
+Sat.,2019-11-16,5:05 ET,Sacred Heart,3,@,RIT,1,,,ah,True,False,False,False,20192020
+Sat.,2019-11-16,4:05 ET,aic,3,@,Mercyhurst,4,OT,,ah,True,False,False,True,20192020
+Sat.,2019-11-16,4:05 ET,Niagara,5,@,Canisius,3,,,ah,True,False,False,False,20192020
+Sat.,2019-11-16,7:05 ET,Robert Morris,4,@,Bentley,2,,,ah,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Michigan,0,@,Michigan State,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 CT,Penn State,6,@,Minnesota,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 CT,Notre Dame,5,@,Wisconsin,4,OT,,b10,True,False,False,True,20192020
+Sat.,2019-11-16,7:00 ET,Colgate,1,@,Clarkson,5,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Union,2,@,Princeton,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Harvard,6,@,Yale,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Cornell,6,@,St. Lawrence,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,RPI,1,@,Quinnipiac,3,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Dartmouth,4,@,Brown,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-16,6:00 ET,Connecticut,2,@,UMass Lowell,1,,,he,True,False,False,False,20192020
+Sat.,2019-11-16,7:05 ET,Boston College,3,@,Vermont,0,,,he,True,False,False,False,20192020
+Sat.,2019-11-16,8:00 ET,Providence,3,@,Northeastern,7,,,he,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,New Hampshire,1,@,Maine,2,OT,,he,True,False,False,True,20192020
+Sat.,2019-11-16,8:00 ET,Boston University,1,@,Massachusetts,4,,,he,True,False,False,False,20192020
+Sat.,2019-11-16,6:07 CT,Colorado College,5,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Sat.,2019-11-16,7:05 ET,Minnesota Duluth,3,@,Miami,2,,,nt,True,False,False,False,20192020
+Sat.,2019-11-16,7:07 MT,North Dakota,4,@,Denver,1,,,nt,True,False,False,False,20192020
+Sat.,2019-11-16,7:05 ET,Omaha,6,@,Western Michigan,3,,,nt,True,False,False,False,20192020
+Sat.,2019-11-16,7:07 AT,Bowling Green,3,@,Alaska Anchorage,0,,,wc,True,False,False,False,20192020
+Sat.,2019-11-16,6:00 ET,Alaska,3,@,Northern Michigan,2,,,wc,True,False,False,False,20192020
+Sat.,2019-11-16,6:07 ET,Bemidji State,4,@,Ferris State,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-16,7:00 ET,Michigan Tech,2,@,Lake Superior,1,,,wc,True,False,False,False,20192020
+Thu.,2019-11-21,7:05 ET,Holy Cross,4,@,Sacred Heart,3,,,ah,True,False,False,False,20192020
+Fri.,2019-11-22,7:05 ET,Niagara,5,@,Mercyhurst,0,,,ah,True,False,False,False,20192020
+Fri.,2019-11-22,7:05 ET,Sacred Heart,4,@,Holy Cross,1,,,ah,True,False,False,False,20192020
+Fri.,2019-11-22,7:05 ET,Air Force,2,@,Robert Morris,0,,,ah,True,False,False,False,20192020
+Fri.,2019-11-22,7:05 ET,RIT,1,@,Army,2,,,ah,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Ohio State,4,@,Penn State,5,,,b10,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 CT,Wisconsin,1,@,Minnesota,4,,,b10,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Notre Dame,1,@,Michigan State,1,OT,,b10,True,False,False,True,20192020
+Fri.,2019-11-22,7:00 ET,St. Lawrence,3,@,Yale,6,,,ec,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Quinnipiac,1,@,Cornell,2,,,ec,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Harvard,6,@,RPI,3,,,ec,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Princeton,2,@,Colgate,2,OT,,ec,True,False,False,True,20192020
+Fri.,2019-11-22,7:00 ET,Clarkson,2,@,Brown,1,OT,,ec,True,False,False,True,20192020
+Fri.,2019-11-22,7:00 ET,Merrimack,2,@,Massachusetts,2,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-22,7:30 ET,Vermont,0,@,Boston University,3,,,he,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Maine,2,@,Northeastern,5,,,he,True,False,False,False,20192020
+Fri.,2019-11-22,7:00 ET,Merrimack,2,@,Massachusetts,2,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-22,7:05 ET,Providence,3,@,Connecticut,3,OT,,he,True,False,False,True,20192020
+Fri.,2019-11-22,7:07 MT,Western Michigan,2,@,Denver,1,,,nt,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 CT,Colorado College,3,@,Minnesota Duluth,4,,,nt,True,False,False,False,20192020
+Fri.,2019-11-22,7:37 CT,St. Cloud State,2,@,North Dakota,4,,,nt,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 CT,Miami,3,@,Omaha,3,OT,,nt,True,False,False,True,20192020
+Fri.,2019-11-22,7:00 ET,Michigan,4,@,New Hampshire,1,,,nc,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 AT,Ferris State,3,@,Alaska,2,,,wc,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 ET,Lake Superior,0,@,Bowling Green,5,,,wc,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 CT,Alaska Anchorage,1,@,Minnesota State,7,,,wc,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 CT,uah,3,@,Bemidji State,5,,,wc,True,False,False,False,20192020
+Fri.,2019-11-22,7:07 ET,Northern Michigan,2,@,Michigan Tech,3,,,wc,True,False,False,False,20192020
+Sat.,2019-11-23,7:05 ET,Mercyhurst,1,@,Niagara,3,,,ah,True,False,False,False,20192020
+Sat.,2019-11-23,4:05 ET,RIT,4,@,Army,2,,,ah,True,False,False,False,20192020
+Sat.,2019-11-23,7:05 ET,Air Force,1,@,Robert Morris,1,OT,,ah,True,False,False,True,20192020
+Sat.,2019-11-23,7:00 CT,Wisconsin,3,@,Minnesota,3,OT,,b10,True,False,False,True,20192020
+Sat.,2019-11-23,,Ohio State,4,@,Penn State,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-23,,Notre Dame,2,@,Michigan State,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,St. Lawrence,2,@,Brown,3,,,ec,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Princeton,1,@,Cornell,5,,,ec,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Quinnipiac,1,@,Colgate,3,,,ec,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Clarkson,4,@,Yale,1,,,ec,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Massachusetts,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Maine,2,@,Northeastern,3,,,he,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Massachusetts,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Connecticut,2,@,Providence,5,,,he,True,False,False,False,20192020
+Sat.,2019-11-23,4:00 ET,Vermont,3,@,Boston University,3,OT,,he,True,False,False,True,20192020
+Sat.,2019-11-23,7:07 CT,Colorado College,0,@,Minnesota Duluth,5,,,nt,True,False,False,False,20192020
+Sat.,2019-11-23,7:07 CT,St. Cloud State,1,@,North Dakota,2,OT,,nt,True,False,False,True,20192020
+Sat.,2019-11-23,7:07 MT,Western Michigan,1,@,Denver,6,,,nt,True,False,False,False,20192020
+Sat.,2019-11-23,7:07 CT,Miami,4,@,Omaha,1,,,nt,True,False,False,False,20192020
+Sat.,2019-11-23,7:35 ET,RPI,3,@,Canisius,2,,,nc,True,False,False,False,20192020
+Sat.,2019-11-23,7:00 ET,Michigan,2,@,New Hampshire,3,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-23,7:07 AT,Ferris State,1,@,Alaska,3,,,wc,True,False,False,False,20192020
+Sat.,2019-11-23,7:07 ET,Lake Superior,3,@,Bowling Green,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-23,6:07 CT,Alaska Anchorage,0,@,Minnesota State,3,,,wc,True,False,False,False,20192020
+Sat.,2019-11-23,6:07 CT,uah,0,@,Bemidji State,7,,,wc,True,False,False,False,20192020
+Sat.,2019-11-23,6:00 ET,Michigan Tech,3,@,Northern Michigan,2,,,wc,True,False,False,False,20192020
+Tue.,2019-11-26,7:05 ET,Army,4,@,aic,1,,,ah,True,False,False,False,20192020
+Tue.,2019-11-26,7:05 ET,Brown,0,@,Bentley,1,,,nc,True,False,False,False,20192020
+Tue.,2019-11-26,7:00 ET,Sacred Heart,4,@,Boston University,0,,,nc,True,False,False,False,20192020
+Tue.,2019-11-26,7:00 ET,Yale,2,@,Boston College,6,,,nc,True,False,False,False,20192020
+Thu.,2019-11-28,7:00 CT,North Dakota,9,@,Minnesota,3,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,1:05 ET,Army,4,@,Canisius,3,,,ah,True,False,False,False,20192020
+Fri.,2019-11-29,7:05 ET,RIT,2,@,aic,4,,,ah,True,False,False,False,20192020
+Fri.,2019-11-29,7:05 ET,Air Force,3,@,Niagara,4,OT,,ah,True,False,False,True,20192020
+Fri.,2019-11-29,7:05 ET,Bentley,3,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Fri.,2019-11-29,7:00,Princeton,1,vs,Colgate,3,,,nc,True,True,False,False,20192020
+Fri.,2019-11-29,2:30,Northeastern,4,vs,New Hampshire,0,,,he,True,True,False,False,20192020
+Fri.,2019-11-29,7:00 CT,North Dakota,3,@,Minnesota,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:00 ET,Bowling Green,5,@,Notre Dame,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:00 ET,Penn State,7,@,Merrimack,0,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:05 MT,Vermont,1,@,Arizona State,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:30 ET,Massachusetts,3,@,Quinnipiac,0,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,4:30 ET,Boston College,4,@,Harvard,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:30 ET,Maine,5,@,St. Lawrence,2,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:00 ET,Penn State,7,@,Merrimack,0,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:00 ET,RPI,0,@,UMass Lowell,4,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,4:05 ET,Miami,4,@,Connecticut,6,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:07 CT,Minnesota State,4,@,Minnesota Duluth,1,,,nc,True,False,False,False,20192020
+Fri.,2019-11-29,7:07 CT,Northern Michigan,2,@,uah,4,,,wc,True,False,False,False,20192020
+Fri.,2019-11-29,7:07 AT,Michigan Tech,3,@,Alaska,4,,,wc,True,False,False,False,20192020
+Fri.,2019-11-29,7:00 ET,Bemidji State,4,@,Lake Superior,1,,,wc,True,False,False,False,20192020
+Fri.,2019-11-29,7:07 AT,Ferris State,4,@,Alaska Anchorage,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-30,7:05 ET,Mercyhurst,2,@,Robert Morris,2,OT,,ah,True,False,False,True,20192020
+Sat.,2019-11-30,1:05 ET,RIT,1,@,aic,5,,,ah,True,False,False,False,20192020
+Sat.,2019-11-30,4:05 ET,Holy Cross,1,@,Bentley,4,,,ah,True,False,False,False,20192020
+Sat.,2019-11-30,1:05 ET,Army,3,@,Canisius,2,,,ah,True,False,False,False,20192020
+Sat.,2019-11-30,7:05 ET,Air Force,1,@,Niagara,1,OT,,ah,True,False,False,True,20192020
+Sat.,2019-11-30,7:00 CT,Michigan,2,@,Wisconsin,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-30,5:00 ET,Michigan State,1,@,Ohio State,3,,,b10,True,False,False,False,20192020
+Sat.,2019-11-30,2:30 GMT,New Hampshire,3,vs,Princeton,2,,,nc,True,True,False,False,20192020
+Sat.,2019-11-30,7:00 GMT,Colgate,3,vs,Northeastern,4,,,nc,True,True,False,False,20192020
+Sat.,2019-11-30,4:00 ET,Brown,2,@,Providence,4,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,7:00 ET,RPI,1,@,Merrimack,5,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,7:05 MT,Vermont,2,@,Arizona State,2,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-30,7:00 ET,Maine,1,@,St. Lawrence,1,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-30,6:00 ET,Penn State,2,@,UMass Lowell,3,OT,,nc,True,False,False,True,20192020
+Sat.,2019-11-30,7:00 ET,RPI,1,@,Merrimack,5,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,8:00 ET,Cornell,2,vs,Boston University,0,,,nc,True,True,False,False,20192020
+Sat.,2019-11-30,7:00 ET,Quinnipiac,2,@,Massachusetts,1,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,4:05 ET,Miami,3,@,Connecticut,4,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,7:07 CT,Minnesota State,3,@,Minnesota Duluth,1,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,7:07 ET,Notre Dame,2,@,Bowling Green,5,,,nc,True,False,False,False,20192020
+Sat.,2019-11-30,7:07 AT,Michigan Tech,2,@,Alaska,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-30,7:07 CT,Northern Michigan,3,@,uah,1,,,wc,True,False,False,False,20192020
+Sat.,2019-11-30,5:07 AT,Ferris State,4,@,Alaska Anchorage,4,OT,,wc,True,False,False,True,20192020
+Sat.,2019-11-30,5:00 ET,Bemidji State,2,@,Lake Superior,2,OT,,wc,True,False,False,True,20192020
+Sun.,2019-12-01,4:00 CT,Michigan,3,@,Wisconsin,1,,,b10,True,False,False,False,20192020
+Sun.,2019-12-01,2:30 ET,Michigan State,0,@,Ohio State,2,,,b10,True,False,False,False,20192020
+Tue.,2019-12-03,7:05 ET,Sacred Heart,4,@,aic,2,,,ah,True,False,False,False,20192020
+Tue.,2019-12-03,7:00 ET,Harvard,2,@,Boston University,5,,,nc,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 ET,Mercyhurst,3,@,RIT,7,,,ah,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 MT,Holy Cross,2,@,Air Force,7,,,ah,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 ET,Bentley,3,@,Army,4,,,ah,True,False,False,False,20192020
+Fri.,2019-12-06,1:05 ET,Canisius,0,@,aic,6,,,ah,True,False,False,False,20192020
+Fri.,2019-12-06,9:00 ET,Penn State,1,@,Michigan,4,,,b10,True,False,False,False,20192020
+Fri.,2019-12-06,,Wisconsin,0,@,Michigan State,3,,,b10,True,False,False,False,20192020
+Fri.,2019-12-06,,Minnesota,2,@,Ohio State,3,OT,,b10,True,False,False,True,20192020
+Fri.,2019-12-06,7:00 ET,Cornell,3,@,Harvard,1,,,ec,True,False,False,False,20192020
+Fri.,2019-12-06,7:00 ET,Yale,4,@,RPI,1,,,ec,True,False,False,False,20192020
+Fri.,2019-12-06,7:00 ET,Colgate,5,@,Dartmouth,1,,,ec,True,False,False,False,20192020
+Fri.,2019-12-06,7:00 ET,Brown,0,@,Union,5,,,ec,True,False,False,False,20192020
+Fri.,2019-12-06,7:15 ET,UMass Lowell,3,@,Providence,2,,,he,True,False,False,False,20192020
+Fri.,2019-12-06,7:00 ET,Maine,1,@,Massachusetts,5,,,he,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 ET,Vermont,2,@,Connecticut,3,,,he,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 ET,St. Cloud State,2,@,Miami,1,,,nt,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 ET,North Dakota,1,@,Western Michigan,0,OT,,nt,True,False,False,True,20192020
+Fri.,2019-12-06,7:07 CT,Minnesota Duluth,6,@,Omaha,3,,,nt,True,False,False,False,20192020
+Fri.,2019-12-06,7:05 MT,Denver,1,@,Arizona State,4,,,nc,True,False,False,False,20192020
+Fri.,2019-12-06,4:00 ET,Colorado College,7,@,Princeton,2,,,nc,True,False,False,False,20192020
+Fri.,2019-12-06,7:00 ET,Notre Dame,0,@,Boston College,4,,,nc,True,False,False,False,20192020
+Fri.,2019-12-06,7:07 CT,Lake Superior,1,@,Minnesota State,5,,,wc,True,False,False,False,20192020
+Fri.,2019-12-06,7:07 CT,Alaska,1,@,Bemidji State,3,,,wc,True,False,False,False,20192020
+Fri.,2019-12-06,7:07 ET,Alaska Anchorage,1,@,Michigan Tech,2,,,wc,True,False,False,False,20192020
+Fri.,2019-12-06,7:07 ET,uah,3,@,Bowling Green,9,,,wc,True,False,False,False,20192020
+Sat.,2019-12-07,7:05 ET,Robert Morris,0,@,Sacred Heart,6,,,ah,True,False,False,False,20192020
+Sat.,2019-12-07,5:05 MT,Holy Cross,3,@,Air Force,3,OT,,ah,True,False,False,True,20192020
+Sat.,2019-12-07,1:05 ET,Canisius,2,@,aic,3,OT,,ah,True,False,False,True,20192020
+Sat.,2019-12-07,7:05 ET,Bentley,4,@,Army,2,,,ah,True,False,False,False,20192020
+Sat.,2019-12-07,7:05 ET,Mercyhurst,2,@,RIT,3,,,ah,True,False,False,False,20192020
+Sat.,2019-12-07,,Wisconsin,4,@,Michigan State,5,OT,,b10,True,False,False,True,20192020
+Sat.,2019-12-07,7:30 ET,Penn State,3,@,Michigan,1,,,b10,True,False,False,False,20192020
+Sat.,2019-12-07,8:00 ET,Minnesota,1,@,Ohio State,1,OT,,b10,True,False,False,True,20192020
+Sat.,2019-12-07,7:00 ET,St. Lawrence,1,@,Clarkson,3,,,ec,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,Colgate,4,@,Harvard,3,OT,,ec,True,False,False,True,20192020
+Sat.,2019-12-07,7:00 ET,Brown,1,@,RPI,2,OT,,ec,True,False,False,True,20192020
+Sat.,2019-12-07,7:00 ET,Yale,2,@,Union,0,,,ec,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,Cornell,1,@,Dartmouth,2,,,ec,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,New Hampshire,2,@,Merrimack,4,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,3:35 ET,Vermont,4,@,Connecticut,7,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,New Hampshire,2,@,Merrimack,4,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,Northeastern,3,@,Boston University,6,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,6:00 ET,Providence,4,@,UMass Lowell,1,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,7:00 ET,Maine,1,@,Massachusetts,4,,,he,True,False,False,False,20192020
+Sat.,2019-12-07,7:05 ET,St. Cloud State,5,@,Miami,3,,,nt,True,False,False,False,20192020
+Sat.,2019-12-07,7:07 CT,Minnesota Duluth,4,@,Omaha,3,,,nt,True,False,False,False,20192020
+Sat.,2019-12-07,7:05 ET,North Dakota,8,@,Western Michigan,2,,,nt,True,False,False,False,20192020
+Sat.,2019-12-07,7:05 MT,Denver,2,@,Arizona State,2,OT,,nc,True,False,False,True,20192020
+Sat.,2019-12-07,7:00 ET,Colorado College,2,@,Princeton,1,OT,,nc,True,False,False,True,20192020
+Sat.,2019-12-07,7:07 ET,uah,2,@,Bowling Green,2,OT,,wc,True,False,False,True,20192020
+Sat.,2019-12-07,6:07 ET,Alaska Anchorage,1,@,Michigan Tech,4,,,wc,True,False,False,False,20192020
+Sat.,2019-12-07,6:07 CT,Alaska,5,@,Bemidji State,3,,,wc,True,False,False,False,20192020
+Sat.,2019-12-07,6:07 CT,Lake Superior,0,@,Minnesota State,2,,,wc,True,False,False,False,20192020
+Sun.,2019-12-08,4:05 ET,Robert Morris,2,@,Sacred Heart,4,,,ah,True,False,False,False,20192020
+Sun.,2019-12-08,7:00 ET,Merrimack,2,@,New Hampshire,5,,,he,True,False,False,False,20192020
+Sun.,2019-12-08,7:00 ET,Merrimack,2,@,New Hampshire,5,,,he,True,False,False,False,20192020
+Sun.,2019-12-08,5:00 ET,Boston College,6,@,Notre Dame,1,,,nc,True,False,False,False,20192020
+Tue.,2019-12-10,7:00 ET,aic,1,@,Princeton,2,,,nc,True,False,False,False,20192020
+Tue.,2019-12-10,7:00 ET,Maine,1,@,Yale,3,,,nc,True,False,False,False,20192020
+Tue.,2019-12-10,7:00 ET,Massachusetts,4,@,Brown,0,,,nc,True,False,False,False,20192020
+Thu.,2019-12-12,7:00 ET,Bentley,2,@,Dartmouth,2,OT,,nc,True,False,False,True,20192020
+Fri.,2019-12-13,1:05 ET,Niagara,1,@,aic,3,,,ah,True,False,False,False,20192020
+Fri.,2019-12-13,7:00 ET,Penn State,4,@,Notre Dame,2,,,b10,True,False,False,False,20192020
+Fri.,2019-12-13,7:37 CT,Omaha,1,@,St. Cloud State,4,,,nt,True,False,False,False,20192020
+Fri.,2019-12-13,7:07 MT,Colorado College,0,@,Denver,3,,,nt,True,False,False,False,20192020
+Fri.,2019-12-13,7:00 ET,Merrimack,2,@,Union,3,,,nc,True,False,False,False,20192020
+Fri.,2019-12-13,7:00 ET,Merrimack,2,@,Union,3,,,nc,True,False,False,False,20192020
+Fri.,2019-12-13,7:07 ET,Clarkson,2,@,Michigan Tech,2,OT,,nc,True,False,False,True,20192020
+Fri.,2019-12-13,7:00 ET,Minnesota State,5,@,Northern Michigan,2,,,wc,True,False,False,False,20192020
+Fri.,2019-12-13,7:07 ET,uah,2,@,Ferris State,2,OT,,wc,True,False,False,True,20192020
+Fri.,2019-12-13,7:00 ET,Bowling Green,2,@,Lake Superior,0,,,wc,True,False,False,False,20192020
+Sat.,2019-12-14,1:05 ET,Niagara,0,@,aic,0,OT,,ah,True,False,False,True,20192020
+Sat.,2019-12-14,5:05 ET,Army,4,@,Robert Morris,0,,,ah,True,False,False,False,20192020
+Sat.,2019-12-14,6:00 ET,Penn State,0,@,Notre Dame,3,,,b10,True,False,False,False,20192020
+Sat.,2019-12-14,6:07 CT,Omaha,4,@,St. Cloud State,3,OT,,nt,True,False,False,True,20192020
+Sat.,2019-12-14,7:07 MT,Denver,3,@,Colorado College,1,,,nt,True,False,False,False,20192020
+Sat.,2019-12-14,7:00 ET,Arizona State,4,@,Michigan State,3,,,nc,True,False,False,False,20192020
+Sat.,2019-12-14,4:00 ET,Dartmouth,4,@,Northeastern,6,,,nc,True,False,False,False,20192020
+Sat.,2019-12-14,6:07 ET,Clarkson,4,@,Michigan Tech,2,,,nc,True,False,False,False,20192020
+Sat.,2019-12-14,7:00 ET,Bowling Green,2,@,Lake Superior,3,OT,,wc,True,False,False,True,20192020
+Sat.,2019-12-14,6:00 ET,Minnesota State,1,@,Northern Michigan,4,,,wc,True,False,False,False,20192020
+Sat.,2019-12-14,7:37 ET,uah,1,@,Ferris State,3,,,wc,True,False,False,False,20192020
+Sun.,2019-12-15,1:05 ET,Army,1,@,Robert Morris,1,OT,,ah,True,False,False,True,20192020
+Sun.,2019-12-15,5:00 ET,Arizona State,0,@,Michigan State,1,OT,,nc,True,False,False,True,20192020
+Sat.,2019-12-21,7:07 CT,Arizona State,5,@,Omaha,4,,,nc,True,False,False,False,20192020
+Sun.,2019-12-22,4:07 CT,Arizona State,4,@,Omaha,8,,,nc,True,False,False,False,20192020
+Fri.,2019-12-27,7:00 ET,Colgate,2,@,Ohio State,3,,,nc,True,False,False,False,20192020
+Sat.,2019-12-28,4:05 ET,Holy Cross,2,@,Canisius,5,,,ah,True,False,False,False,20192020
+Sat.,2019-12-28,1:05 ET,Bentley,0,@,Sacred Heart,4,,,ah,True,False,False,False,20192020
+Sat.,2019-12-28,7:05 ET,Union,0,@,Vermont,2,,,nc,True,False,False,False,20192020
+Sat.,2019-12-28,4:00 ET,Providence,2,vs,Lake Superior,1,OT,,nc,True,True,False,True,20192020
+Sat.,2019-12-28,7:00 ET,Quinnipiac,3,@,Princeton,1,,,ec,True,False,False,False,20192020
+Sat.,2019-12-28,7:00 ET,North Dakota,3,@,US Under-18 Team,1,,,ex,True,False,True,False,20192020
+Sat.,2019-12-28,4:00 ET,Connecticut,2,vs,St. Lawrence,2,OT,,nc,True,True,False,True,20192020
+Sat.,2019-12-28,7:00 ET,Colorado College,2,@,Dartmouth,5,,,nc,True,False,False,False,20192020
+Sat.,2019-12-28,7:00 CT,Bemidji State,2,@,Minnesota,5,,,nc,True,False,False,False,20192020
+Sat.,2019-12-28,4:00 CT,St. Cloud State,7,vs,Minnesota State,2,,,nc,True,True,False,False,20192020
+Sat.,2019-12-28,4:00 ET,Colgate,0,@,Ohio State,3,,,nc,True,False,False,False,20192020
+Sat.,2019-12-28,4:00 PT,Arizona State,1,vs,Harvard,4,,,nc,True,True,False,False,20192020
+Sun.,2019-12-29,4:05 ET,Holy Cross,1,@,Canisius,3,,,ah,True,False,False,False,20192020
+Sun.,2019-12-29,1:05 ET,Bentley,3,@,Sacred Heart,2,,,ah,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 ET,Union,1,vs,Providence,1,OT,,nc,True,True,False,True,20192020
+Sun.,2019-12-29,7:05 ET,Lake Superior,0,@,Vermont,2,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,7:00 ET,Princeton,3,@,Quinnipiac,4,,,ec,True,False,False,False,20192020
+Sun.,2019-12-29,3:05 ET,Guelph,2,@,RIT,2,OT,,ex,True,False,True,True,20192020
+Sun.,2019-12-29,4:00 ET,McGill,1,@,Yale,4,,,ex,True,False,True,False,20192020
+Sun.,2019-12-29,5:00 ET,CCHL All Stars,1,@,UMass Lowell,3,,,ex,True,False,True,False,20192020
+Sun.,2019-12-29,5:00 ET,Concordia,0,@,Boston University,3,,,ex,True,False,True,False,20192020
+Sun.,2019-12-29,7:00 ET,Connecticut,3,@,Dartmouth,4,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 ET,Colorado College,7,vs,St. Lawrence,3,,,nc,True,True,False,False,20192020
+Sun.,2019-12-29,7:00 CT,St. Cloud State,1,@,Minnesota,4,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 CT,Bemidji State,0,vs,Minnesota State,2,,,nc,True,True,False,False,20192020
+Sun.,2019-12-29,4:05 ET,New Hampshire,4,@,Army,5,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 ET,Minnesota Duluth,4,@,Merrimack,1,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,1:00 PT,Arizona State,4,vs,Harvard,4,OT,,nc,True,True,False,True,20192020
+Sun.,2019-12-29,5:00 ET,Massachusetts,5,@,RPI,3,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 ET,aic,1,@,Maine,5,,,nc,True,False,False,False,20192020
+Sun.,2019-12-29,4:00 ET,Minnesota Duluth,4,@,Merrimack,1,,,nc,True,False,False,False,20192020
+Mon.,2019-12-30,4:00 ET,Ferris State,1,vs,Michigan,4,,,nc,True,True,False,False,20192020
+Mon.,2019-12-30,1:00 ET,Michigan State,2,vs,Michigan Tech,4,,,nc,True,True,False,False,20192020
+Mon.,2019-12-30,4:00 ET,Minnesota Duluth,5,@,Merrimack,1,,,nc,True,False,False,False,20192020
+Mon.,2019-12-30,4:00 ET,Minnesota Duluth,5,@,Merrimack,1,,,nc,True,False,False,False,20192020
+Mon.,2019-12-30,7:07 ET,Miami,4,@,Bowling Green,2,,,nc,True,False,False,False,20192020
+Tue.,2019-12-31,11:30 ET,Ferris State,2,vs,Michigan State,5,,,nc,True,True,False,False,20192020
+Tue.,2019-12-31,2:30 ET,Michigan,2,vs,Michigan Tech,4,,,nc,True,True,False,False,20192020
+Wed.,2020-01-01,3:00 ET,Wisconsin,3,@,US Under-18 Team,2,,,ex,True,False,True,False,20192020
+Fri.,2020-01-03,7:05 ET,Mercyhurst,0,@,Holy Cross,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-03,7:05 ET,Canisius,1,@,RIT,1,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-03,7:05 MT,aic,1,@,Air Force,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-03,7:00 ET,Harvard,1,@,Quinnipiac,6,,,ec,True,False,False,False,20192020
+Fri.,2020-01-03,7:00 ET,Dartmouth,4,@,Princeton,3,OT,,ec,True,False,False,True,20192020
+Fri.,2020-01-03,7:00 ET,RPI,3,@,Clarkson,1,,,ec,True,False,False,False,20192020
+Fri.,2020-01-03,7:00 ET,Union,5,@,St. Lawrence,4,OT,,ec,True,False,False,True,20192020
+Fri.,2020-01-03,7:00 ET,Boston University,3,@,US Under-18 Team,3,OT,,ex,True,False,True,True,20192020
+Fri.,2020-01-03,8:30 PT,Cornell,5,vs,Ohio State,2,,,nc,True,True,False,False,20192020
+Fri.,2020-01-03,5:00 PT,Army,1,vs,Providence,3,,,nc,True,True,False,False,20192020
+Fri.,2020-01-03,7:05 ET,Northeastern,5,@,Connecticut,2,,,he,True,False,False,False,20192020
+Fri.,2020-01-03,7:00 ET,Niagara,2,@,Penn State,3,,,nc,True,False,False,False,20192020
+Fri.,2020-01-03,7:00 ET,Western Michigan,1,@,Notre Dame,1,OT,,nc,True,False,False,True,20192020
+Fri.,2020-01-03,7:00 ET,Yale,1,@,New Hampshire,4,,,nc,True,False,False,False,20192020
+Fri.,2020-01-03,6:00 ET,Omaha,2,@,Maine,2,OT,,nc,True,False,False,True,20192020
+Fri.,2020-01-03,7:07 MT,Massachusetts,2,@,Denver,4,,,nc,True,False,False,False,20192020
+Fri.,2020-01-03,7:37 CT,uah,2,@,North Dakota,5,,,nc,True,False,False,False,20192020
+Fri.,2020-01-03,7:07 ET,Northern Michigan,5,@,Bowling Green,2,,,wc,True,False,False,False,20192020
+Fri.,2020-01-03,7:07 CT,Alaska,0,@,Minnesota State,4,,,wc,True,False,False,False,20192020
+Fri.,2020-01-03,7:07 CT,Ferris State,2,@,Bemidji State,5,,,wc,True,False,False,False,20192020
+Sat.,2020-01-04,5:05 MT,aic,5,@,Air Force,1,,,ah,True,False,False,False,20192020
+Sat.,2020-01-04,7:05 ET,Mercyhurst,2,@,Holy Cross,7,,,ah,True,False,False,False,20192020
+Sat.,2020-01-04,7:35 ET,RIT,3,@,Canisius,5,,,ah,True,False,False,False,20192020
+Sat.,2020-01-04,7:00 ET,Harvard,3,@,Princeton,3,OT,,ec,True,False,False,True,20192020
+Sat.,2020-01-04,7:00 ET,RPI,3,@,St. Lawrence,0,,,ec,True,False,False,False,20192020
+Sat.,2020-01-04,7:00 ET,Dartmouth,1,@,Quinnipiac,5,,,ec,True,False,False,False,20192020
+Sat.,2020-01-04,7:00 ET,Union,0,@,Clarkson,2,,,ec,True,False,False,False,20192020
+Sat.,2020-01-04,5:30 PT,Army,1,vs,Ohio State,2,OT,,nc,True,True,False,True,20192020
+Sat.,2020-01-04,9:00 PT,Cornell,2,vs,Providence,2,OT,,nc,True,True,False,True,20192020
+Sat.,2020-01-04,5:00 ET,UMass Lowell,3,@,Merrimack,1,,,he,True,False,False,False,20192020
+Sat.,2020-01-04,5:00 ET,UMass Lowell,3,@,Merrimack,1,,,he,True,False,False,False,20192020
+Sat.,2020-01-04,4:30 ET,Vermont,3,@,Boston College,8,,,he,True,False,False,False,20192020
+Sat.,2020-01-04,6:00 ET,Niagara,0,@,Penn State,2,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,7:05 MT,Michigan Tech,3,@,Arizona State,4,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,7:00 ET,Brown,1,@,New Hampshire,5,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,12:00 ET,Omaha,2,@,Maine,3,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,7:07 MT,Massachusetts,3,@,Denver,4,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,7:07 CT,uah,2,@,North Dakota,5,,,nc,True,False,False,False,20192020
+Sat.,2020-01-04,5:07 AT,Lake Superior,0,@,Alaska Anchorage,2,,,wc,True,False,False,False,20192020
+Sat.,2020-01-04,6:07 CT,Alaska,1,@,Minnesota State,3,,,wc,True,False,False,False,20192020
+Sat.,2020-01-04,7:07 ET,Northern Michigan,4,@,Bowling Green,3,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-04,6:07 CT,Ferris State,1,@,Bemidji State,4,,,wc,True,False,False,False,20192020
+Sun.,2020-01-05,3:00 MT,Michigan Tech,3,@,Arizona State,2,,,nc,True,False,False,False,20192020
+Sun.,2020-01-05,5:05 ET,Notre Dame,4,@,Western Michigan,1,,,nc,True,False,False,False,20192020
+Sun.,2020-01-05,3:07 AT,Lake Superior,5,@,Alaska Anchorage,3,,,wc,True,False,False,False,20192020
+Mon.,2020-01-06,7:00 ET,Bentley,2,@,Northeastern,4,,,nc,True,False,False,False,20192020
+Tue.,2020-01-07,7:05 ET,Merrimack,6,@,Connecticut,2,,,he,True,False,False,False,20192020
+Tue.,2020-01-07,7:05 ET,Merrimack,6,@,Connecticut,2,,,he,True,False,False,False,20192020
+Tue.,2020-01-07,7:05 ET,Yale,3,@,Vermont,2,OT,,nc,True,False,False,True,20192020
+Wed.,2020-01-08,7:00 ET,Brown,2,@,Boston University,3,OT,,nc,True,False,False,True,20192020
+Thu.,2020-01-09,7:05 ET,Providence,5,@,aic,0,,,nc,True,False,False,False,20192020
+Thu.,2020-01-09,7:37 CT,Bemidji State,3,@,uah,1,,,wc,True,False,False,False,20192020
+Fri.,2020-01-10,7:05 ET,Sacred Heart,3,@,Mercyhurst,1,,,ah,True,False,False,False,20192020
+Fri.,2020-01-10,7:05 ET,Canisius,3,@,Bentley,3,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-10,7:05 ET,Holy Cross,6,@,Niagara,3,,,ah,True,False,False,False,20192020
+Fri.,2020-01-10,7:05 ET,Air Force,3,@,Army,3,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-10,7:00 ET,Michigan,3,@,Notre Dame,0,,,b10,True,False,False,False,20192020
+Fri.,2020-01-10,8:00 CT,Ohio State,4,@,Wisconsin,2,,,b10,True,False,False,False,20192020
+Fri.,2020-01-10,,Minnesota,1,@,Michigan State,4,,,b10,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Colgate,3,@,Union,2,,,ec,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Princeton,1,@,Clarkson,2,,,ec,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Cornell,3,@,RPI,0,,,ec,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Quinnipiac,3,@,St. Lawrence,2,,,ec,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Massachusetts,3,@,Boston College,1,,,he,True,False,False,False,20192020
+Fri.,2020-01-10,7:37 MT,Miami,6,@,Colorado College,1,,,nt,True,False,False,False,20192020
+Fri.,2020-01-10,7:07 MT,St. Cloud State,3,@,Denver,6,,,nt,True,False,False,False,20192020
+Fri.,2020-01-10,7:07 CT,Western Michigan,3,@,Minnesota Duluth,6,,,nt,True,False,False,False,20192020
+Fri.,2020-01-10,7:37 CT,Omaha,6,@,North Dakota,3,,,nt,True,False,False,False,20192020
+Fri.,2020-01-10,7:05 ET,UMass Lowell,6,@,RIT,4,,,nc,True,False,False,False,20192020
+Fri.,2020-01-10,7:05 ET,Dartmouth,2,@,Vermont,2,OT,,nc,True,False,False,True,20192020
+Fri.,2020-01-10,7:07 ET,Minnesota State,5,@,Ferris State,0,,,wc,True,False,False,False,20192020
+Fri.,2020-01-10,7:37 CT,Bemidji State,4,@,uah,3,,,wc,True,False,False,False,20192020
+Fri.,2020-01-10,7:00 ET,Alaska Anchorage,1,@,Northern Michigan,4,,,wc,True,False,False,False,20192020
+Fri.,2020-01-10,7:07 AT,Lake Superior,0,@,Alaska,2,,,wc,True,False,False,False,20192020
+Fri.,2020-01-10,7:07 ET,Bowling Green,3,@,Michigan Tech,2,,,wc,True,False,False,False,20192020
+Sat.,2020-01-11,7:05 ET,Canisius,4,@,Bentley,4,OT,,ah,True,False,False,True,20192020
+Sat.,2020-01-11,4:05 ET,Holy Cross,2,@,Niagara,2,OT,,ah,True,False,False,True,20192020
+Sat.,2020-01-11,5:05 ET,Sacred Heart,9,@,Mercyhurst,3,,,ah,True,False,False,False,20192020
+Sat.,2020-01-11,7:05 ET,Air Force,2,@,Army,5,,,ah,True,False,False,False,20192020
+Sat.,2020-01-11,6:00 ET,Michigan,3,@,Notre Dame,1,,,b10,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Minnesota,2,@,Michigan State,0,,,b10,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 CT,Ohio State,2,@,Wisconsin,5,,,b10,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Quinnipiac,2,@,Clarkson,5,,,ec,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Colgate,0,@,RPI,3,,,ec,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Cornell,3,@,Union,3,OT,,ec,True,False,False,True,20192020
+Sat.,2020-01-11,7:00 ET,Princeton,1,@,St. Lawrence,0,OT,,ec,True,False,False,True,20192020
+Sat.,2020-01-11,7:00 ET,US Under-18 Team,0,@,Maine,2,,,ex,True,False,True,False,20192020
+Sat.,2020-01-11,5:00 ET,Connecticut,1,@,Providence,2,,,he,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Boston College,6,@,Massachusetts,3,,,he,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Northeastern,4,@,New Hampshire,5,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-11,7:07 MT,St. Cloud State,3,@,Denver,5,,,nt,True,False,False,False,20192020
+Sat.,2020-01-11,6:07 MT,Miami,2,@,Colorado College,4,,,nt,True,False,False,False,20192020
+Sat.,2020-01-11,7:07 CT,Western Michigan,3,@,Minnesota Duluth,3,OT,,nt,True,False,False,True,20192020
+Sat.,2020-01-11,7:07 CT,Omaha,1,@,North Dakota,4,,,nt,True,False,False,False,20192020
+Sat.,2020-01-11,7:05 ET,Penn State,6,@,Robert Morris,2,,,nc,True,False,False,False,20192020
+Sat.,2020-01-11,5:05 ET,UMass Lowell,2,@,RIT,3,,,nc,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Arizona State,3,@,Brown,1,,,nc,True,False,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Yale,0,vs,Harvard,7,,,nc,True,True,False,False,20192020
+Sat.,2020-01-11,7:00 ET,Boston University,4,@,Dartmouth,5,,,nc,True,False,False,False,20192020
+Sat.,2020-01-11,7:07 AT,Lake Superior,1,@,Alaska,1,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-11,6:07 ET,Bowling Green,2,@,Michigan Tech,2,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-11,6:00 ET,Alaska Anchorage,3,@,Northern Michigan,6,,,wc,True,False,False,False,20192020
+Sat.,2020-01-11,6:07 ET,Minnesota State,5,@,Ferris State,1,,,wc,True,False,False,False,20192020
+Sun.,2020-01-12,4:00 ET,Arizona State,4,@,Brown,3,OT,,nc,True,False,False,True,20192020
+Tue.,2020-01-14,7:05 ET,Robert Morris,4,@,Mercyhurst,1,,,ah,True,False,False,False,20192020
+Wed.,2020-01-15,7:05 ET,Maine,2,@,Connecticut,3,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 MT,Niagara,3,@,Air Force,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 ET,Robert Morris,1,@,Mercyhurst,2,,,ah,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 ET,aic,4,@,Bentley,1,,,ah,True,False,False,False,20192020
+Fri.,2020-01-17,6:05 ET,Canisius,3,@,Sacred Heart,3,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-17,8:00 CT,Michigan State,4,@,Wisconsin,0,,,b10,True,False,False,False,20192020
+Fri.,2020-01-17,6:00 ET,Notre Dame,4,@,Ohio State,4,OT,,b10,True,False,False,True,20192020
+Fri.,2020-01-17,7:00 ET,Michigan,6,@,Penn State,0,,,b10,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,St. Lawrence,1,@,Harvard,3,,,ec,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,Union,0,@,Yale,5,,,ec,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,Clarkson,2,@,Dartmouth,3,,,ec,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,RPI,3,@,Brown,1,,,ec,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 CT,US Under-18 Team,2,@,Minnesota,1,,,ex,True,False,True,False,20192020
+Fri.,2020-01-17,7:00 ET,Boston University,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,7:15 ET,Boston College,3,@,UMass Lowell,2,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,Boston University,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 ET,Massachusetts,4,@,Vermont,0,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,7:15 ET,New Hampshire,4,@,Providence,3,,,he,True,False,False,False,20192020
+Fri.,2020-01-17,6:35 ET,North Dakota,4,@,Miami,4,OT,,nt,True,False,False,True,20192020
+Fri.,2020-01-17,7:07 CT,Denver,1,@,Omaha,1,OT,,nt,True,False,False,True,20192020
+Fri.,2020-01-17,7:37 CT,Minnesota Duluth,1,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 ET,Colorado College,2,@,Western Michigan,5,,,nt,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 ET,Quinnipiac,4,@,Holy Cross,3,,,nc,True,False,False,False,20192020
+Fri.,2020-01-17,7:05 MT,RIT,1,@,Arizona State,6,,,nc,True,False,False,False,20192020
+Fri.,2020-01-17,7:00 ET,Northern Michigan,2,@,Cornell,2,OT,,nc,True,False,False,True,20192020
+Fri.,2020-01-17,7:07 CT,Michigan Tech,1,@,Bemidji State,4,,,wc,True,False,False,False,20192020
+Fri.,2020-01-17,7:07 ET,Minnesota State,6,@,Bowling Green,3,,,wc,True,False,False,False,20192020
+Fri.,2020-01-17,7:07 AT,uah,1,@,Alaska Anchorage,5,,,wc,True,False,False,False,20192020
+Fri.,2020-01-17,7:07 ET,Alaska,2,@,Ferris State,0,,,wc,True,False,False,False,20192020
+Sat.,2020-01-18,5:05 MT,Niagara,1,@,Air Force,2,,,ah,True,False,False,False,20192020
+Sat.,2020-01-18,7:05 ET,Mercyhurst,1,@,Robert Morris,5,,,ah,True,False,False,False,20192020
+Sat.,2020-01-18,4:05 ET,aic,2,@,Bentley,1,,,ah,True,False,False,False,20192020
+Sat.,2020-01-18,1:05 ET,Canisius,5,@,Sacred Heart,2,,,ah,True,False,False,False,20192020
+Sat.,2020-01-18,5:00 ET,Notre Dame,1,@,Ohio State,2,,,b10,True,False,False,False,20192020
+Sat.,2020-01-18,6:00 ET,Michigan,4,@,Penn State,4,OT,,b10,True,False,False,True,20192020
+Sat.,2020-01-18,7:00 CT,Michigan State,1,@,Wisconsin,3,,,b10,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,Union,2,@,Brown,3,,,ec,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,Clarkson,5,@,Harvard,3,,,ec,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,RPI,1,@,Yale,4,,,ec,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,St. Lawrence,1,@,Dartmouth,3,,,ec,True,False,False,False,20192020
+Sat.,2020-01-18,7:30 ET,Army,2,@,Royal Military,3,OT,,ex,True,False,True,True,20192020
+Sat.,2020-01-18,6:00 ET,Merrimack,4,@,UMass Lowell,6,,,he,True,False,False,False,20192020
+Sat.,2020-01-18,4:00 ET,Connecticut,3,@,Northeastern,2,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-18,7:00 ET,Boston University,3,@,Boston College,4,,,he,True,False,False,False,20192020
+Sat.,2020-01-18,6:00 ET,Merrimack,4,@,UMass Lowell,6,,,he,True,False,False,False,20192020
+Sat.,2020-01-18,7:05 ET,Massachusetts,3,@,Vermont,1,,,he,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,Providence,5,@,New Hampshire,1,,,he,True,False,False,False,20192020
+Sat.,2020-01-18,7:05 ET,Colorado College,2,@,Western Michigan,6,,,nt,True,False,False,False,20192020
+Sat.,2020-01-18,7:07 CT,Denver,2,@,Omaha,2,OT,,nt,True,False,False,True,20192020
+Sat.,2020-01-18,4:07 CT,Minnesota Duluth,0,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Sat.,2020-01-18,7:05 ET,North Dakota,5,@,Miami,3,,,nt,True,False,False,False,20192020
+Sat.,2020-01-18,7:05 MT,RIT,3,@,Arizona State,5,,,nc,True,False,False,False,20192020
+Sat.,2020-01-18,7:00 ET,Northern Michigan,1,@,Cornell,3,,,nc,True,False,False,False,20192020
+Sat.,2020-01-18,5:07 AT,uah,2,@,Alaska Anchorage,2,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-18,6:07 CT,Michigan Tech,1,@,Bemidji State,1,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-18,7:07 ET,Minnesota State,3,@,Bowling Green,2,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-18,6:07 ET,Alaska,6,@,Ferris State,3,,,wc,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,Bentley,4,@,Mercyhurst,3,,,ah,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,aic,4,@,Robert Morris,3,,,ah,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,Air Force,1,@,Holy Cross,3,,,ah,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,Army,1,@,Niagara,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-24,7:35 ET,RIT,7,@,Canisius,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Penn State,2,@,Michigan State,4,,,b10,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Wisconsin,6,@,Notre Dame,4,,,b10,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 CT,Ohio State,3,@,Minnesota,6,,,b10,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Harvard,3,@,Colgate,3,OT,,ec,True,False,False,True,20192020
+Fri.,2020-01-24,7:00 ET,Dartmouth,2,@,Cornell,3,,,ec,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Vermont,5,@,Merrimack,5,OT,,he,True,False,False,True,20192020
+Fri.,2020-01-24,7:00 ET,Maine,4,@,Boston College,3,OT,,he,True,False,False,True,20192020
+Fri.,2020-01-24,7:00 ET,New Hampshire,1,@,Massachusetts,0,,,he,True,False,False,False,20192020
+Fri.,2020-01-24,7:30 ET,UMass Lowell,0,@,Boston University,5,,,he,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Vermont,5,@,Merrimack,5,OT,,he,True,False,False,True,20192020
+Fri.,2020-01-24,7:37 CT,North Dakota,4,@,Minnesota Duluth,7,,,nt,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,Denver,3,@,Miami,2,,,nt,True,False,False,False,20192020
+Fri.,2020-01-24,7:37 MT,Omaha,6,@,Colorado College,4,,,nt,True,False,False,False,20192020
+Fri.,2020-01-24,7:05 ET,St. Cloud State,2,@,Western Michigan,6,,,nt,True,False,False,False,20192020
+Fri.,2020-01-24,7:00 ET,Arizona State,1,@,Clarkson,2,OT,,nc,True,False,False,True,20192020
+Fri.,2020-01-24,7:07 AT,Northern Michigan,4,@,Alaska,4,OT,,wc,True,False,False,True,20192020
+Fri.,2020-01-24,7:00 ET,Alaska Anchorage,2,@,Lake Superior,3,,,wc,True,False,False,False,20192020
+Fri.,2020-01-24,7:07 CT,Bemidji State,2,@,Minnesota State,3,,,wc,True,False,False,False,20192020
+Fri.,2020-01-24,7:07 ET,Ferris State,1,@,Michigan Tech,2,,,wc,True,False,False,False,20192020
+Sat.,2020-01-25,4:05 ET,Bentley,7,@,Mercyhurst,4,,,ah,True,False,False,False,20192020
+Sat.,2020-01-25,4:05 ET,aic,4,@,Robert Morris,1,,,ah,True,False,False,False,20192020
+Sat.,2020-01-25,7:05 ET,Air Force,1,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Sat.,2020-01-25,7:05 ET,Canisius,4,@,RIT,5,,,ah,True,False,False,False,20192020
+Sat.,2020-01-25,4:05 ET,Army,2,@,Niagara,3,OT,,ah,True,False,False,True,20192020
+Sat.,2020-01-25,6:00 ET,Penn State,2,@,Michigan State,1,OT,,b10,True,False,False,True,20192020
+Sat.,2020-01-25,7:30 CT,Ohio State,1,@,Minnesota,4,,,b10,True,False,False,False,20192020
+Sat.,2020-01-25,6:00 ET,Wisconsin,2,@,Notre Dame,5,,,b10,True,False,False,False,20192020
+Sat.,2020-01-25,7:30 ET,Yale,2,@,Sacred Heart,6,,,nc,True,False,False,False,20192020
+Sat.,2020-01-25,4:00 ET,Quinnipiac,3,vs,Connecticut,2,,,nc,True,True,False,False,20192020
+Sat.,2020-01-25,7:00 ET,Harvard,1,@,Cornell,1,OT,,ec,True,False,False,True,20192020
+Sat.,2020-01-25,7:00 ET,Dartmouth,3,@,Colgate,3,OT,,ec,True,False,False,True,20192020
+Sat.,2020-01-25,7:30 ET,US Under-18 Team,4,@,Michigan,1,,,ex,True,False,True,False,20192020
+Sat.,2020-01-25,7:00 ET,Vermont,3,@,Merrimack,4,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-25,8:00 ET,Maine,3,@,Boston College,2,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-25,7:00 ET,Massachusetts,1,@,New Hampshire,1,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-25,6:00 ET,Boston University,2,@,UMass Lowell,2,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-25,7:00 ET,Vermont,3,@,Merrimack,4,OT,,he,True,False,False,True,20192020
+Sat.,2020-01-25,7:00 ET,Union,1,vs,RPI,1,OT,,nc,True,True,False,True,20192020
+Sat.,2020-01-25,7:05 ET,St. Cloud State,2,@,Western Michigan,6,,,nt,True,False,False,False,20192020
+Sat.,2020-01-25,7:07 CT,North Dakota,3,@,Minnesota Duluth,2,,,nt,True,False,False,False,20192020
+Sat.,2020-01-25,7:05 ET,Denver,5,@,Miami,2,,,nt,True,False,False,False,20192020
+Sat.,2020-01-25,4:07 MT,Omaha,4,@,Colorado College,1,,,nt,True,False,False,False,20192020
+Sat.,2020-01-25,7:00 ET,Arizona State,3,@,Clarkson,2,OT,,nc,True,False,False,True,20192020
+Sat.,2020-01-25,7:07 AT,Northern Michigan,4,@,Alaska,2,,,wc,True,False,False,False,20192020
+Sat.,2020-01-25,6:07 CT,Bemidji State,4,@,Minnesota State,2,,,wc,True,False,False,False,20192020
+Sat.,2020-01-25,7:00 ET,Alaska Anchorage,3,@,Lake Superior,3,OT,,wc,True,False,False,True,20192020
+Sat.,2020-01-25,6:07 ET,Ferris State,2,@,Michigan Tech,1,,,wc,True,False,False,False,20192020
+Sun.,2020-01-26,7:00 ET,Quinnipiac,1,@,Sacred Heart,4,,,nc,True,False,False,False,20192020
+Sun.,2020-01-26,3:30 ET,Connecticut,2,vs,Yale,3,,,nc,True,True,False,False,20192020
+Fri.,2020-01-31,7:05 MT,Sacred Heart,5,@,Air Force,4,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-31,7:05 ET,Canisius,3,@,Army,2,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-31,7:05 ET,Mercyhurst,3,@,aic,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-31,7:05 ET,Niagara,2,@,Bentley,3,OT,,ah,True,False,False,True,20192020
+Fri.,2020-01-31,7:05 ET,RIT,3,@,Holy Cross,4,,,ah,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 CT,Minnesota,6,@,Wisconsin,2,,,b10,True,False,False,False,20192020
+Fri.,2020-01-31,7:30 ET,Ohio State,2,@,Michigan,3,,,b10,True,False,False,False,20192020
+Fri.,2020-01-31,6:00 ET,Notre Dame,3,@,Penn State,3,OT,,b10,True,False,False,True,20192020
+Fri.,2020-01-31,7:00 ET,Colgate,3,@,Princeton,0,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Brown,2,@,St. Lawrence,0,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Harvard,8,@,Union,5,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Cornell,0,@,Quinnipiac,5,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Dartmouth,1,@,RPI,7,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Yale,1,@,Clarkson,3,,,ec,True,False,False,False,20192020
+Fri.,2020-01-31,,US Under-18 Team,4,@,Lake Superior,4,OT,,ex,True,False,True,True,20192020
+Fri.,2020-01-31,7:00 ET,Merrimack,2,@,Maine,6,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Connecticut,7,@,New Hampshire,4,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:05 ET,Boston University,4,@,Vermont,2,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Providence,3,@,Northeastern,4,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Merrimack,2,@,Maine,6,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:00 ET,Boston College,3,@,Massachusetts,0,,,he,True,False,False,False,20192020
+Fri.,2020-01-31,7:37 CT,Colorado College,0,@,North Dakota,1,,,nt,True,False,False,False,20192020
+Fri.,2020-01-31,7:37 CT,Western Michigan,5,@,Omaha,2,,,nt,True,False,False,False,20192020
+Fri.,2020-01-31,7:07 MT,Minnesota Duluth,3,@,Denver,2,,,nt,True,False,False,False,20192020
+Fri.,2020-01-31,7:37 CT,Miami,2,@,St. Cloud State,4,,,nt,True,False,False,False,20192020
+Fri.,2020-01-31,7:05 MT,Robert Morris,2,@,Arizona State,3,,,nc,True,False,False,False,20192020
+Fri.,2020-01-31,7:07 ET,Ferris State,2,@,Northern Michigan,5,,,wc,True,False,False,False,20192020
+Fri.,2020-01-31,7:07 CT,Bowling Green,1,@,Bemidji State,4,,,wc,True,False,False,False,20192020
+Fri.,2020-01-31,7:07 CT,Michigan Tech,4,@,uah,1,,,wc,True,False,False,False,20192020
+Fri.,2020-01-31,7:07 AT,Minnesota State,7,@,Alaska Anchorage,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-01,5:05 MT,Sacred Heart,5,@,Air Force,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-01,7:05 ET,Niagara,2,@,Bentley,4,,,ah,True,False,False,False,20192020
+Sat.,2020-02-01,1:05 ET,Mercyhurst,4,@,aic,7,,,ah,True,False,False,False,20192020
+Sat.,2020-02-01,7:05 ET,RIT,4,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-01,4:05 ET,Canisius,2,@,Army,4,,,ah,True,False,False,False,20192020
+Sat.,2020-02-01,6:00 ET,Notre Dame,4,@,Penn State,2,,,b10,True,False,False,False,20192020
+Sat.,2020-02-01,8:00 CT,Minnesota,4,@,Wisconsin,2,,,b10,True,False,False,False,20192020
+Sat.,2020-02-01,7:30 ET,Ohio State,4,@,Michigan,1,,,b10,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Colgate,1,@,Quinnipiac,2,,,ec,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Yale,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20192020
+Sat.,2020-02-01,7:00 ET,Brown,1,@,Clarkson,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Dartmouth,3,@,Union,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Cornell,5,@,Princeton,3,,,ec,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Merrimack,2,@,Maine,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-01,4:00 ET,New Hampshire,4,@,Connecticut,7,,,he,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Merrimack,2,@,Maine,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-01,7:07 CT,Colorado College,1,@,North Dakota,8,,,nt,True,False,False,False,20192020
+Sat.,2020-02-01,7:07 CT,Western Michigan,2,@,Omaha,4,,,nt,True,False,False,False,20192020
+Sat.,2020-02-01,7:07 MT,Minnesota Duluth,4,@,Denver,1,,,nt,True,False,False,False,20192020
+Sat.,2020-02-01,6:07 CT,Miami,0,@,St. Cloud State,3,,,nt,True,False,False,False,20192020
+Sat.,2020-02-01,7:05 MT,Robert Morris,4,@,Arizona State,5,,,nc,True,False,False,False,20192020
+Sat.,2020-02-01,7:00 ET,Vermont,0,@,RPI,1,,,nc,True,False,False,False,20192020
+Sat.,2020-02-01,6:07 ET,Ferris State,2,@,Northern Michigan,5,,,wc,True,False,False,False,20192020
+Sat.,2020-02-01,6:07 CT,Bowling Green,2,@,Bemidji State,4,,,wc,True,False,False,False,20192020
+Sat.,2020-02-01,7:07 CT,Michigan Tech,1,@,uah,3,,,wc,True,False,False,False,20192020
+Sat.,2020-02-01,7:07 AT,Minnesota State,2,@,Alaska Anchorage,2,OT,,wc,True,False,False,True,20192020
+Mon.,2020-02-03,5:00 ET,Northeastern,3,vs,Harvard,1,,,nc,True,True,False,False,20192020
+Mon.,2020-02-03,8:00 ET,Boston University,4,vs,Boston College,4,OT,,nc,True,True,False,True,20192020
+Fri.,2020-02-07,7:05 ET,Army,1,@,Bentley,4,,,ah,True,False,False,False,20192020
+Fri.,2020-02-07,7:05 ET,Mercyhurst,0,@,Niagara,3,,,ah,True,False,False,False,20192020
+Fri.,2020-02-07,7:05 ET,RIT,4,@,Robert Morris,1,,,ah,True,False,False,False,20192020
+Fri.,2020-02-07,7:35 ET,Air Force,3,@,Canisius,3,OT,,ah,True,False,False,True,20192020
+Fri.,2020-02-07,6:00 ET,Wisconsin,4,@,Michigan,8,,,b10,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 CT,Michigan State,1,@,Minnesota,4,,,b10,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,Penn State,2,@,Ohio State,2,OT,,b10,True,False,False,True,20192020
+Fri.,2020-02-07,7:00 ET,Princeton,3,@,Brown,4,,,ec,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,Quinnipiac,3,@,Yale,2,OT,,ec,True,False,False,True,20192020
+Fri.,2020-02-07,7:00 ET,Harvard,6,@,Dartmouth,2,,,ec,True,False,False,False,20192020
+Fri.,2020-02-07,7:30 ET,Merrimack,5,@,Boston University,1,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,Providence,1,@,Massachusetts,3,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,Vermont,3,@,New Hampshire,6,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,Northeastern,2,@,Maine,4,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:30 ET,Merrimack,5,@,Boston University,1,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:00 ET,UMass Lowell,3,@,Boston College,2,,,he,True,False,False,False,20192020
+Fri.,2020-02-07,7:37 MT,St. Cloud State,3,@,Colorado College,2,OT,,nt,True,False,False,True,20192020
+Fri.,2020-02-07,7:07 CT,Omaha,2,@,Minnesota Duluth,3,,,nt,True,False,False,False,20192020
+Fri.,2020-02-07,7:05 ET,Arizona State,3,@,Holy Cross,2,OT,,nc,True,False,False,True,20192020
+Fri.,2020-02-07,7:05 ET,RPI,4,@,Western Michigan,8,,,nc,True,False,False,False,20192020
+Fri.,2020-02-07,7:07 CT,Alaska,6,@,uah,6,OT,,wc,True,False,False,True,20192020
+Fri.,2020-02-07,7:07 ET,Alaska Anchorage,4,@,Bowling Green,5,OT,,wc,True,False,False,True,20192020
+Fri.,2020-02-07,7:07 CT,Northern Michigan,3,@,Minnesota State,7,,,wc,True,False,False,False,20192020
+Fri.,2020-02-07,7:07 ET,Lake Superior,7,@,Michigan Tech,3,,,wc,True,False,False,False,20192020
+Sat.,2020-02-08,7:05 ET,Niagara,4,@,Mercyhurst,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-08,7:05 ET,RIT,3,@,Robert Morris,3,OT,,ah,True,False,False,True,20192020
+Sat.,2020-02-08,4:05 ET,Air Force,0,@,Canisius,1,,,ah,True,False,False,False,20192020
+Sat.,2020-02-08,5:00 CT,Michigan State,4,@,Minnesota,2,,,b10,True,False,False,False,20192020
+Sat.,2020-02-08,7:30 ET,Wisconsin,3,@,Michigan,5,,,b10,True,False,False,False,20192020
+Sat.,2020-02-08,5:00 ET,Penn State,6,@,Ohio State,3,,,b10,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,Quinnipiac,2,@,Brown,2,OT,,ec,True,False,False,True,20192020
+Sat.,2020-02-08,7:00 ET,Clarkson,2,@,St. Lawrence,0,,,ec,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,Princeton,3,@,Yale,5,,,ec,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,Cornell,4,@,Colgate,1,,,ec,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,UMass Lowell,4,@,Merrimack,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,UMass Lowell,4,@,Merrimack,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,Massachusetts,5,@,Providence,1,,,he,True,False,False,False,20192020
+Sat.,2020-02-08,7:00 ET,Vermont,1,@,New Hampshire,2,,,he,True,False,False,False,20192020
+Sat.,2020-02-08,6:07 MT,St. Cloud State,2,@,Colorado College,2,OT,,nt,True,False,False,True,20192020
+Sat.,2020-02-08,7:07 CT,Omaha,1,@,Minnesota Duluth,4,,,nt,True,False,False,False,20192020
+Sat.,2020-02-08,7:05 ET,Arizona State,3,@,Bentley,0,,,nc,True,False,False,False,20192020
+Sat.,2020-02-08,7:05 ET,RPI,2,@,Western Michigan,6,,,nc,True,False,False,False,20192020
+Sat.,2020-02-08,7:07 CT,Northern Michigan,0,@,Minnesota State,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-08,7:07 ET,Alaska Anchorage,1,@,Bowling Green,4,,,wc,True,False,False,False,20192020
+Sat.,2020-02-08,5:07 ET,Lake Superior,3,@,Michigan Tech,4,OT,,wc,True,False,False,True,20192020
+Sat.,2020-02-08,7:07 CT,Alaska,3,@,uah,0,,,wc,True,False,False,False,20192020
+Sun.,2020-02-09,4:00 ET,Colgate,3,@,Cornell,5,,,ec,True,False,False,False,20192020
+Mon.,2020-02-10,4:30 ET,Harvard,2,vs,Boston College,7,,,nc,True,True,False,False,20192020
+Mon.,2020-02-10,7:30 ET,Northeastern,4,vs,Boston University,4,OT,,nc,True,True,False,True,20192020
+Tue.,2020-02-11,7:05 ET,Sacred Heart,2,@,aic,6,,,ah,True,False,False,False,20192020
+Fri.,2020-02-14,7:35 ET,aic,4,@,Canisius,1,,,ah,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 ET,Bentley,1,@,RIT,4,,,ah,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 ET,Robert Morris,3,@,Holy Cross,5,,,ah,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 ET,Army,5,@,Mercyhurst,1,,,ah,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Minnesota,3,@,Notre Dame,3,OT,,b10,True,False,False,True,20192020
+Fri.,2020-02-14,7:30 ET,Michigan,5,@,Michigan State,1,,,b10,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 CT,Penn State,3,@,Wisconsin,4,,,b10,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Brown,2,@,Dartmouth,5,,,ec,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,RPI,4,@,Colgate,1,,,ec,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,St. Lawrence,3,@,Princeton,6,,,ec,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Yale,4,@,Harvard,4,OT,,ec,True,False,False,True,20192020
+Fri.,2020-02-14,7:00 ET,Clarkson,3,@,Quinnipiac,2,,,ec,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Union,2,@,Cornell,5,,,ec,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Boston College,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2020-02-14,7:15 ET,Northeastern,3,@,UMass Lowell,0,,,he,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 ET,Providence,1,@,Vermont,1,OT,,he,True,False,False,True,20192020
+Fri.,2020-02-14,7:00 ET,Connecticut,3,@,Maine,2,,,he,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Boston University,4,@,New Hampshire,1,,,he,True,False,False,False,20192020
+Fri.,2020-02-14,7:00 ET,Boston College,3,@,Merrimack,2,,,he,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 ET,Western Michigan,2,@,Miami,2,OT,,nt,True,False,False,True,20192020
+Fri.,2020-02-14,7:37 CT,Denver,1,@,North Dakota,4,,,nt,True,False,False,False,20192020
+Fri.,2020-02-14,7:05 MT,Alaska Anchorage,0,@,Arizona State,5,,,nc,True,False,False,False,20192020
+Fri.,2020-02-14,7:35 MT,Air Force,2,@,Colorado College,6,,,nc,True,False,False,False,20192020
+Fri.,2020-02-14,7:07 AT,Bowling Green,2,@,Alaska,2,OT,,wc,True,False,False,True,20192020
+Fri.,2020-02-14,7:00 ET,uah,0,@,Lake Superior,0,OT,,wc,True,False,False,True,20192020
+Fri.,2020-02-14,7:00 ET,Bemidji State,5,@,Northern Michigan,0,,,wc,True,False,False,False,20192020
+Fri.,2020-02-14,7:07 ET,Michigan Tech,3,@,Ferris State,2,,,wc,True,False,False,False,20192020
+Sat.,2020-02-15,1:05 ET,Niagara,0,@,Sacred Heart,6,,,ah,True,False,False,False,20192020
+Sat.,2020-02-15,7:05 ET,Robert Morris,4,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-15,4:05 ET,aic,3,@,Canisius,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-15,7:05 ET,Army,4,@,Mercyhurst,1,,,ah,True,False,False,False,20192020
+Sat.,2020-02-15,5:05 ET,Bentley,1,@,RIT,5,,,ah,True,False,False,False,20192020
+Sat.,2020-02-15,6:00 ET,Minnesota,2,@,Notre Dame,1,,,b10,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 CT,Penn State,3,@,Wisconsin,2,,,b10,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,St. Lawrence,1,@,Quinnipiac,6,,,ec,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,RPI,2,@,Cornell,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,Brown,1,@,Harvard,1,OT,,ec,True,False,False,True,20192020
+Sat.,2020-02-15,7:00 ET,Union,0,@,Colgate,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,Yale,4,@,Dartmouth,3,,,ec,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,Clarkson,3,@,Princeton,1,,,ec,True,False,False,False,20192020
+Sat.,2020-02-15,4:30 ET,Merrimack,2,@,Boston College,6,,,he,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,New Hampshire,1,@,Boston University,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-15,4:30 ET,Merrimack,2,@,Boston College,6,,,he,True,False,False,False,20192020
+Sat.,2020-02-15,8:00 ET,UMass Lowell,1,@,Northeastern,2,,,he,True,False,False,False,20192020
+Sat.,2020-02-15,7:00 ET,Connecticut,0,@,Maine,1,OT,,he,True,False,False,True,20192020
+Sat.,2020-02-15,7:05 ET,Providence,3,@,Vermont,2,,,he,True,False,False,False,20192020
+Sat.,2020-02-15,7:05 ET,Western Michigan,4,@,Miami,1,,,nt,True,False,False,False,20192020
+Sat.,2020-02-15,7:07 CT,Denver,1,@,North Dakota,3,,,nt,True,False,False,False,20192020
+Sat.,2020-02-15,7:05 MT,Alaska Anchorage,2,@,Arizona State,5,,,nc,True,False,False,False,20192020
+Sat.,2020-02-15,7:07 AT,Bowling Green,3,@,Alaska,3,OT,,wc,True,False,False,True,20192020
+Sat.,2020-02-15,7:00 ET,uah,1,@,Lake Superior,4,,,wc,True,False,False,False,20192020
+Sat.,2020-02-15,6:00 ET,Bemidji State,5,@,Northern Michigan,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-15,6:07 ET,Michigan Tech,2,@,Ferris State,0,,,wc,True,False,False,False,20192020
+Sun.,2020-02-16,1:05 ET,Niagara,6,@,Sacred Heart,1,,,ah,True,False,False,False,20192020
+Mon.,2020-02-17,7:30 ET,Michigan State,1,vs,Michigan,4,,,b10,True,True,False,False,20192020
+Mon.,2020-02-17,5:05 MT,Colorado College,4,@,Air Force,2,,,nc,True,False,False,False,20192020
+Thu.,2020-02-20,7:05 ET,Holy Cross,1,@,aic,4,,,ah,True,False,False,False,20192020
+Thu.,2020-02-20,7:00 ET,Boston College,3,@,Northeastern,2,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:05 MT,Mercyhurst,1,@,Air Force,1,OT,,ah,True,False,False,True,20192020
+Fri.,2020-02-21,7:05 ET,Sacred Heart,3,@,Army,0,,,ah,True,False,False,False,20192020
+Fri.,2020-02-21,7:35 ET,Robert Morris,1,@,Canisius,1,OT,,ah,True,False,False,True,20192020
+Fri.,2020-02-21,7:05 ET,RIT,1,@,Niagara,4,,,ah,True,False,False,False,20192020
+Fri.,2020-02-21,8:30 ET,Minnesota,3,@,Penn State,3,OT,,b10,True,False,False,True,20192020
+Fri.,2020-02-21,7:30 ET,Notre Dame,2,@,Michigan,1,,,b10,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Ohio State,1,@,Michigan State,0,,,b10,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Harvard,5,@,Clarkson,2,,,ec,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Dartmouth,5,@,St. Lawrence,2,,,ec,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Cornell,4,@,Yale,0,,,ec,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Princeton,2,@,Union,2,OT,,ec,True,False,False,True,20192020
+Fri.,2020-02-21,7:00 ET,Quinnipiac,0,@,RPI,4,,,ec,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Colgate,1,@,Brown,3,,,ec,True,False,False,False,20192020
+Fri.,2020-02-21,7:15 ET,Merrimack,2,@,Providence,0,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Northeastern,1,@,Boston College,10,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:15 ET,Massachusetts,2,@,UMass Lowell,3,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:15 ET,Merrimack,2,@,Providence,0,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Vermont,1,@,Maine,6,,,he,True,False,False,False,20192020
+Fri.,2020-02-21,7:05 ET,Boston University,3,@,Connecticut,4,OT,,he,True,False,False,True,20192020
+Fri.,2020-02-21,7:07 MT,Miami,3,@,Denver,7,,,nt,True,False,False,False,20192020
+Fri.,2020-02-21,7:05 ET,Minnesota Duluth,3,@,Western Michigan,5,,,nt,True,False,False,False,20192020
+Fri.,2020-02-21,7:07 CT,Colorado College,0,@,Omaha,5,,,nt,True,False,False,False,20192020
+Fri.,2020-02-21,7:37 CT,North Dakota,3,@,St. Cloud State,3,OT,,nt,True,False,False,True,20192020
+Fri.,2020-02-21,7:00 CT,Arizona State,6,@,Wisconsin,7,,,nc,True,False,False,False,20192020
+Fri.,2020-02-21,7:07 ET,Ferris State,1,@,Bowling Green,6,,,wc,True,False,False,False,20192020
+Fri.,2020-02-21,7:00 ET,Northern Michigan,1,@,Lake Superior,6,,,wc,True,False,False,False,20192020
+Fri.,2020-02-21,7:07 CT,uah,0,@,Minnesota State,10,,,wc,True,False,False,False,20192020
+Fri.,2020-02-21,7:07 AT,Bemidji State,4,@,Alaska Anchorage,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-22,7:05 ET,Sacred Heart,3,@,Army,3,OT,,ah,True,False,False,True,20192020
+Sat.,2020-02-22,7:05 ET,Holy Cross,0,@,aic,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-22,7:05 ET,Canisius,3,@,Robert Morris,4,,,ah,True,False,False,False,20192020
+Sat.,2020-02-22,7:05 ET,Niagara,2,@,RIT,3,OT,,ah,True,False,False,True,20192020
+Sat.,2020-02-22,5:05 MT,Mercyhurst,1,@,Air Force,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-22,4:00 ET,Notre Dame,3,@,Michigan,0,,,b10,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Ohio State,4,@,Michigan State,2,,,b10,True,False,False,False,20192020
+Sat.,2020-02-22,6:30 ET,Minnesota,2,@,Penn State,3,,,b10,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Harvard,3,@,St. Lawrence,6,,,ec,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Cornell,3,@,Brown,0,,,ec,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Dartmouth,0,@,Clarkson,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Quinnipiac,3,@,Union,2,OT,,ec,True,False,False,True,20192020
+Sat.,2020-02-22,7:00 ET,Princeton,1,@,RPI,7,,,ec,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Colgate,2,@,Yale,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Providence,2,@,Merrimack,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,UMass Lowell,3,@,Massachusetts,5,,,he,True,False,False,False,20192020
+Sat.,2020-02-22,5:00 ET,Vermont,0,@,Maine,0,OT,,he,True,False,False,True,20192020
+Sat.,2020-02-22,7:00 ET,Providence,2,@,Merrimack,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Connecticut,6,@,Boston University,1,,,he,True,False,False,False,20192020
+Sat.,2020-02-22,6:07 CT,North Dakota,1,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Sat.,2020-02-22,7:07 MT,Miami,0,@,Denver,7,,,nt,True,False,False,False,20192020
+Sat.,2020-02-22,7:07 CT,Colorado College,3,@,Omaha,2,,,nt,True,False,False,False,20192020
+Sat.,2020-02-22,7:05 ET,Minnesota Duluth,2,@,Western Michigan,1,,,nt,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 CT,Arizona State,2,@,Wisconsin,6,,,nc,True,False,False,False,20192020
+Sat.,2020-02-22,5:07 AT,Bemidji State,2,@,Alaska Anchorage,2,OT,,wc,True,False,False,True,20192020
+Sat.,2020-02-22,6:07 CT,uah,0,@,Minnesota State,8,,,wc,True,False,False,False,20192020
+Sat.,2020-02-22,7:00 ET,Northern Michigan,5,@,Lake Superior,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-22,7:07 ET,Ferris State,1,@,Bowling Green,3,,,wc,True,False,False,False,20192020
+Wed.,2020-02-26,7:05 ET,aic,3,@,Sacred Heart,5,,,ah,True,False,False,False,20192020
+Thu.,2020-02-27,7:00 ET,Merrimack,1,@,Boston College,6,,,he,True,False,False,False,20192020
+Thu.,2020-02-27,7:00 ET,Merrimack,1,@,Boston College,6,,,he,True,False,False,False,20192020
+Fri.,2020-02-28,7:05 ET,Canisius,3,@,Mercyhurst,2,,,ah,True,False,False,False,20192020
+Fri.,2020-02-28,7:05 ET,Robert Morris,0,@,Niagara,5,,,ah,True,False,False,False,20192020
+Fri.,2020-02-28,7:05 ET,Air Force,3,@,RIT,0,,,ah,True,False,False,False,20192020
+Fri.,2020-02-28,7:05 ET,Holy Cross,2,@,Bentley,3,,,ah,True,False,False,False,20192020
+Fri.,2020-02-28,7:30 CT,Michigan,2,@,Minnesota,2,OT,,b10,True,False,False,True,20192020
+Fri.,2020-02-28,7:00 ET,Michigan State,3,@,Notre Dame,1,,,b10,True,False,False,False,20192020
+Fri.,2020-02-28,6:00 ET,Wisconsin,3,@,Ohio State,2,,,b10,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,Union,3,@,Dartmouth,5,,,ec,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,St. Lawrence,0,@,Cornell,5,,,ec,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,Yale,2,@,Princeton,1,,,ec,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,Brown,1,@,Quinnipiac,2,,,ec,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,RPI,2,@,Harvard,0,,,ec,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,Clarkson,1,@,Colgate,1,OT,,ec,True,False,False,True,20192020
+Fri.,2020-02-28,7:05 ET,Massachusetts,2,@,Connecticut,3,,,he,True,False,False,False,20192020
+Fri.,2020-02-28,7:15 ET,New Hampshire,2,@,UMass Lowell,2,OT,,he,True,False,False,True,20192020
+Fri.,2020-02-28,7:05 ET,Northeastern,2,@,Vermont,4,,,he,True,False,False,False,20192020
+Fri.,2020-02-28,7:37 CT,Denver,1,@,St. Cloud State,5,,,nt,True,False,False,False,20192020
+Fri.,2020-02-28,7:37 CT,Western Michigan,1,@,North Dakota,3,,,nt,True,False,False,False,20192020
+Fri.,2020-02-28,7:05 ET,Omaha,0,@,Miami,3,,,nt,True,False,False,False,20192020
+Fri.,2020-02-28,7:37 MT,Minnesota Duluth,4,@,Colorado College,2,,,nt,True,False,False,False,20192020
+Fri.,2020-02-28,7:07 AT,Alaska Anchorage,2,@,Alaska,5,,,wc,True,False,False,False,20192020
+Fri.,2020-02-28,7:07 CT,Minnesota State,1,@,Bemidji State,3,,,wc,True,False,False,False,20192020
+Fri.,2020-02-28,7:00 ET,Michigan Tech,8,@,Northern Michigan,4,,,wc,True,False,False,False,20192020
+Fri.,2020-02-28,7:07 CT,Bowling Green,4,@,uah,3,OT,,wc,True,False,False,True,20192020
+Fri.,2020-02-28,7:07 ET,Lake Superior,5,@,Ferris State,0,,,wc,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Air Force,3,@,RIT,5,,,ah,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,aic,4,@,Army,1,,,ah,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Robert Morris,2,@,Niagara,5,,,ah,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Canisius,6,@,Mercyhurst,0,,,ah,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Bentley,6,@,Holy Cross,2,,,ah,True,False,False,False,20192020
+Sat.,2020-02-29,5:00 CT,Michigan,2,@,Minnesota,1,,,b10,True,False,False,False,20192020
+Sat.,2020-02-29,8:00 ET,Wisconsin,3,@,Ohio State,3,OT,,b10,True,False,False,True,20192020
+Sat.,2020-02-29,6:00 ET,Michigan State,2,@,Notre Dame,2,OT,,b10,True,False,False,True,20192020
+Sat.,2020-02-29,7:00 ET,Yale,0,@,Quinnipiac,5,,,ec,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,St. Lawrence,2,@,Colgate,2,OT,,ec,True,False,False,True,20192020
+Sat.,2020-02-29,7:00 ET,Union,1,@,Harvard,4,,,ec,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,Clarkson,1,@,Cornell,5,,,ec,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,RPI,4,@,Dartmouth,1,,,ec,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,Brown,2,@,Princeton,0,,,ec,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,UMass Lowell,3,@,New Hampshire,2,,,he,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,Connecticut,3,@,Massachusetts,4,,,he,True,False,False,False,20192020
+Sat.,2020-02-29,4:30 ET,Maine,2,@,Providence,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Northeastern,1,@,Vermont,3,,,he,True,False,False,False,20192020
+Sat.,2020-02-29,7:00 ET,Boston College,4,@,Boston University,1,,,he,True,False,False,False,20192020
+Sat.,2020-02-29,6:07 MT,Minnesota Duluth,6,@,Colorado College,1,,,nt,True,False,False,False,20192020
+Sat.,2020-02-29,7:05 ET,Omaha,0,@,Miami,4,,,nt,True,False,False,False,20192020
+Sat.,2020-02-29,6:07 CT,Denver,5,@,St. Cloud State,2,,,nt,True,False,False,False,20192020
+Sat.,2020-02-29,7:07 CT,Western Michigan,1,@,North Dakota,2,OT,,nt,True,False,False,True,20192020
+Sat.,2020-02-29,7:07 AT,Alaska Anchorage,1,@,Alaska,6,,,wc,True,False,False,False,20192020
+Sat.,2020-02-29,6:07 ET,Northern Michigan,3,@,Michigan Tech,2,,,wc,True,False,False,False,20192020
+Sat.,2020-02-29,6:07 CT,Minnesota State,4,@,Bemidji State,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-29,3:07 CT,Bowling Green,4,@,uah,1,,,wc,True,False,False,False,20192020
+Sat.,2020-02-29,6:07 ET,Lake Superior,4,@,Ferris State,2,,,wc,True,False,False,False,20192020
+Thu.,2020-03-05,7:00 ET,Vermont,0,@,Massachusetts,1,,,he,True,False,False,False,20192020
+Fri.,2020-03-06,7:05 MT,Mercyhurst,1,@,Air Force,3,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:05 ET,Holy Cross,2,@,Robert Morris,0,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:05 ET,Canisius,1,@,Bentley,6,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Wisconsin,1,@,Ohio State,9,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 CT,Notre Dame,1,@,Minnesota,0,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Michigan State,0,@,Michigan,3,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,St. Lawrence,3,@,Harvard,5,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Princeton,4,@,Dartmouth,3,OT,,nc,True,False,False,True,20192020
+Fri.,2020-03-06,7:00 ET,Union,3,@,Yale,0,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Brown,0,@,Colgate,3,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:15 ET,Connecticut,1,@,UMass Lowell,3,,,he,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Providence,0,@,Maine,1,,,he,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,Boston University,3,@,Northeastern,0,,,he,True,False,False,False,20192020
+Fri.,2020-03-06,7:00 ET,New Hampshire,1,@,Boston College,2,,,he,True,False,False,False,20192020
+Fri.,2020-03-06,7:05 ET,Miami,2,@,Western Michigan,5,,,nt,True,False,False,False,20192020
+Fri.,2020-03-06,7:07 CT,St. Cloud State,1,@,Minnesota Duluth,4,,,nt,True,False,False,False,20192020
+Fri.,2020-03-06,7:07 CT,North Dakota,1,@,Omaha,4,,,nt,True,False,False,False,20192020
+Fri.,2020-03-06,7:37 MT,Denver,2,@,Colorado College,2,OT,,nt,True,False,False,True,20192020
+Fri.,2020-03-06,7:07 CT,Lake Superior,0,@,Bemidji State,2,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:07 CT,Alaska Anchorage,1,@,Minnesota State,8,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:07 AT,Bowling Green,4,@,Alaska,2,,,nc,True,False,False,False,20192020
+Fri.,2020-03-06,7:07 ET,Michigan Tech,4,@,Northern Michigan,1,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:05 MT,Mercyhurst,1,@,Air Force,5,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:05 ET,Canisius,3,@,Bentley,5,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:05 ET,Holy Cross,1,@,Robert Morris,2,OT,,nc,True,False,False,True,20192020
+Sat.,2020-03-07,7:00 CT,Notre Dame,1,@,Minnesota,2,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:00 ET,Michigan State,0,@,Michigan,3,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:00 ET,Wisconsin,1,@,Ohio State,2,OT,,nc,True,False,False,True,20192020
+Sat.,2020-03-07,7:00 ET,Princeton,5,@,Dartmouth,4,OT,,nc,True,False,False,True,20192020
+Sat.,2020-03-07,7:00 ET,Brown,2,@,Colgate,3,OT,,nc,True,False,False,True,20192020
+Sat.,2020-03-07,7:00 ET,Union,1,@,Yale,4,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:00 ET,St. Lawrence,1,@,Harvard,7,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:00 ET,Boston College,3,@,New Hampshire,3,OT,,he,True,False,False,True,20192020
+Sat.,2020-03-07,4:00 ET,Northeastern,2,@,Boston University,1,,,he,True,False,False,False,20192020
+Sat.,2020-03-07,7:07 CT,St. Cloud State,1,@,Minnesota Duluth,6,,,nt,True,False,False,False,20192020
+Sat.,2020-03-07,7:07 CT,North Dakota,5,@,Omaha,0,,,nt,True,False,False,False,20192020
+Sat.,2020-03-07,8:07 MT,Colorado College,1,@,Denver,5,,,nt,True,False,False,False,20192020
+Sat.,2020-03-07,7:05 ET,Miami,4,@,Western Michigan,8,,,nt,True,False,False,False,20192020
+Sat.,2020-03-07,7:07 ET,Michigan Tech,4,@,Northern Michigan,3,3OT,,nc,True,False,False,True,20192020
+Sat.,2020-03-07,7:07 AT,Bowling Green,3,@,Alaska,2,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:07 CT,Lake Superior,5,@,Bemidji State,3,,,nc,True,False,False,False,20192020
+Sat.,2020-03-07,7:07 CT,Alaska Anchorage,2,@,Minnesota State,4,,,nc,True,False,False,False,20192020
+Sun.,2020-03-08,7:05 ET,Holy Cross,1,@,Robert Morris,5,,,nc,True,False,False,False,20192020
+Sun.,2020-03-08,6:00 CT,Notre Dame,2,@,Minnesota,3,,,nc,True,False,False,False,20192020
+Sun.,2020-03-08,4:00 ET,Union,1,@,Yale,2,2OT,,nc,True,False,False,True,20192020
+Sun.,2020-03-08,6:07 CT,Lake Superior,1,@,Bemidji State,3,,,nc,True,False,False,False,20192020

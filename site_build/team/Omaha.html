@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Omaha</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html">College Hockey Rankings</a>
+  <nav>
+    <a href="../index.html">Men's</a>
+    <a href="../women/index.html">Women's</a>
+    <a href="../methodology.html">Methodology</a>
+  </nav>
+</header>
+<main class="container">
+
+<h1><img class="logo" src="../assets/logos/omaha.png" style="width:32px;height:32px;vertical-align:middle;"> Omaha</h1>
+<div class="grid-2">
+  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 36</li><li>Win%: 0.333</li><li>Strength of schedule: 187.8</li></ul></div>
+</div>
+<div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Augustana</li><li>Arizona State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Arizona State</li><li>Miami</li><li>Denver</li></ul></div><div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Augustana</li><li>Massachusetts</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Minnesota State</li><li>Arizona State</li><li>Augustana</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Minnesota Duluth</li><li>Massachusetts</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Yale</li><li>Minnesota State</li><li>Arizona State</li></ul></div><div class="card"><h2>NPI</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Minnesota Duluth</li><li>Augustana</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Yale</li><li>Massachusetts</li><li>Miami</li></ul><h3>Projected finish</h3><canvas id="dist-NPI" height="140"></canvas><script>renderDist('dist-NPI', [41, 42, 43], [0.26, 0.534, 0.206]);</script></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script>
+function renderDist(canvasId, labels, probs) {
+  const ctx = document.getElementById(canvasId);
+  if (!ctx || !window.Chart) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
+  });
+}
+</script>
+
+</main>
+<footer class="site-footer">
+  <p>Built from 4 featured models. Not affiliated with USCHO, the NCAA, or any conference.</p>
+</footer>
+</body>
+</html>

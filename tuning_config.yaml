@@ -1,0 +1,94 @@
+# Hyperparameter Tuning Configuration
+# ===================================
+
+experiment:
+  seasons: [20222023,20232024,20242025] # Recent seasons usually best for advanced stats (xG)
+  cutoffs: ["Jan"]
+  ot_mode: "weighted"
+
+models:
+
+  # --- 1. LRMC Classic (Margin & Power) ---
+  LRMC_Classic:
+    enabled: true
+    base_config:
+      variant: "classic"
+      auto_fit: true
+      fit_source: "history"
+      home_ice_advantage: 0.2
+
+    grid:
+      margin_cap: [3, 5]
+      margin_power: [0.5, 0.8, 1.0]
+      time_decay_halflife: [null, 90, 45]
+
+  # --- 2. LRMC Zero (Binary/Points) ---
+  LRMC_Zero:
+    enabled: true
+    base_config:
+      variant: "zero"
+      margin_cap: 1 # Irrelevant for zero, but good practice
+
+    grid:
+      # Test "Pure Binary" vs "NCAA Weighted" (OTW < W)
+      use_ncaa_weights: [true, false]
+
+  # --- 3. LRMC Bayesian (Priors) ---
+  LRMC_Bayesian:
+    enabled: true
+    base_config:
+      variant: "classic" # Uses classic logic + prior math
+      auto_fit: true
+      margin_cap: 3
+
+    grid:
+      # Test how much we should weigh the prior (uniform distribution)
+      prior_weight: [0.05, 0.15, 0.25]
+
+  # --- 4. F-LRMC (Connectivity) ---
+  LRMC_F:
+    enabled: true
+    base_config:
+      variant: "flrmc"
+      margin_cap: 3
+
+    grid:
+      # How many common opponents are needed to form a training triad?
+      min_common_opponents: [1, 2, 3]
+      time_decay_halflife: [null, 90, 45]
+
+  # --- 5. LRMC xG (Expected Goals) ---
+  # Note: This requires chn_advanced_stats files to be present
+  LRMC_xG:
+    enabled: true
+    base_config:
+      variant: "classic"
+      auto_fit: true
+      use_xg: true
+      fallback_to_goals: true
+
+    grid:
+      margin_cap: [3, 5]
+      margin_power: [0.8, 1.0] # xG might not need as much damping as real goals
+      time_decay_halflife: [null, 90, 45]
+
+  # 2. ELO Grid
+#  ELO:
+#    enabled: true
+#    base_config:
+#      start_rating: 1000
+#
+#    grid:
+#      k_factor: [15, 20, 25, 30]
+#      home_advantage: [30, 50, 70]
+#      mov_multiplier: [true, false]
+
+  # 3. NPI Grid
+  NPI:
+    enabled: false # Set to true to tune NPI
+    base_config:
+      ot_win_weight: 0.6
+
+    grid:
+      weight_wp: [0.25, 0.30] # Implicitly affects weight_sos (1 - wp)
+      quality_win_mult: [0.5, 0.7]

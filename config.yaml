@@ -1,0 +1,337 @@
+# College Hockey Ranking System Configuration
+
+system:
+  # Season code format YYYYYYYY (start year + end year), e.g. 20262027 for
+  # the 2026-27 season. Leave blank ("") to auto-derive from today's date
+  # via src.utils.season.get_current_season_code() (Aug-Dec -> season
+  # starting this year; Jan-Jul -> season starting last year).
+  season: 20262027
+  run_date: ""
+
+  # 'men' (default) or 'women'. src/run_system.py's --division CLI flag
+  # overrides this when passed; this is just the default for scheduled/
+  # unattended runs (see scripts/daily_update.py). Setting this to "women"
+  # retires the old standalone src/generate_womens_rankings.py script --
+  # this single entry point now covers both divisions (rankings,
+  # projections, sensitivity analysis, and simulations), not just rankings.
+  division: "men"
+
+data:
+  update_processed_data: true
+  # Flipped on for the 2026-27 season / weekly-update workflow
+  # (scripts/daily_update.py) -- without this, each run just reprocesses
+  # whatever's already in data/raw/ instead of pulling fresh USCHO scores,
+  # so scheduled/weekly runs would silently never update.
+  scrape_latest: true
+
+  # Advanced Stats Configuration
+  advanced_stats:
+    enabled: true
+    source_dir: "data/raw_advanced" # Location of chn_games_YYYY.csv
+    mapping_file: "data/teams/team_info.csv" # Mapping USCHO <-> CHN names
+
+models:
+  # Trimmed from the previous 12-model list (which also ran Colley, Markov,
+  # LRMC_Classic, LRMC_Zero, LRMC_F, HockeyLRMC) down to the models this
+  # project's own validation reports actually support running in
+  # production: Massey (best model overall on Accuracy/Brier/LogLoss, all
+  # 9 comparisons significant — reports/massey_calibration_results.md),
+  # HockeyBT (beats KRACH on calibration and NPI on accuracy simultaneously
+  # — reports/hockey_bt_results.md), KRACH and NPI (kept as the two
+  # incumbent/selection-committee-relevant methods websites and coaches
+  # already recognize), and RPI (kept for its diagnostic value vs. NPI —
+  # reports/rpi_results.md — not because it's a top model). Every removed
+  # model either lost decisively to Massey in a backtest (Keener, Glicko2,
+  # Colley/Markov/LRMC were never head-to-head validated against it) or
+  # ties without beating it (DixonColes, Ensemble) — see each model's
+  # config block below for its specific report reference. None of this is
+  # irreversible: every removed model is still fully implemented and
+  # config'd below, just not in this active list. Sensitivity analysis and
+  # simulation cost scale linearly with this list's length, so trimming it
+  # is the single biggest lever on in-season run time
+  # (reports/in_season_revamp_plan.md).
+  # Featured-model roster (2026-09-13 decision): the 4 models the site
+  # surfaces to visitors -- ELO and Massey get preseason priors (see
+  # `preseason:` below), NPI stays the pure official-selection-formula
+  # replica, KRACH stays pure by default too. HockeyBT and RPI are still
+  # fully configured below (not removed) -- add them back to this list any
+  # time, no other code change needed.
+  active_models:
+    - "ELO"
+    - "Massey"
+    - "KRACH"
+    - "NPI"
+
+  # Validated model roster for women's hockey specifically (see
+  # reports/womens_hockey_import.md's 5-year backtest) — used when
+  # system.division (or --division) is "women". Kept as its own list
+  # rather than reusing active_models above since the two divisions'
+  # backtests are separate and don't necessarily support the same roster.
+  active_models_women:
+    - "Massey"
+    - "HockeyBT"
+    - "KRACH"
+    - "ELO"
+    - "RPI"
+
+  # Davidson-Beaver extended Bradley-Terry model (src/rankings/hockey_bt.py).
+  # Extends KRACH's own Bradley-Terry core with a fitted home-ice term
+  # (theta), a tie/OT outcome (nu), and MAP regularization (prior_strength).
+  # Backtested (5-year/20-split, 8,371 pooled test games) to beat KRACH on
+  # Brier/LogLoss (p<1e-30) and beat NPI on accuracy (McNemar p=0.0002)
+  # SIMULTANEOUSLY — see reports/hockey_bt_results.md. `time_decay_halflife`
+  # is deliberately off (tested and rejected — accuracy degrades
+  # monotonically as halflife shortens); `prior_strength: 0.4` was chosen by
+  # sweeping the same backtest — don't change without re-validating.
+  hockey_bt:
+    fit_home_ice: true
+    fit_ties: true
+    prior_strength: 0.4
+    time_decay_halflife: null
+
+  # Hockey-adapted LRMC (src/rankings/hockey_lrmc.py). Backtested to beat
+  # LRMC_Classic on every season/cutoff tested (accuracy +2.7 to +4.6pp) and
+  # be roughly competitive with KRACH/NPI — see
+  # reports/lrmc_hockey_adaptation.md. `empty_net_shrink` and `prior_weight`
+  # are deliberately left at their off/0.0 defaults (see that file's class
+  # docstring for why) — don't turn them on without re-validating.
+  hockey_lrmc:
+    HockeyLRMC:
+      margin_cap: 3
+      auto_fit: true
+      fit_source: "history"
+      ot_confidence: 0.08
+      empty_net_shrink: false
+      prior_weight: 0.0
+      time_decay_halflife: null
+
+  gw_lrmc:
+    gwLRMC_Classic:
+      variant: "classic"
+      margin_cap: 3
+      auto_fit: true
+      fit_source: "history"
+      use_xg: false
+      time_decay_halflife: null # No decay (Infinite memory)
+
+
+  lrmc:
+    LRMC_Classic:
+      variant: "classic"
+      margin_cap: 3
+      auto_fit: true
+      fit_source: "history"
+      use_xg: false
+      time_decay_halflife: null # No decay (Infinite memory)
+
+    # Dynamic Model: "Elo-like" memory
+    LRMC_Dynamic:
+      variant: "classic"
+      margin_cap: 3
+      auto_fit: true
+      # Weights games from 60 days ago at 50%, games from 120 days ago at 25%
+      time_decay_halflife: 60
+
+    # New Variant using Expected Goals
+    LRMC_xG:
+      variant: "classic"
+      margin_cap: 3
+      auto_fit: true
+      use_xg: true  # <--- New Option: Use xG if available
+      fallback_to_goals: true # If xG missing for a specific game, use real goals
+      time_decay_halflife: 60
+
+    # (Other models...)
+    LRMC_Zero:
+      variant: "zero"
+      margin_cap: 1
+      auto_fit: true
+      fit_source: "history"
+      use_ncaa_weights: true
+      time_decay_halflife: null
+
+    LRMC_F:
+      variant: 'flrmc'
+      margin_cap: 3
+      auto_fit: true
+      fit_source: "history"
+      min_common_opponents: 1
+
+  # (Rest of config...)
+  npi:
+    weight_wp: 0.25
+    weight_sos: 0.75
+    home_multiplier: 0.8
+    away_multiplier: 1.2
+    ot_win_weight: 0.6
+    ot_loss_weight: 0.4
+    quality_win_base: 51.0
+    quality_win_mult: 0.5
+
+  # RPI (src/rankings/rpi.py) — the direct historical predecessor to NPI for
+  # NCAA hockey selection (RPI -> Pairwise Rankings -> NPI). Built to test
+  # whether NPI's added complexity (75% SOS weight, quality-win bonus,
+  # outcome-based bad-wins filter) actually improved on the simpler system
+  # it replaced. Result (reports/rpi_results.md): RPI significantly beats
+  # NPI on accuracy (McNemar p=0.0002 — same pattern already seen with
+  # HockeyBT), nominally better on Brier/LogLoss too though not
+  # significant. RPI does NOT beat fixed Massey (significantly worse Brier/
+  # LogLoss, p<3e-5) — kept active for its direct diagnostic value re: NPI,
+  # not because it's the top model.
+  rpi:
+    weight_wp: 0.25
+    weight_owp: 0.50
+    weight_oowp: 0.25
+    home_multiplier: 0.8
+    away_multiplier: 1.2
+    fit_beta: true
+    beta_calib_holdout_frac: 0.2
+
+  elo:
+    k_factor: 20
+    home_advantage: 50
+    mov_multiplier: true
+
+  colley:
+    # Colley is largely parameter-free
+    enabled: true
+
+  # Fixed Massey (src/rankings/massey.py) — the original implementation had
+  # three never-validated hardcoded constants, most seriously `beta: 0.15`
+  # in predict()'s margin-to-probability sigmoid (a guess that never hurt
+  # accuracy, since accuracy depends only on the sign of the margin, but
+  # badly hurt Brier/LogLoss). Now: home_ice_advantage is fit jointly with
+  # team ratings by ridge regression; beta is fit via a genuinely held-out
+  # temporal split (NOT naive in-sample recalibration — see
+  # reports/massey_calibration_results.md for why that distinction mattered
+  # here). Backtested (5-year/20-split, 8371 pooled games) to beat
+  # HockeyBT/ELO/KRACH on ALL THREE metrics, all 9 comparisons significant
+  # (p<0.05, most p<1e-6) — this is now the best model in the codebase.
+  # 2026 experiments (reports/massey_experiments_2026.md) added three more
+  # ablatable options on top of the fixes above. Time decay was tested and
+  # rejected (clean negative on all 3 metrics, same pattern as LRMC's
+  # never-validated decay). Rest/fatigue (`fit_rest_advantage`) was tested
+  # and IS a new default below: significantly better Brier/LogLoss (p<0.01)
+  # with no significant accuracy cost (McNemar p=0.34) -- the only one of
+  # the three experiments with no metric getting worse. Manpower-adjusted
+  # margin (`use_manpower_margin`) is available/tunable but not yet
+  # validated as of this config edit -- don't flip it on without checking
+  # that report for a result first.
+  massey:
+    margin_cap: 3
+    fit_home_ice: true
+    ridge_lambda: 1.0
+    fit_beta: true
+    beta_calib_holdout_frac: 0.2
+    fit_rest_advantage: true
+    rest_days_cap: 5
+    time_decay_halflife: null  # tested and rejected -- see reports/massey_experiments_2026.md
+    use_manpower_margin: false  # not yet validated -- see reports/massey_experiments_2026.md
+
+  # Dixon-Coles bivariate Poisson (src/rankings/dixon_coles.py) — models the
+  # goal-scoring process directly (attack/defense per team) rather than a
+  # single strength scalar. Built specifically to try to beat fixed Massey
+  # above; after extensive tuning it reaches statistical PARITY with Massey,
+  # not a win (pooled paired test, n=8371: no significant difference on
+  # accuracy p=0.84, Brier p=0.67, or LogLoss p=0.28 — see
+  # reports/dixon_coles_results.md). NOT added to active_models by default
+  # for that reason — it doesn't improve on Massey, so running both doesn't
+  # add predictive value, though its native tie/OT probabilities and
+  # interpretable attack/defense split may be useful for other purposes.
+  # Add "DixonColes" to active_models above if you want it anyway.
+  dixon_coles:
+    fit_home_ice: true
+    fit_rho: false
+    prior_strength: 3.0
+
+  # Ensemble (src/rankings/ensemble.py) — combines Massey/HockeyBT/KRACH/
+  # ELO/RPI. Checked pairwise error correlation first: 0.94-0.99 across all
+  # pairs, meaning these models extract very similar signal from the same
+  # games — pre-registered modest expectations before building anything.
+  # Two real bugs found and fixed during development (unconstrained
+  # stacking weights overfit catastrophically via multicollinearity to
+  # 59.6% accuracy, worse than any individual model; a wrong regularization
+  # target degenerated toward a constant prediction) — see
+  # reports/ensemble_results.md. Final result even after both fixes:
+  # neither 'average' nor properly-regularized 'stacked' beats Massey
+  # (paired test, n=8371: no significant difference on any metric,
+  # p=0.30-0.52). NOT added to active_models — no predictive benefit over
+  # Massey alone. Default method is 'average' (simpler, no fitting-overfit
+  # risk); 'stacked' is available/tunable but don't re-enable without
+  # re-validating.
+  ensemble:
+    base_models: ["Massey", "HockeyBT", "KRACH", "ELO", "RPI"]
+    method: "average"
+    stack_holdout_frac: 0.2
+    stack_ridge: 1.0
+
+  # Keener's method (src/rankings/keener.py) — Perron-Frobenius eigenvector
+  # of a skewed score-share matrix (Keener 1993). A genuinely different
+  # eigenvector construction from Markov/LRMC (unnormalized positive matrix
+  # + skew function compressing blowouts, vs. those models' column-
+  # stochastic transition matrix). Result (reports/
+  # keener_and_glicko2_results.md): decisively behind Massey — accuracy
+  # 61.7-62.0% across an epsilon sweep 0.01-0.3 vs Massey's 64.9%; paired
+  # test p<1e-4 on accuracy, p<1e-20 on Brier/LogLoss. NOT in active_models.
+  keener:
+    epsilon: 0.1
+    score_offset: 1.0
+    fit_calibration: true
+    calib_holdout_frac: 0.2
+
+  # Glicko-2 (src/rankings/glicko2.py) — sequential Bayesian-filtering
+  # updates (one game at a time, chronological), tracking rating (mu), RD
+  # (uncertainty), and volatility per team, vs. every other model's batch
+  # MLE/eigenvector/least-squares solve. Genuine uncertainty quantification
+  # (RD) nothing else here provides. Result: behind Massey (paired test
+  # p=0.037 accuracy, p<1e-19 Brier/LogLoss) and doesn't clearly beat plain
+  # ELO either (ties on accuracy, p=0.45, but significantly worse
+  # calibration, p<1e-7). tau (volatility-change constant) swept 0.2-1.0
+  # with zero effect — within-season college hockey doesn't show enough
+  # strength drift for Glicko-2's volatility mechanism to matter. NOT in
+  # active_models.
+  glicko2:
+    tau: 0.5
+    fit_home_advantage: true
+    calib_holdout_frac: 0.2
+
+  markov:
+    method: "score_ratio" # Options: "binary" or "score_ratio"
+    damping_factor: 0.85  # 0.85 is standard PageRank damping
+    margin_cap: 3
+    home_bonus: 0.0
+    #normalize_by_games: False
+
+  # Preseason priors (src/rankings/priors.py) -- shrink early-season ratings
+  # toward a carryover of last season's final rating (and, optionally, a
+  # hand-entered preseason poll) instead of starting every team from a flat
+  # default. Only applied to the models listed in `apply_to`; NPI is
+  # deliberately excluded (it replicates the official selection-committee
+  # formula, which has no such prior) and KRACH is excluded by default (see
+  # that file's docstring for its optional fictitious-game mechanism).
+  # Validated: reports/preseason_priors_results.md backtested these exact
+  # values (5 held-out seasons, Oct/Nov/Dec/Jan cutoffs) and found a clean
+  # win for both ELO and Massey -- better Brier/LogLoss at every cutoff
+  # tested, no reversals, several individually significant. Surprise finding
+  # vs. the pre-registered expectation: the benefit does NOT fade to ~zero
+  # by January the way a pure "fill in for missing early games" prior
+  # should -- it's still helping materially there too (see that report's
+  # Conclusion). Re-tune only with a new backtest, not by hand.
+  preseason:
+    enabled: true
+    apply_to: ["ELO", "Massey"]
+    r1: 0.6          # weight on last season's final rating
+    r2: 0.15         # weight on the season before that (0 if missing/gap season)
+    w_poll: 0.0      # weight on data/preseason/polls_<season>.csv -- off until validated
+    new_team_percentile: 0.20   # rating percentile assigned to teams with no history
+    massey_prior_lambda: 2.0    # ridge pull toward the prior (in pseudo-games); 0 = no prior effect
+    elo_carryover_weight: 0.6   # fraction of the ELO gap from 1000 kept as the starting rating
+
+output:
+  generate_reports: false
+  # If true, runs the Leave-One-Out impact analysis for EVERY team.
+  # WARNING: This is slow. It re-runs the model hundreds of times.
+  run_analysis: true
+  run_simulations: true
+  mc_iterations: 500
+  base_dir: "output"

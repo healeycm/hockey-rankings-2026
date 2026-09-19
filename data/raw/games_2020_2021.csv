@@ -1,0 +1,624 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Fri.,2020-11-13,7:00 ET,Wisconsin,2,@,Notre Dame,0,,,b10,True,False,False,False,20202021
+Fri.,2020-11-13,7:07 ET,Adrian,2,@,Bowling Green,6,,,nc,True,False,False,False,20202021
+Sat.,2020-11-14,7:00 ET,Wisconsin,5,@,Notre Dame,3,,,b10,True,False,False,False,20202021
+Sat.,2020-11-14,3:00 ET,Arizona State,1,@,Michigan,8,,,nc,True,False,False,False,20202021
+Sun.,2020-11-15,7:00 ET,Arizona State,0,@,Michigan,3,,,nc,True,False,False,False,20202021
+Thu.,2020-11-19,6:00 CT,Michigan,5,@,Wisconsin,2,,,b10,True,False,False,False,20202021
+Thu.,2020-11-19,7:30 CT,Penn State,1,@,Minnesota,4,,,b10,True,False,False,False,20202021
+Thu.,2020-11-19,6:05 ET,LIU,3,@,Holy Cross,2,OT,,nc,True,False,False,True,20202021
+Thu.,2020-11-19,6:00 ET,Arizona State,1,@,Michigan State,1,OT,,nc,True,False,False,True,20202021
+Fri.,2020-11-20,3:00 CT,Penn State,2,@,Minnesota,3,,,b10,True,False,False,False,20202021
+Fri.,2020-11-20,6:00 CT,Michigan,2,@,Wisconsin,1,OT,,b10,True,False,False,True,20202021
+Fri.,2020-11-20,6:00 ET,Connecticut,1,@,Massachusetts,5,,,he,True,False,False,False,20202021
+Fri.,2020-11-20,6:00 ET,Arizona State,0,@,Michigan State,2,,,nc,True,False,False,False,20202021
+Sat.,2020-11-21,4:00 ET,Massachusetts,2,@,Connecticut,2,OT,,he,True,False,False,True,20202021
+Sat.,2020-11-21,7:05 ET,uah,2,@,Robert Morris,5,,,nc,True,False,False,False,20202021
+Sat.,2020-11-21,7:05 ET,Bowling Green,5,@,Adrian,0,,,nc,True,False,False,False,20202021
+Sat.,2020-11-21,5:07 ET,Michigan Tech,0,@,Lake Superior,0,OT,,nc,True,False,False,True,20202021
+Sun.,2020-11-22,4:05 ET,LIU,2,@,Holy Cross,5,,,nc,True,False,False,False,20202021
+Sun.,2020-11-22,4:05 ET,uah,3,@,Robert Morris,4,,,nc,True,False,False,False,20202021
+Sun.,2020-11-22,4:00 ET,Clarkson,2,@,Colgate,1,,,nc,True,False,False,False,20202021
+Sun.,2020-11-22,3:07 ET,Michigan Tech,1,@,Lake Superior,4,,,nc,True,False,False,False,20202021
+Sun.,2020-11-22,5:07 CT,Minnesota State,5,@,Bemidji State,0,,,nc,True,False,False,False,20202021
+Mon.,2020-11-23,5:00 CT,Penn State,3,@,Wisconsin,6,,,b10,True,False,False,False,20202021
+Mon.,2020-11-23,7:30 CT,Ohio State,1,@,Minnesota,4,,,b10,True,False,False,False,20202021
+Tue.,2020-11-24,5:00 CT,Penn State,3,@,Wisconsin,7,,,b10,True,False,False,False,20202021
+Tue.,2020-11-24,7:30 CT,Ohio State,0,@,Minnesota,2,,,b10,True,False,False,False,20202021
+Fri.,2020-11-27,5:05 ET,Canisius,5,@,Robert Morris,2,,,ah,True,False,False,False,20202021
+Fri.,2020-11-27,3:05 ET,Air Force,1,@,aic,3,,,ah,True,False,False,False,20202021
+Fri.,2020-11-27,7:00 ET,Notre Dame,3,@,Michigan,2,,,b10,True,False,False,False,20202021
+Fri.,2020-11-27,6:00 ET,Massachusetts,3,@,Boston College,4,,,he,True,False,False,False,20202021
+Fri.,2020-11-27,5:00 ET,Clarkson,5,@,RIT,8,,,nc,True,False,False,False,20202021
+Fri.,2020-11-27,7:07 ET,Adrian,3,@,Lake Superior,5,,,nc,True,False,False,False,20202021
+Sat.,2020-11-28,4:05 ET,Canisius,4,@,Robert Morris,5,,,ah,True,False,False,False,20202021
+Sat.,2020-11-28,3:05 ET,Air Force,1,@,aic,2,,,ah,True,False,False,False,20202021
+Sat.,2020-11-28,5:30 ET,Michigan State,3,@,Ohio State,2,OT,,b10,True,False,False,True,20202021
+Sat.,2020-11-28,7:00 ET,Notre Dame,2,@,Michigan,1,,,b10,True,False,False,False,20202021
+Sat.,2020-11-28,4:30 ET,Boston College,6,@,Massachusetts,3,,,he,True,False,False,False,20202021
+Sat.,2020-11-28,7:00 CT,Arizona State,8,@,Wisconsin,5,,,nc,True,False,False,False,20202021
+Sun.,2020-11-29,5:30 ET,Michigan State,2,@,Ohio State,4,,,b10,True,False,False,False,20202021
+Sun.,2020-11-29,4:00 CT,Arizona State,3,@,Wisconsin,1,,,nc,True,False,False,False,20202021
+Sun.,2020-11-29,5:00 ET,RIT,1,@,Clarkson,5,,,nc,True,False,False,False,20202021
+Sun.,2020-11-29,2:05 ET,Lake Superior,2,@,Adrian,1,,,nc,True,False,False,False,20202021
+Tue.,2020-12-01,6:35 ET,Holy Cross,2,@,Bentley,1,OT,,ah,True,False,False,True,20202021
+Tue.,2020-12-01,3:35 CT,Omaha,3,vs,Minnesota Duluth,5,,,nt,True,True,False,False,20202021
+Tue.,2020-12-01,7:35 CT,St. Cloud State,4,vs,Western Michigan,3,,,nt,True,True,False,False,20202021
+Tue.,2020-12-01,7:05 ET,Bowling Green,6,@,Robert Morris,3,,,nc,True,False,False,False,20202021
+Wed.,2020-12-02,6:00 ET,Michigan,3,@,Penn State,1,,,b10,True,False,False,False,20202021
+Wed.,2020-12-02,3:35 CT,Miami,0,vs,North Dakota,2,,,nt,True,True,False,False,20202021
+Wed.,2020-12-02,7:35 CT,Denver,1,vs,Minnesota Duluth,2,,,nt,True,True,False,False,20202021
+Thu.,2020-12-03,5:30 ET,Wisconsin,2,@,Ohio State,4,,,b10,True,False,False,False,20202021
+Thu.,2020-12-03,6:00 ET,Michigan,5,@,Penn State,9,,,b10,True,False,False,False,20202021
+Thu.,2020-12-03,8:00 ET,Minnesota,3,@,Michigan State,1,,,b10,True,False,False,False,20202021
+Thu.,2020-12-03,7:35 CT,Omaha,10,vs,Western Michigan,2,,,nt,True,True,False,False,20202021
+Thu.,2020-12-03,7:00 ET,Arizona State,6,@,Notre Dame,3,,,nc,True,False,False,False,20202021
+Fri.,2020-12-04,7:05 MT,Robert Morris,4,@,Air Force,1,,,ah,True,False,False,False,20202021
+Fri.,2020-12-04,6:05 ET,Sacred Heart,2,@,Holy Cross,1,,,ah,True,False,False,False,20202021
+Fri.,2020-12-04,5:05 ET,Army,2,@,Bentley,4,,,ah,True,False,False,False,20202021
+Fri.,2020-12-04,8:00 ET,Minnesota,4,@,Michigan State,2,,,b10,True,False,False,False,20202021
+Fri.,2020-12-04,5:30 ET,Wisconsin,3,@,Ohio State,1,,,b10,True,False,False,False,20202021
+Fri.,2020-12-04,6:00 ET,Providence,0,@,Boston College,3,,,he,True,False,False,False,20202021
+Fri.,2020-12-04,7:35 CT,North Dakota,4,vs,Denver,3,OT,,nt,True,True,False,True,20202021
+Fri.,2020-12-04,7:00 ET,Arizona State,4,@,Notre Dame,5,,,nc,True,False,False,False,20202021
+Sat.,2020-12-05,4:05 MT,Robert Morris,4,@,Air Force,2,,,ah,True,False,False,False,20202021
+Sat.,2020-12-05,6:05 ET,Bentley,0,@,Army,2,,,ah,True,False,False,False,20202021
+Sat.,2020-12-05,5:05 ET,Niagara,3,@,RIT,3,OT,,ah,True,False,False,True,20202021
+Sat.,2020-12-05,4:30 ET,Merrimack,1,@,Massachusetts,3,,,he,True,False,False,False,20202021
+Sat.,2020-12-05,7:00 ET,Boston College,9,@,Providence,0,,,he,True,False,False,False,20202021
+Sat.,2020-12-05,4:30 ET,Merrimack,1,@,Massachusetts,3,,,he,True,False,False,False,20202021
+Sat.,2020-12-05,4:05 CT,Miami,1,vs,Omaha,2,OT,,nt,True,True,False,True,20202021
+Sat.,2020-12-05,8:05 CT,St. Cloud State,4,vs,Denver,3,,,nt,True,True,False,False,20202021
+Sat.,2020-12-05,1:30 ET,Mercyhurst,2,@,Bowling Green,1,,,nc,True,False,False,False,20202021
+Sat.,2020-12-05,5:07 ET,uah,2,@,Lake Superior,2,OT,,nc,True,False,False,True,20202021
+Sun.,2020-12-06,2:05 ET,Sacred Heart,3,@,Holy Cross,6,,,ah,True,False,False,False,20202021
+Sun.,2020-12-06,5:05 ET,RIT,5,@,Niagara,1,,,ah,True,False,False,False,20202021
+Sun.,2020-12-06,4:30 ET,Massachusetts,2,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2020-12-06,4:30 ET,Massachusetts,2,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2020-12-06,4:05 CT,Minnesota Duluth,5,vs,Miami,3,,,nt,True,True,False,False,20202021
+Sun.,2020-12-06,8:05 CT,Omaha,3,vs,St. Cloud State,5,,,nt,True,True,False,False,20202021
+Sun.,2020-12-06,12:05 CT,North Dakota,8,vs,Western Michigan,2,,,nt,True,True,False,False,20202021
+Sun.,2020-12-06,3:05 ET,Bowling Green,3,@,Mercyhurst,1,,,nc,True,False,False,False,20202021
+Sun.,2020-12-06,6:07 ET,Minnesota State,1,@,Michigan Tech,3,,,nc,True,False,False,False,20202021
+Sun.,2020-12-06,3:07 ET,uah,2,@,Lake Superior,3,,,nc,True,False,False,False,20202021
+Mon.,2020-12-07,5:07 ET,Minnesota State,2,@,Michigan Tech,0,,,nc,True,False,False,False,20202021
+Tue.,2020-12-08,8:00 ET,Minnesota,3,@,Michigan,1,,,b10,True,False,False,False,20202021
+Tue.,2020-12-08,11:35 AM CT,Western Michigan,3,vs,Colorado College,3,OT,,nt,True,True,False,True,20202021
+Tue.,2020-12-08,3:35 CT,Denver,3,vs,North Dakota,2,,,nt,True,True,False,False,20202021
+Tue.,2020-12-08,7:35 CT,Miami,2,vs,Minnesota Duluth,4,,,nt,True,True,False,False,20202021
+Wed.,2020-12-09,6:05 ET,Bentley,3,@,Holy Cross,4,OT,,ah,True,False,False,True,20202021
+Wed.,2020-12-09,6:30 ET,Minnesota,4,@,Michigan,0,,,b10,True,False,False,False,20202021
+Wed.,2020-12-09,7:35 CT,Omaha,6,vs,Colorado College,1,,,nt,True,True,False,False,20202021
+Wed.,2020-12-09,3:35 CT,Western Michigan,2,vs,St. Cloud State,1,,,nt,True,True,False,False,20202021
+Wed.,2020-12-09,5:05 ET,Clarkson,1,@,Niagara,4,,,nc,True,False,False,False,20202021
+Thu.,2020-12-10,7:35 CT,North Dakota,2,vs,Minnesota Duluth,2,OT,,nt,True,True,False,True,20202021
+Thu.,2020-12-10,3:35 CT,Denver,5,vs,Miami,1,,,nt,True,True,False,False,20202021
+Fri.,2020-12-11,7:00 ET,Maine,1,@,New Hampshire,1,OT,,he,True,False,False,True,20202021
+Fri.,2020-12-11,6:00 ET,Connecticut,3,@,Boston College,4,OT,,he,True,False,False,True,20202021
+Fri.,2020-12-11,7:35 CT,Western Michigan,5,vs,Colorado College,2,,,nt,True,True,False,False,20202021
+Fri.,2020-12-11,5:05 ET,LIU,4,@,RIT,3,,,nc,True,False,False,False,20202021
+Fri.,2020-12-11,6:00 ET,Arizona State,2,@,Penn State,3,OT,,nc,True,False,False,True,20202021
+Fri.,2020-12-11,7:07 ET,Ferris State,2,@,Bowling Green,3,,,nc,True,False,False,False,20202021
+Sat.,2020-12-12,7:00 ET,Ohio State,0,@,Notre Dame,3,,,b10,True,False,False,False,20202021
+Sat.,2020-12-12,5:05 MT,US Under-18 Team,4,@,Air Force,4,OT,,ex,True,False,True,True,20202021
+Sat.,2020-12-12,6:00 ET,Merrimack,2,@,Northeastern,8,,,he,True,False,False,False,20202021
+Sat.,2020-12-12,3:30 ET,Boston College,1,@,Connecticut,3,,,he,True,False,False,False,20202021
+Sat.,2020-12-12,6:00 ET,Merrimack,2,@,Northeastern,8,,,he,True,False,False,False,20202021
+Sat.,2020-12-12,7:00 ET,Maine,2,@,New Hampshire,6,,,he,True,False,False,False,20202021
+Sat.,2020-12-12,4:05 CT,St. Cloud State,5,vs,North Dakota,3,,,nt,True,True,False,False,20202021
+Sat.,2020-12-12,8:05 CT,Omaha,0,vs,Miami,1,,,nt,True,True,False,False,20202021
+Sat.,2020-12-12,12:05 CT,Minnesota Duluth,4,vs,Denver,1,,,nt,True,True,False,False,20202021
+Sat.,2020-12-12,5:05 ET,LIU,1,@,RIT,5,,,nc,True,False,False,False,20202021
+Sat.,2020-12-12,5:05 ET,Clarkson,4,@,Mercyhurst,3,OT,,nc,True,False,False,True,20202021
+Sat.,2020-12-12,7:07 ET,Bowling Green,6,@,Ferris State,2,,,nc,True,False,False,False,20202021
+Sat.,2020-12-12,4:07 CT,Michigan Tech,3,@,Bemidji State,6,,,nc,True,False,False,False,20202021
+Sun.,2020-12-13,5:00 ET,Ohio State,3,@,Notre Dame,2,,,b10,True,False,False,False,20202021
+Sun.,2020-12-13,5:05 MT,US Under-18 Team,3,@,Air Force,1,,,ex,True,False,True,False,20202021
+Sun.,2020-12-13,4:00 ET,Northeastern,6,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2020-12-13,5:00 ET,Providence,4,@,UMass Lowell,2,,,he,True,False,False,False,20202021
+Sun.,2020-12-13,4:00 ET,Northeastern,6,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2020-12-13,8:05 CT,St. Cloud State,0,vs,Omaha,2,,,nt,True,True,False,False,20202021
+Sun.,2020-12-13,4:05 CT,Western Michigan,3,vs,North Dakota,6,,,nt,True,True,False,False,20202021
+Sun.,2020-12-13,12:05 CT,Minnesota Duluth,1,vs,Colorado College,4,,,nt,True,True,False,False,20202021
+Sun.,2020-12-13,4:05 ET,Clarkson,6,@,Mercyhurst,2,,,nc,True,False,False,False,20202021
+Sun.,2020-12-13,2:00 ET,Arizona State,4,@,Penn State,5,OT,,nc,True,False,False,True,20202021
+Sun.,2020-12-13,2:07 CT,Michigan Tech,3,@,Bemidji State,0,,,nc,True,False,False,False,20202021
+Mon.,2020-12-14,7:00 ET,Sacred Heart,2,@,Quinnipiac,9,,,nc,True,False,False,False,20202021
+Tue.,2020-12-15,5:05 ET,Army,1,@,aic,4,,,ah,True,False,False,False,20202021
+Tue.,2020-12-15,7:35 CT,Miami,1,vs,Colorado College,4,,,nt,True,True,False,False,20202021
+Tue.,2020-12-15,3:35 CT,Denver,3,vs,Western Michigan,2,,,nt,True,True,False,False,20202021
+Tue.,2020-12-15,7:00 ET,Sacred Heart,1,@,Quinnipiac,2,OT,,nc,True,False,False,True,20202021
+Wed.,2020-12-16,5:05 ET,Niagara,3,@,Mercyhurst,3,OT,,ah,True,False,False,True,20202021
+Wed.,2020-12-16,7:35 CT,North Dakota,4,vs,St. Cloud State,3,OT,,nt,True,True,False,True,20202021
+Wed.,2020-12-16,3:35 CT,Omaha,2,vs,Minnesota Duluth,2,OT,,nt,True,True,False,True,20202021
+Wed.,2020-12-16,6:07 ET,Ferris State,4,@,Northern Michigan,5,,,nc,True,False,False,False,20202021
+Thu.,2020-12-17,7:35 CT,Miami,3,vs,Denver,0,,,nt,True,True,False,False,20202021
+Thu.,2020-12-17,5:30 ET,Arizona State,4,@,Ohio State,4,OT,,nc,True,False,False,True,20202021
+Fri.,2020-12-18,7:05 ET,Mercyhurst,7,@,Niagara,4,,,ah,True,False,False,False,20202021
+Fri.,2020-12-18,5:05 ET,aic,4,@,Bentley,1,,,ah,True,False,False,False,20202021
+Fri.,2020-12-18,3:35 CT,Western Michigan,5,vs,Omaha,6,,,nt,True,True,False,False,20202021
+Fri.,2020-12-18,7:35 CT,St. Cloud State,4,vs,Colorado College,3,OT,,nt,True,True,False,True,20202021
+Fri.,2020-12-18,5:30 ET,Arizona State,3,@,Ohio State,2,,,nc,True,False,False,False,20202021
+Fri.,2020-12-18,7:00 ET,Bowling Green,4,@,Quinnipiac,1,,,nc,True,False,False,False,20202021
+Fri.,2020-12-18,7:07 ET,Northern Michigan,3,@,Michigan Tech,4,OT,,nc,True,False,False,True,20202021
+Fri.,2020-12-18,7:37 CT,Bemidji State,4,@,Minnesota State,5,,,nc,True,False,False,False,20202021
+Sat.,2020-12-19,1:05 ET,Bentley,1,@,aic,3,,,ah,True,False,False,False,20202021
+Sat.,2020-12-19,6:30 ET,Michigan State,1,@,Notre Dame,1,OT,,b10,True,False,False,True,20202021
+Sat.,2020-12-19,1:00 ET,Providence,3,@,Northeastern,3,OT,,he,True,False,False,True,20202021
+Sat.,2020-12-19,6:00 ET,Vermont,0,@,Massachusetts,4,,,he,True,False,False,False,20202021
+Sat.,2020-12-19,4:05 CT,Western Michigan,3,vs,Denver,3,OT,,nt,True,True,False,True,20202021
+Sat.,2020-12-19,4:05 CT,Miami,1,vs,Colorado College,1,OT,,nt,True,True,False,True,20202021
+Sat.,2020-12-19,12:05 CT,Minnesota Duluth,1,vs,North Dakota,2,,,nt,True,True,False,False,20202021
+Sat.,2020-12-19,7:00 ET,Bowling Green,4,@,Quinnipiac,2,,,nc,True,False,False,False,20202021
+Sat.,2020-12-19,5:07 CT,Bemidji State,1,@,Minnesota State,1,OT,,nc,True,False,False,True,20202021
+Sat.,2020-12-19,6:07 ET,Michigan Tech,3,@,Northern Michigan,1,,,nc,True,False,False,False,20202021
+Sun.,2020-12-20,5:00 ET,Michigan State,4,@,Notre Dame,3,OT,,b10,True,False,False,True,20202021
+Sun.,2020-12-20,6:00 ET,Vermont,1,@,Massachusetts,4,,,he,True,False,False,False,20202021
+Sun.,2020-12-20,3:30 ET,Northeastern,0,@,Providence,5,,,he,True,False,False,False,20202021
+Sun.,2020-12-20,4:05 CT,Denver,1,vs,St. Cloud State,3,,,nt,True,True,False,False,20202021
+Sun.,2020-12-20,8:05 CT,North Dakota,6,vs,Miami,2,,,nt,True,True,False,False,20202021
+Mon.,2020-12-21,5:00 ET,UMass Lowell,2,@,Connecticut,1,,,he,True,False,False,False,20202021
+Mon.,2020-12-21,12:05 CT,Omaha,3,vs,Colorado College,0,,,nt,True,True,False,False,20202021
+Tue.,2020-12-22,3:05 ET,RIT,5,@,Niagara,4,,,ah,True,False,False,False,20202021
+Tue.,2020-12-22,5:00 ET,Holy Cross,1,@,Quinnipiac,6,,,nc,True,False,False,False,20202021
+Wed.,2020-12-23,3:30 ET,Connecticut,2,@,Massachusetts,6,,,he,True,False,False,False,20202021
+Wed.,2020-12-23,5:05 ET,Quinnipiac,3,@,Holy Cross,0,,,nc,True,False,False,False,20202021
+Wed.,2020-12-23,4:00 ET,Colgate,5,@,Clarkson,4,OT,,nc,True,False,False,True,20202021
+Sat.,2020-12-26,7:00 ET,Northeastern,4,@,Vermont,1,,,he,True,False,False,False,20202021
+Sat.,2020-12-26,7:00 ET,aic,3,@,Quinnipiac,8,,,nc,True,False,False,False,20202021
+Sun.,2020-12-27,7:00 ET,Northeastern,2,@,Vermont,2,OT,,he,True,False,False,True,20202021
+Sun.,2020-12-27,3:00 ET,Quinnipiac,3,@,aic,2,,,nc,True,False,False,False,20202021
+Mon.,2020-12-28,3:00 ET,Providence,0,@,Connecticut,2,,,he,True,False,False,False,20202021
+Tue.,2020-12-29,4:00 ET,RIT,4,@,Colgate,4,OT,,nc,True,False,False,True,20202021
+Tue.,2020-12-29,5:00 ET,Niagara,3,@,Clarkson,6,,,nc,True,False,False,False,20202021
+Tue.,2020-12-29,3:07 ET,Robert Morris,1,@,Bowling Green,2,,,nc,True,False,False,False,20202021
+Wed.,2020-12-30,3:30 ET,Massachusetts,4,@,New Hampshire,0,,,he,True,False,False,False,20202021
+Wed.,2020-12-30,3:07 ET,Northern Michigan,6,@,Ferris State,5,OT,,nc,True,False,False,True,20202021
+Thu.,2020-12-31,2:05 ET,Robert Morris,6,@,Niagara,1,,,ah,True,False,False,False,20202021
+Thu.,2020-12-31,4:00 ET,Quinnipiac,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20202021
+Fri.,2021-01-01,6:00 ET,Clarkson,4,@,Colgate,1,,,ec,True,False,False,False,20202021
+Fri.,2021-01-01,1:00 ET,Vermont,0,@,Providence,0,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-01,7:00 ET,Massachusetts,4,@,Northeastern,3,,,he,True,False,False,False,20202021
+Fri.,2021-01-01,4:00 ET,Connecticut,2,@,New Hampshire,1,,,he,True,False,False,False,20202021
+Fri.,2021-01-01,7:00 MT,Denver,3,@,Colorado College,4,,,nt,True,False,False,False,20202021
+Sat.,2021-01-02,4:35 ET,Mercyhurst,2,@,Canisius,3,,,ah,True,False,False,False,20202021
+Sat.,2021-01-02,7:35 ET,RIT,1,@,Robert Morris,3,,,ah,True,False,False,False,20202021
+Sat.,2021-01-02,7:00 ET,Vermont,1,@,Providence,3,,,he,True,False,False,False,20202021
+Sat.,2021-01-02,4:00 ET,New Hampshire,2,@,Connecticut,1,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-02,6:00 ET,Northeastern,3,@,Massachusetts,5,,,he,True,False,False,False,20202021
+Sat.,2021-01-02,7:05 ET,Miami,3,@,Western Michigan,1,,,nt,True,False,False,False,20202021
+Sat.,2021-01-02,6:07 CT,Minnesota Duluth,4,@,St. Cloud State,3,OT,,nt,True,False,False,True,20202021
+Sat.,2021-01-02,7:07 MT,Colorado College,1,@,Denver,6,,,nt,True,False,False,False,20202021
+Sat.,2021-01-02,2:05 ET,LIU,1,@,aic,2,,,nc,True,False,False,False,20202021
+Sat.,2021-01-02,5:07 ET,Bemidji State,4,@,Lake Superior,1,,,nc,True,False,False,False,20202021
+Sat.,2021-01-02,4:07 ET,uah,0,@,Michigan Tech,4,,,wc,True,False,False,False,20202021
+Sat.,2021-01-02,6:07 ET,Minnesota State,5,@,Northern Michigan,0,,,wc,True,False,False,False,20202021
+Sat.,2021-01-02,3:07 ET,Bowling Green,6,@,Ferris State,1,,,wc,True,False,False,False,20202021
+Sun.,2021-01-03,5:05 ET,Air Force,2,@,Niagara,7,,,ah,True,False,False,False,20202021
+Sun.,2021-01-03,3:05 ET,Canisius,3,@,Mercyhurst,0,,,ah,True,False,False,False,20202021
+Sun.,2021-01-03,4:05 ET,RIT,3,@,Robert Morris,4,,,ah,True,False,False,False,20202021
+Sun.,2021-01-03,3:00 ET,Penn State,1,@,Michigan State,0,,,b10,True,False,False,False,20202021
+Sun.,2021-01-03,4:00 ET,Colgate,1,@,Clarkson,1,OT,,ec,True,False,False,True,20202021
+Sun.,2021-01-03,1:00 ET,St. Lawrence,4,@,Quinnipiac,2,,,ec,True,False,False,False,20202021
+Sun.,2021-01-03,6:00 ET,Maine,3,@,UMass Lowell,5,,,he,True,False,False,False,20202021
+Sun.,2021-01-03,5:05 ET,Miami,5,@,Western Michigan,1,,,nt,True,False,False,False,20202021
+Sun.,2021-01-03,4:07 CT,Minnesota Duluth,1,@,St. Cloud State,3,,,nt,True,False,False,False,20202021
+Sun.,2021-01-03,3:00 CT,Arizona State,1,@,Minnesota,4,,,nc,True,False,False,False,20202021
+Sun.,2021-01-03,3:07 ET,Bemidji State,2,@,Lake Superior,2,OT,,nc,True,False,False,True,20202021
+Sun.,2021-01-03,3:07 ET,Bowling Green,4,@,Ferris State,2,,,wc,True,False,False,False,20202021
+Sun.,2021-01-03,2:07 ET,uah,1,@,Michigan Tech,2,,,wc,True,False,False,False,20202021
+Sun.,2021-01-03,4:07 ET,Minnesota State,4,@,Northern Michigan,0,,,wc,True,False,False,False,20202021
+Mon.,2021-01-04,5:05 ET,Air Force,1,@,Niagara,1,OT,,ah,True,False,False,True,20202021
+Mon.,2021-01-04,3:00 ET,Penn State,1,@,Michigan State,5,,,b10,True,False,False,False,20202021
+Mon.,2021-01-04,3:00 ET,Maine,5,@,UMass Lowell,9,,,he,True,False,False,False,20202021
+Mon.,2021-01-04,7:00 CT,Arizona State,4,@,Minnesota,6,,,nc,True,False,False,False,20202021
+Wed.,2021-01-06,3:05 ET,Sacred Heart,4,vs,Air Force,3,OT,,ah,True,True,False,True,20202021
+Wed.,2021-01-06,5:05 ET,aic,6,@,Army,3,,,ah,True,False,False,False,20202021
+Wed.,2021-01-06,3:30 ET,New Hampshire,0,@,Massachusetts,4,,,he,True,False,False,False,20202021
+Thu.,2021-01-07,5:05 ET,aic,4,@,Army,3,OT,,ah,True,False,False,True,20202021
+Thu.,2021-01-07,5:05 ET,Robert Morris,3,@,Niagara,2,OT,,ah,True,False,False,True,20202021
+Thu.,2021-01-07,5:00 ET,St. Lawrence,2,@,Colgate,1,,,ec,True,False,False,False,20202021
+Thu.,2021-01-07,7:07 ET,Bemidji State,2,@,Bowling Green,3,,,wc,True,False,False,False,20202021
+Fri.,2021-01-08,5:05 ET,Air Force,2,@,Mercyhurst,5,,,ah,True,False,False,False,20202021
+Fri.,2021-01-08,7:00 ET,Michigan State,0,@,Michigan,9,,,b10,True,False,False,False,20202021
+Fri.,2021-01-08,5:30 ET,Penn State,3,@,Ohio State,6,,,b10,True,False,False,False,20202021
+Fri.,2021-01-08,7:00 ET,Clarkson,5,@,Quinnipiac,4,OT,,ec,True,False,False,True,20202021
+Fri.,2021-01-08,7:00 ET,New Hampshire,4,@,Boston College,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-08,6:00 ET,Providence,7,@,Boston University,3,,,he,True,False,False,False,20202021
+Fri.,2021-01-08,1:00 ET,Maine,4,@,Vermont,5,,,he,True,False,False,False,20202021
+Fri.,2021-01-08,7:05 ET,Western Michigan,4,@,Miami,1,,,nt,True,False,False,False,20202021
+Fri.,2021-01-08,7:30 CT,St. Cloud State,4,@,Minnesota Duluth,3,,,nt,True,False,False,False,20202021
+Fri.,2021-01-08,7:07 ET,Lake Superior,4,@,Northern Michigan,1,,,nc,True,False,False,False,20202021
+Fri.,2021-01-08,7:07 ET,Bemidji State,4,@,Bowling Green,3,OT,,wc,True,False,False,True,20202021
+Fri.,2021-01-08,7:07 CT,Ferris State,4,@,uah,5,OT,,wc,True,False,False,True,20202021
+Sat.,2021-01-09,3:05 ET,Air Force,3,@,Mercyhurst,6,,,ah,True,False,False,False,20202021
+Sat.,2021-01-09,7:05 ET,Niagara,4,@,Robert Morris,5,OT,,ah,True,False,False,True,20202021
+Sat.,2021-01-09,4:00 CT,Minnesota,1,@,Wisconsin,3,,,b10,True,False,False,False,20202021
+Sat.,2021-01-09,5:30 ET,Penn State,5,@,Ohio State,2,,,b10,True,False,False,False,20202021
+Sat.,2021-01-09,4:30 ET,Michigan,2,@,Michigan State,3,,,b10,True,False,False,False,20202021
+Sat.,2021-01-09,7:00 ET,Clarkson,3,@,Quinnipiac,4,OT,,ec,True,False,False,True,20202021
+Sat.,2021-01-09,7:00 ET,Colgate,4,@,St. Lawrence,2,,,ec,True,False,False,False,20202021
+Sat.,2021-01-09,7:00 ET,Merrimack,2,@,Northeastern,3,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-09,1:00 ET,Maine,4,@,Vermont,3,,,he,True,False,False,False,20202021
+Sat.,2021-01-09,7:00 ET,Boston University,6,@,Providence,4,,,he,True,False,False,False,20202021
+Sat.,2021-01-09,7:00 ET,Merrimack,2,@,Northeastern,3,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-09,5:05 ET,Western Michigan,3,@,Miami,3,OT,,nt,True,False,False,True,20202021
+Sat.,2021-01-09,6:00 CT,St. Cloud State,1,@,Minnesota Duluth,0,OT,,nt,True,False,False,True,20202021
+Sat.,2021-01-09,6:30 ET,Arizona State,4,@,Notre Dame,5,,,nc,True,False,False,False,20202021
+Sat.,2021-01-09,6:07 ET,Lake Superior,3,@,Northern Michigan,2,OT,,nc,True,False,False,True,20202021
+Sat.,2021-01-09,7:07 CT,Ferris State,0,@,uah,2,,,wc,True,False,False,False,20202021
+Sun.,2021-01-10,4:05 ET,Niagara,2,@,Robert Morris,6,,,ah,True,False,False,False,20202021
+Sun.,2021-01-10,4:05 ET,Army,5,@,aic,3,,,ah,True,False,False,False,20202021
+Sun.,2021-01-10,4:00 CT,Minnesota,5,@,Wisconsin,3,,,b10,True,False,False,False,20202021
+Sun.,2021-01-10,4:00 ET,Clarkson,0,@,Quinnipiac,1,,,ec,True,False,False,False,20202021
+Sun.,2021-01-10,5:00 ET,Colgate,1,@,St. Lawrence,1,OT,,ec,True,False,False,True,20202021
+Sun.,2021-01-10,3:00 ET,Northeastern,3,@,Merrimack,2,,,he,True,False,False,False,20202021
+Sun.,2021-01-10,4:00 ET,Boston College,3,@,New Hampshire,2,OT,,he,True,False,False,True,20202021
+Sun.,2021-01-10,3:00 ET,Northeastern,3,@,Merrimack,2,,,he,True,False,False,False,20202021
+Sun.,2021-01-10,7:00 MT,North Dakota,3,@,Colorado College,0,,,nt,True,False,False,False,20202021
+Sun.,2021-01-10,5:00 ET,Arizona State,5,@,Notre Dame,3,,,nc,True,False,False,False,20202021
+Mon.,2021-01-11,7:00 MT,North Dakota,2,@,Colorado College,1,,,nt,True,False,False,False,20202021
+Wed.,2021-01-13,6:00 ET,New Hampshire,0,@,Northeastern,7,,,he,True,False,False,False,20202021
+Wed.,2021-01-13,2:05 ET,LIU,2,@,aic,5,,,nc,True,False,False,False,20202021
+Fri.,2021-01-15,6:00 ET,Michigan State,2,@,Penn State,3,OT,,b10,True,False,False,True,20202021
+Fri.,2021-01-15,7:00 ET,Ohio State,2,@,Michigan,4,,,b10,True,False,False,False,20202021
+Fri.,2021-01-15,7:00 CT,Notre Dame,3,@,Minnesota,2,,,b10,True,False,False,False,20202021
+Fri.,2021-01-15,5:00 ET,Quinnipiac,3,@,Colgate,0,,,ec,True,False,False,False,20202021
+Fri.,2021-01-15,5:00 ET,St. Lawrence,2,@,Clarkson,1,OT,,ec,True,False,False,True,20202021
+Fri.,2021-01-15,3:30 ET,Maine,4,@,Providence,3,,,he,True,False,False,False,20202021
+Fri.,2021-01-15,4:00 ET,New Hampshire,5,@,Connecticut,6,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-15,7:05 ET,St. Cloud State,2,@,Western Michigan,6,,,nt,True,False,False,False,20202021
+Fri.,2021-01-15,5:05 ET,LIU,2,@,Army,5,,,nc,True,False,False,False,20202021
+Fri.,2021-01-15,7:07 ET,Northern Michigan,1,@,Bowling Green,5,,,nc,True,False,False,False,20202021
+Fri.,2021-01-15,7:07 ET,Minnesota State,3,@,Lake Superior,0,,,wc,True,False,False,False,20202021
+Sat.,2021-01-16,5:00 CT,Notre Dame,2,@,Minnesota,1,,,b10,True,False,False,False,20202021
+Sat.,2021-01-16,7:00 ET,Ohio State,0,@,Michigan,5,,,b10,True,False,False,False,20202021
+Sat.,2021-01-16,3:00 ET,Michigan State,1,@,Penn State,3,,,b10,True,False,False,False,20202021
+Sat.,2021-01-16,7:00 ET,Merrimack,1,@,Boston College,2,,,he,True,False,False,False,20202021
+Sat.,2021-01-16,7:00 ET,Merrimack,1,@,Boston College,2,,,he,True,False,False,False,20202021
+Sat.,2021-01-16,4:30 ET,Maine,2,@,Providence,3,,,he,True,False,False,False,20202021
+Sat.,2021-01-16,5:00 ET,Connecticut,8,@,New Hampshire,3,,,he,True,False,False,False,20202021
+Sat.,2021-01-16,7:30 ET,St. Cloud State,1,@,Western Michigan,3,,,nt,True,False,False,False,20202021
+Sat.,2021-01-16,7:05 ET,LIU,3,@,Army,2,OT,,nc,True,False,False,True,20202021
+Sat.,2021-01-16,7:00 CT,Arizona State,0,@,Wisconsin,4,,,nc,True,False,False,False,20202021
+Sat.,2021-01-16,4:07 ET,Trine,0,@,Ferris State,7,,,nc,True,False,False,False,20202021
+Sat.,2021-01-16,7:07 ET,Northern Michigan,2,@,Bowling Green,6,,,nc,True,False,False,False,20202021
+Sat.,2021-01-16,5:07 ET,Minnesota State,6,@,Lake Superior,2,,,wc,True,False,False,False,20202021
+Sun.,2021-01-17,1:05 ET,Holy Cross,0,@,aic,1,,,ah,True,False,False,False,20202021
+Sun.,2021-01-17,4:00 ET,Colgate,0,@,Quinnipiac,3,,,ec,True,False,False,False,20202021
+Sun.,2021-01-17,4:00 ET,Clarkson,2,@,St. Lawrence,1,,,ec,True,False,False,False,20202021
+Sun.,2021-01-17,4:00 ET,Boston College,5,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2021-01-17,4:00 ET,Boston College,5,@,Merrimack,3,,,he,True,False,False,False,20202021
+Sun.,2021-01-17,3:30 ET,Boston University,4,@,Massachusetts,2,,,he,True,False,False,False,20202021
+Sun.,2021-01-17,7:07 MT,North Dakota,1,@,Denver,4,,,nt,True,False,False,False,20202021
+Sun.,2021-01-17,6:30 CT,Arizona State,2,@,Wisconsin,5,,,nc,True,False,False,False,20202021
+Mon.,2021-01-18,3:00 ET,Massachusetts,3,@,Boston University,4,OT,,he,True,False,False,True,20202021
+Mon.,2021-01-18,7:07 MT,North Dakota,5,@,Denver,1,,,nt,True,False,False,False,20202021
+Mon.,2021-01-18,7:07 MT,Omaha,3,@,Colorado College,2,,,nt,True,False,False,False,20202021
+Tue.,2021-01-19,4:35 ET,Robert Morris,2,@,Mercyhurst,3,OT,,ah,True,False,False,True,20202021
+Tue.,2021-01-19,7:07 MT,Omaha,3,@,Colorado College,2,OT,,nt,True,False,False,True,20202021
+Thu.,2021-01-21,6:05 ET,Army,3,@,Holy Cross,2,,,ah,True,False,False,False,20202021
+Thu.,2021-01-21,6:00 ET,Wisconsin,4,@,Penn State,1,,,b10,True,False,False,False,20202021
+Thu.,2021-01-21,6:30 ET,Michigan,5,@,Notre Dame,1,,,b10,True,False,False,False,20202021
+Thu.,2021-01-21,5:00 ET,Colgate,4,@,St. Lawrence,3,OT,,ec,True,False,False,True,20202021
+Thu.,2021-01-21,7:00 CT,Arizona State,0,@,Minnesota,10,,,nc,True,False,False,False,20202021
+Thu.,2021-01-21,5:07 CT,Bowling Green,1,@,Bemidji State,2,,,nc,True,False,False,False,20202021
+Fri.,2021-01-22,6:05 ET,Army,4,@,Holy Cross,1,,,ah,True,False,False,False,20202021
+Fri.,2021-01-22,6:30 ET,Michigan,3,@,Notre Dame,1,,,b10,True,False,False,False,20202021
+Fri.,2021-01-22,6:00 ET,Wisconsin,4,@,Penn State,5,,,b10,True,False,False,False,20202021
+Fri.,2021-01-22,5:00 ET,Quinnipiac,1,@,Clarkson,1,OT,,ec,True,False,False,True,20202021
+Fri.,2021-01-22,7:00 ET,LIU,1,@,Liberty,2,,,ex,True,False,True,False,20202021
+Fri.,2021-01-22,7:00 ET,Merrimack,5,@,New Hampshire,2,,,he,True,False,False,False,20202021
+Fri.,2021-01-22,7:00 ET,Merrimack,5,@,New Hampshire,2,,,he,True,False,False,False,20202021
+Fri.,2021-01-22,3:00 ET,Providence,0,@,Massachusetts,0,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-22,3:30 ET,Maine,2,@,Boston University,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-22,4:00 ET,Connecticut,3,@,Boston College,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-01-22,7:37 CT,Miami,2,@,St. Cloud State,3,,,nt,True,False,False,False,20202021
+Fri.,2021-01-22,4:00 CT,Arizona State,2,@,Minnesota,10,,,nc,True,False,False,False,20202021
+Fri.,2021-01-22,2:07 CT,Bowling Green,1,@,Bemidji State,3,,,nc,True,False,False,False,20202021
+Sat.,2021-01-23,4:35 ET,Robert Morris,5,@,Mercyhurst,7,,,ah,True,False,False,False,20202021
+Sat.,2021-01-23,4:00 ET,Ohio State,5,@,Michigan State,1,,,b10,True,False,False,False,20202021
+Sat.,2021-01-23,6:00 ET,St. Lawrence,4,@,Colgate,3,,,ec,True,False,False,False,20202021
+Sat.,2021-01-23,4:00 ET,Quinnipiac,1,@,Clarkson,1,OT,,ec,True,False,False,True,20202021
+Sat.,2021-01-23,3:30 ET,LIU,4,@,Liberty,0,,,ex,True,False,True,False,20202021
+Sat.,2021-01-23,4:00 ET,New Hampshire,2,@,Merrimack,2,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-23,4:00 ET,New Hampshire,2,@,Merrimack,2,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-23,4:00 ET,Boston College,4,@,Connecticut,2,,,he,True,False,False,False,20202021
+Sat.,2021-01-23,1:00 ET,Maine,1,@,Boston University,5,,,he,True,False,False,False,20202021
+Sat.,2021-01-23,7:00 ET,Massachusetts,1,@,Providence,1,OT,,he,True,False,False,True,20202021
+Sat.,2021-01-23,6:07 CT,Miami,2,@,St. Cloud State,8,,,nt,True,False,False,False,20202021
+Sat.,2021-01-23,6:07 CT,Colorado College,1,@,North Dakota,4,,,nt,True,False,False,False,20202021
+Sat.,2021-01-23,6:07 CT,Western Michigan,1,@,Minnesota Duluth,5,,,nt,True,False,False,False,20202021
+Sat.,2021-01-23,6:07 CT,Denver,4,@,Omaha,1,,,nt,True,False,False,False,20202021
+Sat.,2021-01-23,4:07 ET,Northern Michigan,0,@,Michigan Tech,2,,,nc,True,False,False,False,20202021
+Sat.,2021-01-23,5:07 CT,Ferris State,0,@,Minnesota State,4,,,wc,True,False,False,False,20202021
+Sun.,2021-01-24,4:00 ET,Ohio State,0,@,Michigan State,2,,,b10,True,False,False,False,20202021
+Sun.,2021-01-24,4:00 ET,St. Lawrence,3,@,Colgate,4,,,ec,True,False,False,False,20202021
+Sun.,2021-01-24,4:00 ET,Quinnipiac,2,@,Clarkson,4,,,ec,True,False,False,False,20202021
+Sun.,2021-01-24,4:07 CT,Western Michigan,1,@,Minnesota Duluth,4,,,nt,True,False,False,False,20202021
+Sun.,2021-01-24,6:07 CT,Colorado College,0,@,North Dakota,5,,,nt,True,False,False,False,20202021
+Sun.,2021-01-24,6:07 CT,Denver,2,@,Omaha,5,,,nt,True,False,False,False,20202021
+Sun.,2021-01-24,3:07 CT,Ferris State,1,@,Minnesota State,4,,,wc,True,False,False,False,20202021
+Mon.,2021-01-25,5:07 ET,Michigan Tech,4,@,Northern Michigan,1,,,nc,True,False,False,False,20202021
+Tue.,2021-01-26,5:05 ET,Sacred Heart,2,@,aic,8,,,ah,True,False,False,False,20202021
+Tue.,2021-01-26,5:05 ET,Holy Cross,2,@,Bentley,5,,,ah,True,False,False,False,20202021
+Thu.,2021-01-28,5:05 ET,Mercyhurst,4,@,RIT,6,,,ah,True,False,False,False,20202021
+Thu.,2021-01-28,6:00 ET,Notre Dame,1,@,Penn State,2,OT,,b10,True,False,False,True,20202021
+Fri.,2021-01-29,5:05 ET,Sacred Heart,1,@,Army,2,,,ah,True,False,False,False,20202021
+Fri.,2021-01-29,5:00 ET,aic,6,@,Holy Cross,0,,,ah,True,False,False,False,20202021
+Fri.,2021-01-29,6:00 ET,Minnesota,5,@,Ohio State,1,,,b10,True,False,False,False,20202021
+Fri.,2021-01-29,7:00 CT,Michigan State,0,@,Wisconsin,6,,,b10,True,False,False,False,20202021
+Fri.,2021-01-29,6:00 ET,Notre Dame,3,@,Penn State,2,OT,,b10,True,False,False,True,20202021
+Fri.,2021-01-29,3:00 ET,Connecticut,6,@,Merrimack,1,,,he,True,False,False,False,20202021
+Fri.,2021-01-29,3:00 ET,Connecticut,6,@,Merrimack,1,,,he,True,False,False,False,20202021
+Fri.,2021-01-29,8:00 ET,UMass Lowell,0,@,Massachusetts,5,,,he,True,False,False,False,20202021
+Fri.,2021-01-29,7:00 ET,Providence,5,@,New Hampshire,1,,,he,True,False,False,False,20202021
+Fri.,2021-01-29,7:05 ET,Minnesota Duluth,2,@,Miami,1,,,nt,True,False,False,False,20202021
+Fri.,2021-01-29,7:07 CT,North Dakota,6,@,Omaha,2,,,nt,True,False,False,False,20202021
+Fri.,2021-01-29,4:07 CT,Minnesota State,1,@,Bemidji State,4,,,nc,True,False,False,False,20202021
+Fri.,2021-01-29,7:07 ET,Ferris State,4,@,Northern Michigan,5,,,wc,True,False,False,False,20202021
+Fri.,2021-01-29,7:07 ET,Michigan Tech,3,@,Bowling Green,6,,,wc,True,False,False,False,20202021
+Sat.,2021-01-30,2:05 ET,Holy Cross,0,@,aic,3,,,ah,True,False,False,False,20202021
+Sat.,2021-01-30,7:35 ET,Mercyhurst,3,@,Robert Morris,5,,,ah,True,False,False,False,20202021
+Sat.,2021-01-30,6:05 ET,Army,2,@,Sacred Heart,2,OT,,ah,True,False,False,True,20202021
+Sat.,2021-01-30,5:05 ET,Canisius,2,@,RIT,3,,,ah,True,False,False,False,20202021
+Sat.,2021-01-30,5:00 ET,Minnesota,5,@,Ohio State,2,,,b10,True,False,False,False,20202021
+Sat.,2021-01-30,3:00 CT,Michigan State,1,@,Wisconsin,4,,,b10,True,False,False,False,20202021
+Sat.,2021-01-30,3:00 ET,Merrimack,2,@,Connecticut,6,,,he,True,False,False,False,20202021
+Sat.,2021-01-30,3:00 ET,Merrimack,2,@,Connecticut,6,,,he,True,False,False,False,20202021
+Sat.,2021-01-30,7:00 ET,Massachusetts,2,@,UMass Lowell,1,,,he,True,False,False,False,20202021
+Sat.,2021-01-30,6:07 CT,North Dakota,4,@,Omaha,5,,,nt,True,False,False,False,20202021
+Sat.,2021-01-30,5:05 ET,Minnesota Duluth,6,@,Miami,3,,,nt,True,False,False,False,20202021
+Sat.,2021-01-30,6:07 ET,Ferris State,3,@,Northern Michigan,5,,,wc,True,False,False,False,20202021
+Sat.,2021-01-30,7:07 ET,Michigan Tech,2,@,Bowling Green,5,,,wc,True,False,False,False,20202021
+Sun.,2021-01-31,5:05 ET,Air Force,3,@,Bentley,6,,,ah,True,False,False,False,20202021
+Sun.,2021-01-31,3:30 ET,New Hampshire,2,@,Providence,3,,,he,True,False,False,False,20202021
+Mon.,2021-02-01,3:05 ET,Air Force,4,@,Bentley,3,OT,,ah,True,False,False,True,20202021
+Tue.,2021-02-02,7:00 ET,Boston College,6,@,Northeastern,2,,,he,True,False,False,False,20202021
+Tue.,2021-02-02,7:07 ET,Michigan Tech,6,@,Ferris State,4,,,wc,True,False,False,False,20202021
+Thu.,2021-02-04,5:05 ET,Sacred Heart,4,@,Bentley,0,,,ah,True,False,False,False,20202021
+Thu.,2021-02-04,5:00 ET,Colgate,2,@,Clarkson,0,,,ec,True,False,False,False,20202021
+Thu.,2021-02-04,7:00 MT,US Under-18 Team,6,@,Arizona State,3,,,ex,True,False,True,False,20202021
+Thu.,2021-02-04,7:05 ET,LIU,1,@,Robert Morris,4,,,nc,True,False,False,False,20202021
+Fri.,2021-02-05,5:05 ET,Bentley,2,@,Sacred Heart,4,,,ah,True,False,False,False,20202021
+Fri.,2021-02-05,5:05 ET,Mercyhurst,1,@,RIT,2,,,ah,True,False,False,False,20202021
+Fri.,2021-02-05,4:30 ET,Notre Dame,6,@,Ohio State,1,,,b10,True,False,False,False,20202021
+Fri.,2021-02-05,7:00 CT,Wisconsin,4,@,Minnesota,1,,,b10,True,False,False,False,20202021
+Fri.,2021-02-05,4:00 ET,St. Lawrence,1,@,Quinnipiac,4,,,ec,True,False,False,False,20202021
+Fri.,2021-02-05,7:00 MT,US Under-18 Team,1,@,Arizona State,2,,,ex,True,False,True,False,20202021
+Fri.,2021-02-05,7:00 ET,Boston University,3,@,Boston College,4,OT,,he,True,False,False,True,20202021
+Fri.,2021-02-05,5:00 ET,Connecticut,4,@,Northeastern,1,,,he,True,False,False,False,20202021
+Fri.,2021-02-05,6:00 ET,New Hampshire,2,@,UMass Lowell,1,,,he,True,False,False,False,20202021
+Fri.,2021-02-05,7:07 MT,Omaha,1,@,Denver,3,,,nt,True,False,False,False,20202021
+Fri.,2021-02-05,6:07 CT,Miami,1,@,Minnesota Duluth,8,,,nt,True,False,False,False,20202021
+Fri.,2021-02-05,7:37 CT,Western Michigan,1,@,St. Cloud State,5,,,nt,True,False,False,False,20202021
+Fri.,2021-02-05,3:05 ET,LIU,0,@,Robert Morris,4,,,nc,True,False,False,False,20202021
+Fri.,2021-02-05,7:07 CT,Michigan Tech,3,@,uah,1,,,nc,True,False,False,False,20202021
+Fri.,2021-02-05,7:07 ET,Bemidji State,3,@,Ferris State,3,OT,,wc,True,False,False,True,20202021
+Fri.,2021-02-05,7:07 CT,Bowling Green,0,@,Minnesota State,4,,,wc,True,False,False,False,20202021
+Sat.,2021-02-06,5:05 ET,RIT,2,@,Mercyhurst,6,,,ah,True,False,False,False,20202021
+Sat.,2021-02-06,1:30 ET,Notre Dame,8,@,Ohio State,1,,,b10,True,False,False,False,20202021
+Sat.,2021-02-06,7:00 CT,Wisconsin,8,@,Minnesota,1,,,b10,True,False,False,False,20202021
+Sat.,2021-02-06,4:00 ET,Clarkson,1,@,Colgate,1,OT,,ec,True,False,False,True,20202021
+Sat.,2021-02-06,4:00 ET,St. Lawrence,1,@,Quinnipiac,2,,,ec,True,False,False,False,20202021
+Sat.,2021-02-06,2:00 ET,Providence,5,@,Merrimack,1,,,he,True,False,False,False,20202021
+Sat.,2021-02-06,5:00 ET,UMass Lowell,6,@,New Hampshire,7,OT,,he,True,False,False,True,20202021
+Sat.,2021-02-06,7:00 ET,Boston College,1,@,Boston University,3,,,he,True,False,False,False,20202021
+Sat.,2021-02-06,2:00 ET,Providence,5,@,Merrimack,1,,,he,True,False,False,False,20202021
+Sat.,2021-02-06,6:07 CT,Western Michigan,5,@,St. Cloud State,4,OT,,nt,True,False,False,True,20202021
+Sat.,2021-02-06,4:07 CT,Miami,1,@,Minnesota Duluth,3,,,nt,True,False,False,False,20202021
+Sat.,2021-02-06,6:07 MT,Omaha,5,@,Denver,4,OT,,nt,True,False,False,True,20202021
+Sat.,2021-02-06,5:07 CT,Michigan Tech,4,@,uah,1,,,nc,True,False,False,False,20202021
+Sat.,2021-02-06,7:07 ET,Bemidji State,7,@,Ferris State,2,,,wc,True,False,False,False,20202021
+Sat.,2021-02-06,6:07 CT,Bowling Green,1,@,Minnesota State,5,,,wc,True,False,False,False,20202021
+Sat.,2021-02-06,5:07 ET,Northern Michigan,4,@,Lake Superior,5,OT,,wc,True,False,False,True,20202021
+Sun.,2021-02-07,2:00 ET,Merrimack,3,@,Providence,2,,,he,True,False,False,False,20202021
+Sun.,2021-02-07,2:00 ET,Merrimack,3,@,Providence,2,,,he,True,False,False,False,20202021
+Sun.,2021-02-07,3:07 ET,Northern Michigan,4,@,Lake Superior,3,OT,,wc,True,False,False,True,20202021
+Mon.,2021-02-08,7:05 ET,Army,3,@,Sacred Heart,1,,,ah,True,False,False,False,20202021
+Tue.,2021-02-09,7:00 ET,Canisius,3,@,Mercyhurst,1,,,ah,True,False,False,False,20202021
+Tue.,2021-02-09,5:05 ET,Sacred Heart,1,@,Army,2,OT,,ah,True,False,False,True,20202021
+Tue.,2021-02-09,5:00 ET,Connecticut,2,@,UMass Lowell,3,OT,,he,True,False,False,True,20202021
+Tue.,2021-02-09,4:07 ET,Michigan Tech,2,@,Ferris State,1,,,wc,True,False,False,False,20202021
+Thu.,2021-02-11,7:07 CT,Minnesota State,4,@,uah,1,,,wc,True,False,False,False,20202021
+Fri.,2021-02-12,7:05 ET,RIT,3,@,Canisius,5,,,ah,True,False,False,False,20202021
+Fri.,2021-02-12,5:05 ET,Army,3,@,Bentley,2,OT,,ah,True,False,False,True,20202021
+Fri.,2021-02-12,7:30 ET,Minnesota,3,@,Notre Dame,0,,,b10,True,False,False,False,20202021
+Fri.,2021-02-12,5:00 ET,Quinnipiac,2,@,Colgate,2,OT,,ec,True,False,False,True,20202021
+Fri.,2021-02-12,7:00 ET,Northeastern,6,@,New Hampshire,2,,,he,True,False,False,False,20202021
+Fri.,2021-02-12,7:00 ET,UMass Lowell,1,@,Boston College,7,,,he,True,False,False,False,20202021
+Fri.,2021-02-12,4:30 ET,Connecticut,0,@,Providence,4,,,he,True,False,False,False,20202021
+Fri.,2021-02-12,6:00 ET,Boston University,1,@,Vermont,0,,,he,True,False,False,False,20202021
+Fri.,2021-02-12,7:37 CT,Denver,0,@,North Dakota,3,,,nt,True,False,False,False,20202021
+Fri.,2021-02-12,7:07 CT,Colorado College,1,@,Omaha,7,,,nt,True,False,False,False,20202021
+Fri.,2021-02-12,6:05 ET,Minnesota Duluth,0,@,Western Michigan,4,,,nt,True,False,False,False,20202021
+Fri.,2021-02-12,7:05 ET,St. Cloud State,2,@,Miami,3,,,nt,True,False,False,False,20202021
+Fri.,2021-02-12,7:07 ET,Ferris State,0,@,Michigan Tech,3,,,nc,True,False,False,False,20202021
+Fri.,2021-02-12,7:07 ET,Lake Superior,2,@,Bowling Green,1,OT,,wc,True,False,False,True,20202021
+Fri.,2021-02-12,7:07 CT,Minnesota State,5,@,uah,0,,,wc,True,False,False,False,20202021
+Fri.,2021-02-12,7:07 CT,Northern Michigan,5,@,Bemidji State,1,,,wc,True,False,False,False,20202021
+Sat.,2021-02-13,7:05 ET,Bentley,1,@,Army,5,,,ah,True,False,False,False,20202021
+Sat.,2021-02-13,7:05 ET,RIT,0,@,Canisius,3,,,ah,True,False,False,False,20202021
+Sat.,2021-02-13,2:00 ET,Wisconsin,1,@,Michigan,5,,,b10,True,False,False,False,20202021
+Sat.,2021-02-13,5:30 ET,Minnesota,3,@,Notre Dame,0,,,b10,True,False,False,False,20202021
+Sat.,2021-02-13,4:00 ET,Quinnipiac,9,@,Colgate,0,,,ec,True,False,False,False,20202021
+Sat.,2021-02-13,6:00 ET,New Hampshire,4,@,Northeastern,5,,,he,True,False,False,False,20202021
+Sat.,2021-02-13,6:00 ET,Boston University,5,@,Vermont,1,,,he,True,False,False,False,20202021
+Sat.,2021-02-13,6:00 ET,Boston College,4,@,UMass Lowell,3,,,he,True,False,False,False,20202021
+Sat.,2021-02-13,6:07 CT,Denver,2,@,North Dakota,5,,,nt,True,False,False,False,20202021
+Sat.,2021-02-13,6:07 CT,Colorado College,2,@,Omaha,3,,,nt,True,False,False,False,20202021
+Sat.,2021-02-13,5:05 ET,St. Cloud State,4,@,Miami,2,,,nt,True,False,False,False,20202021
+Sat.,2021-02-13,4:05 ET,Minnesota Duluth,1,@,Western Michigan,4,,,nt,True,False,False,False,20202021
+Sat.,2021-02-13,7:30 ET,St. Lawrence,2,@,Sacred Heart,2,OT,,nc,True,False,False,True,20202021
+Sat.,2021-02-13,6:07 ET,Ferris State,1,@,Michigan Tech,5,,,nc,True,False,False,False,20202021
+Sat.,2021-02-13,7:07 ET,Lake Superior,5,@,Bowling Green,2,,,wc,True,False,False,False,20202021
+Sat.,2021-02-13,6:07 CT,Northern Michigan,3,@,Bemidji State,2,OT,,wc,True,False,False,True,20202021
+Sun.,2021-02-14,5:00 ET,Wisconsin,3,@,Michigan,2,,,b10,True,False,False,False,20202021
+Sun.,2021-02-14,3:00 ET,Arizona State,3,@,Michigan State,2,,,nc,True,False,False,False,20202021
+Mon.,2021-02-15,5:00 ET,Arizona State,1,@,Michigan State,2,,,nc,True,False,False,False,20202021
+Tue.,2021-02-16,5:05 ET,Bentley,5,@,Sacred Heart,4,OT,,ah,True,False,False,True,20202021
+Tue.,2021-02-16,7:00 ET,Mercyhurst,4,@,Canisius,5,OT,,ah,True,False,False,True,20202021
+Tue.,2021-02-16,4:37 ET,uah,3,@,Northern Michigan,1,,,wc,True,False,False,False,20202021
+Tue.,2021-02-16,2:07 ET,Lake Superior,3,@,Michigan Tech,1,,,wc,True,False,False,False,20202021
+Wed.,2021-02-17,7:07 ET,uah,2,@,Northern Michigan,8,,,wc,True,False,False,False,20202021
+Thu.,2021-02-18,6:00 CT,Colorado College,2,@,Minnesota Duluth,1,,,nt,True,False,False,False,20202021
+Fri.,2021-02-19,7:05 ET,Niagara,0,@,Mercyhurst,1,,,ah,True,False,False,False,20202021
+Fri.,2021-02-19,7:05 MT,Canisius,3,@,Air Force,4,OT,,ah,True,False,False,True,20202021
+Fri.,2021-02-19,7:35 ET,Holy Cross,1,@,Sacred Heart,2,,,ah,True,False,False,False,20202021
+Fri.,2021-02-19,7:00 CT,Notre Dame,2,@,Wisconsin,4,,,b10,True,False,False,False,20202021
+Fri.,2021-02-19,7:00 CT,Michigan State,2,@,Minnesota,4,,,b10,True,False,False,False,20202021
+Fri.,2021-02-19,5:30 ET,Michigan,2,@,Ohio State,3,,,b10,True,False,False,False,20202021
+Fri.,2021-02-19,4:00 ET,Merrimack,3,@,New Hampshire,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-02-19,4:00 ET,Merrimack,3,@,New Hampshire,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-02-19,7:00 ET,UMass Lowell,4,@,Northeastern,1,,,he,True,False,False,False,20202021
+Fri.,2021-02-19,7:00 ET,Maine,2,@,Boston College,4,,,he,True,False,False,False,20202021
+Fri.,2021-02-19,7:37 CT,Omaha,1,@,North Dakota,4,,,nt,True,False,False,False,20202021
+Fri.,2021-02-19,7:07 ET,Minnesota State,5,@,Ferris State,4,OT,,nc,True,False,False,True,20202021
+Fri.,2021-02-19,7:07 ET,uah,1,@,Lake Superior,2,,,wc,True,False,False,False,20202021
+Fri.,2021-02-19,7:07 ET,Bemidji State,4,@,Michigan Tech,1,,,wc,True,False,False,False,20202021
+Sat.,2021-02-20,7:05 ET,Mercyhurst,1,@,Niagara,2,,,ah,True,False,False,False,20202021
+Sat.,2021-02-20,5:05 MT,Canisius,1,@,Air Force,5,,,ah,True,False,False,False,20202021
+Sat.,2021-02-20,7:05 ET,Bentley,1,@,Army,2,OT,,ah,True,False,False,True,20202021
+Sat.,2021-02-20,7:05 ET,Robert Morris,1,@,RIT,6,,,ah,True,False,False,False,20202021
+Sat.,2021-02-20,4:05 ET,Holy Cross,3,@,Sacred Heart,5,,,ah,True,False,False,False,20202021
+Sat.,2021-02-20,4:00 CT,Notre Dame,5,@,Wisconsin,5,OT,,b10,True,False,False,True,20202021
+Sat.,2021-02-20,5:00 CT,Michigan State,1,@,Minnesota,5,,,b10,True,False,False,False,20202021
+Sat.,2021-02-20,5:30 ET,Michigan,6,@,Ohio State,0,,,b10,True,False,False,False,20202021
+Sat.,2021-02-20,4:00 ET,New Hampshire,2,@,Merrimack,6,,,he,True,False,False,False,20202021
+Sat.,2021-02-20,4:00 ET,New Hampshire,2,@,Merrimack,6,,,he,True,False,False,False,20202021
+Sat.,2021-02-20,4:00 ET,Boston University,3,@,Connecticut,2,OT,,he,True,False,False,True,20202021
+Sat.,2021-02-20,6:00 ET,Northeastern,4,@,UMass Lowell,0,,,he,True,False,False,False,20202021
+Sat.,2021-02-20,5:00 ET,Maine,0,@,Boston College,3,,,he,True,False,False,False,20202021
+Sat.,2021-02-20,12:00 CT,Colorado College,0,@,St. Cloud State,4,,,nt,True,False,False,False,20202021
+Sat.,2021-02-20,6:07 CT,Omaha,1,@,North Dakota,7,,,nt,True,False,False,False,20202021
+Sat.,2021-02-20,7:07 ET,Minnesota State,5,@,Ferris State,1,,,nc,True,False,False,False,20202021
+Sat.,2021-02-20,6:07 ET,Bowling Green,0,@,Northern Michigan,0,OT,,wc,True,False,False,True,20202021
+Sat.,2021-02-20,6:07 ET,Bemidji State,2,@,Michigan Tech,1,,,wc,True,False,False,False,20202021
+Sat.,2021-02-20,5:07 ET,uah,1,@,Lake Superior,4,,,wc,True,False,False,False,20202021
+Sun.,2021-02-21,5:05 ET,Robert Morris,3,@,RIT,4,,,ah,True,False,False,False,20202021
+Sun.,2021-02-21,4:07 ET,Bowling Green,6,@,Northern Michigan,2,,,wc,True,False,False,False,20202021
+Mon.,2021-02-22,6:00 ET,LIU,1,@,Quinnipiac,7,,,nc,True,False,False,False,20202021
+Tue.,2021-02-23,7:00 ET,Massachusetts,8,@,Providence,1,,,he,True,False,False,False,20202021
+Tue.,2021-02-23,2:07 ET,Lake Superior,1,@,Michigan Tech,4,,,wc,True,False,False,False,20202021
+Wed.,2021-02-24,7:07 ET,uah,0,@,Bowling Green,5,,,wc,True,False,False,False,20202021
+Thu.,2021-02-25,7:07 MT,Denver,5,@,Colorado College,1,,,nt,True,False,False,False,20202021
+Thu.,2021-02-25,7:07 CT,Bemidji State,3,@,Minnesota State,4,OT,,wc,True,False,False,True,20202021
+Fri.,2021-02-26,7:35 ET,Canisius,5,@,Niagara,1,,,ah,True,False,False,False,20202021
+Fri.,2021-02-26,7:00 CT,Ohio State,1,@,Wisconsin,2,OT,,b10,True,False,False,True,20202021
+Fri.,2021-02-26,6:00 ET,Notre Dame,2,@,Michigan State,0,,,b10,True,False,False,False,20202021
+Fri.,2021-02-26,5:00 ET,Clarkson,3,@,Colgate,2,,,ec,True,False,False,False,20202021
+Fri.,2021-02-26,4:00 ET,Quinnipiac,4,@,St. Lawrence,2,,,ec,True,False,False,False,20202021
+Fri.,2021-02-26,4:00 ET,Merrimack,5,@,Boston University,2,,,he,True,False,False,False,20202021
+Fri.,2021-02-26,7:00 ET,Massachusetts,3,@,Boston College,2,OT,,he,True,False,False,True,20202021
+Fri.,2021-02-26,4:00 ET,Merrimack,5,@,Boston University,2,,,he,True,False,False,False,20202021
+Fri.,2021-02-26,7:00 ET,UMass Lowell,3,@,Vermont,1,,,he,True,False,False,False,20202021
+Fri.,2021-02-26,4:00 ET,Maine,6,@,Connecticut,4,,,he,True,False,False,False,20202021
+Fri.,2021-02-26,6:05 ET,Miami,2,@,Western Michigan,5,,,nt,True,False,False,False,20202021
+Fri.,2021-02-26,7:07 CT,North Dakota,4,@,Omaha,2,,,nt,True,False,False,False,20202021
+Fri.,2021-02-26,5:05 ET,LIU,0,@,Army,5,,,nc,True,False,False,False,20202021
+Fri.,2021-02-26,7:00 ET,Arizona State,1,@,Michigan,4,,,nc,True,False,False,False,20202021
+Fri.,2021-02-26,7:07 ET,Lake Superior,4,@,Ferris State,2,,,wc,True,False,False,False,20202021
+Fri.,2021-02-26,7:07 ET,Northern Michigan,1,@,Michigan Tech,6,,,wc,True,False,False,False,20202021
+Sat.,2021-02-27,7:00 ET,Niagara,4,@,Canisius,0,,,ah,True,False,False,False,20202021
+Sat.,2021-02-27,4:00 CT,Ohio State,0,@,Wisconsin,7,,,b10,True,False,False,False,20202021
+Sat.,2021-02-27,3:00 ET,Notre Dame,2,@,Michigan State,0,,,b10,True,False,False,False,20202021
+Sat.,2021-02-27,4:00 ET,Quinnipiac,3,@,St. Lawrence,2,,,ec,True,False,False,False,20202021
+Sat.,2021-02-27,4:00 ET,Boston University,4,@,Merrimack,2,,,he,True,False,False,False,20202021
+Sat.,2021-02-27,7:00 ET,UMass Lowell,3,@,Vermont,2,,,he,True,False,False,False,20202021
+Sat.,2021-02-27,4:00 ET,Maine,2,@,Connecticut,4,,,he,True,False,False,False,20202021
+Sat.,2021-02-27,4:00 ET,Boston University,4,@,Merrimack,2,,,he,True,False,False,False,20202021
+Sat.,2021-02-27,4:30 ET,Providence,4,@,Northeastern,2,,,he,True,False,False,False,20202021
+Sat.,2021-02-27,7:07 CT,St. Cloud State,1,@,Minnesota Duluth,5,,,nt,True,False,False,False,20202021
+Sat.,2021-02-27,7:07 MT,Colorado College,0,@,Denver,4,,,nt,True,False,False,False,20202021
+Sat.,2021-02-27,7:05 ET,LIU,3,@,Army,6,,,nc,True,False,False,False,20202021
+Sat.,2021-02-27,7:00 ET,Arizona State,1,@,Michigan,1,OT,,nc,True,False,False,True,20202021
+Sat.,2021-02-27,6:07 CT,Minnesota State,3,@,Bemidji State,4,OT,,wc,True,False,False,True,20202021
+Sat.,2021-02-27,6:07 ET,Michigan Tech,3,@,Northern Michigan,2,OT,,wc,True,False,False,True,20202021
+Sun.,2021-02-28,4:00 ET,Colgate,2,@,Clarkson,3,,,ec,True,False,False,False,20202021
+Sun.,2021-02-28,7:00 ET,Northeastern,3,@,Providence,3,OT,,he,True,False,False,True,20202021
+Sun.,2021-02-28,2:05 ET,Western Michigan,4,@,Miami,2,,,nt,True,False,False,False,20202021
+Sun.,2021-02-28,3:07 CT,Bowling Green,4,@,uah,2,,,wc,True,False,False,False,20202021
+Tue.,2021-03-02,6:07 CT,Lake Superior,1,@,Bemidji State,2,OT,,wc,True,False,False,True,20202021
+Wed.,2021-03-03,4:07 CT,Lake Superior,5,@,Bemidji State,2,,,wc,True,False,False,False,20202021
+Thu.,2021-03-04,5:30 ET,Arizona State,3,@,Ohio State,8,,,nc,True,False,False,False,20202021
+Fri.,2021-03-05,7:00 CT,Michigan,5,@,Minnesota,2,,,b10,True,False,False,False,20202021
+Fri.,2021-03-05,7:30 ET,Penn State,2,@,Notre Dame,5,,,b10,True,False,False,False,20202021
+Fri.,2021-03-05,4:00 ET,Wisconsin,4,@,Michigan State,0,,,b10,True,False,False,False,20202021
+Fri.,2021-03-05,6:00 ET,Colgate,2,@,Quinnipiac,4,,,ec,True,False,False,False,20202021
+Fri.,2021-03-05,5:00 ET,Providence,3,@,Connecticut,5,,,he,True,False,False,False,20202021
+Fri.,2021-03-05,5:00 ET,Northeastern,2,@,Boston College,4,,,he,True,False,False,False,20202021
+Fri.,2021-03-05,2:30 ET,Maine,3,@,Massachusetts,3,OT,,he,True,False,False,True,20202021
+Fri.,2021-03-05,7:37 CT,Omaha,3,@,North Dakota,2,OT,,nt,True,False,False,True,20202021
+Fri.,2021-03-05,5:30 ET,Arizona State,5,@,Ohio State,0,,,nc,True,False,False,False,20202021
+Fri.,2021-03-05,7:07 CT,Michigan Tech,1,@,Minnesota State,2,,,wc,True,False,False,False,20202021
+Sat.,2021-03-06,2:30 ET,Wisconsin,2,@,Michigan State,1,,,b10,True,False,False,False,20202021
+Sat.,2021-03-06,4:00 CT,Michigan,2,@,Minnesota,4,,,b10,True,False,False,False,20202021
+Sat.,2021-03-06,5:30 ET,Penn State,1,@,Notre Dame,7,,,b10,True,False,False,False,20202021
+Sat.,2021-03-06,4:00 ET,Colgate,4,@,Quinnipiac,3,,,ec,True,False,False,False,20202021
+Sat.,2021-03-06,3:00 ET,Boston University,3,@,UMass Lowell,3,OT,,he,True,False,False,True,20202021
+Sat.,2021-03-06,1:07 CT,Minnesota Duluth,3,@,St. Cloud State,4,OT,,nt,True,False,False,True,20202021
+Sat.,2021-03-06,3:07 ET,Ferris State,1,@,Lake Superior,2,,,wc,True,False,False,False,20202021
+Sat.,2021-03-06,6:07 CT,Michigan Tech,2,@,Minnesota State,3,,,wc,True,False,False,False,20202021
+Sat.,2021-03-06,4:07 CT,uah,0,@,Bemidji State,2,,,wc,True,False,False,False,20202021
+Sun.,2021-03-07,2:07 CT,uah,0,@,Bemidji State,4,,,wc,True,False,False,False,20202021
+Mon.,2021-03-08,5:05 ET,Niagara,3,@,Mercyhurst,2,,,nc,True,False,False,False,20202021
+Tue.,2021-03-09,5:05 ET,Air Force,3,@,Bentley,7,,,nc,True,False,False,False,20202021
+Wed.,2021-03-10,4:30 ET,New Hampshire,7,@,Maine,2,,,nc,True,False,False,False,20202021
+Wed.,2021-03-10,3:00 ET,Vermont,3,@,UMass Lowell,5,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,5:05 ET,Sacred Heart,0,@,Army,4,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,7:05 ET,Niagara,2,@,Robert Morris,3,OT,,nc,True,False,False,True,20202021
+Fri.,2021-03-12,7:05 ET,RIT,2,@,Canisius,5,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,2:37 CT,Colorado College,1,vs,St. Cloud State,2,,,nc,True,True,False,False,20202021
+Fri.,2021-03-12,7:37 CT,Miami,2,@,North Dakota,6,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,7:07 CT,Michigan Tech,1,@,Bemidji State,3,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,6:07 CT,Ferris State,0,@,Minnesota State,3,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,7:07 ET,uah,1,@,Lake Superior,6,,,nc,True,False,False,False,20202021
+Fri.,2021-03-12,7:07 ET,Northern Michigan,4,@,Bowling Green,3,,,nc,True,False,False,False,20202021
+Sat.,2021-03-13,7:05 ET,RIT,2,@,Canisius,6,,,nc,True,False,False,False,20202021
+Sat.,2021-03-13,5:05 ET,Sacred Heart,3,@,Army,4,3OT,,nc,True,False,False,True,20202021
+Sat.,2021-03-13,7:05 ET,Niagara,3,@,Robert Morris,2,2OT,,nc,True,False,False,True,20202021
+Sat.,2021-03-13,2:37 CT,Denver,5,vs,Omaha,4,,,nc,True,True,False,False,20202021
+Sat.,2021-03-13,7:37 CT,Western Michigan,4,vs,Minnesota Duluth,5,OT,,nc,True,True,False,True,20202021
+Sat.,2021-03-13,6:07 CT,Michigan Tech,1,@,Bemidji State,4,,,nc,True,False,False,False,20202021
+Sat.,2021-03-13,4:07 CT,Ferris State,1,@,Minnesota State,3,,,nc,True,False,False,False,20202021
+Sat.,2021-03-13,5:07 ET,uah,1,@,Lake Superior,4,,,nc,True,False,False,False,20202021
+Sat.,2021-03-13,7:07 ET,Northern Michigan,0,@,Bowling Green,5,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,7:05 ET,Niagara,2,@,Robert Morris,1,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,8:30 ET,Ohio State,0,vs,Michigan,4,,,nc,True,True,False,False,20202021
+Sun.,2021-03-14,4:00 ET,Michigan State,1,vs,Minnesota,2,OT,,nc,True,True,False,True,20202021
+Sun.,2021-03-14,12:00 ET,Penn State,6,@,Notre Dame,3,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,4:30 ET,Northeastern,1,@,Massachusetts,4,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,4:30 ET,New Hampshire,2,@,Boston College,3,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,3:30 ET,Providence,6,@,Connecticut,1,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,1:00 ET,UMass Lowell,2,@,Boston University,1,,,nc,True,False,False,False,20202021
+Sun.,2021-03-14,5:07 ET,Northern Michigan,5,@,Bowling Green,1,,,nc,True,False,False,False,20202021
+Mon.,2021-03-15,8:30 ET,Michigan,2,vs,Minnesota,3,OT,,nc,True,True,False,True,20202021
+Mon.,2021-03-15,4:30 ET,Wisconsin,4,vs,Penn State,3,OT,,nc,True,True,False,True,20202021
+Mon.,2021-03-15,8:07 CT,Denver,1,@,North Dakota,2,OT,,nc,True,False,False,True,20202021
+Mon.,2021-03-15,3:07 CT,Minnesota Duluth,2,vs,St. Cloud State,3,,,nc,True,True,False,False,20202021
+Tue.,2021-03-16,8:00 ET,Minnesota,6,vs,Wisconsin,4,,,nc,True,True,False,False,20202021
+Tue.,2021-03-16,7:37 CT,St. Cloud State,3,@,North Dakota,5,,,nc,True,False,False,False,20202021
+Wed.,2021-03-17,4:30 ET,UMass Lowell,6,@,Boston College,5,2OT,,nc,True,False,False,True,20202021
+Wed.,2021-03-17,7:00 ET,Providence,2,@,Massachusetts,5,,,nc,True,False,False,False,20202021
+Thu.,2021-03-18,5:00 ET,Colgate,4,@,St. Lawrence,5,OT,,nc,True,False,False,True,20202021
+Fri.,2021-03-19,7:00 ET,Army,3,vs,Canisius,4,OT,,nc,True,True,False,True,20202021
+Fri.,2021-03-19,2:05 ET,Niagara,1,@,aic,2,,,nc,True,False,False,False,20202021
+Fri.,2021-03-19,2:07 CT,Northern Michigan,5,@,Minnesota State,1,,,nc,True,False,False,False,20202021
+Fri.,2021-03-19,7:37 CT,Bemidji State,1,vs,Lake Superior,4,,,nc,True,True,False,False,20202021
+Sat.,2021-03-20,7:05 ET,Canisius,2,@,aic,5,,,nc,True,False,False,False,20202021
+Sat.,2021-03-20,4:00 ET,St. Lawrence,3,@,Quinnipiac,2,OT,,nc,True,False,False,True,20202021
+Sat.,2021-03-20,7:00 ET,UMass Lowell,0,@,Massachusetts,1,,,nc,True,False,False,False,20202021
+Sat.,2021-03-20,7:07 CT,Lake Superior,6,vs,Northern Michigan,3,,,nc,True,True,False,False,20202021
+Fri.,2021-03-26,1:00 ET,Bemidji State,6,vs,Wisconsin,3,,,nc,True,True,False,False,20202021
+Fri.,2021-03-26,6:30 ET,Lake Superior,1,vs,Massachusetts,5,,,nc,True,True,False,False,20202021
+Fri.,2021-03-26,7:30 CT,aic,1,vs,North Dakota,5,,,nc,True,True,False,False,20202021
+Sat.,2021-03-27,5:00 ET,Bemidji State,0,vs,Massachusetts,4,,,nc,True,True,False,False,20202021
+Sat.,2021-03-27,5:30 CT,Minnesota Duluth,3,vs,North Dakota,2,5OT,,nc,True,True,False,True,20202021
+Sat.,2021-03-27,1:00 ET,Boston University,2,vs,St. Cloud State,6,,,nc,True,True,False,False,20202021
+Sat.,2021-03-27,8:00 MT,Omaha,2,vs,Minnesota,7,,,nc,True,True,False,False,20202021
+Sat.,2021-03-27,3:00 MT,Quinnipiac,3,vs,Minnesota State,4,OT,,nc,True,True,False,True,20202021
+Sun.,2021-03-28,5:30 ET,St. Cloud State,4,vs,Boston College,1,,,nc,True,True,False,False,20202021
+Sun.,2021-03-28,6:00 MT,Minnesota State,4,vs,Minnesota,0,,,nc,True,True,False,False,20202021
+Thu.,2021-04-08,9:00 ET,Minnesota Duluth,2,vs,Massachusetts,3,OT,,nc,True,True,False,True,20202021
+Thu.,2021-04-08,5:00 ET,St. Cloud State,5,vs,Minnesota State,4,,,nc,True,True,False,False,20202021
+Sat.,2021-04-10,7:00 ET,St. Cloud State,0,vs,Massachusetts,5,,,nc,True,True,False,False,20202021

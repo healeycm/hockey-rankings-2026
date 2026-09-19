@@ -1,0 +1,531 @@
+season,away_team,home_team,away_goals,home_goals,away_shots,home_shots,away_xg,home_xg,url,away_eng,home_eng,away_ev_goals,home_ev_goals
+20252026,Clarkson,Canisius,1.0,3.0,32.0,32.0,2.4,1.9,https://www.collegehockeynews.com/box/final/20251003/clk/cns/,0.0,1.0,1,1
+20252026,Connecticut,Colorado College,2.0,4.0,29.0,38.0,3.1,3.6,https://www.collegehockeynews.com/box/final/20251003/con/cc_/,0.0,1.0,2,2
+20252026,Bemidji State,Alaska-Anchorage,9.0,2.0,31.0,29.0,2.2,2.0,https://www.collegehockeynews.com/box/final/20251003/bmj/aka/,0.0,0.0,8,2
+20252026,Mercyhurst,Michigan,1.0,11.0,16.0,48.0,1.7,6.8,https://www.collegehockeynews.com/box/final/20251003/mrc/mic/,0.0,0.0,1,7
+20252026,Michigan Tech,Minnesota,3.0,6.0,28.0,34.0,3.5,3.2,https://www.collegehockeynews.com/box/final/20251003/mtu/min/,0.0,1.0,3,5
+20252026,Wisconsin,Lindenwood,3.0,0.0,33.0,22.0,3.7,2.3,https://www.collegehockeynews.com/box/final/20251003/wis/lin/,1.0,0.0,0,0
+20252026,Penn State,Arizona State,6.0,3.0,47.0,38.0,3.6,2.7,https://www.collegehockeynews.com/box/final/20251003/psu/asu/,1.0,0.0,3,2
+20252026,Quinnipiac,Boston College,4.0,3.0,30.0,15.0,3.3,1.6,https://www.collegehockeynews.com/box/final/20251003/qui/bc_/,0.0,0.0,4,1
+20252026,Ferris State,Miami,4.0,6.0,36.0,41.0,2.8,3.5,https://www.collegehockeynews.com/box/final/20251003/fsu/mia/,0.0,1.0,3,3
+20252026,Minnesota-Duluth,Alaska,5.0,1.0,29.0,16.0,3.7,2.2,https://www.collegehockeynews.com/box/final/20251003/mnd/akf/,1.0,0.0,3,1
+20252026,Merrimack,Mass.-Lowell,0.0,4.0,17.0,36.0,2.5,3.9,https://www.collegehockeynews.com/box/final/20251003/mer/uml/,0.0,0.0,0,2
+20252026,Lake Superior,Stonehill,5.0,3.0,23.0,43.0,2.6,3.8,https://www.collegehockeynews.com/box/final/20251004/lss/stn/,0.0,0.0,4,2
+20252026,Bemidji State,Alaska-Anchorage,5.0,0.0,37.0,23.0,2.6,1.4,https://www.collegehockeynews.com/box/final/20251004/bmj/aka/,0.0,0.0,4,0
+20252026,Army,Union,1.0,1.0,26.0,39.0,2.8,4.5,https://www.collegehockeynews.com/box/final/20251004/arm/uni/,0.0,0.0,0,1
+20252026,Penn State,Arizona State,4.0,2.0,46.0,47.0,3.2,3.2,https://www.collegehockeynews.com/box/final/20251004/psu/asu/,1.0,0.0,1,2
+20252026,Connecticut,Colorado College,5.0,1.0,32.0,27.0,3.4,3.6,https://www.collegehockeynews.com/box/final/20251004/con/cc_/,0.0,0.0,2,1
+20252026,St. Lawrence,Niagara,2.0,5.0,22.0,35.0,2.0,4.0,https://www.collegehockeynews.com/box/final/20251004/stl/nia/,0.0,0.0,1,0
+20252026,Ferris State,Miami,1.0,3.0,20.0,27.0,2.1,2.2,https://www.collegehockeynews.com/box/final/20251004/fsu/mia/,0.0,1.0,0,2
+20252026,St. Thomas,St. Cloud State,4.0,3.0,29.0,30.0,3.4,3.1,https://www.collegehockeynews.com/box/final/20251004/stt/stc/,0.0,0.0,3,1
+20252026,Long Island,Boston University,2.0,4.0,38.0,32.0,2.7,2.6,https://www.collegehockeynews.com/box/final/20251004/liu/bu_/,0.0,0.0,2,2
+20252026,Mercyhurst,Michigan,0.0,7.0,11.0,51.0,0.9,6.0,https://www.collegehockeynews.com/box/final/20251004/mrc/mic/,0.0,0.0,0,3
+20252026,Michigan Tech,Minnesota,5.0,3.0,33.0,13.0,3.0,1.7,https://www.collegehockeynews.com/box/final/20251004/mtu/min/,1.0,0.0,3,3
+20252026,Wisconsin,Lindenwood,7.0,2.0,45.0,30.0,5.7,2.8,https://www.collegehockeynews.com/box/final/20251004/wis/lin/,0.0,0.0,3,0
+20252026,Minnesota-Duluth,Alaska,4.0,1.0,25.0,25.0,3.7,2.6,https://www.collegehockeynews.com/box/final/20251004/mnd/akf/,1.0,0.0,3,0
+20252026,Northern Michigan,Massachusetts,3.0,5.0,26.0,70.0,2.3,5.4,https://www.collegehockeynews.com/box/final/20251004/nmu/uma/,0.0,0.0,2,4
+20252026,Holy Cross,Northeastern,4.0,6.0,29.0,24.0,2.6,2.9,https://www.collegehockeynews.com/box/final/20251004/hcr/noe/,0.0,0.0,3,3
+20252026,Lake Superior,Stonehill,3.0,2.0,24.0,29.0,1.7,2.3,https://www.collegehockeynews.com/box/final/20251005/lss/stn/,0.0,0.0,1,2
+20252026,Northern Michigan,Massachusetts,1.0,4.0,32.0,46.0,2.9,3.6,https://www.collegehockeynews.com/box/final/20251005/nmu/uma/,0.0,2.0,0,1
+20252026,St. Lawrence,Canisius,2.0,4.0,36.0,35.0,3.2,3.2,https://www.collegehockeynews.com/box/final/20251005/stl/cns/,0.0,1.0,2,2
+20252026,Clarkson,Penn State,6.0,4.0,26.0,40.0,2.8,4.4,https://www.collegehockeynews.com/box/final/20251009/clk/psu/,1.0,0.0,4,2
+20252026,New Hampshire,Michigan State,4.0,3.0,26.0,37.0,2.4,3.8,https://www.collegehockeynews.com/box/final/20251009/unh/msu/,0.0,0.0,2,2
+20252026,Ferris State,Western Michigan,3.0,2.0,18.0,50.0,1.6,4.3,https://www.collegehockeynews.com/box/final/20251009/fsu/wmu/,0.0,0.0,2,2
+20252026,Boston College,Minnesota,3.0,1.0,34.0,19.0,3.6,2.2,https://www.collegehockeynews.com/box/final/20251009/bc_/min/,1.0,0.0,2,1
+20252026,Alaska,Quinnipiac,2.0,1.0,20.0,34.0,1.8,3.5,https://www.collegehockeynews.com/box/final/20251010/akf/qui/,0.0,0.0,1,1
+20252026,Notre Dame,Arizona State,3.0,5.0,50.0,38.0,3.7,2.7,https://www.collegehockeynews.com/box/final/20251010/ndm/asu/,0.0,0.0,2,5
+20252026,Boston College,Minnesota,2.0,2.0,31.0,33.0,3.3,4.0,https://www.collegehockeynews.com/box/final/20251010/bc_/min/,0.0,0.0,1,1
+20252026,Bowling Green,Niagara,0.0,2.0,26.0,20.0,2.0,2.2,https://www.collegehockeynews.com/box/final/20251010/bgs/nia/,0.0,0.0,0,2
+20252026,Northern Michigan,Ohio State,2.0,5.0,15.0,42.0,1.5,4.3,https://www.collegehockeynews.com/box/final/20251010/nmu/osu/,0.0,0.0,2,4
+20252026,Colgate,Boston University,2.0,6.0,26.0,36.0,3.2,4.4,https://www.collegehockeynews.com/box/final/20251010/clg/bu_/,0.0,0.0,1,3
+20252026,Long Island,Canisius,2.0,3.0,31.0,27.0,3.1,3.3,https://www.collegehockeynews.com/box/final/20251010/liu/cns/,0.0,0.0,1,2
+20252026,Bentley,Colorado College,2.0,5.0,27.0,36.0,2.4,3.6,https://www.collegehockeynews.com/box/final/20251010/ben/cc_/,0.0,0.0,1,4
+20252026,Western Michigan,Ferris State,6.0,4.0,44.0,18.0,4.3,1.4,https://www.collegehockeynews.com/box/final/20251010/wmu/fsu/,0.0,0.0,4,4
+20252026,Lindenwood,Lake Superior,5.0,4.0,35.0,24.0,3.0,2.3,https://www.collegehockeynews.com/box/final/20251010/lin/lss/,0.0,0.0,4,4
+20252026,Holy Cross,Maine,2.0,5.0,20.0,35.0,2.1,4.6,https://www.collegehockeynews.com/box/final/20251010/hcr/mne/,0.0,0.0,2,4
+20252026,Union,Mercyhurst,5.0,2.0,45.0,22.0,3.5,1.6,https://www.collegehockeynews.com/box/final/20251010/uni/mrc/,0.0,0.0,5,2
+20252026,Army,Northeastern,2.0,1.0,23.0,32.0,1.5,3.4,https://www.collegehockeynews.com/box/final/20251010/arm/noe/,0.0,0.0,2,1
+20252026,Massachusetts,Stonehill,4.0,1.0,27.0,40.0,1.9,3.3,https://www.collegehockeynews.com/box/final/20251010/uma/stn/,0.0,0.0,2,1
+20252026,Michigan,Providence,5.0,1.0,35.0,20.0,3.7,2.5,https://www.collegehockeynews.com/box/final/20251010/mic/prv/,0.0,0.0,4,1
+20252026,Miami,RPI,5.0,3.0,28.0,29.0,3.2,2.3,https://www.collegehockeynews.com/box/final/20251010/mia/ren/,1.0,0.0,2,1
+20252026,Clarkson,Penn State,2.0,5.0,23.0,31.0,1.6,3.1,https://www.collegehockeynews.com/box/final/20251010/clk/psu/,0.0,0.0,2,3
+20252026,Denver,Air Force,1.0,1.0,59.0,24.0,4.2,1.9,https://www.collegehockeynews.com/box/final/20251010/den/afa/,0.0,0.0,1,1
+20252026,St. Lawrence,Vermont,1.0,2.0,30.0,24.0,1.9,2.9,https://www.collegehockeynews.com/box/final/20251010/stl/ver/,0.0,1.0,0,1
+20252026,Augustana,Minnesota-Duluth,1.0,4.0,17.0,37.0,1.6,2.4,https://www.collegehockeynews.com/box/final/20251010/aug/mnd/,0.0,0.0,0,3
+20252026,Minnesota State,Omaha,2.0,6.0,49.0,24.0,7.5,3.1,https://www.collegehockeynews.com/box/final/20251010/mns/uno/,0.0,0.0,1,4
+20252026,St. Thomas,North Dakota,2.0,6.0,25.0,31.0,2.3,3.2,https://www.collegehockeynews.com/box/final/20251010/stt/ndk/,0.0,0.0,1,4
+20252026,St. Cloud State,Bemidji State,3.0,2.0,31.0,27.0,3.1,2.7,https://www.collegehockeynews.com/box/final/20251010/stc/bmj/,0.0,0.0,1,1
+20252026,New Hampshire,Michigan State,0.0,2.0,13.0,38.0,0.8,3.4,https://www.collegehockeynews.com/box/final/20251010/unh/msu/,0.0,0.0,0,2
+20252026,Mass.-Lowell,Merrimack,1.0,4.0,35.0,30.0,3.8,3.8,https://www.collegehockeynews.com/box/final/20251010/uml/mer/,0.0,1.0,0,2
+20252026,Sacred Heart,RIT,1.0,0.0,25.0,22.0,2.4,2.6,https://www.collegehockeynews.com/box/final/20251010/sac/rit/,0.0,0.0,0,0
+20252026,Notre Dame,Quinnipiac,2.0,7.0,25.0,38.0,2.1,3.7,https://www.collegehockeynews.com/box/final/20251011/ndm/qui/,0.0,0.0,1,6
+20252026,Alaska,Arizona State,2.0,5.0,36.0,40.0,2.8,3.0,https://www.collegehockeynews.com/box/final/20251011/akf/asu/,0.0,0.0,1,0
+20252026,Union,Mercyhurst,5.0,3.0,47.0,14.0,2.4,1.1,https://www.collegehockeynews.com/box/final/20251011/uni/mrc/,1.0,0.0,3,2
+20252026,Bowling Green,Niagara,2.0,5.0,34.0,23.0,2.8,2.9,https://www.collegehockeynews.com/box/final/20251011/bgs/nia/,0.0,1.0,2,4
+20252026,Northern Michigan,Ohio State,1.0,3.0,24.0,48.0,1.7,3.9,https://www.collegehockeynews.com/box/final/20251011/nmu/osu/,0.0,1.0,1,2
+20252026,Colorado College,Air Force,4.0,2.0,29.0,30.0,2.6,2.5,https://www.collegehockeynews.com/box/final/20251011/cc_/afa/,1.0,0.0,3,1
+20252026,Colgate,Boston University,2.0,2.0,25.0,35.0,3.1,4.1,https://www.collegehockeynews.com/box/final/20251011/clg/bu_/,0.0,0.0,2,2
+20252026,Lindenwood,Lake Superior,7.0,4.0,31.0,27.0,2.2,2.9,https://www.collegehockeynews.com/box/final/20251011/lin/lss/,1.0,0.0,3,2
+20252026,Miami,RPI,5.0,0.0,25.0,26.0,2.0,2.4,https://www.collegehockeynews.com/box/final/20251011/mia/ren/,0.0,0.0,5,0
+20252026,Augustana,Minnesota-Duluth,4.0,0.0,16.0,40.0,1.5,2.9,https://www.collegehockeynews.com/box/final/20251011/aug/mnd/,2.0,0.0,1,0
+20252026,Minnesota State,Omaha,4.0,1.0,21.0,31.0,3.0,5.0,https://www.collegehockeynews.com/box/final/20251011/mns/uno/,0.0,0.0,0,0
+20252026,Bemidji State,St. Cloud State,2.0,4.0,34.0,31.0,3.7,2.5,https://www.collegehockeynews.com/box/final/20251011/bmj/stc/,0.0,0.0,1,3
+20252026,Long Island,Canisius,6.0,1.0,34.0,23.0,2.8,2.2,https://www.collegehockeynews.com/box/final/20251011/liu/cns/,0.0,0.0,5,0
+20252026,Bentley,Denver,0.0,6.0,21.0,38.0,1.4,4.3,https://www.collegehockeynews.com/box/final/20251011/ben/den/,0.0,0.0,0,4
+20252026,Holy Cross,Maine,0.0,6.0,22.0,20.0,2.7,3.0,https://www.collegehockeynews.com/box/final/20251011/hcr/mne/,0.0,0.0,0,3
+20252026,Michigan,Providence,3.0,1.0,23.0,25.0,2.1,2.9,https://www.collegehockeynews.com/box/final/20251011/mic/prv/,0.0,0.0,1,0
+20252026,Sacred Heart,RIT,6.0,1.0,21.0,28.0,1.9,2.3,https://www.collegehockeynews.com/box/final/20251011/sac/rit/,0.0,0.0,6,1
+20252026,Vermont,St. Lawrence,2.0,5.0,39.0,32.0,3.0,2.2,https://www.collegehockeynews.com/box/final/20251012/ver/stl/,0.0,2.0,1,2
+20252026,Stonehill,Army,1.0,6.0,41.0,23.0,2.8,2.0,https://www.collegehockeynews.com/box/final/20251012/stn/arm/,0.0,0.0,1,6
+20252026,North Dakota,St. Thomas,5.0,2.0,23.0,27.0,2.3,3.8,https://www.collegehockeynews.com/box/final/20251012/ndk/stt/,0.0,0.0,3,1
+20252026,Canisius,Army,3.0,1.0,32.0,30.0,3.0,3.3,https://www.collegehockeynews.com/box/final/20251014/cns/arm/,0.0,0.0,2,0
+20252026,Robert Morris,Michigan,2.0,4.0,16.0,39.0,2.3,5.6,https://www.collegehockeynews.com/box/final/20251016/rmu/mic/,0.0,1.0,2,3
+20252026,St. Lawrence,Notre Dame,2.0,8.0,21.0,47.0,2.1,4.5,https://www.collegehockeynews.com/box/final/20251016/stl/ndm/,0.0,0.0,2,4
+20252026,Minnesota State,Wisconsin,1.0,1.0,22.0,30.0,2.1,3.8,https://www.collegehockeynews.com/box/final/20251016/mns/wis/,0.0,0.0,1,1
+20252026,Northeastern,Massachusetts,4.0,2.0,33.0,27.0,2.9,2.5,https://www.collegehockeynews.com/box/final/20251017/noe/uma/,1.0,0.0,3,1
+20252026,Michigan State,Boston University,4.0,2.0,34.0,20.0,2.8,1.7,https://www.collegehockeynews.com/box/final/20251017/msu/bu_/,0.0,0.0,2,0
+20252026,Canisius,Colgate,4.0,2.0,36.0,22.0,4.5,3.2,https://www.collegehockeynews.com/box/final/20251017/cns/clg/,1.0,0.0,3,1
+20252026,Ohio State,Connecticut,2.0,3.0,34.0,29.0,2.8,2.8,https://www.collegehockeynews.com/box/final/20251017/osu/con/,0.0,0.0,1,3
+20252026,Robert Morris,Michigan,2.0,10.0,32.0,40.0,3.9,6.2,https://www.collegehockeynews.com/box/final/20251017/rmu/mic/,0.0,0.0,1,3
+20252026,St. Lawrence,Notre Dame,0.0,3.0,26.0,40.0,2.1,4.0,https://www.collegehockeynews.com/box/final/20251017/stl/ndm/,0.0,0.0,0,1
+20252026,Maine,Quinnipiac,4.0,4.0,22.0,39.0,2.5,4.1,https://www.collegehockeynews.com/box/final/20251017/mne/qui/,0.0,0.0,4,1
+20252026,Boston College,RPI,5.0,1.0,41.0,11.0,3.7,1.6,https://www.collegehockeynews.com/box/final/20251017/bc_/ren/,0.0,0.0,5,0
+20252026,Vermont,St. Cloud State,2.0,1.0,21.0,46.0,2.4,3.9,https://www.collegehockeynews.com/box/final/20251017/ver/stc/,0.0,0.0,1,0
+20252026,Minnesota State,Wisconsin,2.0,2.0,25.0,33.0,1.8,2.5,https://www.collegehockeynews.com/box/final/20251017/mns/wis/,0.0,0.0,0,2
+20252026,St. Thomas,Air Force,11.0,2.0,38.0,31.0,3.0,2.4,https://www.collegehockeynews.com/box/final/20251017/stt/afa/,0.0,0.0,8,1
+20252026,Michigan Tech,Alaska,3.0,1.0,36.0,26.0,3.7,3.2,https://www.collegehockeynews.com/box/final/20251017/mtu/akf/,1.0,0.0,2,0
+20252026,Minnesota,North Dakota,2.0,5.0,15.0,32.0,1.7,3.2,https://www.collegehockeynews.com/box/final/20251017/min/ndk/,0.0,0.0,1,3
+20252026,Colorado College,Northern Michigan,2.0,1.0,45.0,17.0,5.3,1.9,https://www.collegehockeynews.com/box/final/20251017/cc_/nmu/,0.0,0.0,2,1
+20252026,Arizona State,Augustana,2.0,4.0,28.0,23.0,3.9,3.5,https://www.collegehockeynews.com/box/final/20251017/asu/aug/,0.0,1.0,2,3
+20252026,Minnesota-Duluth,Bemidji State,7.0,3.0,25.0,20.0,2.4,3.0,https://www.collegehockeynews.com/box/final/20251017/mnd/bmj/,0.0,0.0,4,2
+20252026,Western Michigan,Mass.-Lowell,2.0,1.0,33.0,18.0,4.2,2.7,https://www.collegehockeynews.com/box/final/20251017/wmu/uml/,0.0,0.0,2,0
+20252026,Long Island,Penn State,4.0,5.0,36.0,41.0,3.6,3.2,https://www.collegehockeynews.com/box/final/20251017/liu/psu/,0.0,0.0,2,3
+20252026,Denver,Lindenwood,3.0,4.0,33.0,33.0,3.6,3.5,https://www.collegehockeynews.com/box/final/20251017/den/lin/,0.0,1.0,1,3
+20252026,Niagara,Union,2.0,3.0,18.0,47.0,1.9,4.5,https://www.collegehockeynews.com/box/final/20251017/nia/uni/,0.0,0.0,2,2
+20252026,Holy Cross,Mercyhurst,4.0,0.0,37.0,15.0,2.1,1.5,https://www.collegehockeynews.com/box/final/20251018/hcr/mrc/,0.0,0.0,3,0
+20252026,Ohio State,Connecticut,4.0,2.0,30.0,36.0,2.8,3.8,https://www.collegehockeynews.com/box/final/20251018/osu/con/,1.0,0.0,3,1
+20252026,Maine,Quinnipiac,0.0,4.0,19.0,33.0,1.8,3.9,https://www.collegehockeynews.com/box/final/20251018/mne/qui/,0.0,0.0,0,1
+20252026,Providence,RPI,5.0,1.0,38.0,29.0,3.5,2.7,https://www.collegehockeynews.com/box/final/20251018/prv/ren/,0.0,0.0,3,0
+20252026,Stonehill,Sacred Heart,3.0,2.0,31.0,41.0,2.8,3.1,https://www.collegehockeynews.com/box/final/20251018/stn/sac/,0.0,0.0,2,1
+20252026,Western Michigan,Mass.-Lowell,6.0,0.0,43.0,19.0,4.7,1.8,https://www.collegehockeynews.com/box/final/20251018/wmu/uml/,0.0,0.0,5,0
+20252026,Bemidji State,Minnesota-Duluth,1.0,5.0,23.0,36.0,1.9,2.8,https://www.collegehockeynews.com/box/final/20251018/bmj/mnd/,0.0,0.0,1,1
+20252026,Vermont,St. Cloud State,0.0,4.0,21.0,45.0,2.6,4.8,https://www.collegehockeynews.com/box/final/20251018/ver/stc/,0.0,0.0,0,0
+20252026,Long Island,Penn State,0.0,3.0,28.0,38.0,2.7,4.7,https://www.collegehockeynews.com/box/final/20251018/liu/psu/,0.0,0.0,0,2
+20252026,Minnesota,North Dakota,5.0,1.0,21.0,24.0,2.2,2.4,https://www.collegehockeynews.com/box/final/20251018/min/ndk/,1.0,0.0,3,1
+20252026,Colorado College,Northern Michigan,5.0,2.0,34.0,30.0,4.2,2.3,https://www.collegehockeynews.com/box/final/20251018/cc_/nmu/,0.0,0.0,3,1
+20252026,Arizona State,Augustana,2.0,5.0,20.0,31.0,3.5,3.3,https://www.collegehockeynews.com/box/final/20251018/asu/aug/,0.0,0.0,1,3
+20252026,Michigan State,Boston University,4.0,3.0,34.0,34.0,4.9,4.2,https://www.collegehockeynews.com/box/final/20251018/msu/bu_/,0.0,0.0,4,2
+20252026,Canisius,Colgate,3.0,5.0,20.0,41.0,3.2,4.6,https://www.collegehockeynews.com/box/final/20251018/cns/clg/,0.0,0.0,1,2
+20252026,Clarkson,RIT,2.0,6.0,30.0,22.0,2.7,3.3,https://www.collegehockeynews.com/box/final/20251018/clk/rit/,0.0,0.0,2,6
+20252026,Michigan Tech,Alaska,1.0,5.0,28.0,35.0,3.0,5.0,https://www.collegehockeynews.com/box/final/20251018/mtu/akf/,0.0,0.0,1,3
+20252026,Bentley,Massachusetts,4.0,5.0,27.0,34.0,2.2,2.5,https://www.collegehockeynews.com/box/final/20251018/ben/uma/,0.0,0.0,3,4
+20252026,Denver,Lindenwood,4.0,0.0,49.0,19.0,6.5,3.1,https://www.collegehockeynews.com/box/final/20251018/den/lin/,0.0,0.0,4,0
+20252026,Niagara,Union,0.0,6.0,24.0,55.0,2.4,5.2,https://www.collegehockeynews.com/box/final/20251018/nia/uni/,0.0,0.0,0,3
+20252026,St. Thomas,Air Force,2.0,6.0,27.0,29.0,2.2,2.7,https://www.collegehockeynews.com/box/final/20251018/stt/afa/,0.0,2.0,1,4
+20252026,New Hampshire,Merrimack,1.0,5.0,21.0,24.0,2.2,2.4,https://www.collegehockeynews.com/box/final/20251018/unh/mer/,0.0,1.0,1,2
+20252026,Quinnipiac,Holy Cross,4.0,1.0,45.0,27.0,4.9,3.3,https://www.collegehockeynews.com/box/final/20251021/qui/hcr/,0.0,0.0,2,1
+20252026,Western Michigan,Michigan,0.0,4.0,32.0,30.0,4.1,5.1,https://www.collegehockeynews.com/box/final/20251023/wmu/mic/,0.0,0.0,0,1
+20252026,Sacred Heart,Ohio State,2.0,1.0,24.0,23.0,2.0,1.7,https://www.collegehockeynews.com/box/final/20251024/sac/osu/,0.0,0.0,1,0
+20252026,North Dakota,Clarkson,2.0,5.0,20.0,29.0,2.9,3.4,https://www.collegehockeynews.com/box/final/20251024/ndk/clk/,0.0,1.0,1,2
+20252026,Colgate,Maine,3.0,2.0,15.0,27.0,1.6,4.2,https://www.collegehockeynews.com/box/final/20251024/clg/mne/,0.0,0.0,1,1
+20252026,Mass.-Lowell,Mercyhurst,4.0,0.0,34.0,30.0,2.1,1.9,https://www.collegehockeynews.com/box/final/20251024/uml/mrc/,1.0,0.0,2,0
+20252026,Quinnipiac,Merrimack,1.0,4.0,28.0,27.0,3.3,2.7,https://www.collegehockeynews.com/box/final/20251024/qui/mer/,0.0,0.0,0,3
+20252026,Minnesota-Duluth,Minnesota,3.0,0.0,24.0,17.0,2.2,0.9,https://www.collegehockeynews.com/box/final/20251024/mnd/min/,0.0,0.0,2,0
+20252026,Massachusetts,Omaha,5.0,4.0,36.0,33.0,2.9,2.9,https://www.collegehockeynews.com/box/final/20251024/uma/uno/,0.0,0.0,4,3
+20252026,Long Island,New Hampshire,2.0,3.0,27.0,33.0,3.3,4.6,https://www.collegehockeynews.com/box/final/20251024/liu/unh/,0.0,0.0,2,3
+20252026,Robert Morris,Notre Dame,3.0,6.0,27.0,27.0,2.6,3.3,https://www.collegehockeynews.com/box/final/20251024/rmu/ndm/,0.0,1.0,3,3
+20252026,Alaska-Anchorage,St. Cloud State,2.0,5.0,21.0,36.0,2.0,3.4,https://www.collegehockeynews.com/box/final/20251024/aka/stc/,0.0,0.0,1,3
+20252026,Michigan,Western Michigan,2.0,5.0,30.0,23.0,2.7,2.3,https://www.collegehockeynews.com/box/final/20251024/mic/wmu/,0.0,1.0,0,3
+20252026,Alaska,Wisconsin,3.0,5.0,18.0,46.0,2.0,4.9,https://www.collegehockeynews.com/box/final/20251024/akf/wis/,0.0,1.0,2,1
+20252026,Stonehill,Penn State,2.0,3.0,32.0,36.0,3.2,3.2,https://www.collegehockeynews.com/box/final/20251024/stn/psu/,0.0,0.0,2,2
+20252026,Denver,Boston College,7.0,3.0,27.0,34.0,2.9,3.8,https://www.collegehockeynews.com/box/final/20251024/den/bc_/,1.0,0.0,6,3
+20252026,RPI,Minnesota State,2.0,4.0,19.0,40.0,1.7,3.0,https://www.collegehockeynews.com/box/final/20251024/ren/mns/,0.0,0.0,2,2
+20252026,Michigan State,Northern Michigan,4.0,0.0,40.0,24.0,4.8,2.3,https://www.collegehockeynews.com/box/final/20251024/msu/nmu/,0.0,0.0,2,0
+20252026,Providence,St. Thomas,2.0,2.0,40.0,26.0,4.8,2.3,https://www.collegehockeynews.com/box/final/20251024/prv/stt/,0.0,0.0,2,0
+20252026,Miami,Lindenwood,5.0,4.0,32.0,35.0,4.8,3.8,https://www.collegehockeynews.com/box/final/20251024/mia/lin/,0.0,0.0,5,1
+20252026,Holy Cross,Army,2.0,5.0,27.0,29.0,3.3,2.5,https://www.collegehockeynews.com/box/final/20251024/hcr/arm/,0.0,1.0,1,3
+20252026,Canisius,Bentley,1.0,4.0,29.0,30.0,2.0,2.8,https://www.collegehockeynews.com/box/final/20251024/cns/ben/,0.0,1.0,1,3
+20252026,Air Force,RIT,1.0,5.0,22.0,28.0,2.6,2.6,https://www.collegehockeynews.com/box/final/20251024/afa/rit/,0.0,1.0,1,3
+20252026,Bowling Green,Lake Superior,4.0,1.0,45.0,28.0,3.4,2.0,https://www.collegehockeynews.com/box/final/20251024/bgs/lss/,0.0,0.0,2,0
+20252026,Ferris State,Michigan Tech,1.0,5.0,30.0,29.0,2.7,3.0,https://www.collegehockeynews.com/box/final/20251024/fsu/mtu/,0.0,0.0,0,3
+20252026,Augustana,Bemidji State,0.0,1.0,27.0,32.0,3.0,3.4,https://www.collegehockeynews.com/box/final/20251024/aug/bmj/,0.0,0.0,0,1
+20252026,Connecticut,Boston University,8.0,4.0,40.0,34.0,3.8,4.2,https://www.collegehockeynews.com/box/final/20251024/con/bu_/,1.0,0.0,5,4
+20252026,Holy Cross,Army,5.0,1.0,27.0,22.0,2.6,2.5,https://www.collegehockeynews.com/box/final/20251025/hcr/arm/,0.0,0.0,4,0
+20252026,Air Force,RIT,3.0,7.0,42.0,37.0,3.3,3.9,https://www.collegehockeynews.com/box/final/20251025/afa/rit/,0.0,1.0,3,5
+20252026,Canisius,Bentley,0.0,3.0,22.0,30.0,2.4,3.2,https://www.collegehockeynews.com/box/final/20251025/cns/ben/,0.0,0.0,0,3
+20252026,Mass.-Lowell,Mercyhurst,4.0,3.0,41.0,23.0,2.5,1.2,https://www.collegehockeynews.com/box/final/20251025/uml/mrc/,0.0,0.0,1,2
+20252026,Sacred Heart,Ohio State,0.0,3.0,21.0,29.0,1.5,3.5,https://www.collegehockeynews.com/box/final/20251025/sac/osu/,0.0,0.0,0,2
+20252026,Long Island,Merrimack,5.0,2.0,37.0,48.0,3.2,4.3,https://www.collegehockeynews.com/box/final/20251025/liu/mer/,2.0,0.0,1,2
+20252026,Robert Morris,Notre Dame,2.0,2.0,29.0,25.0,2.9,2.9,https://www.collegehockeynews.com/box/final/20251025/rmu/ndm/,0.0,0.0,2,1
+20252026,Alaska-Anchorage,St. Cloud State,1.0,5.0,29.0,35.0,2.5,3.0,https://www.collegehockeynews.com/box/final/20251025/aka/stc/,0.0,0.0,0,2
+20252026,Alaska,Wisconsin,1.0,4.0,27.0,29.0,2.7,2.9,https://www.collegehockeynews.com/box/final/20251025/akf/wis/,0.0,1.0,1,2
+20252026,Stonehill,Penn State,2.0,4.0,28.0,32.0,2.3,3.3,https://www.collegehockeynews.com/box/final/20251025/stn/psu/,0.0,0.0,1,3
+20252026,RPI,Minnesota State,1.0,2.0,30.0,18.0,1.8,1.4,https://www.collegehockeynews.com/box/final/20251025/ren/mns/,0.0,0.0,1,0
+20252026,Michigan State,Northern Michigan,6.0,2.0,45.0,24.0,5.5,2.3,https://www.collegehockeynews.com/box/final/20251025/msu/nmu/,0.0,0.0,4,1
+20252026,North Dakota,Clarkson,1.0,0.0,28.0,17.0,4.2,1.9,https://www.collegehockeynews.com/box/final/20251025/ndk/clk/,0.0,0.0,0,0
+20252026,Colgate,Maine,2.0,3.0,19.0,34.0,2.1,3.1,https://www.collegehockeynews.com/box/final/20251025/clg/mne/,0.0,0.0,1,2
+20252026,Minnesota-Duluth,Minnesota,4.0,1.0,24.0,29.0,2.0,2.3,https://www.collegehockeynews.com/box/final/20251025/mnd/min/,1.0,0.0,1,1
+20252026,Massachusetts,Omaha,2.0,5.0,30.0,25.0,3.7,4.1,https://www.collegehockeynews.com/box/final/20251025/uma/uno/,0.0,1.0,1,3
+20252026,Quinnipiac,New Hampshire,2.0,0.0,29.0,21.0,3.3,2.6,https://www.collegehockeynews.com/box/final/20251025/qui/unh/,0.0,0.0,2,0
+20252026,Denver,Northeastern,0.0,1.0,35.0,14.0,3.2,1.7,https://www.collegehockeynews.com/box/final/20251025/den/noe/,0.0,0.0,0,1
+20252026,Providence,St. Thomas,7.0,4.0,36.0,25.0,2.5,2.4,https://www.collegehockeynews.com/box/final/20251025/prv/stt/,0.0,0.0,5,3
+20252026,Miami,Lindenwood,5.0,4.0,31.0,37.0,5.1,4.3,https://www.collegehockeynews.com/box/final/20251025/mia/lin/,0.0,0.0,5,4
+20252026,Boston University,Connecticut,3.0,1.0,20.0,25.0,1.6,2.3,https://www.collegehockeynews.com/box/final/20251025/bu_/con/,0.0,0.0,1,1
+20252026,Bowling Green,Lake Superior,3.0,2.0,38.0,33.0,2.5,2.5,https://www.collegehockeynews.com/box/final/20251025/bgs/lss/,0.0,0.0,2,1
+20252026,Ferris State,Michigan Tech,2.0,4.0,30.0,21.0,3.1,2.4,https://www.collegehockeynews.com/box/final/20251025/fsu/mtu/,0.0,0.0,1,2
+20252026,Augustana,Bemidji State,2.0,3.0,27.0,24.0,2.9,2.5,https://www.collegehockeynews.com/box/final/20251025/aug/bmj/,0.0,0.0,2,3
+20252026,Penn State,Ohio State,3.0,2.0,37.0,30.0,3.1,2.9,https://www.collegehockeynews.com/box/final/20251030/psu/osu/,0.0,0.0,2,1
+20252026,Minnesota,Wisconsin,2.0,5.0,16.0,43.0,1.3,3.2,https://www.collegehockeynews.com/box/final/20251030/min/wis/,0.0,1.0,1,2
+20252026,Sacred Heart,Holy Cross,2.0,5.0,27.0,34.0,2.3,4.5,https://www.collegehockeynews.com/box/final/20251030/sac/hcr/,0.0,1.0,1,2
+20252026,Northeastern,Boston College,4.0,1.0,23.0,41.0,2.2,5.5,https://www.collegehockeynews.com/box/final/20251030/noe/bc_/,1.0,0.0,3,0
+20252026,Northern Michigan,Augustana,1.0,2.0,25.0,48.0,2.3,4.6,https://www.collegehockeynews.com/box/final/20251031/nmu/aug/,0.0,0.0,1,1
+20252026,Bemidji State,Bowling Green,4.0,4.0,28.0,27.0,2.4,2.5,https://www.collegehockeynews.com/box/final/20251031/bmj/bgs/,0.0,0.0,4,4
+20252026,Minnesota State,St. Thomas,3.0,1.0,22.0,25.0,2.2,2.9,https://www.collegehockeynews.com/box/final/20251031/mns/stt/,1.0,0.0,2,1
+20252026,Penn State,Ohio State,4.0,3.0,34.0,32.0,2.9,2.8,https://www.collegehockeynews.com/box/final/20251031/psu/osu/,0.0,0.0,1,1
+20252026,Michigan,Notre Dame,5.0,3.0,27.0,33.0,2.5,2.5,https://www.collegehockeynews.com/box/final/20251031/mic/ndm/,0.0,0.0,1,1
+20252026,Sacred Heart,Holy Cross,2.0,2.0,29.0,33.0,2.7,3.9,https://www.collegehockeynews.com/box/final/20251031/sac/hcr/,0.0,0.0,1,2
+20252026,Bentley,Mercyhurst,3.0,1.0,32.0,23.0,2.2,1.7,https://www.collegehockeynews.com/box/final/20251031/ben/mrc/,1.0,0.0,2,1
+20252026,Niagara,Robert Morris,2.0,4.0,29.0,30.0,2.5,2.2,https://www.collegehockeynews.com/box/final/20251031/nia/rmu/,0.0,1.0,1,3
+20252026,RPI,Union,5.0,2.0,31.0,47.0,2.7,4.3,https://www.collegehockeynews.com/box/final/20251031/ren/uni/,0.0,0.0,2,1
+20252026,Vermont,New Hampshire,2.0,4.0,17.0,36.0,2.9,4.3,https://www.collegehockeynews.com/box/final/20251031/ver/unh/,0.0,1.0,2,2
+20252026,Boston College,Northeastern,0.0,3.0,32.0,22.0,3.3,1.6,https://www.collegehockeynews.com/box/final/20251031/bc_/noe/,0.0,0.0,0,2
+20252026,Mass.-Lowell,Providence,2.0,5.0,27.0,26.0,2.5,3.0,https://www.collegehockeynews.com/box/final/20251031/uml/prv/,0.0,0.0,2,4
+20252026,Boston University,Maine,4.0,5.0,28.0,35.0,2.6,3.9,https://www.collegehockeynews.com/box/final/20251031/bu_/mne/,0.0,0.0,3,5
+20252026,Omaha,Colorado College,3.0,2.0,20.0,51.0,2.3,6.5,https://www.collegehockeynews.com/box/final/20251031/uno/cc_/,1.0,0.0,0,1
+20252026,Western Michigan,St. Cloud State,6.0,5.0,35.0,31.0,4.5,2.8,https://www.collegehockeynews.com/box/final/20251031/wmu/stc/,0.0,0.0,3,4
+20252026,Arizona State,Miami,4.0,1.0,30.0,20.0,2.9,2.8,https://www.collegehockeynews.com/box/final/20251031/asu/mia/,1.0,0.0,1,0
+20252026,Minnesota-Duluth,North Dakota,4.0,3.0,23.0,28.0,2.8,2.8,https://www.collegehockeynews.com/box/final/20251031/mnd/ndk/,0.0,0.0,2,1
+20252026,Michigan Tech,Clarkson,4.0,6.0,28.0,31.0,2.6,4.0,https://www.collegehockeynews.com/box/final/20251031/mtu/clk/,0.0,0.0,3,4
+20252026,Harvard,Connecticut,1.0,1.0,37.0,37.0,3.9,3.3,https://www.collegehockeynews.com/box/final/20251031/har/con/,0.0,0.0,1,1
+20252026,Alaska-Anchorage,Denver,4.0,3.0,20.0,49.0,1.7,4.9,https://www.collegehockeynews.com/box/final/20251031/aka/den/,0.0,0.0,3,1
+20252026,Lindenwood,Ferris State,1.0,0.0,17.0,31.0,1.7,2.5,https://www.collegehockeynews.com/box/final/20251031/lin/fsu/,0.0,0.0,1,0
+20252026,Cornell,Massachusetts,1.0,2.0,28.0,16.0,2.5,1.6,https://www.collegehockeynews.com/box/final/20251031/cor/uma/,0.0,0.0,1,0
+20252026,Alaska,Princeton,2.0,5.0,22.0,34.0,2.4,2.7,https://www.collegehockeynews.com/box/final/20251031/akf/prn/,0.0,1.0,2,4
+20252026,Lake Superior,St. Lawrence,3.0,3.0,33.0,33.0,2.7,2.5,https://www.collegehockeynews.com/box/final/20251031/lss/stl/,0.0,0.0,1,0
+20252026,Brown,Air Force,0.0,2.0,13.0,34.0,1.9,2.9,https://www.collegehockeynews.com/box/final/20251031/brn/afa/,0.0,1.0,0,1
+20252026,RIT,Colgate,3.0,1.0,21.0,15.0,2.3,2.2,https://www.collegehockeynews.com/box/final/20251031/rit/clg/,1.0,0.0,2,0
+20252026,Union,RPI,3.0,0.0,36.0,12.0,3.8,1.2,https://www.collegehockeynews.com/box/final/20251101/uni/ren/,1.0,0.0,1,0
+20252026,Bentley,Mercyhurst,7.0,2.0,37.0,31.0,2.0,2.0,https://www.collegehockeynews.com/box/final/20251101/ben/mrc/,0.0,0.0,4,0
+20252026,Robert Morris,Niagara,4.0,3.0,26.0,42.0,2.4,4.2,https://www.collegehockeynews.com/box/final/20251101/rmu/nia/,0.0,0.0,3,2
+20252026,Army,Canisius,2.0,2.0,33.0,25.0,2.5,3.2,https://www.collegehockeynews.com/box/final/20251101/arm/cns/,0.0,0.0,1,2
+20252026,Providence,Mass.-Lowell,1.0,5.0,24.0,26.0,3.1,2.8,https://www.collegehockeynews.com/box/final/20251101/prv/uml/,0.0,1.0,0,1
+20252026,Merrimack,Connecticut,1.0,5.0,21.0,40.0,1.9,4.2,https://www.collegehockeynews.com/box/final/20251101/mer/con/,0.0,2.0,0,2
+20252026,Vermont,New Hampshire,2.0,1.0,25.0,28.0,2.0,3.0,https://www.collegehockeynews.com/box/final/20251101/ver/unh/,0.0,0.0,2,1
+20252026,Boston University,Maine,5.0,8.0,31.0,46.0,3.5,5.9,https://www.collegehockeynews.com/box/final/20251101/bu_/mne/,0.0,1.0,2,5
+20252026,Brown,Air Force,3.0,4.0,30.0,27.0,3.3,3.0,https://www.collegehockeynews.com/box/final/20251101/brn/afa/,0.0,0.0,3,4
+20252026,Alaska-Anchorage,Denver,0.0,6.0,17.0,49.0,1.7,5.2,https://www.collegehockeynews.com/box/final/20251101/aka/den/,0.0,0.0,0,2
+20252026,Cornell,Massachusetts,3.0,1.0,28.0,34.0,2.4,2.9,https://www.collegehockeynews.com/box/final/20251101/cor/uma/,0.0,0.0,1,1
+20252026,Lake Superior,Clarkson,6.0,2.0,31.0,32.0,2.8,3.6,https://www.collegehockeynews.com/box/final/20251101/lss/clk/,1.0,0.0,4,0
+20252026,Lindenwood,Ferris State,3.0,2.0,33.0,26.0,2.2,2.3,https://www.collegehockeynews.com/box/final/20251101/lin/fsu/,0.0,0.0,2,0
+20252026,Dartmouth,Stonehill,5.0,2.0,35.0,18.0,2.7,1.3,https://www.collegehockeynews.com/box/final/20251101/dar/stn/,0.0,0.0,4,0
+20252026,Alaska,Princeton,3.0,6.0,29.0,37.0,2.9,3.5,https://www.collegehockeynews.com/box/final/20251101/akf/prn/,0.0,1.0,0,4
+20252026,Michigan Tech,St. Lawrence,3.0,0.0,27.0,29.0,2.6,2.1,https://www.collegehockeynews.com/box/final/20251101/mtu/stl/,1.0,0.0,2,0
+20252026,RIT,Colgate,4.0,1.0,28.0,29.0,1.9,2.1,https://www.collegehockeynews.com/box/final/20251101/rit/clg/,2.0,0.0,1,1
+20252026,Northern Michigan,Augustana,1.0,3.0,42.0,32.0,3.5,2.5,https://www.collegehockeynews.com/box/final/20251101/nmu/aug/,0.0,0.0,1,3
+20252026,Bemidji State,Bowling Green,3.0,2.0,29.0,27.0,2.6,2.2,https://www.collegehockeynews.com/box/final/20251101/bmj/bgs/,0.0,0.0,1,2
+20252026,St. Thomas,Minnesota State,4.0,3.0,28.0,30.0,2.7,2.5,https://www.collegehockeynews.com/box/final/20251101/stt/mns/,0.0,0.0,4,2
+20252026,Omaha,Colorado College,5.0,4.0,30.0,40.0,3.0,4.6,https://www.collegehockeynews.com/box/final/20251101/uno/cc_/,1.0,0.0,4,3
+20252026,Western Michigan,St. Cloud State,1.0,5.0,33.0,33.0,2.8,3.5,https://www.collegehockeynews.com/box/final/20251101/wmu/stc/,0.0,0.0,1,3
+20252026,Arizona State,Miami,2.0,5.0,23.0,31.0,2.4,2.3,https://www.collegehockeynews.com/box/final/20251101/asu/mia/,0.0,1.0,1,3
+20252026,Minnesota-Duluth,North Dakota,1.0,5.0,20.0,38.0,1.7,4.1,https://www.collegehockeynews.com/box/final/20251101/mnd/ndk/,0.0,0.0,1,4
+20252026,Michigan,Notre Dame,2.0,1.0,40.0,20.0,3.3,2.0,https://www.collegehockeynews.com/box/final/20251101/mic/ndm/,0.0,0.0,2,0
+20252026,Minnesota,Wisconsin,0.0,4.0,22.0,29.0,1.9,2.7,https://www.collegehockeynews.com/box/final/20251101/min/wis/,0.0,0.0,0,2
+20252026,Yale,Dartmouth,1.0,6.0,23.0,41.0,2.5,4.2,https://www.collegehockeynews.com/box/final/20251102/yal/dar/,0.0,0.0,1,5
+20252026,Stonehill,Harvard,2.0,6.0,36.0,29.0,3.4,2.3,https://www.collegehockeynews.com/box/final/20251104/stn/har/,0.0,1.0,2,4
+20252026,Alaska,Quinnipiac,2.0,2.0,16.0,41.0,1.5,3.9,https://www.collegehockeynews.com/box/final/20251104/akf/qui/,0.0,0.0,0,0
+20252026,Maine,Massachusetts,6.0,2.0,54.0,16.0,4.1,2.0,https://www.collegehockeynews.com/box/final/20251106/mne/uma/,0.0,0.0,2,1
+20252026,Niagara,Holy Cross,1.0,5.0,16.0,46.0,2.1,4.7,https://www.collegehockeynews.com/box/final/20251107/nia/hcr/,0.0,0.0,1,2
+20252026,Army,Bentley,3.0,3.0,31.0,39.0,2.8,4.0,https://www.collegehockeynews.com/box/final/20251107/arm/ben/,0.0,0.0,1,1
+20252026,Mercyhurst,RIT,1.0,4.0,21.0,23.0,1.9,3.9,https://www.collegehockeynews.com/box/final/20251107/mrc/rit/,0.0,1.0,0,1
+20252026,Air Force,Sacred Heart,4.0,1.0,37.0,29.0,2.9,2.0,https://www.collegehockeynews.com/box/final/20251107/afa/sac/,0.0,0.0,1,0
+20252026,Princeton,Brown,1.0,2.0,27.0,23.0,3.2,2.2,https://www.collegehockeynews.com/box/final/20251107/prn/brn/,0.0,0.0,0,0
+20252026,Colgate,Dartmouth,1.0,4.0,19.0,19.0,1.8,2.4,https://www.collegehockeynews.com/box/final/20251107/clg/dar/,0.0,0.0,1,3
+20252026,Cornell,Harvard,3.0,1.0,34.0,31.0,2.8,3.8,https://www.collegehockeynews.com/box/final/20251107/cor/har/,0.0,0.0,2,1
+20252026,St. Lawrence,RPI,4.0,3.0,33.0,36.0,3.3,2.9,https://www.collegehockeynews.com/box/final/20251107/stl/ren/,1.0,0.0,3,2
+20252026,Clarkson,Union,5.0,1.0,17.0,40.0,1.8,3.3,https://www.collegehockeynews.com/box/final/20251107/clk/uni/,1.0,0.0,3,1
+20252026,Quinnipiac,Yale,2.0,4.0,27.0,23.0,2.9,1.8,https://www.collegehockeynews.com/box/final/20251107/qui/yal/,0.0,1.0,2,2
+20252026,Merrimack,Boston University,2.0,3.0,25.0,21.0,2.5,2.4,https://www.collegehockeynews.com/box/final/20251107/mer/bu_/,0.0,0.0,2,3
+20252026,Providence,Connecticut,4.0,1.0,40.0,38.0,3.6,4.7,https://www.collegehockeynews.com/box/final/20251107/prv/con/,0.0,0.0,2,1
+20252026,Maine,Massachusetts,0.0,4.0,37.0,35.0,2.4,2.8,https://www.collegehockeynews.com/box/final/20251107/mne/uma/,0.0,1.0,0,1
+20252026,Boston College,Vermont,2.0,1.0,33.0,30.0,2.7,2.2,https://www.collegehockeynews.com/box/final/20251107/bc_/ver/,0.0,0.0,1,0
+20252026,New Hampshire,Mass.-Lowell,2.0,0.0,27.0,26.0,2.0,2.9,https://www.collegehockeynews.com/box/final/20251107/unh/uml/,0.0,0.0,1,0
+20252026,St. Cloud State,Minnesota-Duluth,0.0,4.0,18.0,29.0,1.7,2.5,https://www.collegehockeynews.com/box/final/20251107/stc/mnd/,0.0,1.0,0,1
+20252026,North Dakota,Omaha,7.0,2.0,27.0,24.0,1.5,1.9,https://www.collegehockeynews.com/box/final/20251107/ndk/uno/,0.0,0.0,3,1
+20252026,Denver,Western Michigan,3.0,1.0,29.0,36.0,2.3,3.1,https://www.collegehockeynews.com/box/final/20251107/den/wmu/,1.0,0.0,2,1
+20252026,Colorado College,Arizona State,3.0,3.0,37.0,27.0,3.5,2.5,https://www.collegehockeynews.com/box/final/20251107/cc_/asu/,0.0,0.0,2,0
+20252026,Wisconsin,Michigan,4.0,7.0,24.0,33.0,3.6,4.0,https://www.collegehockeynews.com/box/final/20251107/wis/mic/,0.0,2.0,3,5
+20252026,Penn State,Michigan State,1.0,2.0,25.0,32.0,2.0,3.2,https://www.collegehockeynews.com/box/final/20251107/psu/msu/,0.0,0.0,1,2
+20252026,Notre Dame,Minnesota,0.0,3.0,19.0,34.0,1.5,2.7,https://www.collegehockeynews.com/box/final/20251107/ndm/min/,0.0,2.0,0,1
+20252026,Stonehill,Northeastern,0.0,2.0,36.0,20.0,3.0,2.0,https://www.collegehockeynews.com/box/final/20251107/stn/noe/,0.0,0.0,0,1
+20252026,Long Island,Robert Morris,6.0,3.0,27.0,30.0,2.6,2.7,https://www.collegehockeynews.com/box/final/20251107/liu/rmu/,0.0,0.0,6,2
+20252026,Northern Michigan,Michigan Tech,1.0,4.0,27.0,31.0,2.6,3.5,https://www.collegehockeynews.com/box/final/20251107/nmu/mtu/,0.0,1.0,0,3
+20252026,Bowling Green,Minnesota State,4.0,4.0,25.0,29.0,2.4,3.3,https://www.collegehockeynews.com/box/final/20251107/bgs/mns/,0.0,0.0,2,3
+20252026,Lake Superior,Bemidji State,1.0,4.0,11.0,37.0,1.8,4.1,https://www.collegehockeynews.com/box/final/20251107/lss/bmj/,0.0,1.0,0,1
+20252026,Augustana,Ferris State,4.0,2.0,25.0,30.0,2.3,2.5,https://www.collegehockeynews.com/box/final/20251107/aug/fsu/,1.0,0.0,1,1
+20252026,Niagara,Holy Cross,2.0,6.0,42.0,39.0,3.3,3.4,https://www.collegehockeynews.com/box/final/20251108/nia/hcr/,0.0,0.0,1,3
+20252026,Mercyhurst,RIT,2.0,3.0,35.0,21.0,2.9,2.2,https://www.collegehockeynews.com/box/final/20251108/mrc/rit/,0.0,0.0,2,3
+20252026,Air Force,Sacred Heart,3.0,2.0,24.0,37.0,2.9,3.5,https://www.collegehockeynews.com/box/final/20251108/afa/sac/,0.0,0.0,3,2
+20252026,Penn State,Michigan State,0.0,5.0,36.0,48.0,2.5,4.4,https://www.collegehockeynews.com/box/final/20251108/psu/msu/,0.0,0.0,0,3
+20252026,Wisconsin,Michigan,6.0,1.0,30.0,30.0,3.6,3.4,https://www.collegehockeynews.com/box/final/20251108/wis/mic/,0.0,0.0,3,0
+20252026,Notre Dame,Minnesota,1.0,4.0,34.0,35.0,2.6,3.3,https://www.collegehockeynews.com/box/final/20251108/ndm/min/,0.0,0.0,1,3
+20252026,Colorado College,Arizona State,3.0,1.0,35.0,36.0,3.2,2.9,https://www.collegehockeynews.com/box/final/20251108/cc_/asu/,1.0,0.0,1,1
+20252026,St. Cloud State,Minnesota-Duluth,2.0,3.0,32.0,35.0,2.6,3.1,https://www.collegehockeynews.com/box/final/20251108/stc/mnd/,0.0,0.0,1,2
+20252026,Denver,Western Michigan,6.0,3.0,34.0,44.0,2.3,3.4,https://www.collegehockeynews.com/box/final/20251108/den/wmu/,0.0,0.0,4,1
+20252026,North Dakota,Omaha,4.0,1.0,24.0,35.0,1.9,2.5,https://www.collegehockeynews.com/box/final/20251108/ndk/uno/,1.0,0.0,3,0
+20252026,Boston University,Merrimack,5.0,4.0,24.0,31.0,1.9,2.9,https://www.collegehockeynews.com/box/final/20251108/bu_/mer/,1.0,0.0,4,1
+20252026,Mass.-Lowell,New Hampshire,6.0,1.0,22.0,27.0,2.8,3.5,https://www.collegehockeynews.com/box/final/20251108/uml/unh/,0.0,0.0,2,0
+20252026,Connecticut,Providence,2.0,2.0,30.0,41.0,2.5,3.9,https://www.collegehockeynews.com/box/final/20251108/con/prv/,0.0,0.0,1,1
+20252026,Boston College,Vermont,5.0,0.0,27.0,21.0,2.5,2.0,https://www.collegehockeynews.com/box/final/20251108/bc_/ver/,0.0,0.0,4,0
+20252026,Bowling Green,Minnesota State,1.0,1.0,32.0,27.0,2.8,3.3,https://www.collegehockeynews.com/box/final/20251108/bgs/mns/,0.0,0.0,0,1
+20252026,Michigan Tech,Northern Michigan,4.0,2.0,31.0,25.0,3.1,3.3,https://www.collegehockeynews.com/box/final/20251108/mtu/nmu/,1.0,0.0,3,1
+20252026,Lake Superior,Bemidji State,2.0,3.0,24.0,24.0,2.5,2.9,https://www.collegehockeynews.com/box/final/20251108/lss/bmj/,0.0,0.0,1,3
+20252026,Augustana,Ferris State,0.0,2.0,24.0,20.0,2.6,2.0,https://www.collegehockeynews.com/box/final/20251108/aug/fsu/,0.0,0.0,0,2
+20252026,Quinnipiac,Brown,4.0,3.0,43.0,22.0,4.2,2.1,https://www.collegehockeynews.com/box/final/20251108/qui/brn/,0.0,0.0,3,2
+20252026,Cornell,Dartmouth,1.0,2.0,24.0,26.0,2.5,2.4,https://www.collegehockeynews.com/box/final/20251108/cor/dar/,0.0,0.0,1,1
+20252026,Colgate,Harvard,5.0,6.0,39.0,26.0,2.9,1.8,https://www.collegehockeynews.com/box/final/20251108/clg/har/,0.0,0.0,5,5
+20252026,Clarkson,RPI,1.0,5.0,28.0,24.0,3.5,2.5,https://www.collegehockeynews.com/box/final/20251108/clk/ren/,0.0,0.0,1,3
+20252026,St. Lawrence,Union,2.0,5.0,29.0,31.0,2.0,3.0,https://www.collegehockeynews.com/box/final/20251108/stl/uni/,0.0,1.0,1,3
+20252026,Princeton,Yale,1.0,2.0,17.0,28.0,1.9,2.5,https://www.collegehockeynews.com/box/final/20251108/prn/yal/,0.0,0.0,1,1
+20252026,Stonehill,Northeastern,2.0,4.0,27.0,30.0,3.3,2.9,https://www.collegehockeynews.com/box/final/20251108/stn/noe/,0.0,1.0,1,2
+20252026,Long Island,Robert Morris,2.0,0.0,30.0,31.0,2.8,3.3,https://www.collegehockeynews.com/box/final/20251108/liu/rmu/,1.0,0.0,0,0
+20252026,Bentley,Army,3.0,2.0,23.0,22.0,2.0,2.2,https://www.collegehockeynews.com/box/final/20251109/ben/arm/,0.0,0.0,2,2
+20252026,St. Cloud State,St. Thomas,1.0,3.0,32.0,35.0,2.5,3.2,https://www.collegehockeynews.com/box/final/20251111/stc/stt/,0.0,0.0,1,3
+20252026,Army,Niagara,4.0,6.0,20.0,23.0,2.4,2.3,https://www.collegehockeynews.com/box/final/20251114/arm/nia/,0.0,0.0,1,3
+20252026,RIT,Robert Morris,2.0,1.0,33.0,19.0,2.8,2.2,https://www.collegehockeynews.com/box/final/20251114/rit/rmu/,0.0,0.0,1,1
+20252026,Canisius,Sacred Heart,1.0,6.0,25.0,19.0,2.5,2.2,https://www.collegehockeynews.com/box/final/20251114/cns/sac/,0.0,0.0,1,4
+20252026,Holy Cross,Air Force,3.0,2.0,24.0,35.0,2.5,3.8,https://www.collegehockeynews.com/box/final/20251114/hcr/afa/,1.0,0.0,2,0
+20252026,Ferris State,Bowling Green,5.0,9.0,21.0,23.0,1.9,2.3,https://www.collegehockeynews.com/box/final/20251114/fsu/bgs/,0.0,1.0,3,6
+20252026,Minnesota State,Lake Superior,2.0,1.0,41.0,38.0,2.3,2.4,https://www.collegehockeynews.com/box/final/20251114/mns/lss/,0.0,0.0,1,1
+20252026,Bemidji State,Michigan Tech,2.0,2.0,35.0,26.0,3.4,2.7,https://www.collegehockeynews.com/box/final/20251114/bmj/mtu/,0.0,0.0,1,1
+20252026,Harvard,Clarkson,2.0,1.0,24.0,36.0,3.2,4.1,https://www.collegehockeynews.com/box/final/20251114/har/clk/,0.0,0.0,2,1
+20252026,Brown,Cornell,1.0,4.0,28.0,25.0,2.1,2.6,https://www.collegehockeynews.com/box/final/20251114/brn/cor/,0.0,0.0,1,3
+20252026,Dartmouth,St. Lawrence,6.0,1.0,27.0,15.0,2.4,1.2,https://www.collegehockeynews.com/box/final/20251114/dar/stl/,0.0,0.0,2,1
+20252026,Yale,Colgate,3.0,4.0,23.0,50.0,2.7,5.8,https://www.collegehockeynews.com/box/final/20251114/yal/clg/,0.0,0.0,2,1
+20252026,Northeastern,Connecticut,2.0,4.0,35.0,35.0,3.4,2.9,https://www.collegehockeynews.com/box/final/20251114/noe/con/,0.0,1.0,2,3
+20252026,Vermont,Maine,0.0,7.0,29.0,32.0,2.6,4.5,https://www.collegehockeynews.com/box/final/20251114/ver/mne/,0.0,0.0,0,5
+20252026,Merrimack,Providence,2.0,4.0,15.0,37.0,1.5,3.4,https://www.collegehockeynews.com/box/final/20251114/mer/prv/,0.0,1.0,0,2
+20252026,Massachusetts,Boston College,3.0,7.0,16.0,39.0,2.0,4.9,https://www.collegehockeynews.com/box/final/20251114/uma/bc_/,0.0,1.0,2,5
+20252026,Colorado College,Denver,1.0,2.0,30.0,31.0,2.6,2.6,https://www.collegehockeynews.com/box/final/20251114/cc_/den/,0.0,0.0,1,2
+20252026,Omaha,Minnesota-Duluth,2.0,5.0,25.0,43.0,2.4,4.4,https://www.collegehockeynews.com/box/final/20251114/uno/mnd/,0.0,0.0,2,4
+20252026,Miami,Western Michigan,2.0,5.0,22.0,40.0,2.4,3.4,https://www.collegehockeynews.com/box/final/20251114/mia/wmu/,0.0,0.0,1,3
+20252026,Arizona State,North Dakota,2.0,5.0,21.0,43.0,2.6,4.6,https://www.collegehockeynews.com/box/final/20251114/asu/ndk/,0.0,0.0,1,4
+20252026,Michigan State,Notre Dame,4.0,1.0,47.0,25.0,4.3,2.0,https://www.collegehockeynews.com/box/final/20251114/msu/ndm/,1.0,0.0,2,0
+20252026,Ohio State,Wisconsin,5.0,1.0,20.0,31.0,2.3,3.5,https://www.collegehockeynews.com/box/final/20251114/osu/wis/,1.0,0.0,3,1
+20252026,Michigan,Penn State,7.0,1.0,37.0,27.0,4.4,2.8,https://www.collegehockeynews.com/box/final/20251114/mic/psu/,0.0,0.0,5,1
+20252026,Long Island,Minnesota,6.0,2.0,22.0,38.0,1.5,3.1,https://www.collegehockeynews.com/box/final/20251114/liu/min/,0.0,0.0,3,2
+20252026,New Hampshire,RPI,6.0,3.0,31.0,25.0,2.4,2.2,https://www.collegehockeynews.com/box/final/20251114/unh/ren/,1.0,0.0,4,2
+20252026,Mass.-Lowell,Union,1.0,7.0,33.0,33.0,3.2,2.9,https://www.collegehockeynews.com/box/final/20251114/uml/uni/,0.0,0.0,0,4
+20252026,Alaska-Anchorage,Bentley,1.0,2.0,30.0,36.0,2.6,3.7,https://www.collegehockeynews.com/box/final/20251114/aka/ben/,0.0,0.0,1,1
+20252026,Dartmouth,Clarkson,3.0,1.0,23.0,28.0,2.5,2.4,https://www.collegehockeynews.com/box/final/20251115/dar/clk/,0.0,0.0,3,1
+20252026,Brown,Colgate,0.0,4.0,21.0,24.0,2.2,2.4,https://www.collegehockeynews.com/box/final/20251115/brn/clg/,0.0,1.0,0,1
+20252026,Yale,Cornell,2.0,5.0,29.0,26.0,2.7,2.4,https://www.collegehockeynews.com/box/final/20251115/yal/cor/,0.0,0.0,2,4
+20252026,Harvard,St. Lawrence,4.0,3.0,26.0,36.0,1.7,2.9,https://www.collegehockeynews.com/box/final/20251115/har/stl/,0.0,0.0,3,3
+20252026,Boston University,Quinnipiac,2.0,6.0,33.0,49.0,3.4,4.2,https://www.collegehockeynews.com/box/final/20251115/bu_/qui/,0.0,0.0,1,3
+20252026,Mass.-Lowell,RPI,0.0,2.0,29.0,24.0,2.4,2.1,https://www.collegehockeynews.com/box/final/20251115/uml/ren/,0.0,1.0,0,1
+20252026,Long Island,Minnesota,3.0,6.0,25.0,29.0,1.9,2.9,https://www.collegehockeynews.com/box/final/20251115/liu/min/,0.0,0.0,1,3
+20252026,New Hampshire,Union,0.0,6.0,24.0,29.0,1.9,2.5,https://www.collegehockeynews.com/box/final/20251115/unh/uni/,0.0,0.0,0,1
+20252026,Alaska-Anchorage,Bentley,3.0,2.0,20.0,36.0,2.2,3.2,https://www.collegehockeynews.com/box/final/20251115/aka/ben/,0.0,0.0,1,0
+20252026,Stonehill,Princeton,2.0,3.0,29.0,35.0,2.0,2.7,https://www.collegehockeynews.com/box/final/20251115/stn/prn/,0.0,0.0,2,3
+20252026,Army,Niagara,1.0,4.0,21.0,42.0,2.1,3.5,https://www.collegehockeynews.com/box/final/20251115/arm/nia/,0.0,1.0,0,1
+20252026,Canisius,Sacred Heart,2.0,3.0,28.0,27.0,2.7,2.6,https://www.collegehockeynews.com/box/final/20251115/cns/sac/,0.0,0.0,1,3
+20252026,RIT,Robert Morris,3.0,2.0,22.0,22.0,2.6,1.9,https://www.collegehockeynews.com/box/final/20251115/rit/rmu/,0.0,0.0,3,2
+20252026,Holy Cross,Air Force,4.0,1.0,24.0,24.0,2.0,3.1,https://www.collegehockeynews.com/box/final/20251115/hcr/afa/,2.0,0.0,2,0
+20252026,Ferris State,Bowling Green,2.0,5.0,16.0,29.0,1.9,3.1,https://www.collegehockeynews.com/box/final/20251115/fsu/bgs/,0.0,0.0,1,4
+20252026,Minnesota State,Lake Superior,4.0,2.0,31.0,30.0,1.8,2.2,https://www.collegehockeynews.com/box/final/20251115/mns/lss/,1.0,0.0,3,2
+20252026,Bemidji State,Michigan Tech,1.0,2.0,27.0,23.0,2.4,1.9,https://www.collegehockeynews.com/box/final/20251115/bmj/mtu/,0.0,0.0,1,2
+20252026,St. Thomas,Augustana,4.0,4.0,38.0,31.0,3.2,2.7,https://www.collegehockeynews.com/box/final/20251115/stt/aug/,0.0,0.0,3,3
+20252026,Providence,Merrimack,2.0,3.0,42.0,25.0,3.5,2.1,https://www.collegehockeynews.com/box/final/20251115/prv/mer/,0.0,0.0,0,1
+20252026,Boston College,Massachusetts,4.0,0.0,35.0,32.0,3.0,3.3,https://www.collegehockeynews.com/box/final/20251115/bc_/uma/,1.0,0.0,3,0
+20252026,Vermont,Maine,2.0,1.0,28.0,44.0,2.4,4.8,https://www.collegehockeynews.com/box/final/20251115/ver/mne/,0.0,0.0,1,1
+20252026,Connecticut,Northeastern,4.0,3.0,34.0,19.0,3.3,2.2,https://www.collegehockeynews.com/box/final/20251115/con/noe/,0.0,0.0,2,2
+20252026,Denver,Colorado College,3.0,2.0,26.0,40.0,3.1,3.6,https://www.collegehockeynews.com/box/final/20251115/den/cc_/,0.0,0.0,2,0
+20252026,Omaha,Minnesota-Duluth,2.0,0.0,21.0,32.0,2.0,3.1,https://www.collegehockeynews.com/box/final/20251115/uno/mnd/,0.0,0.0,1,0
+20252026,Miami,Western Michigan,2.0,6.0,16.0,51.0,1.3,4.0,https://www.collegehockeynews.com/box/final/20251115/mia/wmu/,0.0,0.0,2,6
+20252026,Arizona State,North Dakota,4.0,2.0,15.0,41.0,1.7,3.9,https://www.collegehockeynews.com/box/final/20251115/asu/ndk/,0.0,0.0,2,2
+20252026,Michigan State,Notre Dame,3.0,1.0,33.0,29.0,2.8,3.2,https://www.collegehockeynews.com/box/final/20251115/msu/ndm/,1.0,0.0,2,0
+20252026,Ohio State,Wisconsin,5.0,6.0,36.0,24.0,3.2,3.7,https://www.collegehockeynews.com/box/final/20251115/osu/wis/,0.0,0.0,5,5
+20252026,Michigan,Penn State,2.0,4.0,34.0,31.0,3.1,2.3,https://www.collegehockeynews.com/box/final/20251115/mic/psu/,0.0,1.0,2,3
+20252026,RIT,Niagara,1.0,2.0,27.0,22.0,2.5,2.4,https://www.collegehockeynews.com/box/final/20251118/rit/nia/,0.0,0.0,1,2
+20252026,Alaska-Anchorage,Stonehill,4.0,0.0,29.0,35.0,2.1,3.0,https://www.collegehockeynews.com/box/final/20251118/aka/stn/,0.0,0.0,4,0
+20252026,Alaska-Anchorage,Brown,2.0,5.0,37.0,33.0,3.7,2.8,https://www.collegehockeynews.com/box/final/20251119/aka/brn/,0.0,1.0,1,4
+20252026,Massachusetts,Providence,2.0,1.0,30.0,49.0,2.9,4.6,https://www.collegehockeynews.com/box/final/20251120/uma/prv/,0.0,0.0,1,1
+20252026,Alaska-Anchorage,Holy Cross,2.0,7.0,23.0,50.0,2.7,4.2,https://www.collegehockeynews.com/box/final/20251120/aka/hcr/,0.0,0.0,1,5
+20252026,Mercyhurst,Canisius,3.0,4.0,36.0,22.0,3.6,2.3,https://www.collegehockeynews.com/box/final/20251121/mrc/cns/,0.0,0.0,3,3
+20252026,Air Force,Army,6.0,3.0,39.0,24.0,4.0,2.8,https://www.collegehockeynews.com/box/final/20251121/afa/arm/,0.0,0.0,5,2
+20252026,RIT,Bentley,2.0,3.0,21.0,26.0,2.2,2.6,https://www.collegehockeynews.com/box/final/20251121/rit/ben/,0.0,0.0,0,3
+20252026,Lake Superior,Ferris State,2.0,1.0,21.0,33.0,2.5,3.4,https://www.collegehockeynews.com/box/final/20251121/lss/fsu/,0.0,0.0,1,0
+20252026,Michigan Tech,Minnesota State,0.0,3.0,12.0,27.0,1.6,2.9,https://www.collegehockeynews.com/box/final/20251121/mtu/mns/,0.0,0.0,0,2
+20252026,Bowling Green,St. Thomas,3.0,2.0,21.0,38.0,2.7,3.4,https://www.collegehockeynews.com/box/final/20251121/bgs/stt/,0.0,0.0,2,1
+20252026,Northern Michigan,Bemidji State,3.0,7.0,15.0,34.0,1.6,4.2,https://www.collegehockeynews.com/box/final/20251121/nmu/bmj/,0.0,0.0,2,5
+20252026,Yale,Brown,2.0,4.0,31.0,32.0,3.2,3.0,https://www.collegehockeynews.com/box/final/20251121/yal/brn/,0.0,0.0,1,3
+20252026,RPI,Colgate,1.0,2.0,28.0,30.0,3.2,3.2,https://www.collegehockeynews.com/box/final/20251121/ren/clg/,0.0,0.0,0,2
+20252026,Union,Cornell,1.0,2.0,19.0,23.0,2.5,2.6,https://www.collegehockeynews.com/box/final/20251121/uni/cor/,0.0,0.0,0,1
+20252026,St. Lawrence,Princeton,4.0,7.0,19.0,31.0,1.7,2.4,https://www.collegehockeynews.com/box/final/20251121/stl/prn/,0.0,1.0,2,3
+20252026,Clarkson,Quinnipiac,1.0,4.0,23.0,34.0,3.2,4.0,https://www.collegehockeynews.com/box/final/20251121/clk/qui/,0.0,0.0,0,2
+20252026,Connecticut,New Hampshire,4.0,1.0,22.0,37.0,2.5,3.7,https://www.collegehockeynews.com/box/final/20251121/con/unh/,1.0,0.0,2,1
+20252026,Boston University,Northeastern,2.0,3.0,34.0,25.0,2.8,2.9,https://www.collegehockeynews.com/box/final/20251121/bu_/noe/,0.0,0.0,2,3
+20252026,Maine,Boston College,3.0,7.0,38.0,28.0,4.2,4.3,https://www.collegehockeynews.com/box/final/20251121/mne/bc_/,0.0,1.0,2,4
+20252026,Minnesota-Duluth,Colorado College,4.0,2.0,30.0,20.0,2.0,2.0,https://www.collegehockeynews.com/box/final/20251121/mnd/cc_/,1.0,0.0,1,2
+20252026,Western Michigan,Omaha,7.0,2.0,43.0,23.0,2.2,1.3,https://www.collegehockeynews.com/box/final/20251121/wmu/uno/,0.0,0.0,4,1
+20252026,Denver,Arizona State,7.0,1.0,33.0,32.0,2.3,2.4,https://www.collegehockeynews.com/box/final/20251121/den/asu/,0.0,0.0,5,0
+20252026,St. Cloud State,Miami,5.0,6.0,19.0,34.0,2.3,3.1,https://www.collegehockeynews.com/box/final/20251121/stc/mia/,0.0,0.0,2,5
+20252026,Ohio State,Michigan,2.0,5.0,22.0,45.0,3.0,6.2,https://www.collegehockeynews.com/box/final/20251121/osu/mic/,0.0,0.0,1,4
+20252026,Penn State,Minnesota,2.0,3.0,29.0,29.0,3.0,3.2,https://www.collegehockeynews.com/box/final/20251121/psu/min/,0.0,0.0,2,2
+20252026,Wisconsin,Michigan State,5.0,4.0,34.0,39.0,2.7,3.5,https://www.collegehockeynews.com/box/final/20251121/wis/msu/,0.0,0.0,4,3
+20252026,Robert Morris,Lindenwood,2.0,6.0,24.0,50.0,2.5,6.0,https://www.collegehockeynews.com/box/final/20251121/rmu/lin/,0.0,0.0,1,4
+20252026,Merrimack,Long Island,6.0,2.0,36.0,25.0,3.4,2.3,https://www.collegehockeynews.com/box/final/20251121/mer/liu/,0.0,0.0,3,1
+20252026,Denver,Arizona State,2.0,3.0,44.0,27.0,2.9,2.5,https://www.collegehockeynews.com/box/final/20251122/den/asu/,0.0,0.0,2,2
+20252026,Minnesota-Duluth,Colorado College,1.0,2.0,30.0,40.0,2.7,4.1,https://www.collegehockeynews.com/box/final/20251122/mnd/cc_/,0.0,0.0,0,2
+20252026,St. Cloud State,Miami,4.0,2.0,29.0,37.0,2.2,2.5,https://www.collegehockeynews.com/box/final/20251122/stc/mia/,1.0,0.0,0,1
+20252026,Western Michigan,Omaha,4.0,2.0,32.0,29.0,2.2,2.2,https://www.collegehockeynews.com/box/final/20251122/wmu/uno/,1.0,0.0,3,2
+20252026,Long Island,Sacred Heart,2.0,7.0,35.0,37.0,2.7,2.4,https://www.collegehockeynews.com/box/final/20251122/liu/sac/,0.0,0.0,1,5
+20252026,Robert Morris,Lindenwood,3.0,5.0,31.0,39.0,3.8,4.2,https://www.collegehockeynews.com/box/final/20251122/rmu/lin/,0.0,0.0,1,4
+20252026,Harvard,Vermont,5.0,1.0,14.0,24.0,1.1,1.8,https://www.collegehockeynews.com/box/final/20251122/har/ver/,0.0,0.0,4,1
+20252026,Lake Superior,Ferris State,3.0,4.0,25.0,27.0,2.3,2.6,https://www.collegehockeynews.com/box/final/20251122/lss/fsu/,0.0,0.0,2,4
+20252026,Michigan Tech,Minnesota State,2.0,3.0,29.0,20.0,2.2,1.4,https://www.collegehockeynews.com/box/final/20251122/mtu/mns/,0.0,0.0,0,3
+20252026,Bowling Green,St. Thomas,2.0,6.0,41.0,42.0,4.1,4.5,https://www.collegehockeynews.com/box/final/20251122/bgs/stt/,0.0,1.0,0,3
+20252026,Northern Michigan,Bemidji State,2.0,6.0,21.0,28.0,2.1,4.0,https://www.collegehockeynews.com/box/final/20251122/nmu/bmj/,0.0,1.0,0,1
+20252026,New Hampshire,Connecticut,4.0,3.0,30.0,36.0,2.2,3.0,https://www.collegehockeynews.com/box/final/20251122/unh/con/,0.0,0.0,3,2
+20252026,Northeastern,Boston University,3.0,4.0,26.0,47.0,3.2,4.5,https://www.collegehockeynews.com/box/final/20251122/noe/bu_/,0.0,0.0,1,2
+20252026,Providence,Massachusetts,5.0,1.0,45.0,20.0,3.1,2.0,https://www.collegehockeynews.com/box/final/20251122/prv/uma/,1.0,0.0,4,1
+20252026,Maine,Boston College,3.0,0.0,19.0,21.0,2.8,3.6,https://www.collegehockeynews.com/box/final/20251122/mne/bc_/,0.0,0.0,2,0
+20252026,Mercyhurst,Canisius,1.0,5.0,25.0,25.0,2.1,2.5,https://www.collegehockeynews.com/box/final/20251122/mrc/cns/,0.0,0.0,1,5
+20252026,Air Force,Army,3.0,2.0,24.0,33.0,2.6,3.5,https://www.collegehockeynews.com/box/final/20251122/afa/arm/,0.0,0.0,2,1
+20252026,Union,Colgate,4.0,4.0,36.0,34.0,4.2,4.3,https://www.collegehockeynews.com/box/final/20251122/uni/clg/,0.0,0.0,3,3
+20252026,RPI,Cornell,1.0,6.0,24.0,28.0,2.0,3.2,https://www.collegehockeynews.com/box/final/20251122/ren/cor/,0.0,0.0,1,4
+20252026,Clarkson,Princeton,3.0,4.0,26.0,28.0,2.0,3.1,https://www.collegehockeynews.com/box/final/20251122/clk/prn/,0.0,0.0,1,4
+20252026,St. Lawrence,Quinnipiac,2.0,4.0,19.0,51.0,2.0,7.3,https://www.collegehockeynews.com/box/final/20251122/stl/qui/,0.0,0.0,1,3
+20252026,Brown,Yale,1.0,3.0,41.0,22.0,1.9,1.9,https://www.collegehockeynews.com/box/final/20251122/brn/yal/,0.0,0.0,0,2
+20252026,Ohio State,Michigan,1.0,8.0,39.0,30.0,4.8,5.2,https://www.collegehockeynews.com/box/final/20251122/osu/mic/,0.0,0.0,0,6
+20252026,Wisconsin,Michigan State,2.0,1.0,28.0,33.0,2.8,2.8,https://www.collegehockeynews.com/box/final/20251122/wis/msu/,0.0,0.0,1,0
+20252026,Penn State,Minnesota,2.0,1.0,29.0,24.0,2.5,2.3,https://www.collegehockeynews.com/box/final/20251122/psu/min/,0.0,0.0,0,0
+20252026,Alaska-Anchorage,Holy Cross,0.0,1.0,28.0,34.0,3.4,4.5,https://www.collegehockeynews.com/box/final/20251123/aka/hcr/,0.0,0.0,0,1
+20252026,Stonehill,Connecticut,3.0,3.0,26.0,38.0,1.9,2.8,https://www.collegehockeynews.com/box/final/20251125/stn/con/,0.0,0.0,1,2
+20252026,Bentley,Army,3.0,1.0,28.0,27.0,2.4,1.7,https://www.collegehockeynews.com/box/final/20251125/ben/arm/,1.0,0.0,2,1
+20252026,Notre Dame,Merrimack,5.0,4.0,33.0,35.0,2.8,3.0,https://www.collegehockeynews.com/box/final/20251126/ndm/mer/,0.0,0.0,4,3
+20252026,Holy Cross,Quinnipiac,6.0,7.0,24.0,33.0,2.7,4.8,https://www.collegehockeynews.com/box/final/20251126/hcr/qui/,0.0,0.0,5,5
+20252026,Colgate,Michigan State,2.0,5.0,31.0,42.0,2.8,4.3,https://www.collegehockeynews.com/box/final/20251126/clg/msu/,0.0,0.0,2,5
+20252026,Air Force,Canisius,6.0,3.0,29.0,32.0,2.4,4.2,https://www.collegehockeynews.com/box/final/20251128/afa/cns/,0.0,0.0,5,3
+20252026,Robert Morris,Mercyhurst,3.0,1.0,25.0,21.0,1.6,1.9,https://www.collegehockeynews.com/box/final/20251128/rmu/mrc/,0.0,0.0,1,1
+20252026,Notre Dame,Boston College,3.0,5.0,23.0,34.0,3.2,5.2,https://www.collegehockeynews.com/box/final/20251128/ndm/bc_/,0.0,0.0,2,5
+20252026,Ohio State,Arizona State,2.0,3.0,32.0,33.0,2.5,3.6,https://www.collegehockeynews.com/box/final/20251128/osu/asu/,0.0,0.0,2,2
+20252026,Colgate,Michigan State,1.0,4.0,26.0,43.0,2.0,3.5,https://www.collegehockeynews.com/box/final/20251128/clg/msu/,0.0,0.0,0,2
+20252026,Vermont,Dartmouth,2.0,7.0,24.0,33.0,2.1,3.1,https://www.collegehockeynews.com/box/final/20251128/ver/dar/,0.0,0.0,2,5
+20252026,RPI,Niagara,4.0,1.0,37.0,20.0,3.5,2.5,https://www.collegehockeynews.com/box/final/20251128/ren/nia/,0.0,0.0,4,1
+20252026,Long Island,Lindenwood,2.0,5.0,41.0,39.0,3.4,4.1,https://www.collegehockeynews.com/box/final/20251128/liu/lin/,0.0,0.0,2,3
+20252026,Princeton,Bowling Green,1.0,4.0,18.0,30.0,1.9,2.3,https://www.collegehockeynews.com/box/final/20251128/prn/bgs/,0.0,0.0,1,4
+20252026,Providence,Colorado College,2.0,3.0,25.0,33.0,3.0,4.5,https://www.collegehockeynews.com/box/final/20251128/prv/cc_/,0.0,0.0,0,2
+20252026,Michigan,Harvard,5.0,1.0,33.0,33.0,3.2,3.3,https://www.collegehockeynews.com/box/final/20251128/mic/har/,0.0,0.0,4,1
+20252026,Omaha,Yale,1.0,2.0,31.0,17.0,2.7,1.0,https://www.collegehockeynews.com/box/final/20251128/uno/yal/,0.0,0.0,1,2
+20252026,North Dakota,Bemidji State,5.0,3.0,42.0,20.0,4.8,2.7,https://www.collegehockeynews.com/box/final/20251128/ndk/bmj/,1.0,0.0,1,3
+20252026,Miami,RIT,4.0,0.0,31.0,23.0,3.3,2.6,https://www.collegehockeynews.com/box/final/20251128/mia/rit/,2.0,0.0,1,0
+20252026,Sacred Heart,Union,1.0,8.0,19.0,32.0,2.2,2.8,https://www.collegehockeynews.com/box/final/20251128/sac/uni/,0.0,0.0,1,5
+20252026,Alaska,St. Lawrence,2.0,0.0,25.0,19.0,3.4,2.7,https://www.collegehockeynews.com/box/final/20251128/akf/stl/,0.0,0.0,2,0
+20252026,Clarkson,Mass.-Lowell,2.0,0.0,31.0,21.0,3.3,2.2,https://www.collegehockeynews.com/box/final/20251128/clk/uml/,0.0,0.0,1,0
+20252026,St. Thomas,Michigan Tech,3.0,3.0,41.0,23.0,3.4,2.9,https://www.collegehockeynews.com/box/final/20251128/stt/mtu/,0.0,0.0,2,1
+20252026,Minnesota State,Northern Michigan,4.0,0.0,37.0,35.0,4.5,3.2,https://www.collegehockeynews.com/box/final/20251128/mns/nmu/,1.0,0.0,1,0
+20252026,Augustana,Lake Superior,1.0,2.0,25.0,32.0,2.7,2.7,https://www.collegehockeynews.com/box/final/20251128/aug/lss/,0.0,0.0,0,1
+20252026,Air Force,Canisius,3.0,3.0,23.0,32.0,2.9,3.1,https://www.collegehockeynews.com/box/final/20251129/afa/cns/,0.0,0.0,0,2
+20252026,Mercyhurst,Robert Morris,1.0,1.0,20.0,37.0,1.4,3.3,https://www.collegehockeynews.com/box/final/20251129/mrc/rmu/,0.0,0.0,0,1
+20252026,Mass.-Lowell,St. Lawrence,7.0,3.0,47.0,12.0,5.6,1.6,https://www.collegehockeynews.com/box/final/20251129/uml/stl/,1.0,0.0,5,3
+20252026,Alaska,Clarkson,3.0,2.0,21.0,23.0,2.8,2.8,https://www.collegehockeynews.com/box/final/20251129/akf/clk/,0.0,0.0,3,2
+20252026,RIT,Sacred Heart,0.0,3.0,26.0,21.0,2.4,2.7,https://www.collegehockeynews.com/box/final/20251129/rit/sac/,0.0,2.0,0,1
+20252026,Union,Miami,2.0,3.0,31.0,28.0,2.9,2.7,https://www.collegehockeynews.com/box/final/20251129/uni/mia/,0.0,0.0,2,2
+20252026,Merrimack,Dartmouth,0.0,1.0,24.0,21.0,2.0,2.6,https://www.collegehockeynews.com/box/final/20251129/mer/dar/,0.0,0.0,0,1
+20252026,Brown,Northeastern,1.0,4.0,28.0,32.0,2.7,2.9,https://www.collegehockeynews.com/box/final/20251129/brn/noe/,0.0,1.0,1,3
+20252026,Stonehill,Quinnipiac,2.0,3.0,18.0,42.0,1.8,5.4,https://www.collegehockeynews.com/box/final/20251129/stn/qui/,0.0,0.0,2,1
+20252026,Massachusetts,Army,4.0,5.0,38.0,22.0,3.1,1.5,https://www.collegehockeynews.com/box/final/20251129/uma/arm/,0.0,0.0,2,3
+20252026,RPI,Niagara,3.0,2.0,25.0,38.0,2.2,2.8,https://www.collegehockeynews.com/box/final/20251129/ren/nia/,0.0,0.0,1,1
+20252026,Ohio State,Arizona State,3.0,4.0,31.0,42.0,2.6,3.8,https://www.collegehockeynews.com/box/final/20251129/osu/asu/,0.0,0.0,2,4
+20252026,New Hampshire,Bentley,3.0,0.0,27.0,22.0,2.0,1.7,https://www.collegehockeynews.com/box/final/20251129/unh/ben/,0.0,0.0,2,0
+20252026,Long Island,Lindenwood,5.0,2.0,41.0,33.0,4.9,3.7,https://www.collegehockeynews.com/box/final/20251129/liu/lin/,0.0,0.0,3,2
+20252026,Providence,Colorado College,2.0,1.0,27.0,38.0,4.0,4.6,https://www.collegehockeynews.com/box/final/20251129/prv/cc_/,0.0,0.0,2,1
+20252026,Bemidji State,North Dakota,1.0,2.0,34.0,30.0,3.1,3.7,https://www.collegehockeynews.com/box/final/20251129/bmj/ndk/,0.0,0.0,1,1
+20252026,Princeton,Bowling Green,3.0,4.0,22.0,16.0,2.3,1.3,https://www.collegehockeynews.com/box/final/20251129/prn/bgs/,0.0,0.0,3,2
+20252026,Minnesota,Denver,6.0,5.0,25.0,52.0,2.8,5.7,https://www.collegehockeynews.com/box/final/20251129/min/den/,0.0,0.0,4,3
+20252026,Michigan,Harvard,4.0,3.0,26.0,32.0,2.6,3.5,https://www.collegehockeynews.com/box/final/20251129/mic/har/,0.0,0.0,3,1
+20252026,Omaha,Yale,3.0,1.0,34.0,29.0,2.4,3.7,https://www.collegehockeynews.com/box/final/20251129/uno/yal/,1.0,0.0,2,1
+20252026,Boston University,Cornell,2.0,1.0,17.0,29.0,1.9,2.7,https://www.collegehockeynews.com/box/final/20251129/bu_/cor/,0.0,0.0,1,1
+20252026,St. Thomas,Michigan Tech,2.0,1.0,28.0,30.0,2.3,3.6,https://www.collegehockeynews.com/box/final/20251129/stt/mtu/,0.0,0.0,0,1
+20252026,Minnesota State,Northern Michigan,3.0,2.0,36.0,33.0,4.0,3.0,https://www.collegehockeynews.com/box/final/20251129/mns/nmu/,0.0,0.0,1,0
+20252026,Augustana,Lake Superior,2.0,1.0,29.0,22.0,3.0,1.8,https://www.collegehockeynews.com/box/final/20251129/aug/lss/,0.0,0.0,1,1
+20252026,Minnesota,Ohio State,6.0,3.0,28.0,35.0,2.6,3.5,https://www.collegehockeynews.com/box/final/20251204/min/osu/,2.0,0.0,3,3
+20252026,Assumption,Long Island,,,,,,,https://www.collegehockeynews.com/box/final/20251205/401/liu/,0.0,0.0,0,7
+20252026,Minnesota,Ohio State,5.0,6.0,19.0,36.0,1.5,4.3,https://www.collegehockeynews.com/box/final/20251205/min/osu/,0.0,0.0,4,3
+20252026,Wisconsin,Notre Dame,7.0,4.0,37.0,31.0,2.9,2.4,https://www.collegehockeynews.com/box/final/20251205/wis/ndm/,2.0,0.0,5,3
+20252026,Michigan,Michigan State,3.0,0.0,27.0,23.0,2.4,2.6,https://www.collegehockeynews.com/box/final/20251205/mic/msu/,0.0,0.0,2,0
+20252026,Canisius,RIT,1.0,3.0,22.0,27.0,2.1,2.9,https://www.collegehockeynews.com/box/final/20251205/cns/rit/,0.0,0.0,1,1
+20252026,Army,Sacred Heart,3.0,3.0,43.0,36.0,4.0,3.5,https://www.collegehockeynews.com/box/final/20251205/arm/sac/,0.0,0.0,1,1
+20252026,Niagara,Bentley,3.0,1.0,19.0,38.0,1.7,3.1,https://www.collegehockeynews.com/box/final/20251205/nia/ben/,1.0,0.0,2,1
+20252026,Robert Morris,Air Force,1.0,4.0,22.0,30.0,2.5,3.8,https://www.collegehockeynews.com/box/final/20251205/rmu/afa/,0.0,0.0,1,4
+20252026,Cornell,Clarkson,1.0,4.0,33.0,29.0,3.1,2.3,https://www.collegehockeynews.com/box/final/20251205/cor/clk/,0.0,0.0,0,4
+20252026,Brown,Dartmouth,3.0,7.0,17.0,41.0,2.2,3.9,https://www.collegehockeynews.com/box/final/20251205/brn/dar/,0.0,0.0,3,6
+20252026,Yale,Harvard,2.0,3.0,13.0,31.0,1.1,2.5,https://www.collegehockeynews.com/box/final/20251205/yal/har/,0.0,0.0,1,2
+20252026,Quinnipiac,RPI,5.0,1.0,27.0,17.0,4.2,2.7,https://www.collegehockeynews.com/box/final/20251205/qui/ren/,0.0,0.0,4,1
+20252026,Colgate,St. Lawrence,4.0,2.0,28.0,27.0,3.0,1.8,https://www.collegehockeynews.com/box/final/20251205/clg/stl/,0.0,0.0,3,2
+20252026,Princeton,Union,5.0,1.0,26.0,30.0,2.4,3.2,https://www.collegehockeynews.com/box/final/20251205/prn/uni/,0.0,0.0,5,0
+20252026,Vermont,Boston University,1.0,2.0,26.0,28.0,2.4,1.9,https://www.collegehockeynews.com/box/final/20251205/ver/bu_/,0.0,0.0,1,2
+20252026,New Hampshire,Maine,1.0,0.0,14.0,21.0,1.4,3.1,https://www.collegehockeynews.com/box/final/20251205/unh/mne/,0.0,0.0,1,0
+20252026,Connecticut,Merrimack,3.0,0.0,36.0,19.0,3.7,1.4,https://www.collegehockeynews.com/box/final/20251205/con/mer/,0.0,0.0,3,0
+20252026,Boston College,Mass.-Lowell,3.0,1.0,29.0,20.0,3.0,2.3,https://www.collegehockeynews.com/box/final/20251205/bc_/uml/,0.0,0.0,1,1
+20252026,Miami,Denver,0.0,4.0,22.0,42.0,1.9,4.1,https://www.collegehockeynews.com/box/final/20251205/mia/den/,0.0,0.0,0,3
+20252026,North Dakota,St. Cloud State,4.0,3.0,23.0,23.0,3.4,2.8,https://www.collegehockeynews.com/box/final/20251205/ndk/stc/,0.0,0.0,3,2
+20252026,Minnesota-Duluth,Western Michigan,4.0,1.0,30.0,23.0,2.4,2.7,https://www.collegehockeynews.com/box/final/20251205/mnd/wmu/,0.0,0.0,1,1
+20252026,Stonehill,Alaska-Anchorage,3.0,2.0,48.0,16.0,2.8,1.1,https://www.collegehockeynews.com/box/final/20251205/stn/aka/,0.0,0.0,3,1
+20252026,Northern Michigan,Bowling Green,3.0,2.0,20.0,36.0,2.2,2.8,https://www.collegehockeynews.com/box/final/20251205/nmu/bgs/,0.0,0.0,3,1
+20252026,Ferris State,Minnesota State,1.0,5.0,23.0,27.0,2.0,2.3,https://www.collegehockeynews.com/box/final/20251205/fsu/mns/,0.0,0.0,1,2
+20252026,Lake Superior,St. Thomas,5.0,3.0,31.0,47.0,2.1,4.2,https://www.collegehockeynews.com/box/final/20251205/lss/stt/,0.0,0.0,2,1
+20252026,Bemidji State,Augustana,1.0,3.0,37.0,24.0,3.3,3.4,https://www.collegehockeynews.com/box/final/20251205/bmj/aug/,0.0,1.0,0,1
+20252026,Mercyhurst,Holy Cross,1.0,4.0,18.0,35.0,1.2,3.5,https://www.collegehockeynews.com/box/final/20251206/mrc/hcr/,0.0,1.0,1,1
+20252026,Army,Sacred Heart,2.0,0.0,17.0,26.0,2.5,4.2,https://www.collegehockeynews.com/box/final/20251206/arm/sac/,0.0,0.0,1,0
+20252026,Robert Morris,Air Force,6.0,3.0,38.0,35.0,3.5,3.8,https://www.collegehockeynews.com/box/final/20251206/rmu/afa/,1.0,0.0,4,3
+20252026,Niagara,Bentley,2.0,3.0,28.0,23.0,2.8,2.0,https://www.collegehockeynews.com/box/final/20251206/nia/ben/,0.0,0.0,1,1
+20252026,RIT,Canisius,2.0,4.0,29.0,23.0,2.7,2.4,https://www.collegehockeynews.com/box/final/20251206/rit/cns/,0.0,0.0,2,1
+20252026,Merrimack,Connecticut,2.0,5.0,38.0,39.0,3.2,3.8,https://www.collegehockeynews.com/box/final/20251206/mer/con/,0.0,0.0,2,4
+20252026,Vermont,Boston University,3.0,2.0,20.0,32.0,1.9,3.1,https://www.collegehockeynews.com/box/final/20251206/ver/bu_/,0.0,0.0,3,2
+20252026,New Hampshire,Maine,3.0,2.0,17.0,30.0,2.1,3.9,https://www.collegehockeynews.com/box/final/20251206/unh/mne/,0.0,0.0,3,2
+20252026,Massachusetts,Northeastern,2.0,3.0,24.0,27.0,2.5,2.5,https://www.collegehockeynews.com/box/final/20251206/uma/noe/,0.0,0.0,1,0
+20252026,Mass.-Lowell,Boston College,1.0,3.0,32.0,35.0,3.3,4.1,https://www.collegehockeynews.com/box/final/20251206/uml/bc_/,0.0,0.0,0,1
+20252026,Quinnipiac,Union,0.0,4.0,31.0,42.0,3.4,3.3,https://www.collegehockeynews.com/box/final/20251206/qui/uni/,0.0,0.0,0,2
+20252026,Princeton,RPI,4.0,0.0,35.0,22.0,2.9,2.1,https://www.collegehockeynews.com/box/final/20251206/prn/ren/,0.0,0.0,3,0
+20252026,Colgate,Clarkson,3.0,5.0,27.0,31.0,2.9,2.8,https://www.collegehockeynews.com/box/final/20251206/clg/clk/,0.0,1.0,2,4
+20252026,Yale,Dartmouth,1.0,6.0,16.0,34.0,1.7,2.6,https://www.collegehockeynews.com/box/final/20251206/yal/dar/,0.0,0.0,0,5
+20252026,Brown,Harvard,3.0,7.0,21.0,51.0,2.4,4.8,https://www.collegehockeynews.com/box/final/20251206/brn/har/,0.0,0.0,3,6
+20252026,Cornell,St. Lawrence,7.0,2.0,33.0,20.0,2.8,2.2,https://www.collegehockeynews.com/box/final/20251206/cor/stl/,0.0,0.0,5,0
+20252026,Stonehill,Alaska-Anchorage,4.0,3.0,46.0,36.0,3.3,2.3,https://www.collegehockeynews.com/box/final/20251206/stn/aka/,0.0,0.0,4,3
+20252026,Miami,Denver,2.0,5.0,25.0,31.0,2.3,2.7,https://www.collegehockeynews.com/box/final/20251206/mia/den/,0.0,1.0,2,1
+20252026,North Dakota,St. Cloud State,4.0,2.0,25.0,37.0,2.2,3.7,https://www.collegehockeynews.com/box/final/20251206/ndk/stc/,1.0,0.0,1,1
+20252026,Minnesota-Duluth,Western Michigan,2.0,3.0,20.0,30.0,1.5,2.7,https://www.collegehockeynews.com/box/final/20251206/mnd/wmu/,0.0,0.0,2,3
+20252026,Wisconsin,Notre Dame,9.0,2.0,36.0,33.0,3.4,2.4,https://www.collegehockeynews.com/box/final/20251206/wis/ndm/,0.0,0.0,8,0
+20252026,Michigan State,Michigan,3.0,1.0,33.0,31.0,4.1,3.7,https://www.collegehockeynews.com/box/final/20251206/msu/mic/,1.0,0.0,2,0
+20252026,Northern Michigan,Bowling Green,3.0,4.0,27.0,39.0,1.9,3.6,https://www.collegehockeynews.com/box/final/20251206/nmu/bgs/,0.0,0.0,2,2
+20252026,Ferris State,Minnesota State,4.0,1.0,23.0,20.0,2.0,2.1,https://www.collegehockeynews.com/box/final/20251206/fsu/mns/,1.0,0.0,1,0
+20252026,Lake Superior,St. Thomas,1.0,4.0,28.0,32.0,2.5,3.2,https://www.collegehockeynews.com/box/final/20251206/lss/stt/,0.0,0.0,1,2
+20252026,Bemidji State,Augustana,4.0,4.0,39.0,22.0,3.6,2.1,https://www.collegehockeynews.com/box/final/20251207/bmj/aug/,0.0,0.0,2,3
+20252026,Massachusetts,Northeastern,2.0,0.0,16.0,37.0,2.0,3.5,https://www.collegehockeynews.com/box/final/20251207/uma/noe/,1.0,0.0,1,0
+20252026,Providence,Brown,4.0,2.0,47.0,31.0,4.7,3.9,https://www.collegehockeynews.com/box/final/20251209/prv/brn/,1.0,0.0,1,2
+20252026,Mass.-Lowell,Maine,4.0,5.0,26.0,27.0,2.8,3.7,https://www.collegehockeynews.com/box/final/20251210/uml/mne/,0.0,0.0,3,1
+20252026,Arizona State,Minnesota-Duluth,1.0,3.0,17.0,39.0,1.8,3.6,https://www.collegehockeynews.com/box/final/20251212/asu/mnd/,0.0,1.0,1,1
+20252026,Denver,St. Cloud State,5.0,1.0,35.0,38.0,4.1,3.0,https://www.collegehockeynews.com/box/final/20251212/den/stc/,0.0,0.0,5,1
+20252026,Colorado College,Miami,4.0,4.0,23.0,31.0,2.1,2.2,https://www.collegehockeynews.com/box/final/20251212/cc_/mia/,0.0,0.0,3,2
+20252026,Omaha,North Dakota,1.0,4.0,31.0,29.0,2.7,2.6,https://www.collegehockeynews.com/box/final/20251212/uno/ndk/,0.0,0.0,1,2
+20252026,Army,Dartmouth,0.0,3.0,19.0,40.0,1.6,3.1,https://www.collegehockeynews.com/box/final/20251212/arm/dar/,0.0,1.0,0,1
+20252026,Yale,Merrimack,1.0,4.0,31.0,22.0,3.7,3.0,https://www.collegehockeynews.com/box/final/20251212/yal/mer/,0.0,1.0,0,2
+20252026,Alaska,Union,1.0,5.0,14.0,33.0,1.3,3.2,https://www.collegehockeynews.com/box/final/20251212/akf/uni/,0.0,1.0,1,3
+20252026,Michigan Tech,Ferris State,3.0,2.0,25.0,24.0,2.9,2.8,https://www.collegehockeynews.com/box/final/20251212/mtu/fsu/,0.0,0.0,3,2
+20252026,St. Thomas,Northern Michigan,2.0,0.0,35.0,29.0,3.9,2.9,https://www.collegehockeynews.com/box/final/20251212/stt/nmu/,1.0,0.0,1,0
+20252026,Minnesota State,Augustana,1.0,3.0,34.0,19.0,3.6,2.0,https://www.collegehockeynews.com/box/final/20251212/mns/aug/,0.0,1.0,1,1
+20252026,Arizona State,Minnesota-Duluth,6.0,3.0,30.0,40.0,2.9,3.0,https://www.collegehockeynews.com/box/final/20251213/asu/mnd/,1.0,0.0,4,3
+20252026,Denver,St. Cloud State,3.0,4.0,27.0,32.0,2.8,4.3,https://www.collegehockeynews.com/box/final/20251213/den/stc/,0.0,0.0,2,3
+20252026,Colorado College,Miami,3.0,3.0,35.0,35.0,2.6,3.0,https://www.collegehockeynews.com/box/final/20251213/cc_/mia/,0.0,0.0,1,2
+20252026,Omaha,North Dakota,1.0,3.0,30.0,31.0,2.3,2.4,https://www.collegehockeynews.com/box/final/20251213/uno/ndk/,0.0,1.0,0,2
+20252026,Alaska,Union,2.0,3.0,19.0,29.0,1.2,2.6,https://www.collegehockeynews.com/box/final/20251213/akf/uni/,0.0,0.0,1,2
+20252026,Army,Vermont,3.0,0.0,14.0,22.0,1.7,1.8,https://www.collegehockeynews.com/box/final/20251213/arm/ver/,0.0,0.0,3,0
+20252026,Long Island,Merrimack,2.0,4.0,34.0,29.0,4.7,2.0,https://www.collegehockeynews.com/box/final/20251213/liu/mer/,0.0,0.0,2,3
+20252026,Lindenwood,Maine,0.0,5.0,28.0,51.0,3.3,5.8,https://www.collegehockeynews.com/box/final/20251213/lin/mne/,0.0,0.0,0,2
+20252026,Michigan Tech,Ferris State,5.0,2.0,30.0,28.0,3.4,2.6,https://www.collegehockeynews.com/box/final/20251213/mtu/fsu/,0.0,0.0,4,1
+20252026,St. Thomas,Northern Michigan,4.0,3.0,37.0,16.0,3.6,2.1,https://www.collegehockeynews.com/box/final/20251213/stt/nmu/,0.0,0.0,2,3
+20252026,Minnesota State,Augustana,4.0,4.0,42.0,31.0,5.0,3.0,https://www.collegehockeynews.com/box/final/20251213/mns/aug/,0.0,0.0,2,1
+20252026,Boston University,Northeastern,4.0,3.0,35.0,21.0,3.5,2.0,https://www.collegehockeynews.com/box/final/20251213/bu_/noe/,0.0,0.0,3,3
+20252026,Lindenwood,Maine,2.0,7.0,28.0,40.0,3.7,4.4,https://www.collegehockeynews.com/box/final/20251214/lin/mne/,0.0,0.0,2,6
+20252026,Dartmouth,New Hampshire,2.0,3.0,26.0,34.0,3.6,3.1,https://www.collegehockeynews.com/box/final/20251214/dar/unh/,0.0,0.0,1,3

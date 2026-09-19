@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+
+# Generated output (fully reproducible from src/run_system.py against data/)
+output/
+
+# Research: keep reports (.md) and scripts (.py) in git for provenance;
+# large generated intermediate/result files are not reproducibility-critical
+# and bloat the repo (see research/*/results/, research/*/data/ for the
+# multi-MB scraped/derived files this excludes).
+research/*/results/
+research/*/data/
+
+# Local-only archive of pre-cleanup files (root debug artifacts, the
+# retired webpage_backup/ generation) -- kept on disk, deliberately not
+# published. See archive/README.md.
+archive/
+
+# Local secrets / environment
+.env
+*.local.yaml
+
+# Editor/tooling-local settings, not project source
+.claude/

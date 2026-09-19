@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html">College Hockey Rankings</a>
+  <nav>
+    <a href="index.html">Men's</a>
+    <a href="women/index.html">Women's</a>
+    <a href="methodology.html">Methodology</a>
+  </nav>
+</header>
+<main class="container">
+
+<h1>Methodology</h1>
+<div class="card">
+<h2>ELO</h2>
+<p>Sequential rating updated after every game (margin-of-victory weighted, home-ice adjusted).</p>
+</div>
+<div class="card">
+<h2>Massey</h2>
+<p>Least-squares ratings fit to goal differential, with a fitted home-ice term, fitted rest/fatigue
+adjustment, and ridge regularization. Backtested to beat KRACH/ELO/HockeyBT on accuracy, Brier
+score, and log loss (see reports/massey_calibration_results.md, reports/massey_experiments_2026.md).</p>
+</div>
+<div class="card">
+<h2>KRACH</h2>
+<p>Bradley-Terry maximum-likelihood ratings (the model behind the NCAA hockey selection
+committee's own comparison tool). Purely fit from this season's game results.</p>
+</div>
+<div class="card">
+<h2>NPI</h2>
+<p>A from-scratch reimplementation of the NCAA's official Nutting Power Index (winning percentage
++ strength of schedule, quality-win bonus, home/road weighting).</p>
+</div>
+<p class="subtitle">See the project's <code>reports/</code> folder for full backtests and validation
+methodology behind every claim above.</p>
+
+</main>
+<footer class="site-footer">
+  <p>Built from 4 featured models. Not affiliated with USCHO, the NCAA, or any conference.</p>
+</footer>
+</body>
+</html>

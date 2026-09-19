@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minnesota State</title>
+<link rel="stylesheet" href="../../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../../index.html">College Hockey Rankings</a>
+  <nav>
+    <a href="../../index.html">Men's</a>
+    <a href="../../women/index.html">Women's</a>
+    <a href="../../methodology.html">Methodology</a>
+  </nav>
+</header>
+<main class="container">
+
+<h1><img class="logo" src="../../assets/logos/minnesota_state.png" style="width:32px;height:32px;vertical-align:middle;"> Minnesota State</h1>
+<div class="grid-2">
+  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 40</li><li>Win%: 0.637</li><li>Strength of schedule: 72.4</li></ul></div>
+</div>
+<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Omaha</li><li>Augustana</li><li>St. Thomas</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Ferris State</li><li>Omaha</li><li>UMass Lowell</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Omaha</li><li>Augustana</li><li>St. Thomas</li></ul><h3>Toughest losses</h3><ul class='plain'><li>UMass Lowell</li><li>Omaha</li><li>Ferris State</li></ul><h3>Projected finish</h3><canvas id="dist-KRACH" height="140"></canvas><script>renderDist('dist-KRACH', [27, 28], [0.722, 0.278]);</script></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Michigan Tech</li><li>St. Thomas</li><li>Augustana</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Ferris State</li><li>Ferris State</li><li>Western Michigan</li></ul></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script>
+function renderDist(canvasId, labels, probs) {
+  const ctx = document.getElementById(canvasId);
+  if (!ctx || !window.Chart) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
+  });
+}
+</script>
+
+</main>
+<footer class="site-footer">
+  <p>Built from 5 featured models. Not affiliated with USCHO, the NCAA, or any conference.</p>
+</footer>
+</body>
+</html>

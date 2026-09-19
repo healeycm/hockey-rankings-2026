@@ -1,0 +1,1220 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Fri.,2023-09-29,7:07 AT,Vancouver Island,2,@,Alaska Anchorage,7,,,ex,True,False,True,False,20232024
+Sat.,2023-09-30,7:00 ET,Simon Fraser,1,@,Michigan,8,,,ex,True,False,True,False,20232024
+Sat.,2023-09-30,7:07 AT,Vancouver Island,1,@,Alaska,8,,,ex,True,False,True,False,20232024
+Fri.,2023-10-06,7:00 MT,Arizona,0,@,Arizona State,16,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,7:00 ET,Western Michigan,9,@,USNTP,4,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,5:00 ET,Royal Military,3,@,Niagara,8,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,2:00 ET,Merrimack,3,@,Sacred Heart,2,OT,,ex,True,False,True,True,20232024
+Sat.,2023-10-07,6:07 CT,Omaha,1,@,Minnesota State,0,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,2:00 ET,McGill,0,@,Vermont,4,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,6:07 CT,Manitoba,0,@,North Dakota,10,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,6:00 MT,Simon Fraser,3,@,Colorado College,6,,,ex,True,False,True,False,20232024
+Sat.,2023-10-07,7:00 ET,Ohio State,4,@,Mercyhurst,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Bowling Green,3,@,Robert Morris,0,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,5:05 MT,Lindenwood,1,@,Air Force,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:05 ET,Boston University,3,@,Bentley,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-07,4:00 ET,Lake Superior,2,@,Michigan State,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 CT,Augustana,0,@,Wisconsin,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Clarkson,3,@,Notre Dame,1,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Providence,4,@,Michigan,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:07 ET,Miami,4,@,Ferris State,5,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-07,7:30 ET,Penn State,3,@,LIU,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,4:07 AT,UMass Lowell,2,@,Alaska Anchorage,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-07,7:07 AT,Denver,7,@,Alaska,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,6:00 ET,RIT,3,@,St. Lawrence,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Connecticut,4,@,Colgate,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Boston College,2,@,Quinnipiac,1,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-07,7:00 ET,aic,3,@,Massachusetts,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,7:00 ET,Stonehill,0,@,Northeastern,7,,,nc,True,False,False,False,20232024
+Sat.,2023-10-07,6:00 CT,St. Thomas,5,@,St. Cloud State,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-07,7:07 CT,Michigan Tech,2,@,Minnesota Duluth,2,OT,,nc,True,False,False,True,20232024
+Sun.,2023-10-08,4:00 ET,Ottawa,2,@,Sacred Heart,8,,,ex,True,False,True,False,20232024
+Sun.,2023-10-08,6:00 ET,Bemidji State,2,@,Minnesota,5,,,ex,True,False,True,False,20232024
+Sun.,2023-10-08,3:00 ET,Guelph,4,@,RPI,6,,,ex,True,False,True,False,20232024
+Sun.,2023-10-08,4:00 ET,Quinnipiac,2,@,Northeastern,2,OT,,ex,True,False,True,True,20232024
+Sun.,2023-10-08,7:00 ET,LIU,2,@,Holy Cross,5,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,5:05 MT,Lindenwood,4,@,Air Force,3,OT,,nc,True,False,False,True,20232024
+Sun.,2023-10-08,2:00 ET,Union,6,@,Army,0,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,4:00 ET,Lake Superior,2,@,Michigan State,4,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,5:00 CT,Augustana,0,@,Wisconsin,3,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,7:00 ET,Clarkson,0,@,Notre Dame,3,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,4:00 ET,Providence,4,@,Michigan,5,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,5:07 ET,Robert Morris,3,@,Bowling Green,0,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,5:07 ET,Miami,5,@,Ferris State,2,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,6:07 CT,St. Cloud State,1,@,St. Thomas,0,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,4:07 AT,UMass Lowell,2,@,Alaska Anchorage,1,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,,Denver,5,@,Alaska,2,,,nc,True,False,False,False,20232024
+Sun.,2023-10-08,3:00 ET,Connecticut,3,@,Colgate,3,OT,,nc,True,False,False,True,20232024
+Mon.,2023-10-09,5:00 ET,Guelph,4,@,RIT,6,,,ex,True,False,True,False,20232024
+Thu.,2023-10-12,7:05 MT,Michigan State,5,@,Air Force,6,,,nc,True,False,False,False,20232024
+Thu.,2023-10-12,7:00 ET,RPI,1,@,Maine,4,,,nc,True,False,False,False,20232024
+Thu.,2023-10-12,7:00 ET,Ferris State,4,@,Western Michigan,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Boston University,4,@,New Hampshire,6,,,he,True,False,False,False,20232024
+Fri.,2023-10-13,7:07 CT,Wisconsin,4,@,Bemidji State,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:05 ET,Army,2,@,North Dakota,7,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:05 MT,Michigan State,5,@,Air Force,3,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Colgate,3,@,Sacred Heart,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:05 ET,Quinnipiac,3,@,aic,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:00 ET,Connecticut,1,@,Holy Cross,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Lindenwood,2,@,Ohio State,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:30 CT,Minnesota,6,vs,St. Thomas,5,OT,,nc,True,True,False,True,20232024
+Fri.,2023-10-13,7:07 ET,Alaska Anchorage,1,@,Lake Superior,5,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:07 ET,Alaska,4,@,Michigan Tech,1,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:07 CT,St. Cloud State,2,@,Minnesota State,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:07 ET,Western Michigan,3,@,Ferris State,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:00 MT,Merrimack,0,@,Arizona State,1,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:00 ET,Penn State,4,@,Clarkson,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Vermont,3,@,St. Lawrence,1,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Michigan,7,@,Massachusetts,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,LIU,2,@,Boston College,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,Stonehill,1,@,Providence,7,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:00 ET,RPI,3,@,Maine,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:07 CT,Niagara,1,@,Omaha,8,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:05 ET,Canisius,2,@,Miami,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-13,7:07 CT,Northern Michigan,5,@,Minnesota Duluth,5,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-13,7:00 MT,Union,3,@,Colorado College,7,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,4:00 ET,Robert Morris,3,@,Mercyhurst,3,OT,,ah,True,False,False,True,20232024
+Sat.,2023-10-14,5:00 ET,Toronto,2,@,Princeton,4,,,ex,True,False,True,False,20232024
+Sat.,2023-10-14,7:00 ET,Toronto Metro,1,@,Cornell,6,,,ex,True,False,True,False,20232024
+Sat.,2023-10-14,7:00 ET,USNTP,8,@,Boston University,2,,,ex,True,False,True,False,20232024
+Sat.,2023-10-14,6:00 CT,Army,2,@,Bemidji State,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-14,6:07 CT,Wisconsin,0,@,North Dakota,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:05 ET,Notre Dame,0,@,RIT,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,Colgate,6,@,Sacred Heart,1,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,6:00 ET,St. Thomas,0,@,Minnesota,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,5:00 ET,Lindenwood,2,@,Ohio State,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-14,6:07 ET,Alaska,2,@,Michigan Tech,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-14,6:07 ET,Alaska Anchorage,3,@,Lake Superior,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,6:07 CT,St. Cloud State,1,@,Minnesota State,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,6:07 CT,Bowling Green,2,@,Augustana,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,5:00 ET,LIU,7,@,Stonehill,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,5:00 MT,Merrimack,2,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,aic,0,@,Quinnipiac,8,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,Penn State,4,@,St. Lawrence,1,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,Vermont,2,@,Clarkson,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-14,7:00 ET,Holy Cross,2,@,Connecticut,0,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,Bentley,2,@,Northeastern,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:00 ET,Michigan,3,@,Massachusetts,6,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:05 ET,Canisius,1,@,Miami,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:07 CT,Niagara,1,@,Omaha,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,7:07 CT,Northern Michigan,5,@,Minnesota Duluth,8,,,nc,True,False,False,False,20232024
+Sat.,2023-10-14,6:00 MT,Union,2,@,Colorado College,6,,,nc,True,False,False,False,20232024
+Sun.,2023-10-15,6:00 ET,USNTP,2,@,Dartmouth,7,,,ex,True,False,True,False,20232024
+Sun.,2023-10-15,5:07 CT,Bowling Green,1,@,Augustana,4,,,nc,True,False,False,False,20232024
+Thu.,2023-10-19,7:00 ET,Canisius,3,@,Michigan State,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:05 ET,Sacred Heart,2,@,RIT,4,,,ah,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Holy Cross,3,@,Robert Morris,1,,,ah,True,False,False,False,20232024
+Fri.,2023-10-20,6:00 ET,Ohio State,1,@,Michigan,7,,,b10,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 ET,Grand Valley State,0,@,Ferris State,9,,,ex,True,False,True,False,20232024
+Fri.,2023-10-20,7:00 ET,Stonehill,0,@,Bentley,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,aic,2,@,Penn State,3,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Canisius,3,@,Michigan State,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Boston University,1,@,Notre Dame,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 ET,Wisconsin,4,@,Michigan Tech,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 CT,Lindenwood,4,@,St. Thomas,4,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-20,7:07 CT,Massachusetts,6,@,Minnesota State,3,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 ET,Western Michigan,5,@,Bowling Green,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 AT,Air Force,1,@,Alaska Anchorage,3,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 MT,Northern Michigan,2,@,Arizona State,3,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Connecticut,1,@,Union,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,UMass Lowell,4,@,Colgate,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Quinnipiac,5,@,New Hampshire,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Clarkson,1,@,Merrimack,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,RPI,1,@,Boston College,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 ET,Denver,3,@,Providence,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 CT,Minnesota,4,@,North Dakota,0,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:07 CT,Bemidji State,0,@,Minnesota Duluth,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:30 CT,Alaska,1,@,St. Cloud State,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-20,7:00 MT,LIU,2,@,Colorado College,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,7:00 ET,Mercyhurst,3,@,Niagara,3,OT,,ah,True,False,False,True,20232024
+Sat.,2023-10-21,5:00 ET,Holy Cross,3,@,Robert Morris,3,OT,,ah,True,False,False,True,20232024
+Sat.,2023-10-21,5:05 ET,Sacred Heart,5,@,RIT,2,,,ah,True,False,False,False,20232024
+Sat.,2023-10-21,7:00 ET,Ohio State,2,@,Michigan,2,OT,,b10,True,False,False,True,20232024
+Sat.,2023-10-21,6:07 ET,Simon Fraser,4,@,Lake Superior,6,,,ex,True,False,True,False,20232024
+Sat.,2023-10-21,7:00 ET,USNTDP,4,@,Cornell,5,,,ex,True,False,True,False,20232024
+Sat.,2023-10-21,6:00 ET,Stonehill,1,@,Bentley,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,5:00 ET,aic,6,@,Penn State,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:00 ET,Boston University,8,@,Notre Dame,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:07 ET,Wisconsin,5,@,Michigan Tech,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:07 CT,Lindenwood,1,@,St. Thomas,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:07 CT,Massachusetts,1,@,Minnesota State,0,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:07 CT,Minnesota Duluth,5,@,Bemidji State,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-21,6:07 AT,Air Force,4,@,Alaska Anchorage,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-21,7:00 MT,Northern Michigan,1,@,Arizona State,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,4:00 ET,Connecticut,5,@,Union,0,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,7:00 ET,UMass Lowell,5,@,Colgate,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,7:00 ET,Quinnipiac,4,@,New Hampshire,5,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-21,7:00 ET,RPI,2,@,Providence,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,7:00 ET,Denver,4,@,Boston College,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:07 CT,Minnesota,1,@,North Dakota,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:00 ET,Bowling Green,2,@,Western Michigan,5,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:00 MT,LIU,2,@,Colorado College,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-21,6:00 CT,Alaska,5,@,St. Cloud State,2,,,nc,True,False,False,False,20232024
+Sun.,2023-10-22,4:00 ET,St. Lawrence,2,@,Merrimack,5,,,nc,True,False,False,False,20232024
+Thu.,2023-10-26,8:00 CT,Wisconsin,5,@,Minnesota,2,,,b10,True,False,False,False,20232024
+Thu.,2023-10-26,7:00 ET,Northeastern,1,@,New Hampshire,4,,,he,True,False,False,False,20232024
+Thu.,2023-10-26,7:30 ET,Mercyhurst,3,@,Notre Dame,4,OT,,nc,True,False,False,True,20232024
+Thu.,2023-10-26,7:00 ET,Alaska Anchorage,1,@,Penn State,2,,,nc,True,False,False,False,20232024
+Thu.,2023-10-26,7:00 ET,Michigan State,4,@,Boston College,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,RIT,3,@,Holy Cross,2,OT,,ah,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Niagara,4,@,Sacred Heart,3,OT,,ah,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Bentley,3,@,Robert Morris,4,,,ah,True,False,False,False,20232024
+Fri.,2023-10-27,8:00 CT,Wisconsin,3,@,Minnesota,2,,,b10,True,False,False,False,20232024
+Fri.,2023-10-27,7:07 CT,St. Thomas,2,@,Bemidji State,3,,,cc2,True,False,False,False,20232024
+Fri.,2023-10-27,7:07 ET,Ferris State,2,@,Northern Michigan,1,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-10-27,8:00 ET,Yale,3,@,Brown,2,OT,,ec,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Harvard,1,@,Dartmouth,1,OT,,ec,True,False,False,True,20232024
+Fri.,2023-10-27,7:15 ET,Connecticut,2,@,UMass Lowell,1,OT,,he,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Massachusetts,2,@,Boston University,5,,,he,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,Vermont,1,@,Providence,4,,,he,True,False,False,False,20232024
+Fri.,2023-10-27,7:05 MT,Colorado College,6,@,Air Force,2,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:30 ET,Mercyhurst,0,@,Notre Dame,5,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,Lindenwood,1,@,Michigan,9,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,Alaska Anchorage,6,@,Penn State,5,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,Michigan Tech,2,@,St. Lawrence,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Lake Superior,4,@,Clarkson,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Maine,2,@,Quinnipiac,1,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-27,7:00 ET,Minnesota Duluth,1,@,Cornell,4,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 ET,Michigan State,1,@,Boston College,5,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:07 CT,Ohio State,2,@,Omaha,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-27,7:07 CT,Minnesota State,2,@,North Dakota,6,,,nc,True,False,False,False,20232024
+Fri.,2023-10-27,7:00 MT,Augustana,5,@,Denver,5,OT,,nc,True,False,False,True,20232024
+Fri.,2023-10-27,7:05 ET,Arizona State,4,@,Miami,5,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-28,4:00 ET,Bentley,3,@,Robert Morris,0,,,ah,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,RIT,3,@,Holy Cross,2,,,ah,True,False,False,False,20232024
+Sat.,2023-10-28,6:00 ET,Niagara,1,@,Sacred Heart,4,,,ah,True,False,False,False,20232024
+Sat.,2023-10-28,6:07 ET,Ferris State,1,@,Northern Michigan,4,,,cc2,True,False,False,False,20232024
+Sat.,2023-10-28,6:07 CT,St. Thomas,0,@,Bemidji State,2,,,cc2,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Boston University,3,@,Massachusetts,3,OT,,he,True,False,False,True,20232024
+Sat.,2023-10-28,4:00 ET,UMass Lowell,1,@,Connecticut,0,,,he,True,False,False,False,20232024
+Sat.,2023-10-28,6:00 ET,Vermont,2,@,Providence,2,OT,,he,True,False,False,True,20232024
+Sat.,2023-10-28,7:00 ET,Merrimack,4,@,Northeastern,1,,,he,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Lindenwood,1,@,Michigan,10,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,8:00 ET,Saint Anselm,0,@,LIU,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:30 ET,Michigan Tech,1,@,Clarkson,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Lake Superior,5,@,St. Lawrence,2,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Maine,1,@,Quinnipiac,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Minnesota Duluth,0,@,Cornell,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:00 ET,Dartmouth,1,@,New Hampshire,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,6:05 MT,Air Force,0,@,Denver,4,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:07 CT,Ohio State,4,@,Omaha,0,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,6:07 CT,Minnesota State,2,@,North Dakota,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-10-28,6:00 MT,Augustana,4,@,Colorado College,3,,,nc,True,False,False,False,20232024
+Sat.,2023-10-28,7:05 ET,Arizona State,1,@,Miami,1,OT,,nc,True,False,False,True,20232024
+Sun.,2023-10-29,2:00 ET,Stonehill,2,@,Brown,7,,,nc,True,False,False,False,20232024
+Mon.,2023-10-30,7:30 ET,LIU,4,@,Stonehill,2,,,nc,True,False,False,False,20232024
+Tue.,2023-10-31,7:00 ET,Army,1,@,Sacred Heart,6,,,ah,True,False,False,False,20232024
+Thu.,2023-11-02,7:05 ET,Bentley,0,@,aic,3,,,ah,True,False,False,False,20232024
+Fri.,2023-11-03,7:05 ET,aic,1,@,Bentley,3,,,ah,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Air Force,3,@,Niagara,2,OT,,ah,True,False,False,True,20232024
+Fri.,2023-11-03,6:00 ET,Holy Cross,3,@,Canisius,5,,,ah,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,RIT,4,@,Army,2,,,ah,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Michigan State,6,@,Ohio State,0,,,b10,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 CT,Michigan,4,@,Wisconsin,5,,,b10,True,False,False,False,20232024
+Fri.,2023-11-03,7:07 ET,Bemidji State,3,@,Lake Superior,4,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-11-03,7:07 CT,Northern Michigan,2,@,St. Thomas,4,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,RPI,8,@,Union,6,,,ec,True,False,False,False,20232024
+Fri.,2023-11-03,5:00 ET,Quinnipiac,2,@,Dartmouth,2,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-03,7:00 ET,Cornell,3,@,Yale,1,,,ec,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Colgate,2,@,Brown,3,,,ec,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Princeton,4,@,Harvard,4,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-03,7:07 AT,Alaska Anchorage,1,@,Alaska,6,,,nc,True,False,False,False,20232024
+Fri.,2023-11-03,7:30 ET,Northeastern,1,@,Massachusetts,2,OT,,he,True,False,False,True,20232024
+Fri.,2023-11-03,7:00 ET,Providence,1,@,New Hampshire,1,OT,,he,True,False,False,True,20232024
+Fri.,2023-11-03,7:00 ET,UMass Lowell,2,@,Boston College,3,,,he,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Connecticut,1,@,Vermont,4,,,he,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 ET,Maine,2,@,Merrimack,1,,,he,True,False,False,False,20232024
+Fri.,2023-11-03,7:07 CT,Western Michigan,5,@,Omaha,2,,,nt,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 MT,Colorado College,1,@,Denver,6,,,nt,True,False,False,False,20232024
+Fri.,2023-11-03,7:30 CT,Miami,2,@,St. Cloud State,3,,,nt,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 CT,Minnesota Duluth,1,@,Minnesota,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-03,7:07 ET,Mercyhurst,4,@,Bowling Green,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-03,7:07 ET,Augustana,4,@,Michigan Tech,6,,,nc,True,False,False,False,20232024
+Fri.,2023-11-03,7:07 ET,St. Lawrence,5,@,Ferris State,2,,,nc,True,False,False,False,20232024
+Fri.,2023-11-03,7:00 MT,Stonehill,4,@,Arizona State,5,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-03,7:00 ET,North Dakota,2,@,Boston University,3,,,nc,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Air Force,3,@,Niagara,4,,,ah,True,False,False,False,20232024
+Sat.,2023-11-04,4:00 ET,RIT,5,@,Army,3,,,ah,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Holy Cross,3,@,Canisius,3,OT,,ah,True,False,False,True,20232024
+Sat.,2023-11-04,6:00 CT,Michigan,1,@,Wisconsin,2,,,b10,True,False,False,False,20232024
+Sat.,2023-11-04,7:30 ET,Notre Dame,3,@,Penn State,3,OT,,b10,True,False,False,True,20232024
+Sat.,2023-11-04,5:00 ET,Michigan State,6,@,Ohio State,4,,,b10,True,False,False,False,20232024
+Sat.,2023-11-04,6:07 CT,Northern Michigan,1,@,St. Thomas,6,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-04,6:07 ET,Bemidji State,1,@,Lake Superior,5,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Union,5,@,RPI,1,,,ec,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Quinnipiac,6,@,Harvard,0,,,ec,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Cornell,7,@,Brown,1,,,ec,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Princeton,4,@,Dartmouth,5,,,ec,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Colgate,7,@,Yale,1,,,ec,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Simon Fraser,1,@,Robert Morris,3,,,ex,True,False,True,False,20232024
+Sat.,2023-11-04,7:07 AT,Alaska Anchorage,4,@,Alaska,5,,,nc,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,New Hampshire,0,@,Providence,2,,,he,True,False,False,False,20232024
+Sat.,2023-11-04,6:00 ET,Connecticut,5,@,Vermont,2,,,he,True,False,False,False,20232024
+Sat.,2023-11-04,6:05 ET,Boston College,3,@,UMass Lowell,2,,,he,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,Maine,5,@,Merrimack,4,,,he,True,False,False,False,20232024
+Sat.,2023-11-04,7:07 CT,Western Michigan,2,@,Omaha,3,OT,,nt,True,False,False,True,20232024
+Sat.,2023-11-04,6:00 MT,Denver,5,@,Colorado College,1,,,nt,True,False,False,False,20232024
+Sat.,2023-11-04,6:00 CT,Miami,0,@,St. Cloud State,6,,,nt,True,False,False,False,20232024
+Sat.,2023-11-04,7:07 ET,Mercyhurst,2,@,Bowling Green,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-04,6:07 ET,Augustana,3,@,Michigan Tech,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-04,6:07 ET,St. Lawrence,1,@,Ferris State,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-04,7:00 MT,Stonehill,2,@,Arizona State,3,,,nc,True,False,False,False,20232024
+Sat.,2023-11-04,7:00 ET,North Dakota,5,@,Boston University,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-04,7:07 CT,Minnesota,3,@,Minnesota Duluth,3,OT,,nc,True,False,False,True,20232024
+Sun.,2023-11-05,4:30 ET,Notre Dame,2,@,Penn State,2,OT,,b10,True,False,False,True,20232024
+Sun.,2023-11-05,7:00 ET,Sacred Heart,1,@,LIU,2,,,nc,True,False,False,False,20232024
+Thu.,2023-11-09,7:05 ET,Holy Cross,1,@,aic,4,,,ah,True,False,False,False,20232024
+Fri.,2023-11-10,7:05 ET,Niagara,2,@,Bentley,6,,,ah,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,aic,3,@,Holy Cross,2,,,ah,True,False,False,False,20232024
+Fri.,2023-11-10,7:05 MT,Army,3,@,Air Force,4,OT,,ah,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Canisius,1,@,Sacred Heart,4,,,ah,True,False,False,False,20232024
+Fri.,2023-11-10,7:05 ET,Mercyhurst,2,@,RIT,5,,,ah,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Penn State,3,@,Michigan State,3,OT,,b10,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Minnesota,4,@,Michigan,3,,,b10,True,False,False,False,20232024
+Fri.,2023-11-10,7:30 ET,Ohio State,1,@,Notre Dame,4,,,b10,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 ET,St. Thomas,4,@,Bowling Green,1,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 CT,Michigan Tech,4,@,Bemidji State,2,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 ET,Minnesota State,6,@,Ferris State,2,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 ET,Lake Superior,4,@,Northern Michigan,6,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,RPI,4,@,Clarkson,2,,,ec,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Union,4,@,St. Lawrence,3,,,ec,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Yale,4,@,Princeton,5,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Brown,1,@,Quinnipiac,5,,,ec,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Harvard,2,@,Colgate,2,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Dartmouth,2,@,Cornell,2,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Northeastern,1,@,Providence,2,OT,,he,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Boston College,2,@,Maine,4,,,he,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Merrimack,6,@,Connecticut,3,,,he,True,False,False,False,20232024
+Fri.,2023-11-10,7:15 ET,Boston University,3,@,UMass Lowell,2,,,he,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,Vermont,1,@,Massachusetts,4,,,he,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 ET,St. Cloud State,3,@,Western Michigan,2,,,nt,True,False,False,False,20232024
+Fri.,2023-11-10,7:05 ET,Colorado College,5,@,Miami,1,,,nt,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 CT,North Dakota,4,@,Minnesota Duluth,2,,,nt,True,False,False,False,20232024
+Fri.,2023-11-10,7:07 AT,Robert Morris,2,@,Alaska Anchorage,3,,,nc,True,False,False,False,20232024
+Fri.,2023-11-10,7:10 CT,Augustana,4,@,Lindenwood,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-10,7:00 ET,Alaska,3,@,Stonehill,1,,,nc,True,False,False,False,20232024
+Fri.,2023-11-10,7:00 MT,Denver,5,@,Arizona State,6,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-10,7:07 CT,LIU,2,@,Omaha,3,,,nc,True,False,False,False,20232024
+Sat.,2023-11-11,5:05 MT,Army,0,@,Air Force,4,,,ah,True,False,False,False,20232024
+Sat.,2023-11-11,4:05 ET,Niagara,1,@,Bentley,2,,,ah,True,False,False,False,20232024
+Sat.,2023-11-11,5:05 ET,Mercyhurst,2,@,RIT,0,,,ah,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Canisius,2,@,Sacred Heart,3,,,ah,True,False,False,False,20232024
+Sat.,2023-11-11,4:00 ET,Penn State,3,@,Michigan State,5,,,b10,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Minnesota,2,@,Michigan,2,OT,,b10,True,False,False,True,20232024
+Sat.,2023-11-11,6:00 ET,Ohio State,0,@,Notre Dame,3,,,b10,True,False,False,False,20232024
+Sat.,2023-11-11,6:07 ET,Minnesota State,3,@,Ferris State,2,OT,,cc2,True,False,False,True,20232024
+Sat.,2023-11-11,7:07 ET,St. Thomas,4,@,Bowling Green,3,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-11,6:07 ET,Lake Superior,3,@,Northern Michigan,4,OT,,cc2,True,False,False,True,20232024
+Sat.,2023-11-11,6:07 CT,Michigan Tech,4,@,Bemidji State,6,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-11,4:00 ET,Union,1,@,Clarkson,4,,,ec,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,RPI,3,@,St. Lawrence,6,,,ec,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Brown,2,@,Princeton,3,OT,,ec,True,False,False,True,20232024
+Sat.,2023-11-11,7:00 ET,Dartmouth,3,@,Colgate,2,OT,,ec,True,False,False,True,20232024
+Sat.,2023-11-11,7:00 ET,Yale,2,@,Quinnipiac,5,,,ec,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Harvard,3,@,Cornell,2,,,ec,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Boston College,2,@,Maine,2,OT,,he,True,False,False,True,20232024
+Sat.,2023-11-11,7:00 ET,UMass Lowell,1,@,Boston University,6,,,he,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Providence,5,@,Northeastern,2,,,he,True,False,False,False,20232024
+Sat.,2023-11-11,7:00 ET,Connecticut,4,@,Merrimack,3,,,he,True,False,False,False,20232024
+Sat.,2023-11-11,6:00 ET,Vermont,6,@,Massachusetts,2,,,he,True,False,False,False,20232024
+Sat.,2023-11-11,6:00 ET,St. Cloud State,3,@,Western Michigan,0,,,nt,True,False,False,False,20232024
+Sat.,2023-11-11,6:07 CT,North Dakota,2,@,Minnesota Duluth,0,,,nt,True,False,False,False,20232024
+Sat.,2023-11-11,7:05 ET,Colorado College,4,@,Miami,1,,,nt,True,False,False,False,20232024
+Sat.,2023-11-11,4:07 AT,Robert Morris,2,@,Alaska Anchorage,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-11,4:00 ET,Alaska,8,@,Stonehill,1,,,nc,True,False,False,False,20232024
+Sat.,2023-11-11,7:10 CT,Augustana,3,@,Lindenwood,5,,,nc,True,False,False,False,20232024
+Sat.,2023-11-11,5:00 MT,Denver,8,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-11,7:07 CT,LIU,4,@,Omaha,5,OT,,nc,True,False,False,True,20232024
+Wed.,2023-11-15,7:00 ET,UMass Lowell,1,@,Merrimack,1,OT,,he,True,False,False,True,20232024
+Thu.,2023-11-16,7:00 ET,Massachusetts,3,@,Providence,2,,,he,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Bentley,0,@,Holy Cross,2,,,ah,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Canisius,6,@,Army,4,,,ah,True,False,False,False,20232024
+Fri.,2023-11-17,7:05 ET,Robert Morris,2,@,Niagara,6,,,ah,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 CT,Notre Dame,4,@,Minnesota,2,,,b10,True,False,False,False,20232024
+Fri.,2023-11-17,7:30 ET,Wisconsin,2,@,Michigan State,4,,,b10,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Penn State,4,@,Michigan,6,,,b10,True,False,False,False,20232024
+Fri.,2023-11-17,7:07 CT,Bemidji State,1,@,Minnesota State,5,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-17,7:07 ET,Ferris State,3,@,Michigan Tech,2,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-11-17,7:07 ET,Bowling Green,5,@,Lake Superior,3,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,St. Lawrence,0,@,Yale,5,,,ec,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Cornell,4,@,Quinnipiac,8,,,ec,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Clarkson,3,@,Brown,2,OT,,ec,True,False,False,True,20232024
+Fri.,2023-11-17,7:00 ET,Colgate,6,@,Princeton,3,,,ec,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Connecticut,4,@,Boston College,5,OT,,he,True,False,False,True,20232024
+Fri.,2023-11-17,7:00 ET,New Hampshire,4,@,Northeastern,2,,,he,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 ET,Maine,2,@,Boston University,3,,,he,True,False,False,False,20232024
+Fri.,2023-11-17,7:30 CT,Minnesota Duluth,1,@,St. Cloud State,2,,,nt,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 MT,Western Michigan,3,@,Colorado College,1,,,nt,True,False,False,False,20232024
+Fri.,2023-11-17,7:07 CT,Miami,4,@,North Dakota,6,,,nt,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 MT,Omaha,4,@,Denver,8,,,nt,True,False,False,False,20232024
+Fri.,2023-11-17,7:07 ET,Alaska,1,@,Northern Michigan,3,,,nc,True,False,False,False,20232024
+Fri.,2023-11-17,7:10 CT,LIU,0,@,Lindenwood,3,,,nc,True,False,False,False,20232024
+Fri.,2023-11-17,7:00 MT,Alaska Anchorage,3,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Canisius,1,@,Army,2,,,ah,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Niagara,4,@,Robert Morris,1,,,ah,True,False,False,False,20232024
+Sat.,2023-11-18,4:05 ET,Holy Cross,2,@,Bentley,0,,,ah,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Air Force,5,@,Mercyhurst,2,,,ah,True,False,False,False,20232024
+Sat.,2023-11-18,,Wisconsin,2,@,Michigan State,3,,,b10,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 CT,Notre Dame,1,@,Minnesota,4,,,b10,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Penn State,5,@,Michigan,3,,,b10,True,False,False,False,20232024
+Sat.,2023-11-18,6:07 CT,Bemidji State,7,@,Minnesota State,6,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-18,6:07 ET,Ferris State,2,@,Michigan Tech,3,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-18,6:07 ET,Bowling Green,3,@,Lake Superior,4,OT,,cc2,True,False,False,True,20232024
+Sat.,2023-11-18,7:00 ET,St. Lawrence,1,@,Brown,2,,,ec,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Clarkson,2,@,Yale,1,,,ec,True,False,False,False,20232024
+Sat.,2023-11-18,7:00 ET,Cornell,1,@,Princeton,2,OT,,ec,True,False,False,True,20232024
+Sat.,2023-11-18,7:00 ET,Colgate,4,@,Quinnipiac,7,,,ec,True,False,False,False,20232024
+Sat.,2023-11-18,5:00 ET,Anna Maria,4,@,Stonehill,2,,,ex,True,False,True,False,20232024
+Sat.,2023-11-18,7:00 ET,Boston College,3,@,Connecticut,0,,,he,True,False,False,False,20232024
+Sat.,2023-11-18,4:00 ET,Providence,1,@,Massachusetts,2,OT,,he,True,False,False,True,20232024
+Sat.,2023-11-18,7:00 ET,Northeastern,0,@,New Hampshire,4,,,he,True,False,False,False,20232024
+Sat.,2023-11-18,6:00 ET,Maine,4,@,Boston University,5,,,he,True,False,False,False,20232024
+Sat.,2023-11-18,6:05 ET,Merrimack,2,@,UMass Lowell,3,OT,,he,True,False,False,True,20232024
+Sat.,2023-11-18,6:00 CT,Minnesota Duluth,5,@,St. Cloud State,6,,,nt,True,False,False,False,20232024
+Sat.,2023-11-18,6:00 MT,Western Michigan,4,@,Colorado College,0,,,nt,True,False,False,False,20232024
+Sat.,2023-11-18,6:07 CT,Miami,1,@,North Dakota,5,,,nt,True,False,False,False,20232024
+Sat.,2023-11-18,7:05 ET,Vermont,1,@,aic,2,,,nc,True,False,False,False,20232024
+Sat.,2023-11-18,6:07 ET,Alaska,1,@,Northern Michigan,3,,,nc,True,False,False,False,20232024
+Sat.,2023-11-18,2:10 CT,LIU,6,@,Lindenwood,2,,,nc,True,False,False,False,20232024
+Sun.,2023-11-19,4:00 ET,Air Force,1,@,Mercyhurst,5,,,ah,True,False,False,False,20232024
+Sun.,2023-11-19,2:00 MT,Omaha,4,@,Denver,3,,,nt,True,False,False,False,20232024
+Sun.,2023-11-19,1:00 MT,Alaska Anchorage,0,@,Arizona State,3,,,nc,True,False,False,False,20232024
+Tue.,2023-11-21,7:00 ET,Robert Morris,1,@,Canisius,5,,,ah,True,False,False,False,20232024
+Tue.,2023-11-21,7:05 ET,Bentley,2,@,aic,4,,,ah,True,False,False,False,20232024
+Tue.,2023-11-21,7:00 ET,Army,3,@,Holy Cross,2,,,ah,True,False,False,False,20232024
+Wed.,2023-11-22,5:00 ET,Quinnipiac,2,@,Boston University,3,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,6:00 ET,Sacred Heart,4,@,Robert Morris,2,,,ah,True,False,False,False,20232024
+Fri.,2023-11-24,1:00 ET,Air Force,1,@,Canisius,3,,,ah,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 CT,Michigan State,3,@,Minnesota,3,OT,,b10,True,False,False,True,20232024
+Fri.,2023-11-24,7:07 ET,Northern Michigan,2,@,Bowling Green,6,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-24,7:07 CT,Lake Superior,2,@,St. Thomas,4,,,cc2,True,False,False,False,20232024
+Fri.,2023-11-24,7:07 CT,Michigan Tech,3,@,Minnesota State,2,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-11-24,7:00 ET,Brown,3,@,Holy Cross,6,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:05 ET,New Hampshire,4,@,RIT,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,4:00 ET,Lindenwood,3,@,Penn State,9,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 CT,Alaska Anchorage,1,@,Wisconsin,0,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,5:00 ET,Princeton,3,@,Ohio State,6,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,4:00 ET,Boston College,6,@,Notre Dame,1,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:30 ET,aic,5,@,LIU,2,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 MT,Providence,3,@,Arizona State,4,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-24,7:00 ET,Niagara,5,@,Colgate,2,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 ET,Stonehill,2,@,Union,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,4:00 ET,Massachusetts,6,@,Harvard,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:05 ET,Mercyhurst,4,@,Miami,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-24,7:30 CT,Michigan,2,@,St. Cloud State,0,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:07 CT,Bemidji State,2,@,North Dakota,3,OT,,nc,True,False,False,True,20232024
+Fri.,2023-11-24,7:07 CT,Augustana,1,@,Omaha,2,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 MT,Yale,0,@,Denver,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,7:00 ET,St. Lawrence,1,@,Western Michigan,5,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,4:00 ET,Bentley,4,@,UMass Lowell,1,,,nc,True,False,False,False,20232024
+Fri.,2023-11-24,4:00 ET,Army,3,@,Merrimack,7,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,1:00 ET,Sacred Heart,3,@,Robert Morris,1,,,ah,True,False,False,False,20232024
+Sat.,2023-11-25,1:00 ET,Air Force,2,@,Canisius,2,OT,,ah,True,False,False,True,20232024
+Sat.,2023-11-25,6:07 CT,Michigan Tech,3,@,Minnesota State,2,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-25,6:07 CT,Lake Superior,3,@,St. Thomas,1,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-25,7:07 ET,Northern Michigan,2,@,Bowling Green,0,,,cc2,True,False,False,False,20232024
+Sat.,2023-11-25,7:00 ET,Simon Fraser,1,@,LIU,3,,,ex,True,False,True,False,20232024
+Sat.,2023-11-25,5:05 ET,New Hampshire,4,@,RIT,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-25,6:00 CT,Alaska Anchorage,0,@,Wisconsin,5,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,4:00 ET,Lindenwood,1,@,Penn State,7,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,5:00 ET,Princeton,3,@,Ohio State,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,6:07 CT,Omaha,5,@,Augustana,2,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,7:00 ET,Niagara,1,@,Colgate,2,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,4:00 ET,Stonehill,0,@,Union,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,3:00 ET,Northeastern,3,@,RPI,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-25,8:00 ET,Cornell,2,vs,Boston University,1,,,nc,True,True,False,False,20232024
+Sat.,2023-11-25,3:00 ET,Dartmouth,1,@,Connecticut,6,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,6:00 CT,Michigan,3,@,St. Cloud State,3,OT,,nc,True,False,False,True,20232024
+Sat.,2023-11-25,6:07 CT,Bemidji State,0,@,North Dakota,5,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,6:00 ET,St. Lawrence,0,@,Western Michigan,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,6:00 MT,Yale,0,@,Denver,9,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,4:00 ET,Bentley,3,@,Merrimack,4,,,nc,True,False,False,False,20232024
+Sat.,2023-11-25,4:00 ET,Army,4,@,UMass Lowell,2,,,nc,True,False,False,False,20232024
+Sun.,2023-11-26,1:00 CT,Michigan State,5,@,Minnesota,6,OT,,b10,True,False,False,True,20232024
+Sun.,2023-11-26,4:00 ET,Miami,2,@,Mercyhurst,0,,,nc,True,False,False,False,20232024
+Sun.,2023-11-26,1:00 MT,Providence,2,@,Arizona State,1,,,nc,True,False,False,False,20232024
+Sun.,2023-11-26,1:00 ET,Boston College,4,@,Harvard,1,,,nc,True,False,False,False,20232024
+Sun.,2023-11-26,3:00 ET,Northeastern,9,@,RPI,2,,,nc,True,False,False,False,20232024
+Tue.,2023-11-28,7:00 ET,Army,1,@,aic,5,,,ah,True,False,False,False,20232024
+Tue.,2023-11-28,6:00 ET,LIU,2,@,Saint Anselm,3,,,nc,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Niagara,3,@,Holy Cross,2,OT,,ah,True,False,False,True,20232024
+Fri.,2023-12-01,7:05 MT,Bentley,2,@,Air Force,3,OT,,ah,True,False,False,True,20232024
+Fri.,2023-12-01,7:05 ET,Sacred Heart,5,@,aic,4,,,ah,True,False,False,False,20232024
+Fri.,2023-12-01,7:05 ET,Robert Morris,1,@,RIT,4,,,ah,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Mercyhurst,3,@,Canisius,3,OT,,ah,True,False,False,True,20232024
+Fri.,2023-12-01,7:00 ET,Minnesota,4,@,Penn State,1,,,b10,True,False,False,False,20232024
+Fri.,2023-12-01,7:30 ET,Michigan,1,@,Notre Dame,6,,,b10,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 CT,Ohio State,0,@,Wisconsin,3,,,b10,True,False,False,False,20232024
+Fri.,2023-12-01,7:07 ET,Minnesota State,2,@,Lake Superior,2,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-12-01,7:07 ET,Bowling Green,2,@,Michigan Tech,1,OT,,cc2,True,False,False,True,20232024
+Fri.,2023-12-01,7:07 ET,St. Thomas,2,@,Ferris State,5,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Princeton,2,@,Union,7,,,ec,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Dartmouth,1,@,St. Lawrence,3,,,ec,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Quinnipiac,5,@,RPI,1,,,ec,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Cornell,4,@,Colgate,2,,,ec,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Harvard,0,@,Clarkson,3,,,ec,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Stonehill,2,@,Utica,7,,,ex,True,False,True,False,20232024
+Fri.,2023-12-01,7:07 AT,Alaska,5,@,Alaska Anchorage,0,,,nc,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Massachusetts,1,@,Vermont,2,OT,,he,True,False,False,True,20232024
+Fri.,2023-12-01,7:30 ET,Boston University,4,@,Merrimack,1,,,he,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,Northeastern,5,@,Boston College,3,,,he,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,New Hampshire,2,@,Maine,5,,,he,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 ET,UMass Lowell,0,@,Connecticut,2,,,he,True,False,False,False,20232024
+Fri.,2023-12-01,7:07 CT,Omaha,2,@,Minnesota Duluth,4,,,nt,True,False,False,False,20232024
+Fri.,2023-12-01,7:00 MT,North Dakota,7,@,Denver,5,,,nt,True,False,False,False,20232024
+Fri.,2023-12-01,7:07 ET,Augustana,2,@,Northern Michigan,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-12-01,7:00 ET,LIU,2,@,Brown,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-12-01,7:00 MT,Arizona State,2,@,Colorado College,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-12-01,7:00 ET,Lindenwood,1,@,Western Michigan,3,,,nc,True,False,False,False,20232024
+Sat.,2023-12-02,5:05 MT,Bentley,3,@,Air Force,0,,,ah,True,False,False,False,20232024
+Sat.,2023-12-02,7:00 ET,Niagara,1,@,Holy Cross,4,,,ah,True,False,False,False,20232024
+Sat.,2023-12-02,7:00 ET,Canisius,1,@,Mercyhurst,5,,,ah,True,False,False,False,20232024
+Sat.,2023-12-02,7:05 ET,Robert Morris,2,@,RIT,6,,,ah,True,False,False,False,20232024
+Sat.,2023-12-02,7:05 ET,Sacred Heart,2,@,aic,3,,,ah,True,False,False,False,20232024
+Sat.,2023-12-02,6:00 ET,Minnesota,3,@,Penn State,6,,,b10,True,False,False,False,20232024
+Sat.,2023-12-02,6:00 ET,Michigan,2,@,Notre Dame,1,,,b10,True,False,False,False,20232024
+Sat.,2023-12-02,8:00 CT,Ohio State,1,@,Wisconsin,6,,,b10,True,False,False,False,20232024
+Sat.,2023-12-02,6:07 ET,Minnesota State,4,@,Lake Superior,3,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-02,6:07 ET,Bowling Green,2,@,Michigan Tech,3,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-02,6:07 ET,St. Thomas,7,@,Ferris State,1,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-02,4:00 ET,Quinnipiac,5,@,Union,0,,,ec,True,False,False,False,20232024
+Sat.,2023-12-02,7:00 ET,Harvard,0,@,St. Lawrence,2,,,ec,True,False,False,False,20232024
+Sat.,2023-12-02,7:00 ET,Princeton,6,@,RPI,4,,,ec,True,False,False,False,20232024
+Sat.,2023-12-02,4:00 ET,Dartmouth,2,@,Clarkson,2,OT,,ec,True,False,False,True,20232024
+Sat.,2023-12-02,7:00 ET,Colgate,4,@,Cornell,2,,,ec,True,False,False,False,20232024
+Sat.,2023-12-02,6:07 AT,Alaska,3,@,Alaska Anchorage,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-02,6:00 ET,Merrimack,2,@,Boston University,5,,,he,True,False,False,False,20232024
+Sat.,2023-12-02,8:00 ET,Boston College,3,@,Northeastern,1,,,he,True,False,False,False,20232024
+Sat.,2023-12-02,5:07 CT,Omaha,1,@,Minnesota Duluth,0,OT,,nt,True,False,False,True,20232024
+Sat.,2023-12-02,6:00 MT,North Dakota,2,@,Denver,3,OT,,nt,True,False,False,True,20232024
+Sat.,2023-12-02,6:07 ET,Augustana,5,@,Northern Michigan,3,,,nc,True,False,False,False,20232024
+Sat.,2023-12-02,7:00 ET,LIU,3,@,Yale,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-02,6:00 ET,Lindenwood,1,@,Western Michigan,5,,,nc,True,False,False,False,20232024
+Sat.,2023-12-02,6:00 MT,Arizona State,2,@,Colorado College,0,,,nc,True,False,False,False,20232024
+Sun.,2023-12-03,4:00 ET,UMass Lowell,2,@,Vermont,1,,,he,True,False,False,False,20232024
+Sun.,2023-12-03,4:00 ET,Connecticut,3,@,Maine,7,,,he,True,False,False,False,20232024
+Sun.,2023-12-03,4:00 ET,Brown,4,@,Stonehill,1,,,nc,True,False,False,False,20232024
+Wed.,2023-12-06,7:00 ET,Maine,3,@,Union,1,,,nc,True,False,False,False,20232024
+Thu.,2023-12-07,7:00 ET,Niagara,1,@,Robert Morris,4,,,ah,True,False,False,False,20232024
+Fri.,2023-12-08,5:05 ET,RIT,2,@,aic,3,OT,,ah,True,False,False,True,20232024
+Fri.,2023-12-08,7:00 ET,Army,4,@,Mercyhurst,3,,,ah,True,False,False,False,20232024
+Fri.,2023-12-08,6:30 ET,Minnesota,5,@,Ohio State,4,,,b10,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 ET,Notre Dame,2,@,Michigan State,5,,,b10,True,False,False,False,20232024
+Fri.,2023-12-08,8:00 CT,Penn State,3,@,Wisconsin,6,,,b10,True,False,False,False,20232024
+Fri.,2023-12-08,7:07 CT,St. Thomas,1,@,Minnesota State,3,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-08,7:07 ET,Northern Michigan,2,@,Michigan Tech,4,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-08,7:07 CT,Lake Superior,1,@,Bemidji State,7,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-08,7:07 ET,Ferris State,0,@,Bowling Green,1,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 ET,USNTP,8,@,St. Lawrence,4,,,ex,True,False,True,False,20232024
+Fri.,2023-12-08,7:07 CT,St. Cloud State,4,@,Omaha,1,,,nt,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 ET,Denver,3,@,Western Michigan,7,,,nt,True,False,False,False,20232024
+Fri.,2023-12-08,7:07 CT,Colorado College,3,@,North Dakota,2,OT,,nt,True,False,False,True,20232024
+Fri.,2023-12-08,7:05 ET,Minnesota Duluth,3,@,Miami,3,OT,,nt,True,False,False,True,20232024
+Fri.,2023-12-08,7:00 ET,Princeton,4,@,Sacred Heart,0,,,nc,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 MT,Dartmouth,4,@,Arizona State,4,OT,,nc,True,False,False,True,20232024
+Fri.,2023-12-08,7:00 ET,Stonehill,1,@,Clarkson,5,,,nc,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 ET,Merrimack,2,@,Yale,5,,,nc,True,False,False,False,20232024
+Fri.,2023-12-08,7:15 ET,Holy Cross,2,@,UMass Lowell,2,OT,,nc,True,False,False,True,20232024
+Fri.,2023-12-08,7:00 ET,Alaska Anchorage,2,@,Massachusetts,11,,,nc,True,False,False,False,20232024
+Fri.,2023-12-08,7:00 ET,Union,5,@,Vermont,4,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,4:00 ET,Army,3,@,Mercyhurst,4,,,ah,True,False,False,False,20232024
+Sat.,2023-12-09,1:05 ET,RIT,5,@,aic,2,,,ah,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,Robert Morris,3,@,Niagara,1,,,ah,True,False,False,False,20232024
+Sat.,2023-12-09,8:00 ET,Minnesota,1,@,Ohio State,1,OT,,b10,True,False,False,True,20232024
+Sat.,2023-12-09,6:00 ET,Notre Dame,1,@,Michigan State,2,,,b10,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 CT,Penn State,1,@,Wisconsin,4,,,b10,True,False,False,False,20232024
+Sat.,2023-12-09,6:07 CT,Minnesota State,1,@,St. Thomas,2,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-09,6:07 ET,Michigan Tech,1,@,Northern Michigan,3,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-09,6:07 CT,Lake Superior,6,@,Bemidji State,1,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-09,7:07 ET,Ferris State,3,@,Bowling Green,4,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,USNTP,2,@,Clarkson,3,OT,,ex,True,False,True,True,20232024
+Sat.,2023-12-09,4:30 ET,Providence,4,@,Boston College,5,,,he,True,False,False,False,20232024
+Sat.,2023-12-09,6:00 ET,Denver,6,@,Western Michigan,5,OT,,nt,True,False,False,True,20232024
+Sat.,2023-12-09,7:07 CT,St. Cloud State,2,@,Omaha,2,OT,,nt,True,False,False,True,20232024
+Sat.,2023-12-09,7:05 ET,Minnesota Duluth,3,@,Miami,1,,,nt,True,False,False,False,20232024
+Sat.,2023-12-09,6:07 CT,Colorado College,3,@,North Dakota,2,OT,,nt,True,False,False,True,20232024
+Sat.,2023-12-09,7:00 ET,UMass Lowell,2,@,Holy Cross,4,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,5:00 MT,Dartmouth,1,@,Arizona State,1,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-09,7:00 ET,Sacred Heart,2,@,Princeton,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-09,4:00 ET,LIU,2,@,Quinnipiac,4,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,Northeastern,4,@,Brown,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,Bentley,2,@,Maine,3,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,Alaska Anchorage,2,@,Massachusetts,3,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,7:00 ET,Union,1,@,Vermont,4,,,nc,True,False,False,False,20232024
+Sat.,2023-12-09,4:00 ET,RPI,0,@,New Hampshire,1,,,nc,True,False,False,False,20232024
+Sun.,2023-12-10,6:00 ET,LIU,3,@,Yale,5,,,nc,True,False,False,False,20232024
+Thu.,2023-12-14,7:07 CT,Bowling Green,1,@,Bemidji State,3,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-15,7:00 ET,aic,2,@,Canisius,3,,,ah,True,False,False,False,20232024
+Fri.,2023-12-15,7:07 CT,Bowling Green,2,@,Bemidji State,5,,,cc2,True,False,False,False,20232024
+Fri.,2023-12-15,7:07 AT,Augustana,2,@,Alaska,5,,,nc,True,False,False,False,20232024
+Fri.,2023-12-15,7:00 ET,Minnesota State,3,@,RPI,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-16,5:00 ET,aic,6,@,Canisius,1,,,ah,True,False,False,False,20232024
+Sat.,2023-12-16,5:07 ET,Lake Superior,5,@,Ferris State,1,,,cc2,True,False,False,False,20232024
+Sat.,2023-12-16,7:00 ET,Arizona State,4,@,Robert Morris,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-16,7:07 AT,Augustana,3,@,Alaska,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-16,7:00 ET,Vermont,3,@,LIU,2,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-16,6:00 ET,Minnesota State,4,@,RPI,2,,,nc,True,False,False,False,20232024
+Sun.,2023-12-17,5:00 ET,Arizona State,8,@,Robert Morris,3,,,nc,True,False,False,False,20232024
+Sun.,2023-12-17,7:15 ET,Vermont,5,@,LIU,1,,,nc,True,False,False,False,20232024
+Thu.,2023-12-28,7:00 ET,Michigan State,4,vs,Ferris State,1,,,nc,True,True,False,False,20232024
+Thu.,2023-12-28,3:30 ET,Michigan Tech,3,vs,Alaska,2,OT,,nc,True,True,False,True,20232024
+Thu.,2023-12-28,7:30 CT,Air Force,0,vs,Wisconsin,3,,,nc,True,True,False,False,20232024
+Thu.,2023-12-28,4:00 CT,Northeastern,4,vs,Minnesota Duluth,3,OT,,nc,True,True,False,True,20232024
+Fri.,2023-12-29,7:30 ET,Clarkson,2,vs,Arizona State,5,,,nc,True,True,False,False,20232024
+Fri.,2023-12-29,4:00 ET,Massachusetts,2,vs,Cornell,2,OT,,nc,True,True,False,True,20232024
+Fri.,2023-12-29,7:00 MT,Minot State,1,@,Colorado College,7,,,ex,True,False,True,False,20232024
+Fri.,2023-12-29,7:00 ET,Michigan Tech,3,vs,Michigan State,3,OT,,nc,True,True,False,True,20232024
+Fri.,2023-12-29,3:30 ET,Ferris State,2,vs,Alaska,3,,,nc,True,True,False,False,20232024
+Fri.,2023-12-29,7:30 CT,Northeastern,0,vs,Wisconsin,3,,,nc,True,True,False,False,20232024
+Fri.,2023-12-29,4:00 CT,Air Force,1,vs,Minnesota Duluth,4,,,nc,True,True,False,False,20232024
+Fri.,2023-12-29,7:30 ET,Lake Superior,0,@,Dartmouth,4,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,4:00 ET,RIT,2,vs,Maine,5,,,nc,True,True,False,False,20232024
+Fri.,2023-12-29,3:00 ET,RPI,6,@,Canisius,3,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:00 ET,New Hampshire,3,@,Army,6,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:00 ET,Miami,1,@,Niagara,4,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:07 CT,St. Cloud State,6,@,Bemidji State,1,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:00 ET,Boston University,6,@,Yale,1,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:00 ET,Merrimack,5,@,Brown,1,,,nc,True,False,False,False,20232024
+Fri.,2023-12-29,7:00 ET,St. Thomas,1,@,Vermont,5,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,7:30 ET,Cornell,2,vs,Arizona State,2,OT,,nc,True,True,False,True,20232024
+Sat.,2023-12-30,4:00,Massachusetts,4,vs,Clarkson,5,OT,,nc,True,True,False,True,20232024
+Sat.,2023-12-30,4:00 ET,Harvard,2,@,Princeton,5,,,ec,True,False,False,False,20232024
+Sat.,2023-12-30,6:07 ET,Windsor,5,@,Bowling Green,1,,,ex,True,False,True,False,20232024
+Sat.,2023-12-30,7:00 ET,Ottawa,2,@,St. Lawrence,5,,,ex,True,False,True,False,20232024
+Sat.,2023-12-30,6:07 CT,USNTP,4,@,North Dakota,3,OT,,ex,True,False,True,True,20232024
+Sat.,2023-12-30,6:00 ET,Western Ontario,2,@,Western Michigan,6,,,ex,True,False,True,False,20232024
+Sat.,2023-12-30,6:00 MT,Minot State,3,@,Denver,9,,,ex,True,False,True,False,20232024
+Sat.,2023-12-30,4:00 ET,Lake Superior,2,vs,RIT,4,,,nc,True,True,False,False,20232024
+Sat.,2023-12-30,7:30 ET,Maine,5,@,Dartmouth,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,7:00 ET,Providence,3,@,Brown,0,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,1:00 ET,RPI,2,@,Canisius,1,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,7:05 ET,Union,3,@,Bentley,4,OT,,nc,True,False,False,True,20232024
+Sat.,2023-12-30,7:00 ET,New Hampshire,6,@,Sacred Heart,2,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,5:00 ET,Miami,3,@,Niagara,0,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,5:00 ET,Mercyhurst,3,@,Ohio State,5,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,5:00 ET,Augustana,1,@,Notre Dame,5,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,7:00 ET,Holy Cross,2,@,Quinnipiac,5,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,4:00 ET,aic,4,@,UMass Lowell,3,,,nc,True,False,False,False,20232024
+Sat.,2023-12-30,5:00 ET,St. Thomas,1,@,Vermont,4,,,nc,True,False,False,False,20232024
+Sun.,2023-12-31,2:00 ET,McGill,1,@,Yale,5,,,ex,True,False,True,False,20232024
+Sun.,2023-12-31,5:00 ET,Augustana,2,@,Notre Dame,3,OT,,nc,True,False,False,True,20232024
+Sun.,2023-12-31,2:00 ET,Stonehill,2,@,Merrimack,3,,,nc,True,False,False,False,20232024
+Sun.,2023-12-31,3:00 ET,Harvard,2,@,Connecticut,4,,,nc,True,False,False,False,20232024
+Sun.,2023-12-31,6:00 CT,Bemidji State,1,@,St. Cloud State,6,,,nc,True,False,False,False,20232024
+Mon.,2024-01-01,2:00 CT,USNTP,2,@,Minnesota,3,,,ex,True,False,True,False,20232024
+Tue.,2024-01-02,7:00 ET,Bentley,5,@,Army,2,,,ah,True,False,False,False,20232024
+Tue.,2024-01-02,7:00 ET,Merrimack,4,@,Holy Cross,3,OT,,nc,True,False,False,True,20232024
+Fri.,2024-01-05,7:00 ET,Mercyhurst,7,@,Sacred Heart,2,,,ah,True,False,False,False,20232024
+Fri.,2024-01-05,7:05 ET,Air Force,3,@,Bentley,1,,,ah,True,False,False,False,20232024
+Fri.,2024-01-05,1:05 ET,Holy Cross,3,@,aic,3,OT,,ah,True,False,False,True,20232024
+Fri.,2024-01-05,7:00 ET,Wisconsin,2,@,Notre Dame,1,,,b10,True,False,False,False,20232024
+Fri.,2024-01-05,7:07 ET,Bemidji State,4,@,Ferris State,1,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 MT,Harvard,2,@,Arizona State,5,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,3:30 MT,UMass Lowell,3,vs,Omaha,4,OT,,nc,True,True,False,True,20232024
+Fri.,2024-01-05,7:00 ET,Yale,2,@,RPI,1,,,ec,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 ET,Brown,3,@,Union,2,OT,,ec,True,False,False,True,20232024
+Fri.,2024-01-05,7:00 ET,USNTP,2,@,Michigan State,5,,,ex,True,False,True,False,20232024
+Fri.,2024-01-05,7:00 ET,Simon Fraser,1,@,Boston University,1,OT,,ex,True,False,True,True,20232024
+Fri.,2024-01-05,7:00 ET,Connecticut,3,@,Massachusetts,3,OT,,he,True,False,False,True,20232024
+Fri.,2024-01-05,7:00 ET,Stonehill,1,@,Robert Morris,8,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:05 ET,Clarkson,0,@,RIT,4,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 ET,St. Lawrence,1,@,Canisius,5,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 ET,Bowling Green,2,@,Ohio State,6,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:07 CT,Minnesota State,3,@,Augustana,3,OT,,nc,True,False,False,True,20232024
+Fri.,2024-01-05,7:10 CT,Western Michigan,3,@,Lindenwood,2,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 ET,Colgate,1,@,Maine,3,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 ET,Princeton,2,@,New Hampshire,5,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:00 MT,Niagara,2,@,Denver,5,,,nc,True,False,False,False,20232024
+Fri.,2024-01-05,7:07 CT,Alaska,4,@,North Dakota,6,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,6:00 ET,aic,2,@,Holy Cross,6,,,ah,True,False,False,False,20232024
+Sat.,2024-01-06,5:30 ET,Air Force,7,@,Bentley,3,,,ah,True,False,False,False,20232024
+Sat.,2024-01-06,3:00 ET,Mercyhurst,1,@,Sacred Heart,2,,,ah,True,False,False,False,20232024
+Sat.,2024-01-06,5:00 ET,Wisconsin,7,@,Notre Dame,4,,,b10,True,False,False,False,20232024
+Sat.,2024-01-06,6:07 ET,Bemidji State,3,@,Ferris State,5,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-06,7:00 MT,Omaha,1,@,Arizona State,2,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-06,3:30 MT,Harvard,4,vs,UMass Lowell,7,,,nc,True,True,False,False,20232024
+Sat.,2024-01-06,7:00 ET,Brown,1,@,RPI,2,,,ec,True,False,False,False,20232024
+Sat.,2024-01-06,4:00 ET,Yale,4,@,Union,2,,,ec,True,False,False,False,20232024
+Sat.,2024-01-06,7:00 ET,Michigan,5,@,USNTP,1,,,ex,True,False,True,False,20232024
+Sat.,2024-01-06,6:07 ET,Michigan Tech,2,@,Northern Michigan,7,,,ex,True,False,True,False,20232024
+Sat.,2024-01-06,5:00 ET,Stonehill,3,@,Robert Morris,7,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,5:05 ET,St. Lawrence,1,@,RIT,1,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-06,7:00 ET,Clarkson,4,@,Canisius,3,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,6:00 ET,Army,6,@,Penn State,7,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,7:07 ET,Ohio State,4,@,Bowling Green,2,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,6:07 CT,Minnesota State,2,@,Augustana,1,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,2:10 CT,Western Michigan,6,@,Lindenwood,1,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,6:00 ET,Vermont,3,@,Dartmouth,4,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,5:00 ET,Quinnipiac,3,@,Northeastern,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-06,4:00 ET,Princeton,1,@,New Hampshire,3,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,7:00 ET,Colgate,4,@,Maine,4,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-06,6:00 MT,Niagara,1,@,Denver,6,,,nc,True,False,False,False,20232024
+Sat.,2024-01-06,6:07 CT,Alaska,2,@,North Dakota,6,,,nc,True,False,False,False,20232024
+Sun.,2024-01-07,5:00 CT,Colorado College,6,@,Minnesota,4,,,nc,True,False,False,False,20232024
+Mon.,2024-01-08,7:00 CT,Colorado College,2,@,Minnesota,6,,,nc,True,False,False,False,20232024
+Tue.,2024-01-09,7:00 ET,Army,3,@,Sacred Heart,3,OT,,ah,True,False,False,True,20232024
+Tue.,2024-01-09,7:00 ET,Northeastern,3,@,Boston University,4,OT,,he,True,False,False,True,20232024
+Thu.,2024-01-11,7:00 ET,RIT,1,@,Niagara,3,,,ah,True,False,False,False,20232024
+Thu.,2024-01-11,7:00 ET,Mercyhurst,1,@,Canisius,4,,,ah,True,False,False,False,20232024
+Thu.,2024-01-11,7:07 CT,Michigan Tech,3,@,St. Thomas,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-12,7:05 ET,Sacred Heart,4,@,Bentley,3,,,ah,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Holy Cross,0,@,Army,3,,,ah,True,False,False,False,20232024
+Fri.,2024-01-12,7:05 MT,aic,2,@,Air Force,6,,,ah,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Notre Dame,2,@,Ohio State,3,,,b10,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Michigan State,5,@,Penn State,0,,,b10,True,False,False,False,20232024
+Fri.,2024-01-12,7:07 ET,Northern Michigan,1,@,Lake Superior,5,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-12,7:07 CT,Ferris State,2,@,Minnesota State,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Clarkson,1,@,Union,5,,,ec,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,St. Lawrence,3,@,RPI,6,,,ec,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Harvard,3,@,Brown,5,,,ec,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Princeton,2,@,Quinnipiac,9,,,ec,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Dartmouth,0,@,Yale,5,,,ec,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Vermont,5,@,Northeastern,4,,,he,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Merrimack,3,@,Massachusetts,4,,,he,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Maine,5,@,Connecticut,3,,,he,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Providence,1,@,Boston College,7,,,he,True,False,False,False,20232024
+Fri.,2024-01-12,7:07 CT,Colorado College,2,@,Minnesota Duluth,3,OT,,nt,True,False,False,True,20232024
+Fri.,2024-01-12,7:05 ET,Western Michigan,4,@,Miami,1,,,nt,True,False,False,False,20232024
+Fri.,2024-01-12,7:07 CT,Omaha,5,@,North Dakota,4,OT,,nt,True,False,False,True,20232024
+Fri.,2024-01-12,7:00 MT,St. Cloud State,1,@,Denver,5,,,nt,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 CT,Robert Morris,2,@,Minnesota,4,,,nc,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 CT,Lindenwood,0,@,Wisconsin,5,,,nc,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 ET,Stonehill,4,@,Michigan,12,,,nc,True,False,False,False,20232024
+Fri.,2024-01-12,7:00 MT,Cornell,3,@,Arizona State,2,OT,,nc,True,False,False,True,20232024
+Fri.,2024-01-12,7:00 ET,Colgate,2,@,LIU,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-13,7:00 ET,Bentley,3,@,Sacred Heart,2,OT,,ah,True,False,False,True,20232024
+Sat.,2024-01-13,4:00 ET,Holy Cross,3,@,Army,1,,,ah,True,False,False,False,20232024
+Sat.,2024-01-13,5:05 MT,aic,4,@,Air Force,1,,,ah,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 ET,Notre Dame,5,@,Ohio State,2,,,b10,True,False,False,False,20232024
+Sat.,2024-01-13,4:30 ET,Michigan State,7,@,Penn State,3,,,b10,True,False,False,False,20232024
+Sat.,2024-01-13,5:07 CT,Michigan Tech,1,@,St. Thomas,3,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-13,6:07 ET,Northern Michigan,2,@,Lake Superior,5,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-13,6:07 CT,Ferris State,0,@,Minnesota State,4,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 ET,Clarkson,4,@,RPI,1,,,ec,True,False,False,False,20232024
+Sat.,2024-01-13,4:00 ET,St. Lawrence,2,@,Union,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-01-13,7:00 ET,Harvard,1,@,Yale,0,,,ec,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 ET,Quinnipiac,3,@,Princeton,1,,,ec,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 ET,Dartmouth,1,@,Brown,2,,,ec,True,False,False,False,20232024
+Sat.,2024-01-13,7:07 AT,Alaska Anchorage,2,@,Alaska,2,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-13,6:00 ET,New Hampshire,0,@,Boston University,3,,,he,True,False,False,False,20232024
+Sat.,2024-01-13,6:00 ET,Boston College,3,@,Providence,4,,,he,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 ET,Massachusetts,1,@,Merrimack,4,,,he,True,False,False,False,20232024
+Sat.,2024-01-13,3:00 ET,Maine,0,@,Connecticut,2,,,he,True,False,False,False,20232024
+Sat.,2024-01-13,7:30 ET,Vermont,1,@,Northeastern,3,,,he,True,False,False,False,20232024
+Sat.,2024-01-13,7:05 ET,Western Michigan,3,@,Miami,4,,,nt,True,False,False,False,20232024
+Sat.,2024-01-13,6:07 CT,Omaha,1,@,North Dakota,3,,,nt,True,False,False,False,20232024
+Sat.,2024-01-13,7:07 CT,Colorado College,3,@,Minnesota Duluth,2,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-13,6:00 MT,St. Cloud State,4,@,Denver,4,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-13,5:00 CT,Robert Morris,1,@,Minnesota,4,,,nc,True,False,False,False,20232024
+Sat.,2024-01-13,7:00 CT,Lindenwood,3,@,Wisconsin,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-13,7:00 ET,Stonehill,1,@,Michigan,7,,,nc,True,False,False,False,20232024
+Sat.,2024-01-13,2:00 ET,Colgate,2,@,LIU,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-13,5:00 MT,Cornell,4,@,Arizona State,1,,,nc,True,False,False,False,20232024
+Tue.,2024-01-16,7:00 ET,Sacred Heart,3,@,Army,5,,,ah,True,False,False,False,20232024
+Tue.,2024-01-16,7:05 ET,Canisius,3,@,RIT,2,OT,,ah,True,False,False,True,20232024
+Fri.,2024-01-19,7:00 ET,Holy Cross,1,@,Sacred Heart,2,OT,,ah,True,False,False,True,20232024
+Fri.,2024-01-19,7:00 ET,RIT,6,@,Robert Morris,3,,,ah,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Niagara,4,@,Canisius,2,,,ah,True,False,False,False,20232024
+Fri.,2024-01-19,7:05 ET,Mercyhurst,0,@,Bentley,4,,,ah,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Air Force,8,@,Army,1,,,ah,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Michigan,7,@,Michigan State,1,,,b10,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 CT,Ohio State,2,@,Minnesota,5,,,b10,True,False,False,False,20232024
+Fri.,2024-01-19,7:30 ET,Penn State,1,@,Notre Dame,4,,,b10,True,False,False,False,20232024
+Fri.,2024-01-19,7:07 ET,St. Thomas,2,@,Northern Michigan,3,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-19,7:07 ET,Minnesota State,3,@,Bowling Green,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-19,7:07 ET,Bemidji State,1,@,Michigan Tech,2,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-19,7:07 ET,Lake Superior,3,@,Ferris State,5,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,RPI,3,@,Harvard,6,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Union,5,@,Dartmouth,1,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Yale,3,@,Clarkson,5,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Princeton,2,@,Cornell,6,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Quinnipiac,1,@,Colgate,2,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Brown,1,@,St. Lawrence,2,,,ec,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,UMass Lowell,3,@,Maine,5,,,he,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,New Hampshire,5,@,Connecticut,0,,,he,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Boston University,5,@,Vermont,1,,,he,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Boston College,6,@,Merrimack,4,,,he,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Minnesota Duluth,6,@,Western Michigan,3,,,nt,True,False,False,False,20232024
+Fri.,2024-01-19,7:30 CT,North Dakota,5,@,St. Cloud State,3,,,nt,True,False,False,False,20232024
+Fri.,2024-01-19,7:07 CT,Denver,6,@,Omaha,3,,,nt,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 MT,Miami,1,@,Colorado College,2,,,nt,True,False,False,False,20232024
+Fri.,2024-01-19,2:30 ET,Stonehill,2,@,LIU,8,,,nc,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 MT,Augustana,5,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Fri.,2024-01-19,7:00 ET,Alaska Anchorage,0,@,Providence,2,,,nc,True,False,False,False,20232024
+Sat.,2024-01-20,4:05 ET,Mercyhurst,4,@,Bentley,8,,,ah,True,False,False,False,20232024
+Sat.,2024-01-20,4:00 ET,Air Force,7,@,Army,6,,,ah,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Sacred Heart,2,@,Holy Cross,5,,,ah,True,False,False,False,20232024
+Sat.,2024-01-20,6:00 ET,RIT,7,@,Robert Morris,1,,,ah,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Canisius,4,@,Niagara,6,,,ah,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 CT,Ohio State,3,@,Minnesota,6,,,b10,True,False,False,False,20232024
+Sat.,2024-01-20,6:00 ET,Penn State,3,@,Notre Dame,6,,,b10,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Michigan State,7,@,Michigan,5,,,b10,True,False,False,False,20232024
+Sat.,2024-01-20,6:07 ET,St. Thomas,3,@,Northern Michigan,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-20,6:07 ET,Bemidji State,2,@,Michigan Tech,2,OT,,cc2,True,False,False,True,20232024
+Sat.,2024-01-20,6:07 ET,Ferris State,3,@,Lake Superior,2,OT,,cc2,True,False,False,True,20232024
+Sat.,2024-01-20,7:07 ET,Minnesota State,4,@,Bowling Green,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Union,5,@,Harvard,4,OT,,ec,True,False,False,True,20232024
+Sat.,2024-01-20,7:00 ET,RPI,2,@,Dartmouth,6,,,ec,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Yale,2,@,St. Lawrence,4,,,ec,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Princeton,3,@,Colgate,6,,,ec,True,False,False,False,20232024
+Sat.,2024-01-20,4:00 ET,Brown,3,@,Clarkson,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-01-20,7:00 ET,Quinnipiac,2,@,Cornell,3,OT,,ec,True,False,False,True,20232024
+Sat.,2024-01-20,7:00 ET,UMass Lowell,2,@,Maine,7,,,he,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Boston University,5,@,Vermont,2,,,he,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Massachusetts,2,@,Northeastern,1,,,he,True,False,False,False,20232024
+Sat.,2024-01-20,6:00 CT,North Dakota,3,@,St. Cloud State,3,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-20,4:00 MT,Miami,2,@,Colorado College,4,,,nt,True,False,False,False,20232024
+Sat.,2024-01-20,6:00 ET,Minnesota Duluth,2,@,Western Michigan,5,,,nt,True,False,False,False,20232024
+Sat.,2024-01-20,7:07 CT,Denver,6,@,Omaha,2,,,nt,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 MT,Augustana,2,@,Arizona State,3,,,nc,True,False,False,False,20232024
+Sat.,2024-01-20,2:00 ET,Stonehill,0,@,LIU,10,,,nc,True,False,False,False,20232024
+Sat.,2024-01-20,7:00 ET,Alaska Anchorage,4,@,Providence,0,,,nc,True,False,False,False,20232024
+Sun.,2024-01-21,1:00 ET,Merrimack,2,@,Boston College,6,,,he,True,False,False,False,20232024
+Sun.,2024-01-21,4:00 ET,Connecticut,2,@,New Hampshire,1,,,he,True,False,False,False,20232024
+Thu.,2024-01-25,7:00 ET,Niagara,3,@,USNTP,2,OT,,ex,True,False,True,True,20232024
+Fri.,2024-01-26,7:00 ET,Holy Cross,5,@,Mercyhurst,2,,,ah,True,False,False,False,20232024
+Fri.,2024-01-26,7:05 MT,Canisius,1,@,Air Force,5,,,ah,True,False,False,False,20232024
+Fri.,2024-01-26,7:05 ET,Bentley,0,@,RIT,3,,,ah,True,False,False,False,20232024
+Fri.,2024-01-26,1:05 ET,Robert Morris,2,@,aic,0,,,ah,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Wisconsin,1,@,Michigan,5,,,b10,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Ohio State,3,@,Penn State,4,,,b10,True,False,False,False,20232024
+Fri.,2024-01-26,6:00 ET,Minnesota,2,@,Michigan State,3,,,b10,True,False,False,False,20232024
+Fri.,2024-01-26,7:07 CT,Northern Michigan,2,@,Minnesota State,2,OT,,cc2,True,False,False,True,20232024
+Fri.,2024-01-26,7:07 ET,Michigan Tech,1,@,Lake Superior,3,,,cc2,True,False,False,False,20232024
+Fri.,2024-01-26,3:30 ET,Sacred Heart,2,@,Connecticut,6,,,nc,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Cornell,2,@,Harvard,0,,,ec,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Colgate,4,@,Dartmouth,3,OT,,ec,True,False,False,True,20232024
+Fri.,2024-01-26,7:00 ET,St. Lawrence,1,@,Clarkson,4,,,ec,True,False,False,False,20232024
+Fri.,2024-01-26,7:30 ET,Quinnipiac,1,vs,Yale,0,,,ec,True,True,False,False,20232024
+Fri.,2024-01-26,7:15 ET,Providence,7,@,UMass Lowell,2,,,he,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Merrimack,3,@,Northeastern,5,,,he,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,Boston University,1,@,Boston College,4,,,he,True,False,False,False,20232024
+Fri.,2024-01-26,7:00 ET,New Hampshire,1,@,Vermont,2,,,he,True,False,False,False,20232024
+Fri.,2024-01-26,7:30 CT,Omaha,7,@,St. Cloud State,6,OT,,nt,True,False,False,True,20232024
+Fri.,2024-01-26,7:00 ET,Colorado College,2,@,Western Michigan,1,OT,,nt,True,False,False,True,20232024
+Fri.,2024-01-26,7:30 CT,Denver,2,@,North Dakota,5,,,nt,True,False,False,False,20232024
+Fri.,2024-01-26,7:07 CT,Miami,2,@,Minnesota Duluth,6,,,nt,True,False,False,False,20232024
+Fri.,2024-01-26,7:07 CT,Ferris State,5,@,Augustana,2,,,nc,True,False,False,False,20232024
+Fri.,2024-01-26,7:10 CT,Stonehill,1,@,Lindenwood,7,,,nc,True,False,False,False,20232024
+Fri.,2024-01-26,2:30 ET,Alaska,7,@,LIU,3,,,nc,True,False,False,False,20232024
+Sat.,2024-01-27,5:05 ET,Bentley,1,@,RIT,2,OT,,ah,True,False,False,True,20232024
+Sat.,2024-01-27,1:05 ET,Robert Morris,2,@,aic,5,,,ah,True,False,False,False,20232024
+Sat.,2024-01-27,5:05 MT,Canisius,5,@,Air Force,3,,,ah,True,False,False,False,20232024
+Sat.,2024-01-27,5:00 ET,Holy Cross,5,@,Mercyhurst,3,,,ah,True,False,False,False,20232024
+Sat.,2024-01-27,6:00 ET,Ohio State,3,@,Penn State,4,,,b10,True,False,False,False,20232024
+Sat.,2024-01-27,4:00 ET,Minnesota,5,@,Michigan State,1,,,b10,True,False,False,False,20232024
+Sat.,2024-01-27,7:00 ET,Wisconsin,6,@,Michigan,5,OT,,b10,True,False,False,True,20232024
+Sat.,2024-01-27,6:07 CT,Northern Michigan,0,@,Minnesota State,4,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-27,6:07 ET,Michigan Tech,1,@,Lake Superior,0,,,cc2,True,False,False,False,20232024
+Sat.,2024-01-27,3:30 ET,Yale,3,vs,Sacred Heart,2,,,nc,True,True,False,False,20232024
+Sat.,2024-01-27,7:30 ET,Quinnipiac,4,@,Connecticut,3,,,nc,True,False,False,False,20232024
+Sat.,2024-01-27,7:00 ET,Clarkson,1,@,St. Lawrence,2,,,ec,True,False,False,False,20232024
+Sat.,2024-01-27,7:00 ET,Colgate,3,@,Harvard,6,,,ec,True,False,False,False,20232024
+Sat.,2024-01-27,7:00 ET,Cornell,2,@,Dartmouth,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-01-27,7:00 ET,Royal Military,1,@,Army,6,,,ex,True,False,True,False,20232024
+Sat.,2024-01-27,7:00 ET,New Hampshire,6,@,Vermont,3,,,he,True,False,False,False,20232024
+Sat.,2024-01-27,6:00 ET,UMass Lowell,3,@,Providence,4,OT,,he,True,False,False,True,20232024
+Sat.,2024-01-27,7:00 ET,Boston College,4,@,Boston University,3,,,he,True,False,False,False,20232024
+Sat.,2024-01-27,7:00 ET,Northeastern,4,@,Merrimack,1,,,he,True,False,False,False,20232024
+Sat.,2024-01-27,6:00 ET,RPI,3,vs,Union,5,,,nc,True,True,False,False,20232024
+Sat.,2024-01-27,6:00 CT,Omaha,1,@,St. Cloud State,1,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-27,7:07 CT,Miami,2,@,Minnesota Duluth,3,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-27,6:07 CT,Denver,2,@,North Dakota,4,,,nt,True,False,False,False,20232024
+Sat.,2024-01-27,6:00 ET,Colorado College,2,@,Western Michigan,1,OT,,nt,True,False,False,True,20232024
+Sat.,2024-01-27,6:07 CT,Ferris State,4,@,Augustana,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-27,2:10 CT,Stonehill,5,@,Lindenwood,6,OT,,nc,True,False,False,True,20232024
+Sat.,2024-01-27,2:00 ET,Alaska,3,@,LIU,1,,,nc,True,False,False,False,20232024
+Tue.,2024-01-30,6:30 ET,Boston University,3,@,Northeastern,4,OT,,he,True,False,False,True,20232024
+Tue.,2024-01-30,7:00 ET,Army,3,@,Princeton,4,OT,,nc,True,False,False,True,20232024
+Thu.,2024-02-01,7:00 ET,RIT,4,@,Niagara,4,OT,,ah,True,False,False,True,20232024
+Fri.,2024-02-02,7:00 ET,Robert Morris,5,@,Mercyhurst,2,,,ah,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,aic,3,@,Sacred Heart,4,OT,,ah,True,False,False,True,20232024
+Fri.,2024-02-02,7:00 ET,Army,2,@,Bentley,4,,,ah,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Air Force,3,@,Holy Cross,6,,,ah,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Michigan,4,@,Ohio State,2,,,b10,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 CT,Minnesota,2,@,Wisconsin,1,OT,,b10,True,False,False,True,20232024
+Fri.,2024-02-02,7:30 ET,Michigan State,1,@,Notre Dame,4,,,b10,True,False,False,False,20232024
+Fri.,2024-02-02,7:07 ET,Bowling Green,4,@,Ferris State,3,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-02,7:07 CT,Minnesota State,4,@,St. Thomas,3,OT,,cc2,True,False,False,True,20232024
+Fri.,2024-02-02,7:07 ET,Michigan Tech,1,@,Northern Michigan,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Union,1,@,Yale,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,RPI,3,@,Brown,1,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,St. Lawrence,1,@,Cornell,5,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Dartmouth,5,@,Princeton,1,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Harvard,1,@,Quinnipiac,2,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Clarkson,2,@,Colgate,4,,,ec,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Providence,5,@,Connecticut,0,,,he,True,False,False,False,20232024
+Fri.,2024-02-02,7:15 ET,Boston College,6,@,UMass Lowell,1,,,he,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Massachusetts,3,@,Merrimack,2,,,he,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Maine,3,@,Northeastern,6,,,he,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 ET,Boston University,6,@,New Hampshire,3,,,he,True,False,False,False,20232024
+Fri.,2024-02-02,7:05 ET,North Dakota,5,@,Miami,4,OT,,nt,True,False,False,True,20232024
+Fri.,2024-02-02,7:30 CT,Minnesota Duluth,1,@,Omaha,5,,,nt,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 MT,St. Cloud State,2,@,Colorado College,1,OT,,nt,True,False,False,True,20232024
+Fri.,2024-02-02,7:00 MT,Western Michigan,2,@,Denver,3,,,nt,True,False,False,False,20232024
+Fri.,2024-02-02,7:07 CT,Augustana,0,@,Bemidji State,5,,,nc,True,False,False,False,20232024
+Fri.,2024-02-02,7:00 MT,Lindenwood,4,@,Arizona State,4,OT,,nc,True,False,False,True,20232024
+Fri.,2024-02-02,7:00 ET,LIU,3,@,Stonehill,1,,,nc,True,False,False,False,20232024
+Sat.,2024-02-03,4:00 ET,Army,2,@,Bentley,1,,,ah,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Air Force,2,@,Holy Cross,5,,,ah,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Mercyhurst,3,@,Robert Morris,4,,,ah,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,aic,1,@,Sacred Heart,3,,,ah,True,False,False,False,20232024
+Sat.,2024-02-03,5:05 ET,Niagara,2,@,RIT,4,,,ah,True,False,False,False,20232024
+Sat.,2024-02-03,8:00 ET,Michigan,4,@,Ohio State,1,,,b10,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 CT,Minnesota,1,@,Wisconsin,1,OT,,b10,True,False,False,True,20232024
+Sat.,2024-02-03,6:00 ET,Michigan State,4,@,Notre Dame,0,,,b10,True,False,False,False,20232024
+Sat.,2024-02-03,6:07 ET,Bowling Green,3,@,Ferris State,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-03,6:07 ET,Northern Michigan,3,@,Michigan Tech,3,OT,,cc2,True,False,False,True,20232024
+Sat.,2024-02-03,6:07 CT,St. Thomas,4,@,Minnesota State,2,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,RPI,1,@,Yale,1,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-03,7:00 ET,Union,4,@,Brown,4,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-03,7:00 ET,St. Lawrence,2,@,Colgate,3,,,ec,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Clarkson,2,@,Cornell,7,,,ec,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Dartmouth,1,@,Quinnipiac,5,,,ec,True,False,False,False,20232024
+Sat.,2024-02-03,5:07 AT,Alaska,2,@,Alaska Anchorage,4,,,nc,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Connecticut,2,@,Providence,1,,,he,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Merrimack,1,@,New Hampshire,3,,,he,True,False,False,False,20232024
+Sat.,2024-02-03,7:00 ET,Maine,1,@,Massachusetts,0,,,he,True,False,False,False,20232024
+Sat.,2024-02-03,7:07 CT,Minnesota Duluth,3,@,Omaha,4,,,nt,True,False,False,False,20232024
+Sat.,2024-02-03,6:00 MT,Western Michigan,7,@,Denver,2,,,nt,True,False,False,False,20232024
+Sat.,2024-02-03,7:05 ET,North Dakota,4,@,Miami,1,,,nt,True,False,False,False,20232024
+Sat.,2024-02-03,6:00 MT,St. Cloud State,3,@,Colorado College,5,,,nt,True,False,False,False,20232024
+Sat.,2024-02-03,6:05 CT,Augustana,5,@,Bemidji State,2,,,nc,True,False,False,False,20232024
+Sat.,2024-02-03,4:00 ET,LIU,5,@,Stonehill,0,,,nc,True,False,False,False,20232024
+Sat.,2024-02-03,5:00 MT,Lindenwood,1,@,Arizona State,5,,,nc,True,False,False,False,20232024
+Mon.,2024-02-05,5:00 ET,Harvard,2,vs,Northeastern,3,OT,,nc,True,True,False,True,20232024
+Mon.,2024-02-05,8:00 ET,Boston University,4,vs,Boston College,3,,,nc,True,True,False,False,20232024
+Tue.,2024-02-06,6:00 ET,Niagara,3,@,Canisius,2,OT,,ah,True,False,False,True,20232024
+Fri.,2024-02-09,7:00 ET,Robert Morris,1,@,Army,3,,,ah,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Bentley,3,@,Canisius,0,,,ah,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,RIT,7,@,Mercyhurst,6,OT,,ah,True,False,False,True,20232024
+Fri.,2024-02-09,7:00 ET,aic,2,@,Niagara,4,,,ah,True,False,False,False,20232024
+Fri.,2024-02-09,7:05 MT,Sacred Heart,3,@,Air Force,2,,,ah,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 CT,Notre Dame,2,@,Wisconsin,4,,,b10,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Michigan State,5,@,Michigan,1,,,b10,True,False,False,False,20232024
+Fri.,2024-02-09,6:00 CT,Penn State,0,@,Minnesota,3,,,b10,True,False,False,False,20232024
+Fri.,2024-02-09,7:07 ET,Minnesota State,1,@,Michigan Tech,3,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-09,7:07 ET,Bemidji State,4,@,Northern Michigan,2,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-09,7:07 ET,Lake Superior,3,@,Bowling Green,6,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Cornell,4,@,RPI,1,,,ec,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Colgate,3,@,Union,5,,,ec,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Quinnipiac,1,@,St. Lawrence,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Brown,1,@,Yale,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Princeton,2,@,Clarkson,4,,,ec,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Dartmouth,5,@,Harvard,5,OT,,ec,True,False,False,True,20232024
+Fri.,2024-02-09,7:00 ET,Massachusetts,2,@,Connecticut,0,,,he,True,False,False,False,20232024
+Fri.,2024-02-09,7:15 ET,Vermont,1,@,UMass Lowell,1,OT,,he,True,False,False,True,20232024
+Fri.,2024-02-09,7:00 ET,Providence,1,@,Maine,2,,,he,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Merrimack,1,@,Boston University,7,,,he,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,New Hampshire,1,@,Boston College,6,,,he,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Omaha,1,@,Western Michigan,6,,,nt,True,False,False,False,20232024
+Fri.,2024-02-09,7:05 ET,St. Cloud State,5,@,Miami,2,,,nt,True,False,False,False,20232024
+Fri.,2024-02-09,7:07 CT,St. Thomas,2,@,Augustana,4,,,nc,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 ET,Lindenwood,10,@,Stonehill,1,,,nc,True,False,False,False,20232024
+Fri.,2024-02-09,7:00 MT,Alaska,0,@,Arizona State,2,,,nc,True,False,False,False,20232024
+Sat.,2024-02-10,5:05 MT,Sacred Heart,0,@,Air Force,2,,,ah,True,False,False,False,20232024
+Sat.,2024-02-10,5:00 ET,aic,4,@,Niagara,4,OT,,ah,True,False,False,True,20232024
+Sat.,2024-02-10,6:00 ET,Robert Morris,4,@,Army,3,,,ah,True,False,False,False,20232024
+Sat.,2024-02-10,4:00 ET,RIT,2,@,Mercyhurst,3,,,ah,True,False,False,False,20232024
+Sat.,2024-02-10,6:00 ET,Bentley,2,@,Canisius,2,OT,,ah,True,False,False,True,20232024
+Sat.,2024-02-10,8:30 ET,Michigan State,3,vs,Michigan,2,,,b10,True,True,False,False,20232024
+Sat.,2024-02-10,6:00 CT,Notre Dame,2,@,Wisconsin,3,,,b10,True,False,False,False,20232024
+Sat.,2024-02-10,3:00 CT,Penn State,0,@,Minnesota,3,,,b10,True,False,False,False,20232024
+Sat.,2024-02-10,5:07 ET,Minnesota State,4,@,Michigan Tech,2,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-10,7:07 ET,Lake Superior,2,@,Bowling Green,4,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-10,6:07 ET,Bemidji State,3,@,Northern Michigan,3,OT,,cc2,True,False,False,True,20232024
+Sat.,2024-02-10,7:00 ET,Colgate,5,@,RPI,5,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-10,7:00 ET,Cornell,6,@,Union,1,,,ec,True,False,False,False,20232024
+Sat.,2024-02-10,7:00 ET,Princeton,5,@,St. Lawrence,4,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-10,7:00 ET,Quinnipiac,4,@,Clarkson,2,,,ec,True,False,False,False,20232024
+Sat.,2024-02-10,6:05 ET,Vermont,3,@,UMass Lowell,3,OT,,he,True,False,False,True,20232024
+Sat.,2024-02-10,7:00 ET,New Hampshire,1,@,Merrimack,3,,,he,True,False,False,False,20232024
+Sat.,2024-02-10,7:00 ET,Connecticut,1,@,Massachusetts,3,,,he,True,False,False,False,20232024
+Sat.,2024-02-10,7:00 ET,Providence,4,@,Maine,3,OT,,he,True,False,False,True,20232024
+Sat.,2024-02-10,6:00 ET,Omaha,3,@,Western Michigan,2,OT,,nt,True,False,False,True,20232024
+Sat.,2024-02-10,7:05 ET,St. Cloud State,3,@,Miami,1,,,nt,True,False,False,False,20232024
+Sat.,2024-02-10,6:07 CT,St. Thomas,1,@,Augustana,2,OT,,nc,True,False,False,True,20232024
+Sat.,2024-02-10,5:00 MT,Alaska,2,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Sat.,2024-02-10,5:00 ET,Lindenwood,2,@,Stonehill,4,,,nc,True,False,False,False,20232024
+Sat.,2024-02-10,6:07 AT,LIU,2,@,Alaska Anchorage,1,,,nc,True,False,False,False,20232024
+Sun.,2024-02-11,5:07 AT,LIU,1,@,Alaska Anchorage,3,,,nc,True,False,False,False,20232024
+Mon.,2024-02-12,4:30 ET,Boston College,5,vs,Harvard,0,,,nc,True,True,False,False,20232024
+Mon.,2024-02-12,7:30 ET,Northeastern,4,vs,Boston University,3,OT,,nc,True,True,False,True,20232024
+Tue.,2024-02-13,CCD,Saint Anselm,,@,Stonehill,,,,nc,False,False,False,False,20232024
+Wed.,2024-02-14,7:00 ET,Assumption,1,@,Stonehill,3,,,nc,True,False,False,False,20232024
+Thu.,2024-02-15,7:07 CT,Ferris State,2,@,Bemidji State,3,OT,,cc2,True,False,False,True,20232024
+Fri.,2024-02-16,7:05 ET,Air Force,3,@,RIT,7,,,ah,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Canisius,5,@,Robert Morris,3,,,ah,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Sacred Heart,1,@,Holy Cross,5,,,ah,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Army,3,@,Niagara,6,,,ah,True,False,False,False,20232024
+Fri.,2024-02-16,4:35 ET,Mercyhurst,1,@,aic,4,,,ah,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Michigan,5,@,Penn State,3,,,b10,True,False,False,False,20232024
+Fri.,2024-02-16,7:30 ET,Minnesota,1,@,Notre Dame,6,,,b10,True,False,False,False,20232024
+Fri.,2024-02-16,6:30 ET,Wisconsin,2,@,Ohio State,3,OT,,b10,True,False,False,True,20232024
+Fri.,2024-02-16,7:07 CT,Ferris State,1,@,Bemidji State,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-16,7:07 CT,Bowling Green,3,@,St. Thomas,3,OT,,cc2,True,False,False,True,20232024
+Fri.,2024-02-16,7:00 ET,Union,2,@,Quinnipiac,6,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,RPI,4,@,Princeton,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,St. Lawrence,1,@,Harvard,2,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Yale,2,@,Colgate,5,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Brown,0,@,Cornell,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Clarkson,0,@,Dartmouth,3,,,ec,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Maine,2,@,New Hampshire,6,,,he,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Boston College,5,@,Massachusetts,1,,,he,True,False,False,False,20232024
+Fri.,2024-02-16,7:15 ET,Northeastern,2,@,UMass Lowell,4,,,he,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Merrimack,5,@,Vermont,2,,,he,True,False,False,False,20232024
+Fri.,2024-02-16,7:00 ET,Boston University,2,@,Providence,2,OT,,he,True,False,False,True,20232024
+Fri.,2024-02-16,7:00 MT,North Dakota,1,@,Colorado College,7,,,nt,True,False,False,False,20232024
+Fri.,2024-02-16,8:00 CT,Denver,5,@,Minnesota Duluth,4,OT,,nt,True,False,False,True,20232024
+Fri.,2024-02-16,7:07 ET,Augustana,0,@,Lake Superior,3,,,nc,True,False,False,False,20232024
+Fri.,2024-02-16,7:10 CT,Alaska Anchorage,5,@,Lindenwood,3,,,nc,True,False,False,False,20232024
+Fri.,2024-02-16,7:07 AT,LIU,4,@,Alaska,0,,,nc,True,False,False,False,20232024
+Sat.,2024-02-17,5:00 ET,Army,3,@,Niagara,0,,,ah,True,False,False,False,20232024
+Sat.,2024-02-17,7:05 ET,Mercyhurst,2,@,aic,2,OT,,ah,True,False,False,True,20232024
+Sat.,2024-02-17,7:00 ET,Holy Cross,2,@,Sacred Heart,1,,,ah,True,False,False,False,20232024
+Sat.,2024-02-17,5:05 ET,Air Force,3,@,RIT,2,,,ah,True,False,False,False,20232024
+Sat.,2024-02-17,5:00 ET,Canisius,5,@,Robert Morris,4,OT,,ah,True,False,False,True,20232024
+Sat.,2024-02-17,6:00 ET,Minnesota,3,@,Notre Dame,2,OT,,b10,True,False,False,True,20232024
+Sat.,2024-02-17,7:00 ET,Michigan,2,@,Penn State,4,,,b10,True,False,False,False,20232024
+Sat.,2024-02-17,4:30 ET,Wisconsin,1,@,Ohio State,3,,,b10,True,False,False,False,20232024
+Sat.,2024-02-17,6:07 CT,Bowling Green,3,@,St. Thomas,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-17,7:00 ET,Union,2,@,Princeton,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-17,7:00 ET,RPI,2,@,Quinnipiac,7,,,ec,True,False,False,False,20232024
+Sat.,2024-02-17,7:00 ET,Brown,2,@,Colgate,4,,,ec,True,False,False,False,20232024
+Sat.,2024-02-17,7:00 ET,St. Lawrence,4,@,Dartmouth,4,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-17,7:00 ET,Yale,1,@,Cornell,1,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-17,7:00 ET,Clarkson,3,@,Harvard,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-17,7:30 ET,Merrimack,1,@,Vermont,4,,,he,True,False,False,False,20232024
+Sat.,2024-02-17,7:00 ET,UMass Lowell,0,@,Northeastern,4,,,he,True,False,False,False,20232024
+Sat.,2024-02-17,6:00 ET,Providence,2,@,Boston University,5,,,he,True,False,False,False,20232024
+Sat.,2024-02-17,7:00 ET,Maine,2,@,New Hampshire,5,,,he,True,False,False,False,20232024
+Sat.,2024-02-17,6:00 MT,North Dakota,2,@,Colorado College,6,,,nt,True,False,False,False,20232024
+Sat.,2024-02-17,7:07 CT,Denver,5,@,Minnesota Duluth,2,,,nt,True,False,False,False,20232024
+Sat.,2024-02-17,6:07 ET,Augustana,3,@,Lake Superior,0,,,nc,True,False,False,False,20232024
+Sat.,2024-02-17,6:00 CT,Alaska Anchorage,3,@,Lindenwood,0,,,nc,True,False,False,False,20232024
+Sat.,2024-02-17,7:07 AT,LIU,0,@,Alaska,4,,,nc,True,False,False,False,20232024
+Sun.,2024-02-18,1:00 ET,Massachusetts,4,@,Boston College,6,,,he,True,False,False,False,20232024
+Tue.,2024-02-20,7:00 ET,Niagara,4,@,Mercyhurst,1,,,ah,True,False,False,False,20232024
+Thu.,2024-02-22,7:00 ET,Mercyhurst,6,@,Niagara,1,,,ah,True,False,False,False,20232024
+Thu.,2024-02-22,7:00 ET,Bentley,5,@,Holy Cross,1,,,ah,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,aic,2,@,Army,2,OT,,ah,True,False,False,True,20232024
+Fri.,2024-02-23,7:05 MT,Robert Morris,2,@,Air Force,5,,,ah,True,False,False,False,20232024
+Fri.,2024-02-23,7:05 ET,Canisius,2,@,RIT,9,,,ah,True,False,False,False,20232024
+Fri.,2024-02-23,8:00 ET,Notre Dame,0,@,Michigan,4,,,b10,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Ohio State,6,@,Michigan State,2,,,b10,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Wisconsin,6,@,Penn State,0,,,b10,True,False,False,False,20232024
+Fri.,2024-02-23,7:07 ET,Northern Michigan,3,@,Ferris State,2,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-23,7:37 ET,Michigan Tech,7,@,Bowling Green,0,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-23,7:07 CT,Bemidji State,6,@,St. Thomas,5,OT,,cc2,True,False,False,True,20232024
+Fri.,2024-02-23,7:07 CT,Lake Superior,4,@,Minnesota State,3,,,cc2,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Harvard,2,@,Union,6,,,ec,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Dartmouth,5,@,RPI,1,,,ec,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Colgate,3,@,St. Lawrence,4,OT,,ec,True,False,False,True,20232024
+Fri.,2024-02-23,7:00 ET,Princeton,4,@,Yale,1,,,ec,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Quinnipiac,5,@,Brown,2,,,ec,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Cornell,3,@,Clarkson,4,OT,,ec,True,False,False,True,20232024
+Fri.,2024-02-23,7:00 ET,Vermont,1,@,Boston College,7,,,he,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Boston University,6,@,Connecticut,1,,,he,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,Northeastern,1,@,Maine,5,,,he,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 ET,New Hampshire,2,@,Massachusetts,3,,,he,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 CT,Western Michigan,4,@,St. Cloud State,3,OT,,nt,True,False,False,True,20232024
+Fri.,2024-02-23,7:07 CT,Colorado College,0,@,Omaha,3,,,nt,True,False,False,False,20232024
+Fri.,2024-02-23,7:00 MT,Miami,3,@,Denver,3,OT,,nt,True,False,False,True,20232024
+Fri.,2024-02-23,7:07 CT,Minnesota Duluth,0,@,North Dakota,6,,,nt,True,False,False,False,20232024
+Fri.,2024-02-23,2:30 ET,Stonehill,2,@,LIU,7,,,nc,True,False,False,False,20232024
+Fri.,2024-02-23,7:07 CT,Alaska Anchorage,6,@,Augustana,5,OT,,nc,True,False,False,True,20232024
+Fri.,2024-02-23,7:07 AT,Arizona State,1,@,Alaska,3,,,nc,True,False,False,False,20232024
+Sat.,2024-02-24,4:00 ET,aic,5,@,Army,1,,,ah,True,False,False,False,20232024
+Sat.,2024-02-24,7:00 ET,Sacred Heart,2,@,Bentley,2,OT,,ah,True,False,False,True,20232024
+Sat.,2024-02-24,7:00 ET,Niagara,4,@,Mercyhurst,3,,,ah,True,False,False,False,20232024
+Sat.,2024-02-24,5:05 MT,Robert Morris,1,@,Air Force,2,,,ah,True,False,False,False,20232024
+Sat.,2024-02-24,7:00 ET,RIT,3,@,Canisius,2,,,ah,True,False,False,False,20232024
+Sat.,2024-02-24,5:00 ET,Wisconsin,3,@,Penn State,2,OT,,b10,True,False,False,True,20232024
+Sat.,2024-02-24,6:00 ET,Ohio State,2,@,Michigan State,5,,,b10,True,False,False,False,20232024
+Sat.,2024-02-24,6:30 ET,Notre Dame,1,@,Michigan,2,,,b10,True,False,False,False,20232024
+Sat.,2024-02-24,6:07 CT,Bemidji State,3,@,St. Thomas,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-24,5:07 ET,Northern Michigan,1,@,Ferris State,1,OT,,cc2,True,False,False,True,20232024
+Sat.,2024-02-24,6:07 CT,Lake Superior,3,@,Minnesota State,4,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-24,7:07 ET,Michigan Tech,3,@,Bowling Green,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-02-24,4:00 ET,Dartmouth,5,@,Union,4,,,ec,True,False,False,False,20232024
+Sat.,2024-02-24,7:00 ET,Harvard,2,@,RPI,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-24,7:00 ET,Colgate,4,@,Clarkson,3,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-24,7:00 ET,Cornell,2,@,St. Lawrence,2,OT,,ec,True,False,False,True,20232024
+Sat.,2024-02-24,7:00 ET,Princeton,5,@,Brown,1,,,ec,True,False,False,False,20232024
+Sat.,2024-02-24,7:00 ET,Northeastern,4,@,Maine,0,,,he,True,False,False,False,20232024
+Sat.,2024-02-24,5:00 ET,Vermont,2,@,Boston College,4,,,he,True,False,False,False,20232024
+Sat.,2024-02-24,6:05 ET,Providence,2,@,UMass Lowell,1,,,he,True,False,False,False,20232024
+Sat.,2024-02-24,7:00 ET,Massachusetts,2,@,New Hampshire,3,OT,,he,True,False,False,True,20232024
+Sat.,2024-02-24,7:00 ET,Connecticut,0,@,Boston University,6,,,he,True,False,False,False,20232024
+Sat.,2024-02-24,6:00 MT,Miami,1,@,Denver,8,,,nt,True,False,False,False,20232024
+Sat.,2024-02-24,6:00 CT,Western Michigan,0,@,St. Cloud State,3,,,nt,True,False,False,False,20232024
+Sat.,2024-02-24,7:07 CT,Colorado College,1,@,Omaha,1,OT,,nt,True,False,False,True,20232024
+Sat.,2024-02-24,6:07 CT,Minnesota Duluth,2,@,North Dakota,4,,,nt,True,False,False,False,20232024
+Sat.,2024-02-24,2:00 ET,Stonehill,2,@,LIU,4,,,nc,True,False,False,False,20232024
+Sat.,2024-02-24,7:07 AT,Arizona State,4,@,Alaska,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-02-24,6:07 CT,Alaska Anchorage,0,@,Augustana,3,,,nc,True,False,False,False,20232024
+Thu.,2024-02-29,6:00 ET,Merrimack,2,@,Providence,4,,,he,True,False,False,False,20232024
+Fri.,2024-03-01,8:00 CT,Michigan State,5,@,Wisconsin,2,,,b10,True,False,False,False,20232024
+Fri.,2024-03-01,7:30 CT,Michigan,2,@,Minnesota,6,,,b10,True,False,False,False,20232024
+Fri.,2024-03-01,6:00 ET,Penn State,5,@,Ohio State,2,,,b10,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 CT,Minnesota State,0,@,Bemidji State,6,,,cc2,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 ET,Bowling Green,1,@,Northern Michigan,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 ET,St. Thomas,2,@,Michigan Tech,0,,,cc2,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 ET,Ferris State,1,@,Lake Superior,4,,,cc2,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 ET,RPI,2,@,Colgate,6,,,ec,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 ET,Union,3,@,Cornell,2,,,ec,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 ET,St. Lawrence,4,@,Princeton,4,OT,,ec,True,False,False,True,20232024
+Fri.,2024-03-01,7:00 ET,Clarkson,3,@,Quinnipiac,2,OT,,ec,True,False,False,True,20232024
+Fri.,2024-03-01,7:00 ET,Brown,3,@,Dartmouth,5,,,ec,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 ET,Yale,1,@,Harvard,2,OT,,ec,True,False,False,True,20232024
+Fri.,2024-03-01,7:00 ET,Boston College,5,@,New Hampshire,3,,,he,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 ET,Maine,1,@,Vermont,2,,,he,True,False,False,False,20232024
+Fri.,2024-03-01,7:30 ET,Connecticut,4,@,Northeastern,3,,,he,True,False,False,False,20232024
+Fri.,2024-03-01,7:15 ET,Massachusetts,2,@,UMass Lowell,1,OT,,he,True,False,False,True,20232024
+Fri.,2024-03-01,7:00 ET,Providence,1,@,Merrimack,2,,,he,True,False,False,False,20232024
+Fri.,2024-03-01,7:05 ET,Omaha,4,@,Miami,3,,,nt,True,False,False,False,20232024
+Fri.,2024-03-01,7:30 CT,Denver,6,@,St. Cloud State,2,,,nt,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 CT,Western Michigan,3,@,North Dakota,5,,,nt,True,False,False,False,20232024
+Fri.,2024-03-01,7:00 MT,Minnesota Duluth,2,@,Colorado College,2,OT,,nt,True,False,False,True,20232024
+Fri.,2024-03-01,7:07 CT,Alaska,2,@,Augustana,2,OT,,nc,True,False,False,True,20232024
+Fri.,2024-03-01,7:00 MT,LIU,2,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-01,7:07 AT,Stonehill,3,@,Alaska Anchorage,9,,,nc,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,Army,1,@,Niagara,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-02,6:05 ET,Mercyhurst,2,@,Canisius,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,Robert Morris,4,@,Bentley,3,OT,,nc,True,False,False,True,20232024
+Sat.,2024-03-02,5:00 ET,Penn State,2,@,Ohio State,1,,,b10,True,False,False,False,20232024
+Sat.,2024-03-02,8:00 CT,Michigan State,1,@,Wisconsin,4,,,b10,True,False,False,False,20232024
+Sat.,2024-03-02,7:30 CT,Michigan,6,@,Minnesota,5,OT,,b10,True,False,False,True,20232024
+Sat.,2024-03-02,6:07 ET,St. Thomas,0,@,Michigan Tech,6,,,cc2,True,False,False,False,20232024
+Sat.,2024-03-02,6:07 CT,Minnesota State,0,@,Bemidji State,2,,,cc2,True,False,False,False,20232024
+Sat.,2024-03-02,6:07 ET,Bowling Green,0,@,Northern Michigan,1,,,cc2,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,Union,3,@,Colgate,4,,,ec,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,RPI,1,@,Cornell,3,,,ec,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,St. Lawrence,1,@,Quinnipiac,8,,,ec,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,Clarkson,6,@,Princeton,2,,,ec,True,False,False,False,20232024
+Sat.,2024-03-02,7:00 ET,Brown,1,@,Harvard,1,OT,,ec,True,False,False,True,20232024
+Sat.,2024-03-02,7:00 ET,Yale,1,@,Dartmouth,4,,,ec,True,False,False,False,20232024
+Sat.,2024-03-02,3:00 ET,Northeastern,4,@,Connecticut,2,,,he,True,False,False,False,20232024
+Sat.,2024-03-02,7:30 ET,Maine,3,@,Vermont,2,,,he,True,False,False,False,20232024
+Sat.,2024-03-02,6:00 ET,UMass Lowell,3,@,Massachusetts,4,OT,,he,True,False,False,True,20232024
+Sat.,2024-03-02,6:00 CT,Denver,7,@,St. Cloud State,2,,,nt,True,False,False,False,20232024
+Sat.,2024-03-02,6:07 CT,Western Michigan,0,@,North Dakota,3,,,nt,True,False,False,False,20232024
+Sat.,2024-03-02,6:00 MT,Minnesota Duluth,1,@,Colorado College,4,,,nt,True,False,False,False,20232024
+Sat.,2024-03-02,7:05 ET,Omaha,2,@,Miami,1,,,nt,True,False,False,False,20232024
+Sat.,2024-03-02,3:07 AT,Stonehill,2,@,Alaska Anchorage,12,,,nc,True,False,False,False,20232024
+Sat.,2024-03-02,5:00 MT,LIU,3,@,Arizona State,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-02,6:07 CT,Alaska,2,@,Augustana,0,,,nc,True,False,False,False,20232024
+Sun.,2024-03-03,5:00 ET,New Hampshire,0,@,Boston College,1,,,he,True,False,False,False,20232024
+Wed.,2024-03-06,7:07 AT,Stonehill,1,@,Alaska,9,,,nc,True,False,False,False,20232024
+Thu.,2024-03-07,7:00 ET,Boston University,4,@,Providence,2,,,he,True,False,False,False,20232024
+Thu.,2024-03-07,7:00 ET,Vermont,1,@,Connecticut,5,,,he,True,False,False,False,20232024
+Thu.,2024-03-07,7:07 AT,Stonehill,1,@,Alaska,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:05 MT,aic,3,@,Air Force,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Niagara,6,@,Sacred Heart,3,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:05 ET,Robert Morris,0,@,RIT,7,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Canisius,3,@,Holy Cross,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 CT,Ohio State,3,@,Wisconsin,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,6:00 CT,Penn State,1,@,Minnesota,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Notre Dame,4,@,Michigan,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 ET,Bowling Green,0,@,Michigan Tech,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 CT,Ferris State,4,@,Bemidji State,5,OT,,nc,True,False,False,True,20232024
+Fri.,2024-03-08,7:07 CT,Northern Michigan,1,@,Minnesota State,2,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 CT,Lake Superior,4,@,St. Thomas,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Princeton,0,@,Harvard,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Yale,2,@,St. Lawrence,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 CT,USNTP,8,@,Augustana,3,,,ex,True,False,True,False,20232024
+Fri.,2024-03-08,7:00 ET,Massachusetts,1,@,Maine,2,,,he,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,New Hampshire,4,@,UMass Lowell,0,,,he,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 CT,North Dakota,2,@,Omaha,3,,,nt,True,False,False,False,20232024
+Fri.,2024-03-08,8:00 MT,Denver,3,@,Colorado College,4,,,nt,True,False,False,False,20232024
+Fri.,2024-03-08,7:00 ET,Miami,2,@,Western Michigan,3,,,nt,True,False,False,False,20232024
+Fri.,2024-03-08,7:07 CT,St. Cloud State,5,@,Minnesota Duluth,6,OT,,nt,True,False,False,True,20232024
+Fri.,2024-03-08,7:07 AT,Arizona State,3,@,Alaska Anchorage,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:05 ET,Robert Morris,1,@,RIT,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:05 MT,aic,3,@,Air Force,2,OT,,nc,True,False,False,True,20232024
+Sat.,2024-03-09,7:00 ET,Niagara,5,@,Sacred Heart,1,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 ET,Canisius,1,@,Holy Cross,2,2OT,,nc,True,False,False,True,20232024
+Sat.,2024-03-09,6:00 CT,Ohio State,2,@,Wisconsin,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,3:30 CT,Penn State,2,@,Minnesota,3,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 ET,Notre Dame,3,@,Michigan,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:07 CT,Northern Michigan,1,@,Minnesota State,6,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,6:07 CT,Ferris State,0,@,Bemidji State,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,6:07 ET,Bowling Green,5,@,Michigan Tech,6,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,6:07 CT,Lake Superior,2,@,St. Thomas,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 ET,RPI,3,@,Clarkson,2,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,4:00 ET,Brown,0,@,Union,6,,,nc,True,False,False,False,20232024
+Sat.,2024-03-09,6:07 CT,USNTP,3,@,Augustana,0,,,ex,True,False,True,False,20232024
+Sat.,2024-03-09,7:00 ET,Massachusetts,3,@,Maine,4,,,he,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 ET,Boston College,6,@,Merrimack,4,,,he,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 ET,UMass Lowell,0,@,New Hampshire,4,,,he,True,False,False,False,20232024
+Sat.,2024-03-09,4:00 ET,Northeastern,3,@,Providence,3,OT,,he,True,False,False,True,20232024
+Sat.,2024-03-09,4:00 ET,Vermont,1,@,Boston University,6,,,he,True,False,False,False,20232024
+Sat.,2024-03-09,7:07 CT,North Dakota,1,@,Omaha,4,,,nt,True,False,False,False,20232024
+Sat.,2024-03-09,7:00 MT,Colorado College,3,@,Denver,4,,,nt,True,False,False,False,20232024
+Sat.,2024-03-09,6:00 ET,Miami,1,@,Western Michigan,6,,,nt,True,False,False,False,20232024
+Sat.,2024-03-09,6:07 CT,St. Cloud State,2,@,Minnesota Duluth,4,,,nt,True,False,False,False,20232024
+Sat.,2024-03-09,5:07 AT,Arizona State,5,@,Alaska Anchorage,2,,,nc,True,False,False,False,20232024
+Sun.,2024-03-10,5:00 CT,Ohio State,3,@,Wisconsin,1,,,nc,True,False,False,False,20232024
+Sun.,2024-03-10,6:07 CT,Lake Superior,3,@,St. Thomas,2,,,nc,True,False,False,False,20232024
+Wed.,2024-03-13,7:00 ET,UMass Lowell,0,@,New Hampshire,1,,,nc,True,False,False,False,20232024
+Wed.,2024-03-13,7:00 ET,Vermont,1,@,Connecticut,4,,,nc,True,False,False,False,20232024
+Wed.,2024-03-13,7:15 ET,Merrimack,0,@,Northeastern,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:05 ET,Niagara,1,@,RIT,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:00 ET,aic,2,@,Holy Cross,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:00 ET,Harvard,3,@,Cornell,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:00 ET,RPI,1,@,Quinnipiac,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:00 ET,Union,1,@,Dartmouth,3,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:00 ET,St. Lawrence,3,@,Colgate,2,2OT,,nc,True,False,False,True,20232024
+Fri.,2024-03-15,7:07 MT,Minnesota Duluth,0,@,Denver,4,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:37 CT,Western Michigan,2,@,St. Cloud State,5,,,nc,True,False,False,False,20232024
+Fri.,2024-03-15,7:07 MT,Omaha,3,@,Colorado College,4,OT,,nc,True,False,False,True,20232024
+Fri.,2024-03-15,7:07 CT,Miami,1,@,North Dakota,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:05 ET,Niagara,2,@,RIT,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,aic,3,@,Holy Cross,0,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,8:00 CT,Michigan,2,@,Minnesota,1,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,6:30 ET,Ohio State,1,@,Michigan State,2,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,5:07 ET,Minnesota State,3,@,Michigan Tech,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:07 CT,Lake Superior,1,@,Bemidji State,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,RPI,2,@,Quinnipiac,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,Harvard,1,@,Cornell,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,St. Lawrence,3,@,Colgate,2,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,Union,2,@,Dartmouth,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:30 ET,Connecticut,4,@,Boston College,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,4:15 ET,Northeastern,2,@,Boston University,4,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,7:00 ET,New Hampshire,0,@,Maine,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,4:00 ET,Massachusetts,3,@,Providence,1,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,6:07 MT,Omaha,3,@,Colorado College,1,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,6:07 CT,Western Michigan,6,@,St. Cloud State,1,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,6:07 CT,Miami,1,@,North Dakota,7,,,nc,True,False,False,False,20232024
+Sat.,2024-03-16,6:07 MT,Minnesota Duluth,2,@,Denver,5,,,nc,True,False,False,False,20232024
+Sun.,2024-03-17,5:00 ET,aic,3,@,Holy Cross,1,,,nc,True,False,False,False,20232024
+Sun.,2024-03-17,6:07 CT,Western Michigan,1,@,St. Cloud State,5,,,nc,True,False,False,False,20232024
+Sun.,2024-03-17,6:07 MT,Omaha,2,@,Colorado College,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-22,7:07 CT,Michigan Tech,2,@,Bemidji State,1,,,nc,True,False,False,False,20232024
+Fri.,2024-03-22,4:00 ET,St. Lawrence,3,vs,Quinnipiac,0,,,nc,True,True,False,False,20232024
+Fri.,2024-03-22,7:30 ET,Dartmouth,3,vs,Cornell,6,,,nc,True,True,False,False,20232024
+Fri.,2024-03-22,4:00 ET,Massachusetts,1,vs,Boston College,8,,,nc,True,True,False,False,20232024
+Fri.,2024-03-22,7:30 ET,Maine,1,vs,Boston University,4,,,nc,True,True,False,False,20232024
+Fri.,2024-03-22,7:37 CT,St. Cloud State,4,vs,Denver,5,OT,,nc,True,True,False,True,20232024
+Fri.,2024-03-22,4:07 CT,Omaha,6,vs,North Dakota,3,,,nc,True,True,False,False,20232024
+Sat.,2024-03-23,7:05 ET,aic,2,@,RIT,5,,,nc,True,False,False,False,20232024
+Sat.,2024-03-23,8:00 ET,Michigan,4,@,Michigan State,5,OT,,nc,True,False,False,True,20232024
+Sat.,2024-03-23,5:00 ET,St. Lawrence,1,vs,Cornell,3,,,nc,True,True,False,False,20232024
+Sat.,2024-03-23,7:30 ET,Boston University,2,vs,Boston College,6,,,nc,True,True,False,False,20232024
+Sat.,2024-03-23,7:30 CT,Omaha,1,vs,Denver,4,,,nc,True,True,False,False,20232024
+Thu.,2024-03-28,5:30 ET,Cornell,3,vs,Maine,1,,,nc,True,True,False,False,20232024
+Thu.,2024-03-28,2:00 ET,Massachusetts,1,vs,Denver,2,2OT,,nc,True,True,False,True,20232024
+Thu.,2024-03-28,7:30 CT,Omaha,2,vs,Minnesota,3,,,nc,True,True,False,False,20232024
+Thu.,2024-03-28,4:00 CT,RIT,3,vs,Boston University,6,,,nc,True,True,False,False,20232024
+Fri.,2024-03-29,5:30 ET,Quinnipiac,3,vs,Wisconsin,2,OT,,nc,True,True,False,True,20232024
+Fri.,2024-03-29,2:00 ET,Michigan Tech,1,vs,Boston College,6,,,nc,True,True,False,False,20232024
+Fri.,2024-03-29,4:00 CT,Western Michigan,4,vs,Michigan State,5,OT,,nc,True,True,False,True,20232024
+Fri.,2024-03-29,7:30 CT,Michigan,4,vs,North Dakota,3,,,nc,True,True,False,False,20232024
+Sat.,2024-03-30,4:00 ET,Cornell,1,vs,Denver,2,,,nc,True,True,False,False,20232024
+Sat.,2024-03-30,5:30 CT,Minnesota,3,vs,Boston University,6,,,nc,True,True,False,False,20232024
+Sun.,2024-03-31,4:00 ET,Quinnipiac,4,vs,Boston College,5,OT,,nc,True,True,False,True,20232024
+Sun.,2024-03-31,5:30 CT,Michigan,5,vs,Michigan State,2,,,nc,True,True,False,False,20232024
+Thu.,2024-04-11,7:30 CT,Michigan,0,vs,Boston College,4,,,nc,True,True,False,False,20232024
+Thu.,2024-04-11,4:00 CT,Denver,2,vs,Boston University,1,OT,,nc,True,True,False,True,20232024
+Sat.,2024-04-13,5:00 CT,Denver,2,vs,Boston College,0,,,nc,True,True,False,False,20232024

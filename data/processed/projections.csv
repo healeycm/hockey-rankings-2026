@@ -1,0 +1,538 @@
+Date,HomeTeam,AwayTeam,HomeWinProb,ProjectedWinner
+2025-12-19,Augustana,Omaha,0.553,Augustana
+2025-12-20,Augustana,Omaha,0.553,Augustana
+2025-12-27,Dartmouth,Arizona State,0.81,Dartmouth
+2025-12-28,Princeton,Brown,0.768,Princeton
+2025-12-28,LIU,Army,0.485,Army
+2025-12-28,Dartmouth,Arizona State,0.81,Dartmouth
+2025-12-28,Wisconsin,Lake Superior,0.962,Wisconsin
+2025-12-28,Michigan Tech,Miami,0.348,Miami
+2025-12-28,Ferris State,Michigan State,0.042,Michigan State
+2025-12-28,Boston College,Western Michigan,0.419,Western Michigan
+2025-12-29,Lake Superior,BC/WMU,0.187,BC/WMU
+2025-12-29,Clarkson,RIT,0.525,Clarkson
+2025-12-29,Western Michigan,LSSU/Wisconsin,0.634,Western Michigan
+2025-12-29,Boston College,LSSU/Wisconsin,0.555,Boston College
+2025-12-29,Wisconsin,BC/WMU,0.852,Wisconsin
+2025-12-29,Miami,Michigan St/Ferris,0.528,Miami
+2025-12-29,Ferris State,MichiganTech/Miami,0.159,MichiganTech/Miami
+2025-12-29,Michigan Tech,Michigan St/Ferris,0.374,Michigan St/Ferris
+2025-12-29,Michigan State,MichiganTech/Miami,0.813,Michigan State
+2025-12-29,Vermont,Merrimack,0.433,Merrimack
+2025-12-30,Sacred Heart,Robert Morris,0.765,Sacred Heart
+2025-12-31,Connecticut,LIU,0.806,Connecticut
+2026-01-02,Notre Dame,Western Michigan,0.124,Western Michigan
+2026-01-02,Denver,Maine,0.587,Denver
+2026-01-02,North Dakota,Mercyhurst,0.996,North Dakota
+2026-01-02,Providence,Alaska,0.724,Providence
+2026-01-02,Cornell,Omaha,0.58,Cornell
+2026-01-02,St. Lawrence,Stonehill,0.373,Stonehill
+2026-01-02,Lindenwood,Canisius,0.675,Lindenwood
+2026-01-02,Augustana,Colorado College,0.49,Colorado College
+2026-01-02,Ohio State,Bowling Green,0.522,Ohio State
+2026-01-02,St. Cloud State,Yale,0.684,St. Cloud State
+2026-01-02,Quinnipiac,Harvard,0.474,Harvard
+2026-01-02,Princeton,Dartmouth,0.108,Dartmouth
+2026-01-02,Arizona State,Alaska Anchorage,0.918,Arizona State
+2026-01-02,Air Force,Michigan Tech,0.449,Michigan Tech
+2026-01-02,Minnesota State,UMass Lowell,0.826,Minnesota State
+2026-01-02,St. Thomas,Ferris State,0.799,St. Thomas
+2026-01-02,Bentley,Holy Cross,0.41,Holy Cross
+2026-01-02,Army,Northeastern,0.222,Northeastern
+2026-01-03,Bowling Green,Ohio State,0.478,Ohio State
+2026-01-03,Augustana,Colorado College,0.49,Colorado College
+2026-01-03,Lindenwood,Canisius,0.675,Lindenwood
+2026-01-03,LIU,Connecticut,0.194,Connecticut
+2026-01-03,St. Lawrence,Stonehill,0.373,Stonehill
+2026-01-03,Cornell,Omaha,0.58,Cornell
+2026-01-03,North Dakota,Mercyhurst,0.996,North Dakota
+2026-01-03,New Hampshire,Colgate,0.763,New Hampshire
+2026-01-03,Vermont,RPI,0.615,Vermont
+2026-01-03,Western Michigan,Notre Dame,0.876,Western Michigan
+2026-01-03,Denver,Maine,0.587,Denver
+2026-01-03,Niagara,Clarkson,0.363,Clarkson
+2026-01-03,Providence,Alaska,0.724,Providence
+2026-01-03,RIT,Penn State,0.153,Penn State
+2026-01-03,Brown,Merrimack,0.267,Merrimack
+2026-01-03,Princeton,Harvard,0.273,Harvard
+2026-01-03,Arizona State,AFA/MTU,0.511,Arizona State
+2026-01-03,Alaska Anchorage,AFA/MTU,0.086,AFA/MTU
+2026-01-03,Michigan Tech,UAA/Ariz St,0.374,UAA/Ariz St
+2026-01-03,Air Force,UAA/Ariz St,0.328,UAA/Ariz St
+2026-01-03,St. Cloud State,UMassLowell/MinnSt,0.415,UMassLowell/MinnSt
+2026-01-03,Quinnipiac,Dartmouth,0.225,Dartmouth
+2026-01-03,UMass Lowell,St. Cloud/Yale,0.192,St. Cloud/Yale
+2026-01-03,Yale,UMassLowell/MinnSt,0.247,UMassLowell/MinnSt
+2026-01-03,Minnesota State,St. Cloud/Yale,0.531,Minnesota State
+2026-01-03,St. Thomas,Ferris State,0.799,St. Thomas
+2026-01-03,Lake Superior,Northern Michigan,0.849,Lake Superior
+2026-01-03,Holy Cross,Bentley,0.59,Holy Cross
+2026-01-03,Robert Morris,Sacred Heart,0.235,Sacred Heart
+2026-01-04,New Hampshire,Colgate,0.763,New Hampshire
+2026-01-04,Lake Superior,Northern Michigan,0.849,Lake Superior
+2026-01-04,Penn State,RIT,0.847,Penn State
+2026-01-09,Yale,St. Lawrence,0.838,Yale
+2026-01-09,Cornell,Alaska,0.744,Cornell
+2026-01-09,Wisconsin,Alaska Anchorage,0.984,Wisconsin
+2026-01-09,Omaha,St. Cloud State,0.51,Omaha
+2026-01-09,Denver,Western Michigan,0.468,Western Michigan
+2026-01-09,Arizona State,Miami,0.483,Miami
+2026-01-09,Colorado College,North Dakota,0.24,North Dakota
+2026-01-09,Minnesota Duluth,Lindenwood,0.799,Minnesota Duluth
+2026-01-09,Connecticut,UMass Lowell,0.841,Connecticut
+2026-01-09,Providence,Maine,0.462,Maine
+2026-01-09,Massachusetts,Boston University,0.399,Boston University
+2026-01-09,Brown,Clarkson,0.265,Clarkson
+2026-01-09,Vermont,Northeastern,0.231,Northeastern
+2026-01-09,Quinnipiac,Union,0.625,Quinnipiac
+2026-01-09,Princeton,RPI,0.716,Princeton
+2026-01-09,Mercyhurst,Army,0.033,Army
+2026-01-09,RIT,Robert Morris,0.768,RIT
+2026-01-09,Air Force,Bentley,0.53,Air Force
+2026-01-09,Penn State,Minnesota,0.718,Penn State
+2026-01-09,Niagara,Sacred Heart,0.389,Sacred Heart
+2026-01-09,Michigan,Notre Dame,0.957,Michigan
+2026-01-09,Ferris State,Bowling Green,0.26,Bowling Green
+2026-01-09,Bemidji State,Michigan Tech,0.511,Bemidji State
+2026-01-09,Northern Michigan,Augustana,0.043,Augustana
+2026-01-09,Dartmouth,Harvard,0.756,Dartmouth
+2026-01-09,Ohio State,Michigan State,0.119,Michigan State
+2026-01-10,Boston University,Massachusetts,0.601,Boston University
+2026-01-10,UMass Lowell,Connecticut,0.159,Connecticut
+2026-01-10,Providence,Maine,0.462,Maine
+2026-01-10,Vermont,Northeastern,0.231,Northeastern
+2026-01-10,Omaha,St. Cloud State,0.51,Omaha
+2026-01-10,Cornell,Alaska,0.744,Cornell
+2026-01-10,Denver,Western Michigan,0.468,Western Michigan
+2026-01-10,Colorado College,North Dakota,0.24,North Dakota
+2026-01-10,Holy Cross,Merrimack,0.582,Holy Cross
+2026-01-10,Wisconsin,Alaska Anchorage,0.984,Wisconsin
+2026-01-10,Quinnipiac,RPI,0.858,Quinnipiac
+2026-01-10,Arizona State,Miami,0.483,Miami
+2026-01-10,Princeton,Union,0.409,Union
+2026-01-10,Ferris State,Bowling Green,0.26,Bowling Green
+2026-01-10,Yale,Clarkson,0.421,Clarkson
+2026-01-10,Minnesota State,St. Thomas,0.601,Minnesota State
+2026-01-10,Northern Michigan,Augustana,0.043,Augustana
+2026-01-10,Bemidji State,Michigan Tech,0.511,Bemidji State
+2026-01-10,Ohio State,Michigan State,0.119,Michigan State
+2026-01-10,Penn State,Minnesota,0.718,Penn State
+2026-01-10,Michigan,Notre Dame,0.957,Michigan
+2026-01-10,Mercyhurst,Army,0.033,Army
+2026-01-10,RIT,Robert Morris,0.768,RIT
+2026-01-10,Niagara,Sacred Heart,0.389,Sacred Heart
+2026-01-10,Air Force,Bentley,0.53,Air Force
+2026-01-10,Minnesota Duluth,Lindenwood,0.799,Minnesota Duluth
+2026-01-10,Brown,St. Lawrence,0.72,Brown
+2026-01-11,Stonehill,LIU,0.259,LIU
+2026-01-12,Harvard,Boston University,0.6,Harvard
+2026-01-15,Wisconsin,Michigan State,0.569,Wisconsin
+2026-01-16,Lindenwood,Stonehill,0.844,Lindenwood
+2026-01-16,Miami,Omaha,0.602,Miami
+2026-01-16,North Dakota,Denver,0.665,North Dakota
+2026-01-16,St. Cloud State,Minnesota Duluth,0.237,Minnesota Duluth
+2026-01-16,Connecticut,Vermont,0.788,Connecticut
+2026-01-16,Boston College,Providence,0.575,Boston College
+2026-01-16,Merrimack,Massachusetts,0.412,Massachusetts
+2026-01-16,New Hampshire,Northeastern,0.507,New Hampshire
+2026-01-16,Alaska,Alaska Anchorage,0.79,Alaska
+2026-01-16,Colgate,Quinnipiac,0.218,Quinnipiac
+2026-01-16,Cornell,Princeton,0.654,Cornell
+2026-01-16,Dartmouth,Clarkson,0.908,Dartmouth
+2026-01-16,Harvard,St. Lawrence,0.958,Harvard
+2026-01-16,Boston University,UMass Lowell,0.801,Boston University
+2026-01-16,Union,Brown,0.827,Union
+2026-01-16,RPI,Yale,0.394,Yale
+2026-01-16,Canisius,RIT,0.404,RIT
+2026-01-16,Sacred Heart,Bentley,0.483,Bentley
+2026-01-16,Mercyhurst,Niagara,0.041,Niagara
+2026-01-16,Army,Robert Morris,0.723,Army
+2026-01-16,Minnesota,Michigan,0.139,Michigan
+2026-01-16,Holy Cross,Air Force,0.56,Holy Cross
+2026-01-16,Penn State,Notre Dame,0.902,Penn State
+2026-01-16,Bowling Green,Lake Superior,0.701,Bowling Green
+2026-01-16,Augustana,Ferris State,0.829,Augustana
+2026-01-16,St. Thomas,Bemidji State,0.547,St. Thomas
+2026-01-16,Michigan Tech,Minnesota State,0.345,Minnesota State
+2026-01-16,Wisconsin,Michigan State,0.569,Wisconsin
+2026-01-17,Harvard,Clarkson,0.761,Harvard
+2026-01-17,Union,Yale,0.703,Union
+2026-01-17,Alaska,Alaska Anchorage,0.79,Alaska
+2026-01-17,UMass Lowell,Boston University,0.199,Boston University
+2026-01-17,Connecticut,Vermont,0.788,Connecticut
+2026-01-17,Miami,Omaha,0.602,Miami
+2026-01-17,Providence,Boston College,0.425,Boston College
+2026-01-17,North Dakota,Denver,0.665,North Dakota
+2026-01-17,St. Cloud State,Minnesota Duluth,0.237,Minnesota Duluth
+2026-01-17,Lindenwood,Stonehill,0.844,Lindenwood
+2026-01-17,RPI,Brown,0.568,RPI
+2026-01-17,Massachusetts,Merrimack,0.588,Massachusetts
+2026-01-17,Colgate,Princeton,0.401,Princeton
+2026-01-17,Penn State,Notre Dame,0.902,Penn State
+2026-01-17,Dartmouth,St. Lawrence,0.986,Dartmouth
+2026-01-17,Michigan Tech,Minnesota State,0.345,Minnesota State
+2026-01-17,St. Thomas,Bemidji State,0.547,St. Thomas
+2026-01-17,Augustana,Ferris State,0.829,Augustana
+2026-01-17,Bowling Green,Lake Superior,0.701,Bowling Green
+2026-01-17,Minnesota,Michigan,0.139,Michigan
+2026-01-17,Cornell,Quinnipiac,0.441,Quinnipiac
+2026-01-17,Sacred Heart,Bentley,0.483,Bentley
+2026-01-17,Army,Robert Morris,0.723,Army
+2026-01-17,Niagara,Mercyhurst,0.959,Niagara
+2026-01-17,RIT,Canisius,0.596,RIT
+2026-01-17,Holy Cross,Air Force,0.56,Holy Cross
+2026-01-18,Northeastern,New Hampshire,0.493,New Hampshire
+2026-01-19,Harvard,Union,0.649,Harvard
+2026-01-23,Alaska,Lindenwood,0.379,Lindenwood
+2026-01-23,Alaska Anchorage,LIU,0.236,LIU
+2026-01-23,Bentley,Princeton,0.445,Princeton
+2026-01-23,Arizona State,North Dakota,0.257,North Dakota
+2026-01-23,Denver,St. Cloud State,0.682,Denver
+2026-01-23,Minnesota Duluth,Western Michigan,0.569,Minnesota Duluth
+2026-01-23,Omaha,Colorado College,0.437,Colorado College
+2026-01-23,Merrimack,Northeastern,0.282,Northeastern
+2026-01-23,Providence,Boston University,0.491,Boston University
+2026-01-23,Boston College,New Hampshire,0.518,Boston College
+2026-01-23,Vermont,Massachusetts,0.349,Massachusetts
+2026-01-23,UMass Lowell,Maine,0.182,Maine
+2026-01-23,Cornell,Dartmouth,0.186,Dartmouth
+2026-01-23,Lake Superior,St. Thomas,0.234,St. Thomas
+2026-01-23,Colgate,Harvard,0.201,Harvard
+2026-01-23,Clarkson,St. Lawrence,0.877,Clarkson
+2026-01-23,Mercyhurst,Canisius,0.038,Canisius
+2026-01-23,Niagara,RIT,0.387,RIT
+2026-01-23,Robert Morris,Holy Cross,0.166,Holy Cross
+2026-01-23,Michigan State,Minnesota,0.83,Michigan State
+2026-01-23,Notre Dame,Ohio State,0.295,Ohio State
+2026-01-23,Northern Michigan,Michigan Tech,0.064,Michigan Tech
+2026-01-23,Bemidji State,Bowling Green,0.537,Bemidji State
+2026-01-23,Quinnipiac,Sacred Heart,0.762,Quinnipiac
+2026-01-23,Yale,Connecticut,0.206,Connecticut
+2026-01-23,Wisconsin,Penn State,0.718,Wisconsin
+2026-01-24,RPI,Union,0.215,Union
+2026-01-24,UMass Lowell,Maine,0.182,Maine
+2026-01-24,Boston University,Providence,0.509,Boston University
+2026-01-24,Vermont,Massachusetts,0.349,Massachusetts
+2026-01-24,New Hampshire,Boston College,0.482,Boston College
+2026-01-24,Arizona State,North Dakota,0.257,North Dakota
+2026-01-24,Alaska,Lindenwood,0.379,Lindenwood
+2026-01-24,Omaha,Colorado College,0.437,Colorado College
+2026-01-24,Denver,St. Cloud State,0.682,Denver
+2026-01-24,Bentley,Princeton,0.445,Princeton
+2026-01-24,Alaska Anchorage,LIU,0.236,LIU
+2026-01-24,Stonehill,Brown,0.396,Brown
+2026-01-24,Minnesota Duluth,Western Michigan,0.569,Minnesota Duluth
+2026-01-24,St. Lawrence,Clarkson,0.123,Clarkson
+2026-01-24,Colgate,Dartmouth,0.075,Dartmouth
+2026-01-24,Connecticut,SHU/Quinnipiac,0.558,Connecticut
+2026-01-24,Quinnipiac,UConn/Yale,0.564,Quinnipiac
+2026-01-24,Yale,SHU/Quinnipiac,0.247,SHU/Quinnipiac
+2026-01-24,Sacred Heart,UConn/Yale,0.288,UConn/Yale
+2026-01-24,Bemidji State,Bowling Green,0.537,Bemidji State
+2026-01-24,Minnesota State,Augustana,0.553,Minnesota State
+2026-01-24,Michigan Tech,Northern Michigan,0.936,Michigan Tech
+2026-01-24,Lake Superior,St. Thomas,0.234,St. Thomas
+2026-01-24,Wisconsin,Penn State,0.718,Wisconsin
+2026-01-24,Michigan State,Minnesota,0.83,Michigan State
+2026-01-24,Notre Dame,Ohio State,0.295,Ohio State
+2026-01-24,Robert Morris,Holy Cross,0.166,Holy Cross
+2026-01-24,Mercyhurst,Canisius,0.038,Canisius
+2026-01-24,RIT,Niagara,0.613,RIT
+2026-01-24,Cornell,Harvard,0.416,Harvard
+2026-01-25,Northeastern,Merrimack,0.718,Northeastern
+2026-01-27,Alaska Anchorage,LIU,0.236,LIU
+2026-01-29,Holy Cross,Army,0.658,Holy Cross
+2026-01-30,Vermont,Stonehill,0.762,Vermont
+2026-01-30,Alaska,LIU,0.536,Alaska
+2026-01-30,Notre Dame,Bowling Green,0.313,Bowling Green
+2026-01-30,Denver,Minnesota Duluth,0.4,Minnesota Duluth
+2026-01-30,Western Michigan,Omaha,0.701,Western Michigan
+2026-01-30,St. Cloud State,Miami,0.388,Miami
+2026-01-30,Merrimack,New Hampshire,0.277,New Hampshire
+2026-01-30,Boston University,Boston College,0.434,Boston College
+2026-01-30,Massachusetts,Northeastern,0.359,Northeastern
+2026-01-30,Dartmouth,Union,0.851,Dartmouth
+2026-01-30,Harvard,RPI,0.87,Harvard
+2026-01-30,Brown,Colgate,0.311,Colgate
+2026-01-30,Clarkson,Princeton,0.456,Princeton
+2026-01-30,Colorado College,Arizona State,0.477,Arizona State
+2026-01-30,Yale,Cornell,0.243,Cornell
+2026-01-30,Holy Cross,Army,0.658,Holy Cross
+2026-01-30,Canisius,Niagara,0.519,Canisius
+2026-01-30,Air Force,Sacred Heart,0.547,Air Force
+2026-01-30,Robert Morris,Bentley,0.223,Bentley
+2026-01-30,Mercyhurst,RIT,0.026,RIT
+2026-01-30,Ohio State,Michigan,0.097,Michigan
+2026-01-30,St. Lawrence,Quinnipiac,0.047,Quinnipiac
+2026-01-30,Minnesota,Wisconsin,0.134,Wisconsin
+2026-01-30,Penn State,Michigan State,0.342,Michigan State
+2026-01-30,St. Thomas,Michigan Tech,0.557,St. Thomas
+2026-01-30,Northern Michigan,Bemidji State,0.061,Bemidji State
+2026-01-30,Ferris State,Minnesota State,0.143,Minnesota State
+2026-01-30,Augustana,Lake Superior,0.799,Augustana
+2026-01-31,Yale,Colgate,0.476,Colgate
+2026-01-31,Dartmouth,RPI,0.954,Dartmouth
+2026-01-31,Maine,Providence,0.538,Maine
+2026-01-31,Western Michigan,Omaha,0.701,Western Michigan
+2026-01-31,Colorado College,Arizona State,0.477,Arizona State
+2026-01-31,Bowling Green,Notre Dame,0.687,Bowling Green
+2026-01-31,Denver,Minnesota Duluth,0.4,Minnesota Duluth
+2026-01-31,Clarkson,Quinnipiac,0.259,Quinnipiac
+2026-01-31,Alaska,LIU,0.536,Alaska
+2026-01-31,Vermont,Stonehill,0.762,Vermont
+2026-01-31,St. Cloud State,Miami,0.388,Miami
+2026-01-31,St. Lawrence,Princeton,0.105,Princeton
+2026-01-31,New Hampshire,Merrimack,0.723,New Hampshire
+2026-01-31,Augustana,Lake Superior,0.799,Augustana
+2026-01-31,Northern Michigan,Bemidji State,0.061,Bemidji State
+2026-01-31,Ferris State,Minnesota State,0.143,Minnesota State
+2026-01-31,St. Thomas,Michigan Tech,0.557,St. Thomas
+2026-01-31,Brown,Cornell,0.137,Cornell
+2026-01-31,Minnesota,Wisconsin,0.134,Wisconsin
+2026-01-31,Penn State,Michigan State,0.342,Michigan State
+2026-01-31,Ohio State,Michigan,0.097,Michigan
+2026-01-31,Air Force,Sacred Heart,0.547,Air Force
+2026-01-31,Robert Morris,Bentley,0.223,Bentley
+2026-01-31,Niagara,Canisius,0.481,Canisius
+2026-01-31,Mercyhurst,RIT,0.026,RIT
+2026-02-01,UMass Lowell,Massachusetts,0.273,Massachusetts
+2026-02-02,Northeastern,Boston University,0.542,Northeastern
+2026-02-02,Boston College,Harvard,0.465,Harvard
+2026-02-03,Stonehill,Merrimack,0.193,Merrimack
+2026-02-06,Harvard,Dartmouth,0.244,Dartmouth
+2026-02-06,Stonehill,Lindenwood,0.156,Lindenwood
+2026-02-06,Colorado College,Denver,0.385,Denver
+2026-02-06,Miami,Western Michigan,0.392,Western Michigan
+2026-02-06,Minnesota Duluth,North Dakota,0.431,North Dakota
+2026-02-06,Northeastern,Connecticut,0.473,Connecticut
+2026-02-06,Boston College,Vermont,0.786,Boston College
+2026-02-06,New Hampshire,Providence,0.558,New Hampshire
+2026-02-06,Boston University,Maine,0.472,Maine
+2026-02-06,UMass Lowell,Massachusetts,0.273,Massachusetts
+2026-02-06,Alaska Anchorage,Alaska,0.21,Alaska
+2026-02-06,Clarkson,RPI,0.679,Clarkson
+2026-02-06,St. Lawrence,Union,0.075,Union
+2026-02-06,Arizona State,St. Cloud State,0.595,Arizona State
+2026-02-06,Princeton,Yale,0.622,Princeton
+2026-02-06,Niagara,Air Force,0.346,Air Force
+2026-02-06,Sacred Heart,Mercyhurst,0.973,Sacred Heart
+2026-02-06,Robert Morris,Canisius,0.308,Canisius
+2026-02-06,Army,RIT,0.441,RIT
+2026-02-06,Holy Cross,Bentley,0.59,Holy Cross
+2026-02-06,Michigan,Michigan State,0.558,Michigan
+2026-02-06,Colgate,Cornell,0.261,Cornell
+2026-02-06,Wisconsin,Notre Dame,0.959,Wisconsin
+2026-02-06,Bemidji State,Ferris State,0.767,Bemidji State
+2026-02-06,Michigan Tech,Augustana,0.395,Augustana
+2026-02-06,Bowling Green,St. Thomas,0.417,St. Thomas
+2026-02-06,Quinnipiac,Brown,0.888,Quinnipiac
+2026-02-06,Minnesota,Ohio State,0.602,Minnesota
+2026-02-07,Cornell,Colgate,0.739,Cornell
+2026-02-07,Quinnipiac,Yale,0.798,Quinnipiac
+2026-02-07,Alaska Anchorage,Alaska,0.21,Alaska
+2026-02-07,Massachusetts,UMass Lowell,0.727,Massachusetts
+2026-02-07,Providence,Vermont,0.73,Providence
+2026-02-07,Minnesota Duluth,North Dakota,0.431,North Dakota
+2026-02-07,Miami,Western Michigan,0.392,Western Michigan
+2026-02-07,Arizona State,St. Cloud State,0.595,Arizona State
+2026-02-07,Stonehill,Lindenwood,0.156,Lindenwood
+2026-02-07,Princeton,Brown,0.768,Princeton
+2026-02-07,Denver,Colorado College,0.615,Denver
+2026-02-07,Clarkson,Union,0.367,Union
+2026-02-07,Sacred Heart,Mercyhurst,0.973,Sacred Heart
+2026-02-07,Bemidji State,Ferris State,0.767,Bemidji State
+2026-02-07,Bowling Green,St. Thomas,0.417,St. Thomas
+2026-02-07,Michigan Tech,Augustana,0.395,Augustana
+2026-02-07,Michigan,Michigan State,0.558,Michigan
+2026-02-07,Minnesota,Ohio State,0.602,Minnesota
+2026-02-07,Wisconsin,Notre Dame,0.959,Wisconsin
+2026-02-07,Robert Morris,Canisius,0.308,Canisius
+2026-02-07,Niagara,Air Force,0.346,Air Force
+2026-02-07,St. Lawrence,RPI,0.229,RPI
+2026-02-07,Army,RIT,0.441,RIT
+2026-02-07,Bentley,Holy Cross,0.41,Holy Cross
+2026-02-09,Boston University,Harvard/BC,0.489,Harvard/BC
+2026-02-09,Boston College,Northeastern/BU,0.555,Boston College
+2026-02-09,Harvard,Northeastern/BU,0.589,Harvard
+2026-02-09,Northeastern,Harvard/BC,0.531,Northeastern
+2026-02-10,RIT,Niagara,0.613,RIT
+2026-02-10,Bentley,Army,0.572,Bentley
+2026-02-13,Lindenwood,Alaska Anchorage,0.86,Lindenwood
+2026-02-13,LIU,Stonehill,0.741,LIU
+2026-02-13,North Dakota,Miami,0.73,North Dakota
+2026-02-13,Western Michigan,Arizona State,0.624,Western Michigan
+2026-02-13,Omaha,Denver,0.327,Denver
+2026-02-13,St. Cloud State,Colorado College,0.427,Colorado College
+2026-02-13,New Hampshire,Boston University,0.549,New Hampshire
+2026-02-13,Providence,Northeastern,0.449,Northeastern
+2026-02-13,Vermont,UMass Lowell,0.588,Vermont
+2026-02-13,Maine,Connecticut,0.459,Connecticut
+2026-02-13,Yale,Dartmouth,0.069,Dartmouth
+2026-02-13,Brown,Harvard,0.102,Harvard
+2026-02-13,Merrimack,Boston College,0.263,Boston College
+2026-02-13,Union,Colgate,0.683,Union
+2026-02-13,RPI,Cornell,0.173,Cornell
+2026-02-13,Air Force,Mercyhurst,0.978,Air Force
+2026-02-13,Bentley,Sacred Heart,0.517,Bentley
+2026-02-13,Niagara,Robert Morris,0.676,Niagara
+2026-02-13,Canisius,Holy Cross,0.309,Holy Cross
+2026-02-13,Ohio State,Wisconsin,0.093,Wisconsin
+2026-02-13,Lake Superior,Michigan Tech,0.278,Michigan Tech
+2026-02-13,Michigan,Penn State,0.708,Michigan
+2026-02-13,Ferris State,Northern Michigan,0.823,Ferris State
+2026-02-13,Augustana,Bowling Green,0.63,Augustana
+2026-02-13,Minnesota State,Bemidji State,0.645,Minnesota State
+2026-02-13,Notre Dame,Minnesota,0.217,Minnesota
+2026-02-14,Quinnipiac,Princeton,0.706,Quinnipiac
+2026-02-14,Yale,Harvard,0.186,Harvard
+2026-02-14,Vermont,UMass Lowell,0.588,Vermont
+2026-02-14,Maine,Connecticut,0.459,Connecticut
+2026-02-14,Boston University,New Hampshire,0.451,New Hampshire
+2026-02-14,St. Cloud State,Colorado College,0.427,Colorado College
+2026-02-14,Western Michigan,Arizona State,0.624,Western Michigan
+2026-02-14,North Dakota,Miami,0.73,North Dakota
+2026-02-14,Omaha,Denver,0.327,Denver
+2026-02-14,LIU,Stonehill,0.741,LIU
+2026-02-14,Lindenwood,Alaska Anchorage,0.86,Lindenwood
+2026-02-14,Boston College,Merrimack,0.737,Boston College
+2026-02-14,Brown,Dartmouth,0.035,Dartmouth
+2026-02-14,RPI,Colgate,0.372,Colgate
+2026-02-14,Augustana,Bowling Green,0.63,Augustana
+2026-02-14,Air Force,Mercyhurst,0.978,Air Force
+2026-02-14,Bentley,Sacred Heart,0.517,Bentley
+2026-02-14,Robert Morris,Niagara,0.324,Niagara
+2026-02-14,Canisius,Holy Cross,0.309,Holy Cross
+2026-02-14,Notre Dame,Minnesota,0.217,Minnesota
+2026-02-14,Union,Cornell,0.432,Cornell
+2026-02-14,Michigan,Penn State,0.708,Michigan
+2026-02-14,Lake Superior,Michigan Tech,0.278,Michigan Tech
+2026-02-14,Ferris State,Northern Michigan,0.823,Ferris State
+2026-02-14,Minnesota State,Bemidji State,0.645,Minnesota State
+2026-02-14,Ohio State,Wisconsin,0.093,Wisconsin
+2026-02-15,Princeton,Quinnipiac,0.294,Quinnipiac
+2026-02-15,Northeastern,Providence,0.551,Northeastern
+2026-02-19,Michigan State,Notre Dame,0.946,Michigan State
+2026-02-20,RPI,Dartmouth,0.046,Dartmouth
+2026-02-20,Union,Harvard,0.351,Harvard
+2026-02-20,Alaska Anchorage,Alaska,0.21,Alaska
+2026-02-20,Maine,Merrimack,0.706,Maine
+2026-02-20,Boston College,Connecticut,0.497,Connecticut
+2026-02-20,Colorado College,Western Michigan,0.355,Western Michigan
+2026-02-20,Massachusetts,New Hampshire,0.353,New Hampshire
+2026-02-20,Clarkson,Yale,0.579,Clarkson
+2026-02-20,North Dakota,St. Cloud State,0.81,North Dakota
+2026-02-20,Miami,Minnesota Duluth,0.328,Minnesota Duluth
+2026-02-20,Stonehill,LIU,0.259,LIU
+2026-02-20,Vermont,Providence,0.27,Providence
+2026-02-20,Princeton,Colgate,0.599,Princeton
+2026-02-20,Arizona State,Omaha,0.585,Arizona State
+2026-02-20,St. Lawrence,Brown,0.28,Brown
+2026-02-20,Quinnipiac,Cornell,0.559,Quinnipiac
+2026-02-20,RIT,Bentley,0.486,Bentley
+2026-02-20,Air Force,Army,0.602,Air Force
+2026-02-20,Mercyhurst,Niagara,0.041,Niagara
+2026-02-20,Canisius,Robert Morris,0.692,Canisius
+2026-02-20,Sacred Heart,Holy Cross,0.394,Holy Cross
+2026-02-20,UMass Lowell,Northeastern,0.174,Northeastern
+2026-02-20,Penn State,Ohio State,0.794,Penn State
+2026-02-20,Michigan State,Notre Dame,0.946,Michigan State
+2026-02-20,Northern Michigan,Lake Superior,0.151,Lake Superior
+2026-02-20,St. Thomas,Augustana,0.451,Augustana
+2026-02-20,Bowling Green,Minnesota State,0.322,Minnesota State
+2026-02-20,Wisconsin,Michigan,0.512,Wisconsin
+2026-02-21,Clarkson,Brown,0.735,Clarkson
+2026-02-21,Alaska Anchorage,Alaska,0.21,Alaska
+2026-02-21,Maine,Merrimack,0.706,Maine
+2026-02-21,UMass Lowell,Northeastern,0.174,Northeastern
+2026-02-21,New Hampshire,Massachusetts,0.647,New Hampshire
+2026-02-21,Vermont,Providence,0.27,Providence
+2026-02-21,Arizona State,Omaha,0.585,Arizona State
+2026-02-21,Colorado College,Western Michigan,0.355,Western Michigan
+2026-02-21,Miami,Minnesota Duluth,0.328,Minnesota Duluth
+2026-02-21,North Dakota,St. Cloud State,0.81,North Dakota
+2026-02-21,Connecticut,Boston College,0.503,Connecticut
+2026-02-21,Princeton,Cornell,0.346,Cornell
+2026-02-21,RPI,Harvard,0.13,Harvard
+2026-02-21,Quinnipiac,Colgate,0.782,Quinnipiac
+2026-02-21,Union,Dartmouth,0.149,Dartmouth
+2026-02-21,Northern Michigan,Lake Superior,0.151,Lake Superior
+2026-02-21,Bowling Green,Minnesota State,0.322,Minnesota State
+2026-02-21,Wisconsin,Michigan,0.512,Wisconsin
+2026-02-21,Penn State,Ohio State,0.794,Penn State
+2026-02-21,Sacred Heart,Holy Cross,0.394,Holy Cross
+2026-02-21,Air Force,Army,0.602,Air Force
+2026-02-21,Niagara,Mercyhurst,0.959,Niagara
+2026-02-21,Canisius,Robert Morris,0.692,Canisius
+2026-02-21,Stonehill,LIU,0.259,LIU
+2026-02-21,St. Lawrence,Yale,0.162,Yale
+2026-02-21,St. Thomas,Augustana,0.451,Augustana
+2026-02-26,Lake Superior,Ferris State,0.548,Lake Superior
+2026-02-26,Michigan,Minnesota,0.861,Michigan
+2026-02-27,Holy Cross,RIT,0.603,Holy Cross
+2026-02-27,Denver,Arizona State,0.593,Denver
+2026-02-27,Minnesota Duluth,Colorado College,0.706,Minnesota Duluth
+2026-02-27,Western Michigan,North Dakota,0.364,North Dakota
+2026-02-27,Omaha,Miami,0.398,Miami
+2026-02-27,Boston University,Boston College,0.434,Boston College
+2026-02-27,Providence,New Hampshire,0.442,New Hampshire
+2026-02-27,Connecticut,Massachusetts,0.665,Connecticut
+2026-02-27,Maine,Northeastern,0.486,Northeastern
+2026-02-27,Alaska,Alaska Anchorage,0.79,Alaska
+2026-02-27,Colgate,Clarkson,0.444,Clarkson
+2026-02-27,Cornell,St. Lawrence,0.942,Cornell
+2026-02-27,Harvard,Princeton,0.727,Harvard
+2026-02-27,Dartmouth,Quinnipiac,0.775,Dartmouth
+2026-02-27,Merrimack,Vermont,0.567,Merrimack
+2026-02-27,Brown,RPI,0.432,RPI
+2026-02-27,Yale,Union,0.297,Union
+2026-02-27,Niagara,Canisius,0.481,Canisius
+2026-02-27,Bentley,Air Force,0.47,Air Force
+2026-02-27,Army,Sacred Heart,0.444,Sacred Heart
+2026-02-27,Notre Dame,Penn State,0.098,Penn State
+2026-02-27,Michigan State,Ohio State,0.881,Michigan State
+2026-02-27,Robert Morris,Mercyhurst,0.918,Robert Morris
+2026-02-27,Bemidji State,St. Thomas,0.453,St. Thomas
+2026-02-27,Minnesota State,Northern Michigan,0.965,Minnesota State
+2026-02-27,Lake Superior,Ferris State,0.548,Lake Superior
+2026-02-27,Michigan Tech,Bowling Green,0.526,Michigan Tech
+2026-02-27,Michigan,Minnesota,0.861,Michigan
+2026-02-28,Colgate,St. Lawrence,0.851,Colgate
+2026-02-28,Cornell,Clarkson,0.693,Cornell
+2026-02-28,Alaska,Alaska Anchorage,0.79,Alaska
+2026-02-28,Northeastern,Maine,0.514,Northeastern
+2026-02-28,New Hampshire,Providence,0.558,New Hampshire
+2026-02-28,Boston College,Boston University,0.566,Boston College
+2026-02-28,Denver,Arizona State,0.593,Denver
+2026-02-28,Merrimack,Vermont,0.567,Merrimack
+2026-02-28,Minnesota Duluth,Colorado College,0.706,Minnesota Duluth
+2026-02-28,Western Michigan,North Dakota,0.364,North Dakota
+2026-02-28,Omaha,Miami,0.398,Miami
+2026-02-28,Massachusetts,Connecticut,0.335,Connecticut
+2026-02-28,Harvard,Quinnipiac,0.526,Harvard
+2026-02-28,Notre Dame,Penn State,0.098,Penn State
+2026-02-28,Yale,RPI,0.606,Yale
+2026-02-28,Brown,Union,0.173,Union
+2026-02-28,Minnesota State,Northern Michigan,0.965,Minnesota State
+2026-02-28,Michigan Tech,Bowling Green,0.526,Michigan Tech
+2026-02-28,Bemidji State,St. Thomas,0.453,St. Thomas
+2026-02-28,Michigan State,Ohio State,0.881,Michigan State
+2026-02-28,Holy Cross,RIT,0.603,Holy Cross
+2026-02-28,Robert Morris,Mercyhurst,0.918,Robert Morris
+2026-02-28,Canisius,Niagara,0.519,Canisius
+2026-02-28,Army,Sacred Heart,0.444,Sacred Heart
+2026-02-28,Bentley,Air Force,0.47,Air Force
+2026-02-28,Dartmouth,Princeton,0.892,Dartmouth
+2026-03-05,Massachusetts,Boston College,0.337,Boston College
+2026-03-05,Connecticut,New Hampshire,0.52,Connecticut
+2026-03-05,Penn State,Wisconsin,0.282,Wisconsin
+2026-03-05,Ohio State,Notre Dame,0.705,Ohio State
+2026-03-05,Minnesota,Michigan State,0.17,Michigan State
+2026-03-06,Ohio State,Notre Dame,0.705,Ohio State
+2026-03-06,Penn State,Wisconsin,0.282,Wisconsin
+2026-03-06,Minnesota,Michigan State,0.17,Michigan State
+2026-03-06,Merrimack,UMass Lowell,0.652,Merrimack
+2026-03-07,Boston College,Northeastern,0.524,Boston College
+2026-03-07,UMass Lowell,Boston University,0.199,Boston University
+2026-03-07,Vermont,Maine,0.241,Maine
+2026-03-07,Providence,Connecticut,0.422,Connecticut
+2026-03-07,New Hampshire,Massachusetts,0.647,New Hampshire

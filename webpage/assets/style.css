@@ -1,0 +1,169 @@
+/* 538-Inspired College Hockey Projections */
+
+/* --- Fonts & Basics --- */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    color: #111;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* --- Navigation --- */
+.navbar {
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.navbar-brand {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+/* --- Tables (538 Style) --- */
+.five-thirty-eight-table {
+    width: 100%;
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+}
+
+.five-thirty-eight-table thead th {
+    background-color: #f0f0f0;
+    color: #444;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: 700;
+    padding: 10px 15px;
+    border-bottom: 2px solid #ccc;
+    text-align: left;
+}
+
+.five-thirty-eight-table tbody tr {
+    border-bottom: 1px solid #eee;
+}
+
+.five-thirty-eight-table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.five-thirty-eight-table tbody td {
+    padding: 10px 15px;
+    font-size: 0.95rem;
+    vertical-align: middle;
+}
+
+/* Rank & Rating specific */
+.rank-cell {
+    font-weight: 700;
+    color: #888;
+    width: 50px;
+    text-align: center;
+}
+
+.rating-cell {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    color: #333;
+}
+
+.team-cell {
+    font-weight: 500;
+}
+
+/* --- Win Probability Bars --- */
+.prob-bar-container {
+    width: 100%;
+    height: 18px;
+    background-color: #eee;
+    border-radius: 9px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.prob-bar-fill {
+    height: 100%;
+    transition: width 0.3s ease;
+}
+
+.win-prob-high {
+    background-color: #34bc6e;
+}
+
+/* Green */
+.win-prob-med {
+    background-color: #ffb14e;
+}
+
+/* Orange/Yellow */
+.win-prob-low {
+    background-color: #ff5e5e;
+}
+
+/* Red */
+.dist-bar {
+    background-color: #007bff;
+    /* Blue for distribution */
+}
+
+.small-bar {
+    height: 12px;
+}
+
+/* --- Cards & Containers --- */
+.content-card {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* --- Footers --- */
+.page-footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #ddd;
+    color: #777;
+    font-size: 0.9rem;
+}
+
+/* --- Utility --- */
+.display-4,
+.display-6 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+
+.text-subtle {
+    color: #888;
+    font-size: 0.9rem;
+}

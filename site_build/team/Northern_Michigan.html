@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Northern Michigan</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html">College Hockey Rankings</a>
+  <nav>
+    <a href="../index.html">Men's</a>
+    <a href="../women/index.html">Women's</a>
+    <a href="../methodology.html">Methodology</a>
+  </nav>
+</header>
+<main class="container">
+
+<h1><img class="logo" src="../assets/logos/northern_michigan.png" style="width:32px;height:32px;vertical-align:middle;"> Northern Michigan</h1>
+<div class="grid-2">
+  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 34</li><li>Win%: 0.118</li><li>Strength of schedule: 92.5</li></ul></div>
+</div>
+<div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Bemidji State</li><li>Michigan Tech</li><li>Bowling Green</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Bemidji State</li><li>Ferris State</li><li>Lake Superior</li></ul></div><div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Bowling Green</li><li>Michigan Tech</li><li>Bemidji State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Lake Superior</li><li>Ferris State</li><li>Bemidji State</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Michigan Tech</li><li>Bowling Green</li><li>Bemidji State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Ferris State</li><li>Lake Superior</li><li>Lake Superior</li></ul></div><div class="card"><h2>NPI</h2><h3>Best wins</h3><ul class='plain'><li>Michigan Tech</li><li>Bowling Green</li><li>Bemidji State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Lake Superior</li><li>Lake Superior</li><li>Bemidji State</li></ul></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script>
+function renderDist(canvasId, labels, probs) {
+  const ctx = document.getElementById(canvasId);
+  if (!ctx || !window.Chart) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
+  });
+}
+</script>
+
+</main>
+<footer class="site-footer">
+  <p>Built from 4 featured models. Not affiliated with USCHO, the NCAA, or any conference.</p>
+</footer>
+</body>
+</html>

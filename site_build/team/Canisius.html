@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canisius</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html">College Hockey Rankings</a>
+  <nav>
+    <a href="../index.html">Men's</a>
+    <a href="../women/index.html">Women's</a>
+    <a href="../methodology.html">Methodology</a>
+  </nav>
+</header>
+<main class="container">
+
+<h1><img class="logo" src="../assets/logos/canisius.png" style="width:32px;height:32px;vertical-align:middle;"> Canisius</h1>
+<div class="grid-2">
+  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 35</li><li>Win%: 0.514</li><li>Strength of schedule: 36.4</li></ul></div>
+</div>
+<div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Robert Morris</li><li>RIT</li><li>Niagara</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Mercyhurst</li><li>Robert Morris</li><li>Niagara</li></ul></div><div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>RIT</li><li>Clarkson</li><li>Colgate</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Mercyhurst</li><li>LIU</li><li>Robert Morris</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Clarkson</li><li>Lindenwood</li><li>Colgate</li></ul><h3>Toughest losses</h3><ul class='plain'><li>LIU</li><li>Mercyhurst</li><li>Colgate</li></ul></div><div class="card"><h2>NPI</h2><h3>Best wins</h3><ul class='plain'><li>Lindenwood</li><li>Colgate</li><li>Army</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Niagara</li><li>Mercyhurst</li><li>LIU</li></ul><h3>Projected finish</h3><canvas id="dist-NPI" height="140"></canvas><script>renderDist('dist-NPI', [48, 49], [0.74, 0.26]);</script></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script>
+function renderDist(canvasId, labels, probs) {
+  const ctx = document.getElementById(canvasId);
+  if (!ctx || !window.Chart) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
+  });
+}
+</script>
+
+</main>
+<footer class="site-footer">
+  <p>Built from 4 featured models. Not affiliated with USCHO, the NCAA, or any conference.</p>
+</footer>
+</body>
+</html>

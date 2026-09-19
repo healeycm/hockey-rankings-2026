@@ -1,0 +1,1229 @@
+Day,Date,Time,Visitor_Team,Visitor_Score,Location_Indicator,Home_Team,Home_Score,OT_Info,Notes,Type,Is_Final,Is_Neutral,Is_Exhibition,Is_OT,Season
+Fri.,2012-10-05,6:15 AT,Regina,0,@,Alaska,6,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,3:00 ET,York,3,@,Connecticut,3,OT,,ex,True,False,True,True,20122013
+Sat.,2012-10-06,3:00 ET,St. Thomas,1,@,Holy Cross,2,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 ET,Wilfrid Laurier,1,@,Mercyhurst,3,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 ET,Ottawa,1,@,RIT,8,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 ET,Western Ontario,2,@,Western Michigan,2,OT,,ex,True,False,True,True,20122013
+Sat.,2012-10-06,7:05 ET,Ryerson,1,@,Lake Superior,2,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:00 CT,Alabama,1,@,uah,12,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:30 ET,Queens,0,@,Colgate,1,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:00 ET,Acadia,2,@,RPI,6,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:00 ET,Carleton,2,@,St. Lawrence,3,OT,,ex,True,False,True,True,20122013
+Sat.,2012-10-06,4:00 ET,Toronto,2,@,UMass Lowell,5,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 ET,Concordia,1,@,Vermont,7,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:00 ET,St. Francis Xavier,2,@,New Hampshire,5,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:00 ET,New Brunswick,0,@,Boston College,6,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 MT,British Columbia,2,@,Denver,2,OT,,ex,True,False,True,True,20122013
+Sat.,2012-10-06,7:05 AT,Regina,1,@,Alaska Anchorage,3,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,8:05 CT,US Under-18 Team,0,@,Wisconsin,5,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 CT,Lethbridge,0,@,Minnesota,7,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 ET,Brock,2,@,Michigan Tech,6,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,7:05 CT,Manitoba,3,@,North Dakota,5,,,ex,True,False,True,False,20122013
+Sat.,2012-10-06,4:05 ET,Bowling Green,2,@,Niagara,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-06,7:00 ET,Merrimack,4,@,Union,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-06,7:00 ET,Merrimack,4,@,Union,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-06,7:00 ET,Quinnipiac,2,@,Maine,1,,,nc,True,False,False,False,20122013
+Sun.,2012-10-07,4:00 ET,St. Thomas,4,@,Sacred Heart,3,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,2:05 ET,Ottawa,5,@,Canisius,2,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,7:05 ET,Wilfrid Laurier,4,@,Robert Morris,10,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,3:05 ET,Ryerson,2,@,Ferris State,8,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,7:05 ET,Western Ontario,2,@,Miami,6,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,2:05 ET,Brock,0,@,Northern Michigan,2,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,2:05 ET,Waterloo,2,@,Ohio State,3,OT,,ex,True,False,True,True,20122013
+Sun.,2012-10-07,5:05 ET,Ontario IT,1,@,Bowling Green,9,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,5:05 ET,US Under-18 Team,1,@,Notre Dame,1,OT,,ex,True,False,True,True,20122013
+Sun.,2012-10-07,3:00 CT,Alabama,0,@,uah,10,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,4:00 ET,Acadia,2,@,Quinnipiac,0,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,4:00 ET,Carleton,6,@,Clarkson,2,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,2:00 ET,St. Francis Xavier,4,@,Northeastern,3,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,4:00 ET,New Brunswick,2,@,Maine,2,OT,,ex,True,False,True,True,20122013
+Sun.,2012-10-07,1:00 ET,Toronto,0,@,Boston University,5,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,6:05 MT,British Columbia,1,@,Colorado College,3,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,5:05 CT,Lethbridge,1,@,Minnesota State,7,,,ex,True,False,True,False,20122013
+Sun.,2012-10-07,5:00 CT,Manitoba,3,@,Bemidji State,3,OT,,ex,True,False,True,True,20122013
+Mon.,2012-10-08,6:05 MT,British Columbia,4,@,Air Force,2,,,ex,True,False,True,False,20122013
+Mon.,2012-10-08,7:05 ET,Windsor,1,@,Michigan State,6,,,ex,True,False,True,False,20122013
+Mon.,2012-10-08,7:05 CT,Lethbridge,1,@,Omaha,4,,,ex,True,False,True,False,20122013
+Tue.,2012-10-09,7:35 ET,Windsor,3,@,Michigan,7,,,ex,True,False,True,False,20122013
+Tue.,2012-10-09,7:00 ET,Niagara,2,@,Colgate,10,,,nc,True,False,False,False,20122013
+Wed.,2012-10-10,7:00 ET,Merrimack,2,@,Northeastern,4,,,he,True,False,False,False,20122013
+Wed.,2012-10-10,7:00 ET,Merrimack,2,@,Northeastern,4,,,he,True,False,False,False,20122013
+Thu.,2012-10-11,7:35 ET,RIT,5,@,Michigan,4,OT,,nc,True,False,False,True,20122013
+Thu.,2012-10-11,7:35 ET,Michigan Tech,2,@,Lake Superior,4,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:35 CT,US Under-18 Team,4,@,North Dakota,6,,,ex,True,False,True,False,20122013
+Fri.,2012-10-12,7:00 ET,Vermont,1,@,UMass Lowell,1,OT,,he,True,False,False,True,20122013
+Fri.,2012-10-12,6:05 CT,Notre Dame,1,vs,Maine,0,,,nc,True,True,False,False,20122013
+Fri.,2012-10-12,9:05 CT,Army,1,vs,Omaha,5,,,nc,True,True,False,False,20122013
+Fri.,2012-10-12,5:05 AT,Air Force,3,vs,Alaska,3,OT,,nc,True,True,False,True,20122013
+Fri.,2012-10-12,8:05 AT,Canisius,0,@,Alaska Anchorage,2,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:35 ET,RIT,2,@,Michigan,7,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:35 ET,Colgate,0,@,Miami,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:05 ET,St. Lawrence,4,@,Western Michigan,3,OT,,nc,True,False,False,True,20122013
+Fri.,2012-10-12,7:05 ET,Union,5,@,Bowling Green,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:05 CT,Wisconsin,1,vs,Northern Michigan,2,,,nc,True,True,False,False,20122013
+Fri.,2012-10-12,7:30 ET,aic,3,@,Penn State,2,OT,,nc,True,False,False,True,20122013
+Fri.,2012-10-12,7:00 CT,Minnesota State,4,@,uah,1,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:00 ET,Ferris State,1,@,RPI,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:00 ET,Sacred Heart,2,@,Providence,8,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:00 ET,Connecticut,1,@,Massachusetts,4,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:30 ET,St. Cloud State,3,@,New Hampshire,5,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,6:05 CT,Michigan State,1,@,Minnesota,5,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:05 CT,Ohio State,2,@,Minnesota Duluth,6,,,nc,True,False,False,False,20122013
+Fri.,2012-10-12,7:35 MT,Clarkson,4,@,Colorado College,5,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 ET,Mercyhurst,1,@,Niagara,2,,,ah,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 CT,US Under-18 Team,3,@,Bemidji State,4,,,ex,True,False,True,False,20122013
+Sat.,2012-10-13,7:00 ET,Boston College,1,@,Northeastern,3,,,he,True,False,False,False,20122013
+Sat.,2012-10-13,7:00 ET,Providence,2,@,Boston University,4,,,he,True,False,False,False,20122013
+Sat.,2012-10-13,3:30 CT,Maine,4,vs,Army,3,,,nc,True,True,False,False,20122013
+Sat.,2012-10-13,6:30 CT,Notre Dame,3,vs,Omaha,2,,,nc,True,True,False,False,20122013
+Sat.,2012-10-13,4:05 AT,Canisius,3,vs,Alaska,1,,,nc,True,True,False,False,20122013
+Sat.,2012-10-13,7:05 AT,Air Force,3,@,Alaska Anchorage,3,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-13,7:05 ET,Colgate,1,@,Miami,5,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 ET,St. Lawrence,2,@,Western Michigan,3,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 ET,Union,4,@,Bowling Green,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 CT,Wisconsin,2,vs,Northern Michigan,4,,,nc,True,True,False,False,20122013
+Sat.,2012-10-13,7:00 ET,aic,3,@,Penn State,4,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-13,7:00 CT,Minnesota State,2,@,uah,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-13,4:00 ET,Robert Morris,0,@,Quinnipiac,4,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:00 ET,Ferris State,2,@,RPI,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-13,7:00 ET,St. Cloud State,2,@,New Hampshire,4,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 ET,Lake Superior,4,@,Michigan Tech,8,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,8:05 CT,Michigan State,1,@,Minnesota,7,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 CT,Ohio State,3,@,Minnesota Duluth,2,,,nc,True,False,False,False,20122013
+Sat.,2012-10-13,7:05 MT,Clarkson,4,@,Colorado College,5,,,nc,True,False,False,False,20122013
+Sun.,2012-10-14,12:00 ET,Robert Morris,4,@,Quinnipiac,0,,,nc,True,False,False,False,20122013
+Tue.,2012-10-16,7:05 ET,Sacred Heart,1,@,Bentley,7,,,ah,True,False,False,False,20122013
+Tue.,2012-10-16,7:05 ET,Holy Cross,6,@,aic,2,,,ah,True,False,False,False,20122013
+Thu.,2012-10-18,7:35 ET,Minnesota Duluth,3,@,Notre Dame,1,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,8:05 AT,Merrimack,2,@,Alaska,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,8:05 AT,Merrimack,2,@,Alaska,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,5:05 AT,North Dakota,5,vs,Alaska Anchorage,0,,,nc,True,True,False,False,20122013
+Fri.,2012-10-19,7:05 ET,Sacred Heart,2,@,Army,5,,,ah,True,False,False,False,20122013
+Fri.,2012-10-19,7:00 ET,Guelph,3,@,Princeton,2,OT,,ex,True,False,True,True,20122013
+Fri.,2012-10-19,7:00 ET,US Under-18 Team,2,@,Cornell,6,,,ex,True,False,True,False,20122013
+Fri.,2012-10-19,7:00 ET,McGill,1,@,Harvard,5,,,ex,True,False,True,False,20122013
+Fri.,2012-10-19,7:00 ET,Boston College,5,@,Massachusetts,4,OT,,he,True,False,False,True,20122013
+Fri.,2012-10-19,7:05 MT,Colorado College,6,@,Air Force,2,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:05 ET,Mercyhurst,3,@,Ferris State,7,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:05 ET,Canisius,0,@,Western Michigan,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:05 ET,Niagara,2,@,Michigan State,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 ET,Bentley,3,@,Michigan,6,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 ET,Providence,1,@,Miami,1,OT,,nc,True,False,False,True,20122013
+Fri.,2012-10-19,7:35 ET,Minnesota Duluth,1,@,Notre Dame,4,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:00 ET,Bowling Green,3,@,Colgate,1,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:00 ET,Ohio State,1,@,Quinnipiac,1,OT,,nc,True,False,False,True,20122013
+Fri.,2012-10-19,7:00 ET,St. Lawrence,5,@,Maine,0,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:00 ET,Penn State,0,@,Buffalo State,3,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 CT,Lake Superior,2,@,Bemidji State,0,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 CT,Northern Michigan,2,@,Omaha,5,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 CT,uah,3,@,St. Cloud State,8,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:35 CT,RPI,3,@,Minnesota State,3,OT,,nc,True,False,False,True,20122013
+Fri.,2012-10-19,7:35 MT,UMass Lowell,1,@,Denver,5,,,nc,True,False,False,False,20122013
+Fri.,2012-10-19,7:05 ET,Minnesota,3,@,Michigan Tech,5,,,wc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 AT,North Dakota,1,@,Alaska,2,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,4:05 AT,Merrimack,3,vs,Alaska Anchorage,6,,,nc,True,True,False,False,20122013
+Sat.,2012-10-20,4:05 AT,Merrimack,3,vs,Alaska Anchorage,6,,,nc,True,True,False,False,20122013
+Sat.,2012-10-20,7:05 ET,Army,4,@,Sacred Heart,4,OT,,ah,True,False,False,True,20122013
+Sat.,2012-10-20,,McGill,1,@,Dartmouth,2,,,ex,True,False,True,False,20122013
+Sat.,2012-10-20,7:00 ET,Brock,2,@,Cornell,2,OT,,ex,True,False,True,True,20122013
+Sat.,2012-10-20,4:00 ET,Guelph,6,@,Princeton,5,,,ex,True,False,True,False,20122013
+Sat.,2012-10-20,7:00 ET,Boston University,1,@,New Hampshire,4,,,he,True,False,False,False,20122013
+Sat.,2012-10-20,7:00 ET,Northeastern,0,@,Boston College,3,,,he,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 ET,Penn State,3,@,RIT,2,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 ET,Niagara,3,@,Michigan State,3,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-20,7:05 ET,Canisius,1,@,Western Michigan,2,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 ET,Mercyhurst,3,@,Ferris State,3,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-20,7:05 ET,Providence,3,@,Miami,4,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-20,7:00 ET,Holy Cross,3,@,Clarkson,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:00 ET,Bowling Green,2,@,Colgate,4,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,4:00 ET,Ohio State,1,@,Quinnipiac,3,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:00 ET,St. Lawrence,5,@,Maine,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 MT,Air Force,2,@,Denver,5,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 CT,Lake Superior,0,@,Bemidji State,5,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 CT,Northern Michigan,2,@,Omaha,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 CT,uah,0,@,St. Cloud State,4,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 CT,RPI,3,@,Minnesota State,4,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-20,7:05 MT,UMass Lowell,3,@,Colorado College,1,,,nc,True,False,False,False,20122013
+Sat.,2012-10-20,7:05 ET,Minnesota,3,@,Michigan Tech,2,,,wc,True,False,False,False,20122013
+Sun.,2012-10-21,4:00 ET,Norwich,3,@,Dartmouth,4,,,ex,True,False,True,False,20122013
+Thu.,2012-10-25,7:05 ET,Air Force,1,@,Canisius,1,OT,,ah,True,False,False,True,20122013
+Thu.,2012-10-25,7:05 ET,Robert Morris,6,@,RIT,4,,,ah,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,Connecticut,1,@,Holy Cross,2,,,ah,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,Ohio State,1,@,Bowling Green,0,,,cc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,Alaska,3,@,Ferris State,6,,,cc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 ET,Notre Dame,5,@,Northern Michigan,2,,,cc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 ET,Michigan State,2,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 ET,Miami,2,@,Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 CT,US Under-18 Team,2,@,Minnesota,2,OT,,ex,True,False,True,True,20122013
+Fri.,2012-10-26,7:30 ET,Vermont,3,@,Merrimack,6,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:30 ET,Vermont,3,@,Merrimack,6,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:00 ET,Boston College,1,@,UMass Lowell,0,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:00 ET,Maine,2,@,Providence,3,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:30 ET,Northeastern,3,@,New Hampshire,4,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:30 ET,Massachusetts,2,@,Boston University,5,,,he,True,False,False,False,20122013
+Fri.,2012-10-26,7:00 ET,Princeton,1,@,Brown,2,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,4:00 ET,Yale,2,vs,Dartmouth,2,OT,,nc,True,True,False,True,20122013
+Fri.,2012-10-26,7:05 ET,Penn State,5,@,Army,0,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,uah,1,@,Bentley,9,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,Union,8,@,aic,0,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 ET,RIT,3,@,Colgate,6,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:00 ET,Niagara,2,@,Clarkson,0,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:00 ET,Colorado College,0,@,Cornell,2,,,nc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 MT,Michigan Tech,1,@,Denver,5,,,wc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 CT,Bemidji State,3,@,Omaha,3,OT,,wc,True,False,False,True,20122013
+Fri.,2012-10-26,7:35 CT,Minnesota State,1,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Fri.,2012-10-26,7:35 CT,Alaska Anchorage,1,@,North Dakota,4,,,wc,True,False,False,False,20122013
+Fri.,2012-10-26,7:05 CT,Wisconsin,2,@,Minnesota Duluth,0,,,wc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Army,7,@,Holy Cross,2,,,ah,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Air Force,4,@,Robert Morris,1,,,ah,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Alaska,3,@,Ferris State,2,,,cc,True,False,False,False,20122013
+Sat.,2012-10-27,7:35 ET,Miami,4,@,Michigan,3,,,cc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Michigan State,4,@,Lake Superior,2,,,cc,True,False,False,False,20122013
+Sat.,2012-10-27,7:35 ET,Notre Dame,3,@,Northern Michigan,2,,,cc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Ohio State,3,@,Bowling Green,3,OT,,cc,True,False,False,True,20122013
+Sat.,2012-10-27,7:00 ET,Vermont,2,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Sat.,2012-10-27,7:00 ET,Vermont,2,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Sat.,2012-10-27,7:00 ET,New Hampshire,0,@,Northeastern,0,OT,,he,True,False,False,True,20122013
+Sat.,2012-10-27,7:00 ET,Boston University,3,@,Massachusetts,2,,,he,True,False,False,False,20122013
+Sat.,2012-10-27,7:00 ET,Maine,0,@,Providence,3,,,he,True,False,False,False,20122013
+Sat.,2012-10-27,7:00 ET,Dartmouth,4,@,Brown,0,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,4:00 ET,Princeton,2,@,Yale,3,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,uah,3,@,aic,4,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Penn State,6,@,Sacred Heart,3,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 ET,Union,2,@,Connecticut,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-27,7:30 ET,Niagara,4,@,Clarkson,4,OT,,nc,True,False,False,True,20122013
+Sat.,2012-10-27,7:00 ET,Bentley,0,@,Harvard,5,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,7:00 ET,Quinnipiac,1,vs,Colgate,5,,,nc,True,True,False,False,20122013
+Sat.,2012-10-27,7:00 ET,Colorado College,2,@,Cornell,3,,,nc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 CT,Bemidji State,3,@,Omaha,2,,,wc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 CT,Alaska Anchorage,3,@,North Dakota,3,OT,,wc,True,False,False,True,20122013
+Sat.,2012-10-27,7:05 CT,Minnesota State,1,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 MT,Michigan Tech,2,@,Denver,5,,,wc,True,False,False,False,20122013
+Sat.,2012-10-27,7:05 CT,Wisconsin,2,@,Minnesota Duluth,2,OT,,wc,True,False,False,True,20122013
+Sun.,2012-10-28,4:00 ET,UMass Lowell,3,@,Boston College,6,,,he,True,False,False,False,20122013
+Sun.,2012-10-28,1:05 CT,Canisius,0,@,Minnesota,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Connecticut,0,@,Niagara,3,,,ah,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,RIT,2,@,aic,2,OT,,ah,True,False,False,True,20122013
+Fri.,2012-11-02,7:05 MT,Holy Cross,3,@,Air Force,2,,,ah,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Mercyhurst,3,@,Sacred Heart,0,,,ah,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Bentley,2,@,Robert Morris,5,,,ah,True,False,False,False,20122013
+Fri.,2012-11-02,7:35 ET,Michigan,4,@,Northern Michigan,4,OT,,cc,True,False,False,True,20122013
+Fri.,2012-11-02,7:05 ET,Miami,0,@,Ferris State,3,,,cc,True,False,False,False,20122013
+Fri.,2012-11-02,7:35 ET,Western Michigan,3,@,Notre Dame,2,,,cc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 AT,Lake Superior,1,@,Alaska,2,,,cc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Bowling Green,1,@,Michigan State,0,,,cc,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Union,4,@,RPI,2,,,ec,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Yale,4,@,Dartmouth,7,,,ec,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Brown,2,@,Harvard,3,,,ec,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Cornell,3,@,Colgate,1,,,ec,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Merrimack,5,@,Northeastern,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Providence,3,@,Vermont,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,Merrimack,5,@,Northeastern,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,New Hampshire,1,@,Massachusetts,2,OT,,he,True,False,False,True,20122013
+Fri.,2012-11-02,7:00 ET,Boston College,4,@,Maine,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-02,7:00 ET,uah,0,@,St. Lawrence,4,,,nc,True,False,False,False,20122013
+Fri.,2012-11-02,7:35 CT,Boston University,2,@,North Dakota,4,,,nc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 CT,Minnesota State,2,@,Minnesota,3,,,wc,True,False,False,False,20122013
+Fri.,2012-11-02,7:35 CT,St. Cloud State,3,@,Denver,0,,,wc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 ET,Omaha,2,@,Michigan Tech,1,,,wc,True,False,False,False,20122013
+Fri.,2012-11-02,7:05 CT,Colorado College,5,@,Wisconsin,4,OT,,wc,True,False,False,True,20122013
+Sat.,2012-11-03,7:05 ET,RIT,3,@,aic,0,,,ah,True,False,False,False,20122013
+Sat.,2012-11-03,4:05 ET,Mercyhurst,3,@,Sacred Heart,1,,,ah,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 ET,Connecticut,0,@,Niagara,5,,,ah,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 MT,Holy Cross,0,@,Air Force,7,,,ah,True,False,False,False,20122013
+Sat.,2012-11-03,3:05 ET,Bentley,5,@,Robert Morris,4,,,ah,True,False,False,False,20122013
+Sat.,2012-11-03,7:35 ET,Michigan,3,@,Northern Michigan,4,,,cc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 AT,Lake Superior,4,@,Alaska,2,,,cc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 ET,Michigan State,6,@,Bowling Green,1,,,cc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 ET,Miami,4,@,Ferris State,2,,,cc,True,False,False,False,20122013
+Sat.,2012-11-03,7:00 ET,RPI,3,@,Union,7,,,ec,True,False,False,False,20122013
+Sat.,2012-11-03,7:00 ET,Colgate,2,@,Cornell,2,OT,,ec,True,False,False,True,20122013
+Sat.,2012-11-03,7:00 ET,Brown,1,@,Dartmouth,2,,,ec,True,False,False,False,20122013
+Sat.,2012-11-03,7:00 ET,Yale,5,@,Harvard,1,,,ec,True,False,False,False,20122013
+Sat.,2012-11-03,7:30 ET,Northeastern,2,@,Merrimack,4,,,he,True,False,False,False,20122013
+Sat.,2012-11-03,7:30 ET,Northeastern,2,@,Merrimack,4,,,he,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 ET,Providence,0,@,Vermont,2,,,he,True,False,False,False,20122013
+Sat.,2012-11-03,3:05 ET,Clarkson,3,@,Canisius,3,OT,,nc,True,False,False,True,20122013
+Sat.,2012-11-03,7:30 ET,Buffalo State,2,@,Penn State,4,,,nc,True,False,False,False,20122013
+Sat.,2012-11-03,7:00 ET,uah,1,@,St. Lawrence,3,,,nc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 CT,Boston University,4,@,North Dakota,2,,,nc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 CT,Minnesota,3,@,Minnesota State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 CT,Colorado College,3,@,Wisconsin,0,,,wc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 CT,St. Cloud State,1,@,Denver,6,,,wc,True,False,False,False,20122013
+Sat.,2012-11-03,7:05 ET,Omaha,5,@,Michigan Tech,3,,,wc,True,False,False,False,20122013
+Sun.,2012-11-04,5:05 ET,Western Michigan,0,@,Notre Dame,4,,,cc,True,False,False,False,20122013
+Sun.,2012-11-04,4:00 ET,Massachusetts,2,@,Boston College,3,,,he,True,False,False,False,20122013
+Sun.,2012-11-04,4:00 ET,New Hampshire,4,@,Maine,0,,,he,True,False,False,False,20122013
+Sun.,2012-11-04,3:05 ET,Clarkson,2,@,Canisius,2,OT,,nc,True,False,False,True,20122013
+Tue.,2012-11-06,7:00 ET,aic,2,@,Quinnipiac,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Mercyhurst,5,@,RIT,3,,,ah,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Bentley,3,@,Holy Cross,4,,,ah,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Sacred Heart,3,@,Connecticut,5,,,ah,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Niagara,5,@,Army,0,,,ah,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Robert Morris,4,@,Canisius,0,,,ah,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 ET,Northern Michigan,2,@,Miami,5,,,cc,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 ET,Ferris State,1,@,Lake Superior,4,,,cc,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Bowling Green,1,@,Western Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 ET,Michigan State,1,@,Michigan,5,,,cc,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 ET,Alaska,1,@,Ohio State,1,OT,,cc,True,False,False,True,20122013
+Fri.,2012-11-09,7:00 ET,Union,6,@,Harvard,2,,,ec,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,RPI,0,@,Dartmouth,4,,,ec,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,Clarkson,1,@,Yale,0,,,ec,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,Colgate,2,@,Quinnipiac,3,OT,,ec,True,False,False,True,20122013
+Fri.,2012-11-09,7:00 ET,St. Lawrence,3,@,Brown,3,OT,,ec,True,False,False,True,20122013
+Fri.,2012-11-09,7:00 ET,Cornell,3,@,Princeton,5,,,ec,True,False,False,False,20122013
+Fri.,2012-11-09,7:30 ET,Boston University,3,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2012-11-09,7:30 ET,Boston University,3,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,Maine,1,@,UMass Lowell,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,Providence,0,@,Massachusetts,4,,,he,True,False,False,False,20122013
+Fri.,2012-11-09,7:30 ET,Air Force,5,@,Penn State,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-09,7:00 ET,Notre Dame,1,@,Boston College,3,,,nc,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 CT,Denver,4,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 CT,North Dakota,3,@,St. Cloud State,0,,,wc,True,False,False,False,20122013
+Fri.,2012-11-09,7:05 AT,Minnesota,4,@,Alaska Anchorage,0,,,wc,True,False,False,False,20122013
+Fri.,2012-11-09,7:35 MT,Bemidji State,2,@,Colorado College,3,,,wc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 ET,Niagara,4,@,Army,1,,,ah,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 ET,Canisius,6,@,RIT,3,,,ah,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 ET,Northern Michigan,2,@,Miami,2,OT,,cc,True,False,False,True,20122013
+Sat.,2012-11-10,7:05 ET,Ferris State,2,@,Lake Superior,1,,,cc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 ET,Western Michigan,2,@,Bowling Green,2,OT,,cc,True,False,False,True,20122013
+Sat.,2012-11-10,7:05 ET,Michigan,2,@,Michigan State,7,,,cc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 ET,Alaska,3,@,Ohio State,1,,,cc,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,Union,2,@,Dartmouth,3,,,ec,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,RPI,0,@,Harvard,4,,,ec,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,St. Lawrence,2,@,Yale,4,,,ec,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,Cornell,1,@,Quinnipiac,4,,,ec,True,False,False,False,20122013
+Sat.,2012-11-10,4:00 ET,Colgate,0,@,Princeton,4,,,ec,True,False,False,False,20122013
+Sat.,2012-11-10,4:00 ET,Clarkson,3,@,Brown,3,OT,,ec,True,False,False,True,20122013
+Sat.,2012-11-10,7:00 ET,Vermont,0,@,New Hampshire,4,,,he,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,Maine,4,@,UMass Lowell,3,,,he,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,Connecticut,3,@,Merrimack,1,,,nc,True,False,False,False,20122013
+Sat.,2012-11-10,7:30 ET,Air Force,1,@,Penn State,5,,,nc,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,Connecticut,3,@,Merrimack,1,,,nc,True,False,False,False,20122013
+Sat.,2012-11-10,7:00 ET,uah,0,@,Northeastern,3,,,nc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 CT,Minnesota Duluth,2,@,Omaha,3,,,wc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 MT,Bemidji State,3,@,Colorado College,6,,,wc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 CT,North Dakota,2,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-11-10,7:05 AT,Minnesota,2,@,Alaska Anchorage,2,OT,,wc,True,False,False,True,20122013
+Sat.,2012-11-10,7:05 CT,Denver,3,@,Minnesota State,2,,,wc,True,False,False,False,20122013
+Sun.,2012-11-11,12:05 ET,Holy Cross,6,@,Sacred Heart,3,,,ah,True,False,False,False,20122013
+Sun.,2012-11-11,5:00 ET,Boston College,4,@,Boston University,2,,,he,True,False,False,False,20122013
+Sun.,2012-11-11,7:00 ET,uah,1,@,Northeastern,3,,,nc,True,False,False,False,20122013
+Sun.,2012-11-11,2:05 CT,Minnesota Duluth,3,@,Omaha,6,,,wc,True,False,False,False,20122013
+Thu.,2012-11-15,7:35 ET,Notre Dame,3,@,Michigan,1,,,cc,True,False,False,False,20122013
+Fri.,2012-11-16,7:05 ET,Bentley,7,@,aic,3,,,ah,True,False,False,False,20122013
+Fri.,2012-11-16,7:05 ET,Sacred Heart,2,@,Army,3,,,ah,True,False,False,False,20122013
+Fri.,2012-11-16,7:05 ET,Niagara,2,@,Canisius,1,,,ah,True,False,False,False,20122013
+Fri.,2012-11-16,7:35 ET,Michigan State,2,@,Miami,2,OT,,cc,True,False,False,True,20122013
+Fri.,2012-11-16,7:35 ET,Notre Dame,4,@,Michigan,1,,,cc,True,False,False,False,20122013
+Fri.,2012-11-16,7:35 AT,Western Michigan,1,@,Alaska,6,,,cc,True,False,False,False,20122013
+Fri.,2012-11-16,7:05 ET,Ferris State,4,@,Bowling Green,3,OT,,cc,True,False,False,True,20122013
+Fri.,2012-11-16,7:05 ET,Northern Michigan,0,@,Ohio State,2,,,cc,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Quinnipiac,5,@,Clarkson,2,,,ec,True,False,False,False,20122013
+Fri.,2012-11-16,7:30 ET,Harvard,4,@,Cornell,1,,,ec,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Dartmouth,4,@,Colgate,5,,,ec,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Princeton,3,@,St. Lawrence,3,OT,,ec,True,False,False,True,20122013
+Fri.,2012-11-16,7:00 ET,Merrimack,3,@,Boston College,4,,,he,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Merrimack,3,@,Boston College,4,,,he,True,False,False,False,20122013
+Fri.,2012-11-16,7:05 ET,Boston University,6,@,Vermont,2,,,he,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Massachusetts,2,@,Maine,2,OT,,he,True,False,False,True,20122013
+Fri.,2012-11-16,7:00 ET,New Hampshire,3,@,UMass Lowell,0,,,he,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Northeastern,2,@,Providence,6,,,he,True,False,False,False,20122013
+Fri.,2012-11-16,7:35 ET,uah,2,@,Lake Superior,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-16,7:00 ET,Mercyhurst,2,@,RPI,4,,,nc,True,False,False,False,20122013
+Fri.,2012-11-16,7:35 CT,Minnesota Duluth,4,@,North Dakota,4,OT,,wc,True,False,False,True,20122013
+Fri.,2012-11-16,7:05 CT,Wisconsin,2,@,Minnesota,2,OT,,wc,True,False,False,True,20122013
+Fri.,2012-11-16,7:35 MT,Denver,6,@,Colorado College,5,,,wc,True,False,False,False,20122013
+Fri.,2012-11-16,7:35 CT,Michigan Tech,5,@,Bemidji State,4,OT,,wc,True,False,False,True,20122013
+Sat.,2012-11-17,7:05 ET,Robert Morris,0,@,Niagara,3,,,ah,True,False,False,False,20122013
+Sat.,2012-11-17,4:05 ET,aic,2,@,Sacred Heart,2,OT,,ah,True,False,False,True,20122013
+Sat.,2012-11-17,7:05 ET,Connecticut,1,@,Bentley,3,,,ah,True,False,False,False,20122013
+Sat.,2012-11-17,3:05 ET,RIT,3,@,Holy Cross,7,,,ah,True,False,False,False,20122013
+Sat.,2012-11-17,7:35 AT,Western Michigan,3,@,Alaska,2,,,cc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 ET,Ferris State,3,@,Bowling Green,1,,,cc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 ET,Northern Michigan,2,@,Ohio State,4,,,cc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 ET,Michigan State,0,@,Miami,2,,,cc,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Princeton,2,@,Clarkson,7,,,ec,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Quinnipiac,6,@,St. Lawrence,2,,,ec,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Harvard,0,@,Colgate,1,,,ec,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Dartmouth,1,@,Cornell,1,OT,,ec,True,False,False,True,20122013
+Sat.,2012-11-17,7:05 ET,uah,0,@,Lake Superior,4,,,nc,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Army,0,@,Brown,3,,,nc,True,False,False,False,20122013
+Sat.,2012-11-17,7:00 ET,Mercyhurst,1,@,RPI,4,,,nc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 CT,Minnesota Duluth,3,@,North Dakota,4,OT,,wc,True,False,False,True,20122013
+Sat.,2012-11-17,8:05 CT,Wisconsin,1,@,Minnesota,3,,,wc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 MT,Colorado College,2,@,Denver,6,,,wc,True,False,False,False,20122013
+Sat.,2012-11-17,7:05 CT,Michigan Tech,2,@,Bemidji State,1,OT,,wc,True,False,False,True,20122013
+Sun.,2012-11-18,3:05 ET,RIT,3,@,Holy Cross,3,OT,,ah,True,False,False,True,20122013
+Sun.,2012-11-18,7:05 ET,Northeastern,2,@,Vermont,3,,,he,True,False,False,False,20122013
+Sun.,2012-11-18,1:00 ET,New Hampshire,3,@,Boston University,1,,,he,True,False,False,False,20122013
+Sun.,2012-11-18,7:00 ET,UMass Lowell,8,@,Massachusetts,2,,,he,True,False,False,False,20122013
+Tue.,2012-11-20,7:00 ET,Vermont,1,@,Massachusetts,3,,,he,True,False,False,False,20122013
+Tue.,2012-11-20,7:00 ET,Quinnipiac,2,@,Providence,0,,,nc,True,False,False,False,20122013
+Wed.,2012-11-21,7:35 ET,Bowling Green,1,@,Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2012-11-23,7:05 ET,Mercyhurst,4,@,Bentley,3,OT,,ah,True,False,False,True,20122013
+Fri.,2012-11-23,4:05 ET,Air Force,1,@,Connecticut,2,,,ah,True,False,False,False,20122013
+Fri.,2012-11-23,7:35 ET,Ohio State,4,@,Lake Superior,1,,,cc,True,False,False,False,20122013
+Fri.,2012-11-23,7:35 ET,Alaska,3,@,Northern Michigan,4,OT,,cc,True,False,False,True,20122013
+Fri.,2012-11-23,4:05 ET,Princeton,4,@,Sacred Heart,3,,,nc,True,False,False,False,20122013
+Fri.,2012-11-23,7:05 ET,Clarkson,3,@,RIT,3,OT,,nc,True,False,False,True,20122013
+Fri.,2012-11-23,7:35 ET,North Dakota,2,@,Notre Dame,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-23,4:00 ET,Colgate,1,@,Merrimack,1,OT,,nc,True,False,False,True,20122013
+Fri.,2012-11-23,7:00 ET,St. Lawrence,5,@,Northeastern,2,,,nc,True,False,False,False,20122013
+Fri.,2012-11-23,4:00 ET,Colgate,1,@,Merrimack,1,OT,,nc,True,False,False,True,20122013
+Fri.,2012-11-23,7:05 ET,Minnesota,5,@,Vermont,1,,,nc,True,False,False,False,20122013
+Fri.,2012-11-23,7:35 CT,uah,2,@,Omaha,3,,,nc,True,False,False,False,20122013
+Fri.,2012-11-23,7:35 MT,Yale,2,@,Denver,1,OT,,nc,True,False,False,True,20122013
+Fri.,2012-11-23,7:35 MT,New Hampshire,4,@,Colorado College,4,OT,,nc,True,False,False,True,20122013
+Fri.,2012-11-23,7:05 CT,St. Cloud State,1,@,Minnesota Duluth,2,,,wc,True,False,False,False,20122013
+Fri.,2012-11-23,7:35 CT,Alaska Anchorage,2,@,Bemidji State,2,OT,,wc,True,False,False,True,20122013
+Fri.,2012-11-23,7:05 CT,Minnesota State,4,@,Wisconsin,2,,,wc,True,False,False,False,20122013
+Sat.,2012-11-24,3:35 ET,Air Force,2,@,Connecticut,3,OT,,ah,True,False,False,True,20122013
+Sat.,2012-11-24,7:05 ET,Mercyhurst,1,@,Bentley,5,,,ah,True,False,False,False,20122013
+Sat.,2012-11-24,4:05 ET,aic,1,@,Canisius,1,OT,,ah,True,False,False,True,20122013
+Sat.,2012-11-24,7:35 ET,Alaska,2,@,Northern Michigan,2,OT,,cc,True,False,False,True,20122013
+Sat.,2012-11-24,7:05 ET,Ohio State,2,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Sat.,2012-11-24,5:05 ET,North Dakota,2,@,Notre Dame,5,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,8:00 ET,Michigan,1,vs,Cornell,5,,,nc,True,True,False,False,20122013
+Sat.,2012-11-24,7:00 ET,Penn State,0,@,Union,2,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,4:00 ET,Providence,7,@,Brown,0,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,4:00 ET,Princeton,1,@,UMass Lowell,3,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,4:00 ET,Dartmouth,3,@,Boston College,6,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,7:00 ET,St. Lawrence,0,@,Boston University,4,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,7:00 ET,Quinnipiac,2,@,Massachusetts,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-11-24,7:05 ET,Minnesota,3,@,Vermont,1,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,7:05 CT,uah,0,@,Omaha,8,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,7:05 MT,Yale,6,@,Colorado College,5,OT,,nc,True,False,False,True,20122013
+Sat.,2012-11-24,7:05 MT,New Hampshire,6,@,Denver,4,,,nc,True,False,False,False,20122013
+Sat.,2012-11-24,7:05 CT,St. Cloud State,5,@,Minnesota Duluth,1,,,wc,True,False,False,False,20122013
+Sat.,2012-11-24,7:05 CT,Alaska Anchorage,4,@,Bemidji State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-11-24,7:05 CT,Minnesota State,4,@,Wisconsin,2,,,wc,True,False,False,False,20122013
+Sun.,2012-11-25,4:05 ET,aic,1,@,Canisius,4,,,ah,True,False,False,False,20122013
+Sun.,2012-11-25,4:00 ET,Holy Cross,2,@,Brown,3,,,nc,True,False,False,False,20122013
+Sun.,2012-11-25,4:00 ET,Penn State,1,@,Union,4,,,nc,True,False,False,False,20122013
+Thu.,2012-11-29,7:05 ET,Army,3,@,Bentley,2,,,ah,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Robert Morris,4,@,Holy Cross,3,,,ah,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Canisius,3,@,Connecticut,0,,,ah,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 MT,Mercyhurst,5,@,Air Force,4,,,ah,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Sacred Heart,3,@,Niagara,5,,,ah,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Northern Michigan,2,@,Western Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 AT,Miami,5,@,Alaska,2,,,cc,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Michigan,0,@,Ferris State,5,,,cc,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Ohio State,1,@,Michigan State,0,,,cc,True,False,False,False,20122013
+Fri.,2012-11-30,7:35 ET,Lake Superior,2,@,Notre Dame,3,,,cc,True,False,False,False,20122013
+Fri.,2012-11-30,7:00 ET,Clarkson,1,@,Cornell,3,,,ec,True,False,False,False,20122013
+Fri.,2012-11-30,7:00 ET,St. Lawrence,4,@,Colgate,2,,,ec,True,False,False,False,20122013
+Fri.,2012-11-30,7:00 ET,Princeton,2,@,RPI,2,OT,,ec,True,False,False,True,20122013
+Fri.,2012-11-30,7:00 ET,Quinnipiac,4,@,Union,0,,,ec,True,False,False,False,20122013
+Fri.,2012-11-30,7:00 CT,US Under-18 Team,6,@,uah,2,,,ex,True,False,True,False,20122013
+Fri.,2012-11-30,7:30 ET,Arizona State,3,@,Penn State,8,,,ex,True,False,True,False,20122013
+Fri.,2012-11-30,7:30 ET,Providence,3,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Fri.,2012-11-30,7:00 ET,Vermont,2,@,Maine,1,,,he,True,False,False,False,20122013
+Fri.,2012-11-30,7:30 ET,Providence,3,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Fri.,2012-11-30,7:30 ET,Boston College,2,@,Boston University,4,,,he,True,False,False,False,20122013
+Fri.,2012-11-30,7:30 ET,UMass Lowell,2,@,New Hampshire,5,,,he,True,False,False,False,20122013
+Fri.,2012-11-30,7:00 ET,Northeastern,1,@,Massachusetts,0,,,he,True,False,False,False,20122013
+Fri.,2012-11-30,8:05 MT,Wisconsin,1,@,Denver,1,OT,,wc,True,False,False,True,20122013
+Fri.,2012-11-30,7:05 CT,Omaha,3,@,Minnesota,2,,,wc,True,False,False,False,20122013
+Fri.,2012-11-30,7:35 CT,Bemidji State,0,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 AT,St. Cloud State,4,@,Alaska Anchorage,3,OT,,wc,True,False,False,True,20122013
+Fri.,2012-11-30,7:35 MT,North Dakota,3,@,Colorado College,5,,,wc,True,False,False,False,20122013
+Fri.,2012-11-30,7:05 ET,Minnesota Duluth,7,@,Michigan Tech,3,,,wc,True,False,False,False,20122013
+Sat.,2012-12-01,3:05 ET,Robert Morris,1,@,Holy Cross,1,OT,,ah,True,False,False,True,20122013
+Sat.,2012-12-01,7:05 ET,Canisius,3,@,Connecticut,1,,,ah,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,Sacred Heart,2,@,Niagara,5,,,ah,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,aic,2,@,Army,3,,,ah,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,Lake Superior,1,@,Notre Dame,6,,,cc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,Michigan,3,@,Ferris State,3,OT,,cc,True,False,False,True,20122013
+Sat.,2012-12-01,7:05 ET,Northern Michigan,0,@,Western Michigan,1,,,cc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 AT,Miami,4,@,Alaska,0,,,cc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,Ohio State,3,@,Michigan State,1,,,cc,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,Quinnipiac,3,@,RPI,1,,,ec,True,False,False,False,20122013
+Sat.,2012-12-01,4:00 ET,Princeton,4,@,Union,4,OT,,ec,True,False,False,True,20122013
+Sat.,2012-12-01,7:00 ET,St. Lawrence,1,@,Cornell,3,,,ec,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,Clarkson,4,@,Colgate,5,OT,,ec,True,False,False,True,20122013
+Sat.,2012-12-01,7:00 ET,Brown,3,@,Yale,4,,,ec,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 CT,US Under-18 Team,1,@,uah,1,OT,,ex,True,False,True,True,20122013
+Sat.,2012-12-01,7:30 ET,Arizona State,3,@,Penn State,1,,,ex,True,False,True,False,20122013
+Sat.,2012-12-01,7:00 ET,Merrimack,2,@,Providence,1,,,he,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,Merrimack,2,@,Providence,1,,,he,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,Vermont,2,@,Maine,2,OT,,he,True,False,False,True,20122013
+Sat.,2012-12-01,7:00 ET,Massachusetts,6,@,Northeastern,3,,,he,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,New Hampshire,5,@,UMass Lowell,2,,,he,True,False,False,False,20122013
+Sat.,2012-12-01,7:30 ET,Boston University,2,@,Boston College,5,,,he,True,False,False,False,20122013
+Sat.,2012-12-01,7:00 ET,Bentley,2,@,Dartmouth,5,,,nc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 CT,Bemidji State,1,@,Minnesota State,6,,,wc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 MT,Wisconsin,3,@,Denver,1,,,wc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 AT,St. Cloud State,1,@,Alaska Anchorage,3,,,wc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 CT,Omaha,2,@,Minnesota,3,,,wc,True,False,False,False,20122013
+Sat.,2012-12-01,7:05 ET,Minnesota Duluth,4,@,Michigan Tech,4,OT,,wc,True,False,False,True,20122013
+Sat.,2012-12-01,7:05 MT,North Dakota,3,@,Colorado College,2,OT,,wc,True,False,False,True,20122013
+Sun.,2012-12-02,6:05 MT,RIT,2,@,Air Force,3,OT,,ah,True,False,False,True,20122013
+Tue.,2012-12-04,7:35 ET,Michigan Tech,1,@,Northern Michigan,2,,,nc,True,False,False,False,20122013
+Wed.,2012-12-05,7:00 ET,Clarkson,4,@,St. Lawrence,1,,,ec,True,False,False,False,20122013
+Wed.,2012-12-05,7:00 ET,Vermont,2,@,Dartmouth,4,,,nc,True,False,False,False,20122013
+Thu.,2012-12-06,7:00 ET,Boston University,3,@,New Hampshire,2,,,he,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 ET,Air Force,7,@,Bentley,4,,,ah,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 ET,Army,2,@,Connecticut,2,OT,,ah,True,False,False,True,20122013
+Fri.,2012-12-07,7:05 ET,Sacred Heart,3,@,RIT,5,,,ah,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 ET,aic,7,@,Mercyhurst,3,,,ah,True,False,False,False,20122013
+Fri.,2012-12-07,7:35 ET,Michigan State,2,@,Notre Dame,3,,,cc,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 AT,Bowling Green,3,@,Alaska,2,,,cc,True,False,False,False,20122013
+Fri.,2012-12-07,7:35 ET,Lake Superior,2,@,Miami,3,,,cc,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 ET,Ferris State,2,@,Western Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2012-12-07,7:00 ET,RPI,6,@,Yale,1,,,ec,True,False,False,False,20122013
+Fri.,2012-12-07,7:00 ET,Union,3,@,Brown,3,OT,,ec,True,False,False,True,20122013
+Fri.,2012-12-07,7:00 ET,Princeton,1,@,Quinnipiac,3,,,ec,True,False,False,False,20122013
+Fri.,2012-12-07,7:00 ET,Boston College,3,@,Providence,3,OT,,he,True,False,False,True,20122013
+Fri.,2012-12-07,7:05 ET,Penn State,4,@,Holy Cross,5,OT,,nc,True,False,False,True,20122013
+Fri.,2012-12-07,7:05 ET,Robert Morris,3,@,Ohio State,2,,,nc,True,False,False,False,20122013
+Fri.,2012-12-07,7:30 ET,Harvard,2,@,Merrimack,2,OT,,nc,True,False,False,True,20122013
+Fri.,2012-12-07,7:00 CT,finl,2,@,uah,5,,,nc,True,False,False,False,20122013
+Fri.,2012-12-07,7:30 ET,Harvard,2,@,Merrimack,2,OT,,nc,True,False,False,True,20122013
+Fri.,2012-12-07,7:00 ET,Colgate,6,@,Massachusetts,4,,,nc,True,False,False,False,20122013
+Fri.,2012-12-07,7:35 MT,Minnesota,4,@,Colorado College,2,,,wc,True,False,False,False,20122013
+Fri.,2012-12-07,7:35 CT,Denver,2,@,North Dakota,2,OT,,wc,True,False,False,True,20122013
+Fri.,2012-12-07,7:05 CT,Bemidji State,2,@,Minnesota Duluth,4,,,wc,True,False,False,False,20122013
+Fri.,2012-12-07,7:35 CT,Alaska Anchorage,1,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Fri.,2012-12-07,7:05 CT,Michigan Tech,1,@,Wisconsin,1,OT,,wc,True,False,False,True,20122013
+Fri.,2012-12-07,7:35 CT,Omaha,6,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 ET,aic,2,@,Mercyhurst,7,,,ah,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 ET,Sacred Heart,2,@,RIT,5,,,ah,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 ET,Air Force,2,@,Bentley,2,OT,,ah,True,False,False,True,20122013
+Sat.,2012-12-08,7:05 ET,Lake Superior,1,@,Miami,0,,,cc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 ET,Ferris State,1,@,Western Michigan,2,,,cc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 AT,Bowling Green,3,@,Alaska,3,OT,,cc,True,False,False,True,20122013
+Sat.,2012-12-08,7:05 ET,Michigan State,1,@,Notre Dame,5,,,cc,True,False,False,False,20122013
+Sat.,2012-12-08,4:00 ET,RPI,2,@,Brown,2,OT,,ec,True,False,False,True,20122013
+Sat.,2012-12-08,7:00 ET,Union,2,@,Yale,2,OT,,ec,True,False,False,True,20122013
+Sat.,2012-12-08,4:00 ET,Quinnipiac,3,@,Princeton,0,,,ec,True,False,False,False,20122013
+Sat.,2012-12-08,4:00 ET,US Under-18 Team,3,@,Merrimack,1,,,ex,True,False,True,False,20122013
+Sat.,2012-12-08,4:00 ET,US Under-18 Team,3,@,Merrimack,1,,,ex,True,False,True,False,20122013
+Sat.,2012-12-08,8:00 ET,Maine,0,@,Boston University,1,,,he,True,False,False,False,20122013
+Sat.,2012-12-08,7:00 ET,Northeastern,0,@,UMass Lowell,2,,,he,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 ET,Ohio State,2,@,Robert Morris,2,OT,,nc,True,False,False,True,20122013
+Sat.,2012-12-08,5:05 ET,Penn State,1,@,Holy Cross,4,,,nc,True,False,False,False,20122013
+Sat.,2012-12-08,3:00 CT,finl,1,@,uah,4,,,nc,True,False,False,False,20122013
+Sat.,2012-12-08,7:00 ET,St. Lawrence,1,vs,Clarkson,3,,,nc,True,True,False,False,20122013
+Sat.,2012-12-08,7:00 ET,Colgate,5,@,Massachusetts,2,,,nc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 CT,Denver,3,@,North Dakota,6,,,wc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 CT,Bemidji State,2,@,Minnesota Duluth,1,,,wc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 CT,Omaha,1,@,St. Cloud State,2,,,wc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 CT,Michigan Tech,3,@,Wisconsin,3,OT,,wc,True,False,False,True,20122013
+Sat.,2012-12-08,7:05 CT,Alaska Anchorage,0,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Sat.,2012-12-08,7:05 MT,Minnesota,4,@,Colorado College,4,OT,,wc,True,False,False,True,20122013
+Sun.,2012-12-09,4:00 ET,US Under-18 Team,2,@,New Hampshire,2,OT,,ex,True,False,True,True,20122013
+Mon.,2012-12-10,7:00 ET,UMass Lowell,5,@,Harvard,0,,,nc,True,False,False,False,20122013
+Tue.,2012-12-11,7:00 ET,Army,2,@,Merrimack,4,,,nc,True,False,False,False,20122013
+Tue.,2012-12-11,7:00 ET,Massachusetts,2,@,Yale,4,,,nc,True,False,False,False,20122013
+Tue.,2012-12-11,7:00 ET,Army,2,@,Merrimack,4,,,nc,True,False,False,False,20122013
+Tue.,2012-12-11,7:00 ET,Penn State,4,@,Fredonia,0,,,nc,True,False,False,False,20122013
+Wed.,2012-12-12,7:05 ET,RIT,2,@,Niagara,2,OT,,ah,True,False,False,True,20122013
+Thu.,2012-12-13,7:05 CT,uah,0,@,Wisconsin,5,,,nc,True,False,False,False,20122013
+Fri.,2012-12-14,7:35 ET,Western Michigan,4,@,Michigan,1,,,cc,True,False,False,False,20122013
+Fri.,2012-12-14,7:35 ET,Northern Michigan,0,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Fri.,2012-12-14,7:05 ET,Miami,1,@,Ohio State,1,OT,,cc,True,False,False,True,20122013
+Fri.,2012-12-14,7:05 CT,uah,1,@,Wisconsin,4,,,nc,True,False,False,False,20122013
+Fri.,2012-12-14,7:35 CT,Minnesota State,6,@,Omaha,3,,,wc,True,False,False,False,20122013
+Fri.,2012-12-14,7:05 AT,Minnesota Duluth,5,@,Alaska Anchorage,1,,,wc,True,False,False,False,20122013
+Fri.,2012-12-14,7:35 CT,Colorado College,3,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Fri.,2012-12-14,7:35 CT,Denver,1,@,Bemidji State,1,OT,,wc,True,False,False,True,20122013
+Fri.,2012-12-14,7:05 ET,North Dakota,6,@,Michigan Tech,1,,,wc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 ET,Notre Dame,4,@,Bowling Green,1,,,cc,True,False,False,False,20122013
+Sat.,2012-12-15,7:35 ET,Western Michigan,0,@,Michigan,2,,,cc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 ET,Ferris State,1,@,Michigan State,3,,,cc,True,False,False,False,20122013
+Sat.,2012-12-15,7:35 ET,Northern Michigan,1,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 ET,Miami,3,@,Ohio State,1,,,cc,True,False,False,False,20122013
+Sat.,2012-12-15,7:30 ET,Robert Morris,3,@,Penn State,2,,,nc,True,False,False,False,20122013
+Sat.,2012-12-15,7:00 ET,Mercyhurst,3,@,Clarkson,1,,,nc,True,False,False,False,20122013
+Sat.,2012-12-15,7:00 ET,Vermont,5,@,St. Lawrence,2,,,nc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 ET,North Dakota,4,@,Michigan Tech,1,,,wc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 CT,Denver,1,@,Bemidji State,5,,,wc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 CT,Colorado College,1,@,St. Cloud State,3,,,wc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 CT,Minnesota State,1,@,Omaha,5,,,wc,True,False,False,False,20122013
+Sat.,2012-12-15,7:05 AT,Minnesota Duluth,2,@,Alaska Anchorage,1,,,wc,True,False,False,False,20122013
+Tue.,2012-12-18,7:05 ET,Canisius,2,@,Mercyhurst,3,OT,,ah,True,False,False,True,20122013
+Thu.,2012-12-20,7:00 ET,Vermont,4,@,Providence,4,OT,,he,True,False,False,True,20122013
+Thu.,2012-12-27,7:05 ET,Russia Red Stars,6,@,Army,2,,,ex,True,False,True,False,20122013
+Thu.,2012-12-27,7:05 CT,RPI,4,@,St. Cloud State,3,,,nc,True,False,False,False,20122013
+Fri.,2012-12-28,7:00 ET,Russian Red Stars,2,@,Yale,10,,,ex,True,False,True,False,20122013
+Fri.,2012-12-28,4:00 ET,Ferris State,3,vs,Cornell,5,,,nc,True,True,False,False,20122013
+Fri.,2012-12-28,7:00 ET,Minnesota Duluth,0,vs,Maine,1,,,nc,True,True,False,False,20122013
+Fri.,2012-12-28,7:05 CT,RPI,1,@,St. Cloud State,2,,,nc,True,False,False,False,20122013
+Fri.,2012-12-28,4:30 ET,Penn State,0,vs,Robert Morris,6,,,nc,True,True,False,False,20122013
+Fri.,2012-12-28,7:30 ET,Miami,1,vs,Ohio State,0,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,7:05 ET,Army,1,@,Canisius,5,,,ah,True,False,False,False,20122013
+Sat.,2012-12-29,7:15 ET,aic,2,@,Connecticut,7,,,ah,True,False,False,False,20122013
+Sat.,2012-12-29,4:00 ET,Princeton,2,vs,Merrimack,2,OT,,nc,True,True,False,True,20122013
+Sat.,2012-12-29,4:00 ET,Princeton,2,vs,Merrimack,2,OT,,nc,True,True,False,True,20122013
+Sat.,2012-12-29,7:05 ET,Union,1,@,Vermont,2,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,7:00 ET,Cornell,4,vs,Maine,6,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,4:00 ET,Ferris State,6,vs,Minnesota Duluth,2,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,4:05 ET,Minnesota State,3,vs,Brown,1,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,3:30 ET,Western Michigan,1,vs,Michigan State,1,OT,,nc,True,True,False,True,20122013
+Sat.,2012-12-29,7:00 ET,Michigan,0,vs,Michigan Tech,4,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,4:05 CT,Boston College,5,vs,uah,2,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,7:05 CT,Air Force,0,@,Minnesota,4,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,7:05 ET,Niagara,0,@,Bowling Green,3,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,7:00 ET,Northeastern,5,@,Harvard,1,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,12:00 ET,Omaha,4,@,Quinnipiac,5,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,7:05 MT,Boston University,0,@,Denver,6,,,nc,True,False,False,False,20122013
+Sat.,2012-12-29,7:30 ET,Miami,0,vs,Robert Morris,1,,,nc,True,True,False,False,20122013
+Sat.,2012-12-29,4:30 ET,Penn State,5,vs,Ohio State,4,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:05 ET,Army,1,@,Canisius,0,OT,,ah,True,False,False,True,20122013
+Sun.,2012-12-30,4:00 ET,Union,4,vs,Merrimack,1,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:05 ET,Princeton,3,@,Vermont,6,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,4:00 ET,Union,4,vs,Merrimack,1,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,4:05 ET,Brown,7,vs,aic,2,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:15 ET,Minnesota State,3,@,Connecticut,1,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,3:30 ET,Michigan,5,vs,Michigan State,2,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:00 ET,Western Michigan,0,vs,Michigan Tech,4,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:00 ET,New Hampshire,1,@,Dartmouth,4,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,4:00 ET,Bemidji State,3,vs,Massachusetts,4,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,4:05 CT,Air Force,6,vs,uah,1,,,nc,True,True,False,False,20122013
+Sun.,2012-12-30,7:05 CT,Boston College,1,@,Minnesota,8,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,2:05 ET,Yale,4,@,Holy Cross,5,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,12:00 ET,Omaha,1,@,Quinnipiac,3,,,nc,True,False,False,False,20122013
+Sun.,2012-12-30,4:00 ET,Bentley,2,@,UMass Lowell,3,,,nc,True,False,False,False,20122013
+Mon.,2012-12-31,7:00 ET,Massachusetts,3,@,Dartmouth,2,,,nc,True,False,False,False,20122013
+Mon.,2012-12-31,4:00 ET,Bemidji State,2,vs,New Hampshire,3,OT,,nc,True,True,False,True,20122013
+Mon.,2012-12-31,4:00 ET,Sacred Heart,2,@,RPI,6,,,nc,True,False,False,False,20122013
+Wed.,2013-01-02,7:00 ET,Russian Red Stars,1,@,Brown,7,,,ex,True,False,True,False,20122013
+Fri.,2013-01-04,7:35 ET,Robert Morris,0,@,Army,5,,,ah,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,Harvard,2,@,Princeton,3,OT,,ec,True,False,False,True,20122013
+Fri.,2013-01-04,7:00 ET,Dartmouth,2,@,Quinnipiac,3,OT,,ec,True,False,False,True,20122013
+Fri.,2013-01-04,7:35 ET,US Under-18 Team,5,@,Michigan,3,,,ex,True,False,True,False,20122013
+Fri.,2013-01-04,7:05 ET,Penn State,3,@,Connecticut,4,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:35 ET,Union,1,@,Lake Superior,4,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 CT,Adrian,4,@,uah,2,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,Sacred Heart,2,@,Colgate,6,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,RIT,4,@,St. Lawrence,3,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,UMass Lowell,2,@,Clarkson,1,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,Mercyhurst,1,@,Maine,2,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:00 ET,Yale,3,@,Boston College,3,OT,,nc,True,False,False,True,20122013
+Fri.,2013-01-04,7:30 ET,RPI,2,@,Boston University,3,OT,,nc,True,False,False,True,20122013
+Fri.,2013-01-04,7:35 CT,Holy Cross,2,@,North Dakota,5,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:35 CT,Western Michigan,6,@,Bemidji State,0,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:35 CT,Northern Michigan,6,@,St. Cloud State,2,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:35 MT,Cornell,1,@,Denver,5,,,nc,True,False,False,False,20122013
+Fri.,2013-01-04,7:35 CT,Providence,3,@,Minnesota State,4,OT,,nc,True,False,False,True,20122013
+Fri.,2013-01-04,6:35 CT,Colorado College,4,@,Omaha,8,,,wc,True,False,False,False,20122013
+Fri.,2013-01-04,7:05 AT,Wisconsin,5,@,Alaska Anchorage,3,,,wc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 ET,Robert Morris,4,@,Army,1,,,ah,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 ET,Air Force,3,@,Niagara,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-05,5:05 ET,Michigan State,0,@,Ferris State,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,Harvard,2,@,Quinnipiac,6,,,ec,True,False,False,False,20122013
+Sat.,2013-01-05,4:00 ET,Dartmouth,1,@,Princeton,2,,,ec,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 CT,Vanderbilt,0,@,uah,11,,,ex,True,False,True,False,20122013
+Sat.,2013-01-05,7:00 ET,Merrimack,4,@,Vermont,1,,,he,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,Merrimack,4,@,Vermont,1,,,he,True,False,False,False,20122013
+Sat.,2013-01-05,12:05 ET,Bowling Green,2,@,Canisius,2,OT,,nc,True,False,False,True,20122013
+Sat.,2013-01-05,7:05 ET,Penn State,1,@,Connecticut,4,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 ET,Union,1,@,Lake Superior,3,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,Sacred Heart,0,@,Colgate,9,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,RIT,3,@,St. Lawrence,4,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,UMass Lowell,6,@,Clarkson,2,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,Mercyhurst,5,@,Maine,2,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,Bentley,6,@,Northeastern,3,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:00 ET,RPI,2,@,New Hampshire,5,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 CT,Holy Cross,2,@,North Dakota,3,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 CT,Western Michigan,2,@,Bemidji State,2,OT,,nc,True,False,False,True,20122013
+Sat.,2013-01-05,7:05 CT,Northern Michigan,2,@,St. Cloud State,1,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 MT,Cornell,1,@,Denver,2,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 CT,Providence,0,@,Minnesota State,4,,,nc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 CT,Colorado College,1,@,Omaha,3,,,wc,True,False,False,False,20122013
+Sat.,2013-01-05,7:05 AT,Wisconsin,1,@,Alaska Anchorage,0,,,wc,True,False,False,False,20122013
+Sun.,2013-01-06,12:05 ET,Bowling Green,3,@,Canisius,2,,,nc,True,False,False,False,20122013
+Tue.,2013-01-08,7:35 ET,Bowling Green,5,@,Michigan,1,,,cc,True,False,False,False,20122013
+Tue.,2013-01-08,7:05 CT,Notre Dame,1,@,Minnesota,4,,,nc,True,False,False,False,20122013
+Wed.,2013-01-09,7:00 ET,Harvard,6,@,Boston University,5,OT,,nc,True,False,False,True,20122013
+Fri.,2013-01-11,7:05 MT,Army,1,@,Air Force,4,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Niagara,3,@,aic,2,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Connecticut,3,@,Robert Morris,2,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Canisius,5,@,Sacred Heart,1,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Holy Cross,2,@,Mercyhurst,1,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Bentley,3,@,RIT,0,,,ah,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Lake Superior,1,@,Western Michigan,1,OT,,cc,True,False,False,True,20122013
+Fri.,2013-01-11,7:35 ET,Miami,1,@,Northern Michigan,2,,,cc,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Notre Dame,1,@,Michigan State,0,,,cc,True,False,False,False,20122013
+Fri.,2013-01-11,7:35 ET,Alaska,5,@,Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,Ohio State,3,@,Ferris State,1,,,cc,True,False,False,False,20122013
+Fri.,2013-01-11,7:00 ET,RPI,1,@,Quinnipiac,1,OT,,ec,True,False,False,True,20122013
+Fri.,2013-01-11,7:30 ET,Union,3,@,Princeton,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-11,7:00 ET,Yale,5,@,St. Lawrence,3,,,ec,True,False,False,False,20122013
+Fri.,2013-01-11,7:00 ET,Brown,3,@,Clarkson,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-11,7:30 ET,US Under-18 Team,2,@,Penn State,5,,,ex,True,False,True,False,20122013
+Fri.,2013-01-11,7:30 CT,Oklahoma,1,@,uah,3,,,ex,True,False,True,False,20122013
+Fri.,2013-01-11,7:30 ET,Boston University,4,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2013-01-11,7:30 ET,Boston University,4,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 ET,UMass Lowell,4,@,Vermont,2,,,he,True,False,False,False,20122013
+Fri.,2013-01-11,7:00 ET,Maine,1,@,Northeastern,1,OT,,he,True,False,False,True,20122013
+Fri.,2013-01-11,7:00 ET,Providence,5,@,Massachusetts,4,,,he,True,False,False,False,20122013
+Fri.,2013-01-11,7:00 ET,New Hampshire,2,@,Boston College,5,,,he,True,False,False,False,20122013
+Fri.,2013-01-11,7:35 CT,Colorado College,4,@,North Dakota,3,,,wc,True,False,False,False,20122013
+Fri.,2013-01-11,7:05 CT,Michigan Tech,0,@,Minnesota Duluth,1,,,wc,True,False,False,False,20122013
+Fri.,2013-01-11,7:35 CT,Wisconsin,4,@,Minnesota State,3,OT,,wc,True,False,False,True,20122013
+Fri.,2013-01-11,8:05 MT,Omaha,4,@,Denver,7,,,wc,True,False,False,False,20122013
+Fri.,2013-01-11,8:05 CT,Alaska Anchorage,3,@,Minnesota,4,,,wc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Bentley,0,@,RIT,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Connecticut,3,@,Robert Morris,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-12,4:05 ET,Canisius,6,@,Sacred Heart,3,,,ah,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Holy Cross,2,@,Mercyhurst,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Niagara,3,@,aic,1,,,ah,True,False,False,False,20122013
+Sat.,2013-01-12,4:05 MT,Army,3,@,Air Force,3,OT,,ah,True,False,False,True,20122013
+Sat.,2013-01-12,7:05 ET,Lake Superior,1,@,Western Michigan,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Notre Dame,1,@,Michigan State,4,,,cc,True,False,False,False,20122013
+Sat.,2013-01-12,7:35 ET,Alaska,4,@,Michigan,1,,,cc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,Ohio State,1,@,Ferris State,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-12,7:35 ET,Miami,3,@,Northern Michigan,3,OT,,cc,True,False,False,True,20122013
+Sat.,2013-01-12,4:00 ET,RPI,1,@,Princeton,4,,,ec,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Brown,2,@,St. Lawrence,3,,,ec,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Harvard,2,@,Dartmouth,3,,,ec,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Yale,3,@,Clarkson,1,,,ec,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Union,2,@,Quinnipiac,3,,,ec,True,False,False,False,20122013
+Sat.,2013-01-12,7:30 ET,US Under-18 Team,3,@,Penn State,0,,,ex,True,False,True,False,20122013
+Sat.,2013-01-12,3:00 CT,Oklahoma,0,@,uah,4,,,ex,True,False,True,False,20122013
+Sat.,2013-01-12,7:00 ET,Maine,0,@,Merrimack,6,,,he,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 ET,UMass Lowell,6,@,Vermont,3,,,he,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Maine,0,@,Merrimack,6,,,he,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Massachusetts,0,@,Providence,2,,,he,True,False,False,False,20122013
+Sat.,2013-01-12,7:00 ET,Boston College,1,@,New Hampshire,2,,,he,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 CT,Colorado College,3,@,North Dakota,5,,,wc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 CT,Michigan Tech,4,@,Minnesota Duluth,5,,,wc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 CT,Wisconsin,2,@,Minnesota State,1,OT,,wc,True,False,False,True,20122013
+Sat.,2013-01-12,7:05 CT,Alaska Anchorage,1,@,Minnesota,7,,,wc,True,False,False,False,20122013
+Sat.,2013-01-12,7:05 MT,Omaha,3,@,Denver,3,OT,,wc,True,False,False,True,20122013
+Tue.,2013-01-15,7:05 ET,Notre Dame,2,@,Bowling Green,4,,,cc,True,False,False,False,20122013
+Tue.,2013-01-15,7:30 ET,Neumann,3,@,Penn State,2,OT,,nc,True,False,False,True,20122013
+Thu.,2013-01-17,7:00 ET,Providence,1,@,UMass Lowell,2,,,he,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Niagara,3,@,Holy Cross,5,,,ah,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Canisius,2,@,Bentley,3,OT,,ah,True,False,False,True,20122013
+Fri.,2013-01-18,7:05 ET,Mercyhurst,4,@,Connecticut,5,,,ah,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Robert Morris,1,@,aic,4,,,ah,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,RIT,6,@,Army,5,,,ah,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Western Michigan,2,@,Bowling Green,3,,,cc,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Ferris State,2,@,Michigan State,1,,,cc,True,False,False,False,20122013
+Fri.,2013-01-18,7:35 ET,Alaska,5,@,Notre Dame,4,,,cc,True,False,False,False,20122013
+Fri.,2013-01-18,7:35 ET,Ohio State,2,@,Northern Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2013-01-18,7:35 ET,Michigan,6,@,Lake Superior,4,,,cc,True,False,False,False,20122013
+Fri.,2013-01-18,7:00 ET,Colgate,1,@,RPI,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-18,7:00 ET,Dartmouth,4,@,Brown,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-18,7:30 ET,Harvard,0,@,Yale,4,,,ec,True,False,False,False,20122013
+Fri.,2013-01-18,7:00 ET,Cornell,3,@,Union,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-18,7:00 ET,Merrimack,1,@,Maine,1,OT,,he,True,False,False,True,20122013
+Fri.,2013-01-18,7:00 ET,Merrimack,1,@,Maine,1,OT,,he,True,False,False,True,20122013
+Fri.,2013-01-18,7:00 ET,Northeastern,6,@,Boston University,5,,,he,True,False,False,False,20122013
+Fri.,2013-01-18,7:00 ET,Massachusetts,5,@,Boston College,2,,,he,True,False,False,False,20122013
+Fri.,2013-01-18,8:05 CT,Miami,0,@,Wisconsin,1,,,nc,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 ET,Bemidji State,0,@,Michigan Tech,4,,,wc,True,False,False,False,20122013
+Fri.,2013-01-18,7:35 CT,Denver,2,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 AT,Minnesota State,3,@,Alaska Anchorage,3,OT,,wc,True,False,False,True,20122013
+Fri.,2013-01-18,7:35 MT,Minnesota Duluth,3,@,Colorado College,2,,,wc,True,False,False,False,20122013
+Fri.,2013-01-18,7:05 CT,North Dakota,1,@,Minnesota,5,,,wc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,RIT,4,@,Army,2,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Niagara,4,@,Holy Cross,1,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Canisius,2,@,Bentley,7,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,3:05 ET,Robert Morris,5,@,aic,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Mercyhurst,5,@,Connecticut,0,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,4:05 ET,Air Force,5,@,Sacred Heart,2,,,ah,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Bowling Green,1,@,Western Michigan,2,,,cc,True,False,False,False,20122013
+Sat.,2013-01-19,7:35 ET,Ohio State,2,@,Northern Michigan,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Michigan State,2,@,Ferris State,5,,,cc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Michigan,2,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Alaska,2,@,Notre Dame,1,,,cc,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Cornell,2,@,RPI,3,,,ec,True,False,False,False,20122013
+Sat.,2013-01-19,4:00 ET,Harvard,2,@,Brown,5,,,ec,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,St. Lawrence,3,@,Clarkson,3,OT,,ec,True,False,False,True,20122013
+Sat.,2013-01-19,7:00 ET,Dartmouth,2,@,Yale,4,,,ec,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Colgate,1,@,Union,2,,,ec,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Merrimack,3,@,Maine,2,,,he,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Merrimack,3,@,Maine,2,,,he,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Providence,6,@,New Hampshire,5,,,he,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,Boston College,9,@,Northeastern,3,,,he,True,False,False,False,20122013
+Sat.,2013-01-19,7:00 ET,UMass Lowell,4,@,Boston University,3,,,he,True,False,False,False,20122013
+Sat.,2013-01-19,8:15 ET,Penn State,4,vs,Vermont,2,,,nc,True,True,False,False,20122013
+Sat.,2013-01-19,7:05 CT,Miami,2,@,Wisconsin,1,,,nc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 CT,Denver,1,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 AT,Minnesota State,4,@,Alaska Anchorage,0,,,wc,True,False,False,False,20122013
+Sat.,2013-01-19,7:05 ET,Bemidji State,2,@,Michigan Tech,2,OT,,wc,True,False,False,True,20122013
+Sat.,2013-01-19,7:05 MT,Minnesota Duluth,1,@,Colorado College,5,,,wc,True,False,False,False,20122013
+Sat.,2013-01-19,5:05 CT,North Dakota,4,@,Minnesota,4,OT,,wc,True,False,False,True,20122013
+Sun.,2013-01-20,12:05 ET,Air Force,6,@,Sacred Heart,3,,,ah,True,False,False,False,20122013
+Tue.,2013-01-22,7:00 ET,Harvard,1,@,Union,4,,,ec,True,False,False,False,20122013
+Tue.,2013-01-22,7:05 ET,US Under-18 Team,3,@,Michigan State,0,,,ex,True,False,True,False,20122013
+Tue.,2013-01-22,7:00 ET,Connecticut,1,@,Quinnipiac,2,,,nc,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,aic,1,@,Connecticut,3,,,ah,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,Bentley,4,@,Holy Cross,1,,,ah,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 MT,Robert Morris,0,@,Air Force,2,,,ah,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,Niagara,3,@,RIT,3,OT,,ah,True,False,False,True,20122013
+Fri.,2013-01-25,7:05 ET,Lake Superior,2,@,Ohio State,3,,,cc,True,False,False,False,20122013
+Fri.,2013-01-25,7:35 ET,Bowling Green,1,@,Miami,2,,,cc,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 AT,Northern Michigan,1,@,Alaska,2,,,cc,True,False,False,False,20122013
+Fri.,2013-01-25,7:35 ET,Ferris State,3,@,Notre Dame,1,,,cc,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,Michigan,2,@,Western Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2013-01-25,7:30 ET,Yale,3,@,Cornell,2,OT,,ec,True,False,False,True,20122013
+Fri.,2013-01-25,7:00 ET,Brown,1,@,Colgate,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-25,7:00 ET,St. Lawrence,4,@,Dartmouth,2,,,ec,True,False,False,False,20122013
+Fri.,2013-01-25,7:00 ET,Clarkson,5,@,Harvard,1,,,ec,True,False,False,False,20122013
+Fri.,2013-01-25,7:30 ET,New Hampshire,2,@,Merrimack,3,,,he,True,False,False,False,20122013
+Fri.,2013-01-25,7:30 ET,New Hampshire,2,@,Merrimack,3,,,he,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,Massachusetts,3,@,Vermont,2,,,he,True,False,False,False,20122013
+Fri.,2013-01-25,7:30 ET,Maine,4,@,Boston College,1,,,he,True,False,False,False,20122013
+Fri.,2013-01-25,7:00 ET,UMass Lowell,4,@,Northeastern,4,OT,,he,True,False,False,True,20122013
+Fri.,2013-01-25,7:00 ET,Boston University,3,@,Providence,2,,,he,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 ET,Penn State,3,@,Michigan State,5,,,nc,True,False,False,False,20122013
+Fri.,2013-01-25,7:35 CT,St. Cloud State,3,@,North Dakota,1,,,wc,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 CT,Minnesota State,2,@,Minnesota,1,,,wc,True,False,False,False,20122013
+Fri.,2013-01-25,7:05 CT,Alaska Anchorage,2,@,Wisconsin,5,,,wc,True,False,False,False,20122013
+Fri.,2013-01-25,7:35 CT,Omaha,5,@,Bemidji State,3,,,wc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,RIT,4,@,Niagara,6,,,ah,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Connecticut,1,@,aic,1,OT,,ah,True,False,False,True,20122013
+Sat.,2013-01-26,7:05 ET,Holy Cross,2,@,Bentley,1,,,ah,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 MT,Robert Morris,1,@,Air Force,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Mercyhurst,2,@,Canisius,4,,,ah,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 AT,Northern Michigan,2,@,Alaska,4,,,cc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Lake Superior,1,@,Ohio State,6,,,cc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Michigan,1,@,Western Michigan,5,,,cc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Bowling Green,1,@,Miami,3,,,cc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Ferris State,2,@,Notre Dame,5,,,cc,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,Yale,1,@,Colgate,4,,,ec,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,Clarkson,1,@,Dartmouth,5,,,ec,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,St. Lawrence,4,@,Harvard,3,OT,,ec,True,False,False,True,20122013
+Sat.,2013-01-26,7:00 ET,Brown,3,@,Cornell,0,,,ec,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Royal Military,1,@,Army,4,,,ex,True,False,True,False,20122013
+Sat.,2013-01-26,2:05 CT,US Under-18 Team,1,@,Minnesota Duluth,3,,,ex,True,False,True,False,20122013
+Sat.,2013-01-26,7:00 ET,Merrimack,2,@,New Hampshire,6,,,he,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,Merrimack,2,@,New Hampshire,6,,,he,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 ET,Massachusetts,2,@,Vermont,3,,,he,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,Northeastern,4,@,UMass Lowell,5,OT,,he,True,False,False,True,20122013
+Sat.,2013-01-26,7:00 ET,Maine,3,@,Boston College,1,,,he,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,Providence,3,@,Boston University,3,OT,,he,True,False,False,True,20122013
+Sat.,2013-01-26,7:05 ET,Penn State,3,@,Michigan State,2,,,nc,True,False,False,False,20122013
+Sat.,2013-01-26,7:00 ET,RPI,2,vs,Union,3,,,nc,True,True,False,False,20122013
+Sat.,2013-01-26,7:05 CT,St. Cloud State,2,@,North Dakota,2,OT,,wc,True,False,False,True,20122013
+Sat.,2013-01-26,7:05 CT,Alaska Anchorage,1,@,Wisconsin,2,,,wc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 CT,Omaha,2,@,Bemidji State,1,,,wc,True,False,False,False,20122013
+Sat.,2013-01-26,7:05 CT,Minnesota,4,@,Minnesota State,1,,,wc,True,False,False,False,20122013
+Sun.,2013-01-27,4:00 ET,Sacred Heart,2,@,Princeton,5,,,nc,True,False,False,False,20122013
+Tue.,2013-01-29,7:05 ET,Canisius,2,@,Mercyhurst,5,,,ah,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 ET,Sacred Heart,3,@,Robert Morris,6,,,ah,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 ET,Connecticut,3,@,RIT,1,,,ah,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 ET,Army,1,@,Mercyhurst,1,OT,,ah,True,False,False,True,20122013
+Fri.,2013-02-01,7:05 ET,Bentley,1,@,Niagara,2,,,ah,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 MT,aic,2,@,Air Force,2,OT,,ah,True,False,False,True,20122013
+Fri.,2013-02-01,7:05 ET,Notre Dame,3,@,Ohio State,6,,,cc,True,False,False,False,20122013
+Fri.,2013-02-01,7:35 ET,Michigan State,2,@,Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 ET,Lake Superior,1,@,Bowling Green,4,,,cc,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 ET,Western Michigan,3,@,Ferris State,1,,,cc,True,False,False,False,20122013
+Fri.,2013-02-01,7:35 ET,Alaska,1,@,Miami,4,,,cc,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,Harvard,0,@,RPI,3,,,ec,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,Princeton,2,@,Yale,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-01,7:30 ET,Dartmouth,2,@,Union,2,OT,,ec,True,False,False,True,20122013
+Fri.,2013-02-01,7:00 ET,Colgate,4,@,Clarkson,4,OT,,ec,True,False,False,True,20122013
+Fri.,2013-02-01,7:00 ET,Quinnipiac,1,@,Brown,1,OT,,ec,True,False,False,True,20122013
+Fri.,2013-02-01,7:00 ET,Cornell,2,@,St. Lawrence,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-01,7:30 ET,Ohio University,1,@,Penn State,6,,,ex,True,False,True,False,20122013
+Fri.,2013-02-01,7:30 ET,UMass Lowell,0,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2013-02-01,7:30 ET,UMass Lowell,0,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,Vermont,1,@,Boston College,4,,,he,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,New Hampshire,3,@,Northeastern,1,,,he,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,Boston University,1,@,Massachusetts,5,,,he,True,False,False,False,20122013
+Fri.,2013-02-01,7:00 ET,Providence,2,@,Maine,2,OT,,he,True,False,False,True,20122013
+Fri.,2013-02-01,7:35 CT,Wisconsin,1,@,North Dakota,1,OT,,wc,True,False,False,True,20122013
+Fri.,2013-02-01,7:35 CT,St. Cloud State,4,@,Bemidji State,0,,,wc,True,False,False,False,20122013
+Fri.,2013-02-01,7:05 AT,Colorado College,2,@,Alaska Anchorage,2,OT,,wc,True,False,False,True,20122013
+Fri.,2013-02-01,7:05 CT,Denver,3,@,Minnesota Duluth,0,,,wc,True,False,False,False,20122013
+Fri.,2013-02-01,7:35 CT,Michigan Tech,3,@,Omaha,4,,,wc,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 MT,aic,2,@,Air Force,1,OT,,ah,True,False,False,True,20122013
+Sat.,2013-02-02,3:05 ET,Holy Cross,0,@,Canisius,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Sacred Heart,4,@,Robert Morris,7,,,ah,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Army,1,@,Mercyhurst,8,,,ah,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Connecticut,1,@,RIT,7,,,ah,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Bentley,4,@,Niagara,6,,,ah,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Lake Superior,3,@,Bowling Green,7,,,cc,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Michigan,5,vs,Michigan State,2,,,cc,True,True,False,False,20122013
+Sat.,2013-02-02,7:05 ET,Notre Dame,2,@,Ohio State,2,OT,,cc,True,False,False,True,20122013
+Sat.,2013-02-02,7:05 ET,Western Michigan,2,@,Ferris State,2,OT,,cc,True,False,False,True,20122013
+Sat.,2013-02-02,7:05 ET,Alaska,2,@,Miami,6,,,cc,True,False,False,False,20122013
+Sat.,2013-02-02,7:00 ET,Dartmouth,0,@,RPI,3,,,ec,True,False,False,False,20122013
+Sat.,2013-02-02,7:00 ET,Quinnipiac,6,@,Yale,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-02,4:00 ET,Princeton,1,@,Brown,5,,,ec,True,False,False,False,20122013
+Sat.,2013-02-02,7:00 ET,Colgate,3,@,St. Lawrence,3,OT,,ec,True,False,False,True,20122013
+Sat.,2013-02-02,7:00 ET,Cornell,3,@,Clarkson,6,,,ec,True,False,False,False,20122013
+Sat.,2013-02-02,7:30 ET,Ohio University,3,@,Penn State,5,,,ex,True,False,True,False,20122013
+Sat.,2013-02-02,7:00 ET,Merrimack,4,@,New Hampshire,1,,,he,True,False,False,False,20122013
+Sat.,2013-02-02,7:00 ET,Merrimack,4,@,New Hampshire,1,,,he,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 AT,Colorado College,3,@,Alaska Anchorage,3,OT,,wc,True,False,False,True,20122013
+Sat.,2013-02-02,7:05 CT,St. Cloud State,4,@,Bemidji State,1,,,wc,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 CT,Denver,4,@,Minnesota Duluth,3,,,wc,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 CT,Wisconsin,1,@,North Dakota,4,,,wc,True,False,False,False,20122013
+Sat.,2013-02-02,7:05 CT,Michigan Tech,2,@,Omaha,1,OT,,wc,True,False,False,True,20122013
+Sun.,2013-02-03,3:05 ET,Holy Cross,5,@,Canisius,1,,,ah,True,False,False,False,20122013
+Sun.,2013-02-03,2:00 ET,UMass Lowell,3,@,Maine,4,OT,,he,True,False,False,True,20122013
+Mon.,2013-02-04,8:00 ET,Boston College,4,vs,Harvard,1,,,nc,True,True,False,False,20122013
+Mon.,2013-02-04,5:00 ET,Northeastern,3,vs,Boston University,2,,,nc,True,True,False,False,20122013
+Tue.,2013-02-05,7:05 ET,Mercyhurst,8,@,Robert Morris,1,,,ah,True,False,False,False,20122013
+Thu.,2013-02-07,7:05 ET,Niagara,0,@,Canisius,2,,,ah,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 ET,Air Force,4,@,Mercyhurst,2,,,ah,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 ET,RIT,0,@,Robert Morris,3,,,ah,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 ET,Michigan State,1,@,Bowling Green,2,,,cc,True,False,False,False,20122013
+Fri.,2013-02-08,7:35 ET,Ferris State,3,@,Northern Michigan,1,,,cc,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 ET,Miami,0,@,Western Michigan,2,,,cc,True,False,False,False,20122013
+Fri.,2013-02-08,7:35 ET,Michigan,4,@,Notre Dame,7,,,cc,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 AT,Ohio State,1,@,Alaska,6,,,cc,True,False,False,False,20122013
+Fri.,2013-02-08,7:00 ET,RPI,4,@,St. Lawrence,3,OT,,ec,True,False,False,True,20122013
+Fri.,2013-02-08,7:00 ET,Princeton,4,@,Colgate,2,,,ec,True,False,False,False,20122013
+Fri.,2013-02-08,7:00 ET,Union,1,@,Clarkson,2,,,ec,True,False,False,False,20122013
+Fri.,2013-02-08,7:00 ET,Quinnipiac,4,@,Cornell,1,,,ec,True,False,False,False,20122013
+Fri.,2013-02-08,7:30 ET,uah,0,@,Penn State,4,,,nc,True,False,False,False,20122013
+Fri.,2013-02-08,7:35 MT,Colorado College,1,@,Denver,1,OT,,wc,True,False,False,True,20122013
+Fri.,2013-02-08,7:05 ET,Alaska Anchorage,5,@,Michigan Tech,4,,,wc,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 CT,Minnesota State,4,@,Minnesota Duluth,2,,,wc,True,False,False,False,20122013
+Fri.,2013-02-08,7:35 CT,Minnesota,4,@,St. Cloud State,2,,,wc,True,False,False,False,20122013
+Fri.,2013-02-08,7:05 CT,Bemidji State,2,@,Wisconsin,2,OT,,wc,True,False,False,True,20122013
+Fri.,2013-02-08,6:35 CT,North Dakota,2,@,Omaha,1,,,wc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Air Force,2,@,Mercyhurst,2,OT,,ah,True,False,False,True,20122013
+Sat.,2013-02-09,7:05 ET,RIT,4,@,Robert Morris,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Canisius,0,@,Niagara,2,,,ah,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Miami,4,@,Western Michigan,0,,,cc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Bowling Green,1,@,Michigan State,3,,,cc,True,False,False,False,20122013
+Sat.,2013-02-09,7:35 ET,Ferris State,0,@,Northern Michigan,3,,,cc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 AT,Ohio State,3,@,Alaska,1,,,cc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Michigan,4,@,Notre Dame,6,,,cc,True,False,False,False,20122013
+Sat.,2013-02-09,7:00 ET,RPI,6,@,Clarkson,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-09,7:00 ET,Quinnipiac,3,@,Colgate,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-09,7:00 ET,Princeton,1,@,Cornell,0,,,ec,True,False,False,False,20122013
+Sat.,2013-02-09,7:00 ET,Union,2,@,St. Lawrence,4,,,ec,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 ET,Maine,0,@,Vermont,3,,,he,True,False,False,False,20122013
+Sat.,2013-02-09,7:30 ET,uah,3,@,Penn State,4,,,nc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 MT,Denver,5,@,Colorado College,6,OT,,wc,True,False,False,True,20122013
+Sat.,2013-02-09,4:05 CT,North Dakota,5,@,Omaha,2,,,wc,True,False,False,False,20122013
+Sat.,2013-02-09,5:05 ET,Alaska Anchorage,1,@,Michigan Tech,6,,,wc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 CT,Bemidji State,2,@,Wisconsin,3,,,wc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 CT,Minnesota State,5,@,Minnesota Duluth,1,,,wc,True,False,False,False,20122013
+Sat.,2013-02-09,7:05 CT,Minnesota,3,@,St. Cloud State,4,,,wc,True,False,False,False,20122013
+Sun.,2013-02-10,3:05 ET,aic,3,@,Army,0,,,ah,True,False,False,False,20122013
+Sun.,2013-02-10,7:05 ET,Connecticut,4,@,Bentley,1,,,ah,True,False,False,False,20122013
+Sun.,2013-02-10,4:00 ET,Dartmouth,1,@,Harvard,1,OT,,ec,True,False,False,True,20122013
+Sun.,2013-02-10,4:00 ET,Massachusetts,2,@,Merrimack,4,,,he,True,False,False,False,20122013
+Sun.,2013-02-10,4:00 ET,Massachusetts,2,@,Merrimack,4,,,he,True,False,False,False,20122013
+Sun.,2013-02-10,4:00 ET,Providence,3,@,New Hampshire,3,OT,,he,True,False,False,True,20122013
+Mon.,2013-02-11,7:05 ET,Bentley,0,@,Connecticut,9,,,ah,True,False,False,False,20122013
+Mon.,2013-02-11,4:30 ET,Boston University,4,vs,Harvard,7,,,nc,True,True,False,False,20122013
+Mon.,2013-02-11,7:30 ET,Northeastern,3,vs,Boston College,6,,,nc,True,True,False,False,20122013
+Tue.,2013-02-12,7:00 ET,Yale,0,@,Brown,1,,,ec,True,False,False,False,20122013
+Tue.,2013-02-12,7:05 ET,Northern Michigan,2,@,Michigan Tech,8,,,nc,True,False,False,False,20122013
+Wed.,2013-02-13,7:00 ET,New Hampshire,0,@,Providence,1,,,he,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,Army,3,@,Bentley,5,,,ah,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,Sacred Heart,0,@,aic,4,,,ah,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,Holy Cross,4,@,Connecticut,1,,,ah,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 MT,Canisius,1,@,Air Force,3,,,ah,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,RIT,3,@,Mercyhurst,2,OT,,ah,True,False,False,True,20122013
+Fri.,2013-02-15,7:05 ET,Robert Morris,3,@,Niagara,4,,,ah,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,Bowling Green,2,@,Ferris State,1,OT,,cc,True,False,False,True,20122013
+Fri.,2013-02-15,7:05 ET,Northern Michigan,5,@,Michigan State,3,,,cc,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 ET,Western Michigan,1,@,Ohio State,1,OT,,cc,True,False,False,True,20122013
+Fri.,2013-02-15,7:35 ET,Notre Dame,1,@,Miami,3,,,cc,True,False,False,False,20122013
+Fri.,2013-02-15,7:35 ET,Alaska,1,@,Lake Superior,5,,,cc,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,Brown,1,@,RPI,5,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,Yale,2,@,Union,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,St. Lawrence,2,@,Quinnipiac,1,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,Colgate,1,@,Harvard,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,Clarkson,3,@,Princeton,2,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,Cornell,4,@,Dartmouth,2,,,ec,True,False,False,False,20122013
+Fri.,2013-02-15,7:30 ET,Oklahoma,1,@,Penn State,4,,,ex,True,False,True,False,20122013
+Fri.,2013-02-15,7:30 ET,Boston College,1,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Fri.,2013-02-15,7:30 ET,Boston College,1,@,Merrimack,2,OT,,he,True,False,False,True,20122013
+Fri.,2013-02-15,7:00 ET,Vermont,2,@,Northeastern,1,,,he,True,False,False,False,20122013
+Fri.,2013-02-15,7:00 ET,UMass Lowell,6,@,Massachusetts,3,,,he,True,False,False,False,20122013
+Fri.,2013-02-15,7:30 ET,Boston University,3,@,Maine,3,OT,,he,True,False,False,True,20122013
+Fri.,2013-02-15,7:05 CT,Minnesota,3,@,Wisconsin,2,,,wc,True,False,False,False,20122013
+Fri.,2013-02-15,7:05 AT,Omaha,3,@,Alaska Anchorage,0,,,wc,True,False,False,False,20122013
+Fri.,2013-02-15,7:35 CT,Michigan Tech,2,@,Minnesota State,4,,,wc,True,False,False,False,20122013
+Fri.,2013-02-15,7:35 CT,Minnesota Duluth,2,@,Bemidji State,4,,,wc,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Bentley,2,@,Army,2,OT,,ah,True,False,False,True,20122013
+Sat.,2013-02-16,7:05 ET,aic,9,@,Sacred Heart,1,,,ah,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Connecticut,4,@,Holy Cross,1,,,ah,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 MT,Canisius,2,@,Air Force,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Niagara,5,@,Robert Morris,6,OT,,ah,True,False,False,True,20122013
+Sat.,2013-02-16,7:05 ET,RIT,5,@,Mercyhurst,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Alaska,2,@,Lake Superior,4,,,cc,True,False,False,False,20122013
+Sat.,2013-02-16,5:05 ET,Bowling Green,3,@,Ferris State,4,,,cc,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Western Michigan,3,@,Ohio State,6,,,cc,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 ET,Northern Michigan,2,@,Michigan State,4,,,cc,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Yale,1,@,RPI,4,,,ec,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Clarkson,1,@,Quinnipiac,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Colgate,4,@,Dartmouth,5,,,ec,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,St. Lawrence,3,@,Princeton,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Brown,0,@,Union,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Cornell,2,@,Harvard,2,OT,,ec,True,False,False,True,20122013
+Sat.,2013-02-16,3:30 ET,Oklahoma,0,@,Penn State,3,,,ex,True,False,True,False,20122013
+Sat.,2013-02-16,7:00 ET,Vermont,3,@,Northeastern,1,,,he,True,False,False,False,20122013
+Sat.,2013-02-16,7:00 ET,Boston University,5,@,Maine,4,OT,,he,True,False,False,True,20122013
+Sat.,2013-02-16,7:00 ET,Massachusetts,2,@,UMass Lowell,3,,,he,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 CT,Minnesota Duluth,1,@,Bemidji State,1,OT,,wc,True,False,False,True,20122013
+Sat.,2013-02-16,7:05 CT,Michigan Tech,1,@,Minnesota State,6,,,wc,True,False,False,False,20122013
+Sat.,2013-02-16,7:05 AT,Omaha,6,@,Alaska Anchorage,5,OT,,wc,True,False,False,True,20122013
+Sun.,2013-02-17,12:00 CT,Notre Dame,2,vs,Miami,1,,,cc,True,True,False,False,20122013
+Sun.,2013-02-17,4:00 ET,Merrimack,2,@,Providence,2,OT,,he,True,False,False,True,20122013
+Sun.,2013-02-17,4:00 ET,Merrimack,2,@,Providence,2,OT,,he,True,False,False,True,20122013
+Sun.,2013-02-17,4:00 ET,New Hampshire,4,@,Boston College,4,OT,,he,True,False,False,True,20122013
+Sun.,2013-02-17,3:30 CT,Minnesota,2,vs,Wisconsin,3,,,wc,True,True,False,False,20122013
+Tue.,2013-02-19,7:05 ET,Holy Cross,3,@,Sacred Heart,7,,,ah,True,False,False,False,20122013
+Tue.,2013-02-19,7:00 ET,Northeastern,5,@,Massachusetts,4,OT,,he,True,False,False,True,20122013
+Fri.,2013-02-22,7:05 ET,Holy Cross,4,@,aic,4,OT,,ah,True,False,False,True,20122013
+Fri.,2013-02-22,7:05 ET,Connecticut,4,@,Army,3,,,ah,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 ET,Robert Morris,4,@,Canisius,2,,,ah,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 ET,Mercyhurst,2,@,Niagara,4,,,ah,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 ET,Air Force,5,@,RIT,3,,,ah,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 ET,Sacred Heart,6,@,Bentley,6,OT,,ah,True,False,False,True,20122013
+Fri.,2013-02-22,6:35 ET,Michigan,5,@,Ohio State,3,,,cc,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 AT,Michigan State,1,@,Alaska,0,,,cc,True,False,False,False,20122013
+Fri.,2013-02-22,7:35 ET,Notre Dame,3,@,Western Michigan,3,OT,,cc,True,False,False,True,20122013
+Fri.,2013-02-22,7:05 ET,Northern Michigan,5,@,Bowling Green,2,,,cc,True,False,False,False,20122013
+Fri.,2013-02-22,7:35 ET,Miami,5,@,Lake Superior,4,,,cc,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,RPI,1,@,Cornell,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:30 ET,Yale,1,@,Quinnipiac,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Dartmouth,0,@,Clarkson,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Union,1,@,Colgate,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Harvard,2,@,St. Lawrence,4,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Brown,4,@,Princeton,1,,,ec,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 ET,New Hampshire,4,@,Vermont,3,,,he,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Maine,2,@,Massachusetts,0,,,he,True,False,False,False,20122013
+Fri.,2013-02-22,7:30 ET,UMass Lowell,3,@,Boston University,0,,,he,True,False,False,False,20122013
+Fri.,2013-02-22,7:00 ET,Northeastern,2,@,Providence,6,,,he,True,False,False,False,20122013
+Fri.,2013-02-22,7:05 CT,Minnesota Duluth,3,@,Minnesota,5,,,wc,True,False,False,False,20122013
+Fri.,2013-02-22,7:35 MT,St. Cloud State,3,@,Colorado College,4,,,wc,True,False,False,False,20122013
+Fri.,2013-02-22,8:05 MT,North Dakota,4,@,Denver,5,,,wc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Bentley,1,@,Sacred Heart,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Niagara,4,@,Mercyhurst,2,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Canisius,3,@,Robert Morris,6,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Connecticut,6,@,Army,3,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Air Force,1,@,RIT,2,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,5:05 ET,aic,1,@,Holy Cross,4,,,ah,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Miami,2,@,Lake Superior,1,,,cc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 AT,Michigan State,2,@,Alaska,4,,,cc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Michigan,6,@,Ohio State,3,,,cc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 ET,Notre Dame,1,@,Western Michigan,1,OT,,cc,True,False,False,True,20122013
+Sat.,2013-02-23,7:05 ET,Northern Michigan,3,@,Bowling Green,5,,,cc,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,RPI,3,@,Colgate,2,OT,,ec,True,False,False,True,20122013
+Sat.,2013-02-23,7:00 ET,Brown,3,@,Quinnipiac,3,OT,,ec,True,False,False,True,20122013
+Sat.,2013-02-23,7:00 ET,Dartmouth,3,@,St. Lawrence,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,Harvard,6,@,Clarkson,2,,,ec,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,Union,2,@,Cornell,4,,,ec,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,Yale,4,@,Princeton,3,,,ec,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 CT,US Under-18 Team,3,@,Omaha,2,,,ex,True,False,True,False,20122013
+Sat.,2013-02-23,4:05 ET,New Hampshire,1,@,Vermont,1,OT,,he,True,False,False,True,20122013
+Sat.,2013-02-23,7:00 ET,Providence,3,@,Northeastern,2,,,he,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,Boston University,1,@,UMass Lowell,3,,,he,True,False,False,False,20122013
+Sat.,2013-02-23,7:00 ET,Maine,2,@,Massachusetts,5,,,he,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 MT,North Dakota,6,@,Denver,1,,,wc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 MT,St. Cloud State,5,@,Colorado College,2,,,wc,True,False,False,False,20122013
+Sat.,2013-02-23,7:05 CT,Minnesota Duluth,2,@,Minnesota,2,OT,,wc,True,False,False,True,20122013
+Sun.,2013-02-24,4:00 ET,Boston College,2,@,Merrimack,1,OT,,he,True,False,False,True,20122013
+Sun.,2013-02-24,4:00 ET,Boston College,2,@,Merrimack,1,OT,,he,True,False,False,True,20122013
+Sun.,2013-02-24,7:05 CT,Penn State,0,@,Wisconsin,5,,,nc,True,False,False,False,20122013
+Mon.,2013-02-25,7:05 ET,Sacred Heart,2,@,Holy Cross,4,,,ah,True,False,False,False,20122013
+Mon.,2013-02-25,7:05 CT,Penn State,3,@,Wisconsin,2,OT,,nc,True,False,False,True,20122013
+Tue.,2013-02-26,3:35 ET,Army,1,@,aic,4,,,ah,True,False,False,False,20122013
+Tue.,2013-02-26,7:00 ET,Merrimack,2,@,Boston University,5,,,he,True,False,False,False,20122013
+Tue.,2013-02-26,7:00 ET,Merrimack,2,@,Boston University,5,,,he,True,False,False,False,20122013
+Tue.,2013-02-26,7:00 ET,UMass Lowell,4,@,Boston College,2,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 ET,Bentley,1,@,aic,2,,,ah,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 ET,Sacred Heart,4,@,Connecticut,4,OT,,ah,True,False,False,True,20122013
+Fri.,2013-03-01,7:05 ET,Holy Cross,6,@,Army,3,,,ah,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 ET,Canisius,6,@,RIT,5,,,ah,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 ET,Mercyhurst,3,@,Robert Morris,3,OT,,ah,True,False,False,True,20122013
+Fri.,2013-03-01,7:05 MT,Niagara,2,@,Air Force,5,,,ah,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 ET,Western Michigan,5,@,Michigan State,2,,,cc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 ET,Ferris State,1,@,Michigan,4,,,cc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 ET,Lake Superior,1,@,Northern Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 ET,Ohio State,3,@,Miami,0,,,cc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 ET,Bowling Green,3,@,Notre Dame,4,,,cc,True,False,False,False,20122013
+Fri.,2013-03-01,7:00 ET,Clarkson,0,@,RPI,5,,,ec,True,False,False,False,20122013
+Fri.,2013-03-01,7:00 ET,Quinnipiac,1,@,Harvard,2,OT,,ec,True,False,False,True,20122013
+Fri.,2013-03-01,7:00 ET,Princeton,2,@,Dartmouth,2,OT,,ec,True,False,False,True,20122013
+Fri.,2013-03-01,7:00 ET,St. Lawrence,1,@,Union,5,,,ec,True,False,False,False,20122013
+Fri.,2013-03-01,7:00 ET,Colgate,3,@,Yale,4,OT,,ec,True,False,False,True,20122013
+Fri.,2013-03-01,7:00 ET,Cornell,4,@,Brown,1,,,ec,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 AT,Alaska Anchorage,1,@,Alaska,2,OT,,nc,True,False,False,True,20122013
+Fri.,2013-03-01,7:00 ET,Merrimack,0,@,UMass Lowell,4,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:00 ET,Merrimack,0,@,UMass Lowell,4,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:30 ET,Vermont,1,@,Boston University,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:00 ET,Northeastern,1,@,Maine,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:30 ET,Massachusetts,2,@,New Hampshire,2,OT,,he,True,False,False,True,20122013
+Fri.,2013-03-01,7:00 ET,Boston College,3,@,Providence,2,,,he,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 CT,uah,2,@,Minnesota Duluth,4,,,nc,True,False,False,False,20122013
+Fri.,2013-03-01,7:05 CT,Denver,2,@,Minnesota,0,,,wc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 CT,Michigan Tech,3,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 CT,Bemidji State,2,@,North Dakota,4,,,wc,True,False,False,False,20122013
+Fri.,2013-03-01,7:35 MT,Minnesota State,1,@,Colorado College,4,,,wc,True,False,False,False,20122013
+Fri.,2013-03-01,6:35 CT,Wisconsin,4,@,Omaha,3,,,wc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 ET,aic,4,@,Bentley,3,OT,,ah,True,False,False,True,20122013
+Sat.,2013-03-02,7:05 ET,Army,0,@,Holy Cross,2,,,ah,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 MT,Niagara,1,@,Air Force,6,,,ah,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 ET,RIT,2,@,Canisius,4,,,ah,True,False,False,False,20122013
+Sat.,2013-03-02,4:05 ET,Connecticut,4,@,Sacred Heart,0,,,ah,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 ET,Robert Morris,1,@,Mercyhurst,1,OT,,ah,True,False,False,True,20122013
+Sat.,2013-03-02,7:05 ET,Western Michigan,0,@,Michigan State,1,,,cc,True,False,False,False,20122013
+Sat.,2013-03-02,7:35 ET,Lake Superior,3,@,Northern Michigan,0,,,cc,True,False,False,False,20122013
+Sat.,2013-03-02,7:35 ET,Ferris State,1,@,Michigan,1,OT,,cc,True,False,False,True,20122013
+Sat.,2013-03-02,7:05 ET,Ohio State,2,@,Miami,4,,,cc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 ET,Bowling Green,1,@,Notre Dame,4,,,cc,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,St. Lawrence,1,@,RPI,4,,,ec,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Cornell,1,@,Yale,2,,,ec,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Princeton,2,@,Harvard,1,OT,,ec,True,False,False,True,20122013
+Sat.,2013-03-02,4:00 ET,Colgate,1,@,Brown,5,,,ec,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Clarkson,0,@,Union,4,,,ec,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Quinnipiac,4,@,Dartmouth,1,,,ec,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 AT,Alaska,3,@,Alaska Anchorage,1,,,nc,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Vermont,5,@,Boston University,2,,,he,True,False,False,False,20122013
+Sat.,2013-03-02,7:00 ET,Northeastern,4,@,Maine,4,OT,,he,True,False,False,True,20122013
+Sat.,2013-03-02,7:00 ET,Massachusetts,0,@,New Hampshire,4,,,he,True,False,False,False,20122013
+Sat.,2013-03-02,4:00 ET,Providence,5,@,Boston College,1,,,he,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 CT,uah,0,@,Minnesota Duluth,4,,,nc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 CT,Wisconsin,6,@,Omaha,2,,,wc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 CT,Denver,1,@,Minnesota,5,,,wc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 CT,Bemidji State,2,@,North Dakota,2,OT,,wc,True,False,False,True,20122013
+Sat.,2013-03-02,7:05 CT,Michigan Tech,5,@,St. Cloud State,1,,,wc,True,False,False,False,20122013
+Sat.,2013-03-02,7:05 MT,Minnesota State,7,@,Colorado College,2,,,wc,True,False,False,False,20122013
+Sun.,2013-03-03,4:00 ET,UMass Lowell,3,@,Merrimack,1,,,he,True,False,False,False,20122013
+Sun.,2013-03-03,4:00 ET,UMass Lowell,3,@,Merrimack,1,,,he,True,False,False,False,20122013
+Fri.,2013-03-08,7:35 ET,Army,1,@,Mercyhurst,3,,,ah,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 ET,Sacred Heart,1,@,Robert Morris,4,,,ah,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 ET,aic,1,@,RIT,2,,,ah,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 ET,Bentley,0,@,Canisius,4,,,ah,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 AT,Michigan State,2,@,Alaska,1,OT,,cc,True,False,False,True,20122013
+Fri.,2013-03-08,7:35 ET,Bowling Green,0,@,Lake Superior,2,,,cc,True,False,False,False,20122013
+Fri.,2013-03-08,7:35 ET,Northern Michigan,2,@,Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2013-03-08,7:00 ET,Harvard,2,@,Dartmouth,1,,,ec,True,False,False,False,20122013
+Fri.,2013-03-08,7:00 ET,Colgate,2,@,St. Lawrence,4,,,ec,True,False,False,False,20122013
+Fri.,2013-03-08,7:00 ET,Clarkson,0,@,Brown,3,,,ec,True,False,False,False,20122013
+Fri.,2013-03-08,7:00 ET,Cornell,4,@,Princeton,0,,,ec,True,False,False,False,20122013
+Fri.,2013-03-08,7:30 ET,Massachusetts,3,@,Merrimack,4,OT,,he,True,False,False,True,20122013
+Fri.,2013-03-08,7:30 ET,Massachusetts,3,@,Merrimack,4,OT,,he,True,False,False,True,20122013
+Fri.,2013-03-08,7:05 ET,Boston College,4,@,Vermont,4,OT,,he,True,False,False,True,20122013
+Fri.,2013-03-08,7:00 ET,Providence,3,@,UMass Lowell,0,,,he,True,False,False,False,20122013
+Fri.,2013-03-08,7:30 ET,Maine,4,@,New Hampshire,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-08,7:30 ET,Boston University,4,@,Northeastern,2,,,he,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 CT,Omaha,4,@,Minnesota Duluth,5,,,wc,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 CT,St. Cloud State,4,@,Wisconsin,2,,,wc,True,False,False,False,20122013
+Fri.,2013-03-08,7:35 MT,Alaska Anchorage,1,@,Denver,7,,,wc,True,False,False,False,20122013
+Fri.,2013-03-08,7:35 CT,Minnesota,4,@,Bemidji State,3,,,wc,True,False,False,False,20122013
+Fri.,2013-03-08,7:35 CT,North Dakota,4,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Fri.,2013-03-08,7:05 ET,Colorado College,0,@,Michigan Tech,2,,,wc,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,Army,2,@,Mercyhurst,5,,,ah,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,aic,1,@,RIT,7,,,ah,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,Sacred Heart,1,@,Robert Morris,6,,,ah,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,Bentley,1,@,Canisius,2,,,ah,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 AT,Michigan State,1,@,Alaska,4,,,cc,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,Bowling Green,6,@,Lake Superior,3,,,cc,True,False,False,False,20122013
+Sat.,2013-03-09,7:35 ET,Northern Michigan,2,@,Michigan,6,,,cc,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Cornell,4,@,Princeton,2,,,ec,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Clarkson,3,@,Brown,4,,,ec,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Colgate,1,@,St. Lawrence,4,,,ec,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Harvard,1,@,Dartmouth,4,,,ec,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Merrimack,0,@,Massachusetts,3,,,he,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Merrimack,0,@,Massachusetts,3,,,he,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 ET,Boston College,7,@,Vermont,2,,,he,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,UMass Lowell,4,@,Providence,1,,,he,True,False,False,False,20122013
+Sat.,2013-03-09,7:00 ET,Northeastern,0,@,Boston University,5,,,he,True,False,False,False,20122013
+Sat.,2013-03-09,4:00 ET,Maine,4,@,New Hampshire,4,OT,,he,True,False,False,True,20122013
+Sat.,2013-03-09,7:05 ET,Colorado College,4,@,Michigan Tech,3,,,wc,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 CT,Omaha,0,@,Minnesota Duluth,6,,,wc,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 CT,North Dakota,1,@,Minnesota State,2,OT,,wc,True,False,False,True,20122013
+Sat.,2013-03-09,7:05 CT,Minnesota,5,@,Bemidji State,1,,,wc,True,False,False,False,20122013
+Sat.,2013-03-09,7:05 CT,St. Cloud State,2,@,Wisconsin,3,,,wc,True,False,False,False,20122013
+Sun.,2013-03-10,7:05 AT,Michigan State,4,@,Alaska,3,,,cc,True,False,False,False,20122013
+Sun.,2013-03-10,7:05 ET,Bowling Green,7,@,Lake Superior,0,,,cc,True,False,False,False,20122013
+Sun.,2013-03-10,5:00 ET,Harvard,3,@,Dartmouth,6,,,ec,True,False,False,False,20122013
+Sun.,2013-03-10,11:05am MT,Alaska Anchorage,1,@,Denver,6,,,wc,True,False,False,False,20122013
+Thu.,2013-03-14,7:00 ET,Maine,2,@,UMass Lowell,4,,,he,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 ET,Robert Morris,1,@,Connecticut,4,,,ah,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 ET,Mercyhurst,3,@,Holy Cross,2,,,ah,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 MT,Canisius,4,@,Air Force,3,,,ah,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 ET,RIT,2,@,Niagara,3,,,ah,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 ET,Ferris State,4,@,Ohio State,2,,,cc,True,False,False,False,20122013
+Fri.,2013-03-15,7:35 ET,Michigan State,3,@,Miami,0,,,cc,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 ET,Bowling Green,0,@,Notre Dame,1,OT,,cc,True,False,False,True,20122013
+Fri.,2013-03-15,7:05 ET,Michigan,4,@,Western Michigan,3,,,cc,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,Cornell,3,@,Quinnipiac,2,,,ec,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,Brown,3,@,RPI,1,,,ec,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,St. Lawrence,1,@,Yale,6,,,ec,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,Dartmouth,1,@,Union,4,,,ec,True,False,False,False,20122013
+Fri.,2013-03-15,7:30 ET,Merrimack,0,@,Boston University,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,New Hampshire,2,@,Providence,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-15,7:30 ET,Merrimack,0,@,Boston University,3,,,he,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,Vermont,2,@,Boston College,4,,,he,True,False,False,False,20122013
+Fri.,2013-03-15,7:00 ET,Maine,1,@,UMass Lowell,2,OT,,he,True,False,False,True,20122013
+Fri.,2013-03-15,7:05 CT,Minnesota Duluth,1,@,Wisconsin,3,,,wc,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 CT,Bemidji State,1,@,Minnesota,2,OT,,wc,True,False,False,True,20122013
+Fri.,2013-03-15,7:35 CT,Alaska Anchorage,1,@,St. Cloud State,6,,,wc,True,False,False,False,20122013
+Fri.,2013-03-15,7:35 CT,Michigan Tech,3,@,North Dakota,5,,,wc,True,False,False,False,20122013
+Fri.,2013-03-15,7:35 MT,Colorado College,3,@,Denver,5,,,wc,True,False,False,False,20122013
+Fri.,2013-03-15,7:05 CT,Omaha,3,@,Minnesota State,4,OT,,wc,True,False,False,True,20122013
+Sat.,2013-03-16,7:05 ET,Mercyhurst,2,@,Holy Cross,3,,,ah,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 MT,Canisius,4,@,Air Force,3,OT,,ah,True,False,False,True,20122013
+Sat.,2013-03-16,7:05 ET,RIT,1,@,Niagara,2,OT,,ah,True,False,False,True,20122013
+Sat.,2013-03-16,7:05 ET,Robert Morris,3,@,Connecticut,4,,,ah,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 ET,Ferris State,1,@,Ohio State,3,,,cc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 ET,Michigan State,1,@,Miami,4,,,cc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 ET,Bowling Green,3,@,Notre Dame,4,,,cc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 ET,Michigan,5,@,Western Michigan,1,,,cc,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Brown,2,@,RPI,6,,,ec,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Cornell,0,@,Quinnipiac,10,,,ec,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,St. Lawrence,0,@,Yale,3,,,ec,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Dartmouth,2,@,Union,5,,,ec,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Merrimack,3,@,Boston University,5,,,he,True,False,False,False,20122013
+Sat.,2013-03-16,4:00 ET,New Hampshire,4,@,Providence,1,,,he,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Merrimack,3,@,Boston University,5,,,he,True,False,False,False,20122013
+Sat.,2013-03-16,7:00 ET,Vermont,1,@,Boston College,4,,,he,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 CT,Omaha,2,@,Minnesota State,1,,,wc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 MT,Colorado College,2,@,Denver,1,,,wc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 CT,Minnesota Duluth,1,@,Wisconsin,4,,,wc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 CT,Michigan Tech,2,@,North Dakota,1,,,wc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 CT,Alaska Anchorage,1,@,St. Cloud State,5,,,wc,True,False,False,False,20122013
+Sat.,2013-03-16,7:05 CT,Bemidji State,3,@,Minnesota,4,,,wc,True,False,False,False,20122013
+Sun.,2013-03-17,5:05 ET,Mercyhurst,1,@,Holy Cross,0,,,ah,True,False,False,False,20122013
+Sun.,2013-03-17,7:05 ET,Michigan State,1,@,Miami,4,,,cc,True,False,False,False,20122013
+Sun.,2013-03-17,7:05 ET,Ferris State,2,@,Ohio State,3,,,cc,True,False,False,False,20122013
+Sun.,2013-03-17,7:00 ET,Brown,3,@,RPI,2,,,ec,True,False,False,False,20122013
+Sun.,2013-03-17,7:30 ET,Cornell,2,@,Quinnipiac,3,2OT,,ec,True,False,False,True,20122013
+Sun.,2013-03-17,4:30 ET,New Hampshire,2,@,Providence,3,,,he,True,False,False,False,20122013
+Sun.,2013-03-17,7:05 CT,Michigan Tech,0,@,North Dakota,6,,,wc,True,False,False,False,20122013
+Sun.,2013-03-17,7:05 MT,Colorado College,4,@,Denver,3,,,wc,True,False,False,False,20122013
+Sun.,2013-03-17,7:05 CT,Omaha,1,@,Minnesota State,3,,,wc,True,False,False,False,20122013
+Thu.,2013-03-21,2:05 CT,Minnesota State,2,vs,Wisconsin,7,,,wc,True,True,False,False,20122013
+Thu.,2013-03-21,7:05 CT,Colorado College,4,vs,North Dakota,3,OT,,wc,True,True,False,True,20122013
+Fri.,2013-03-22,4:05 ET,Canisius,5,vs,Niagara,3,,,ah,True,True,False,False,20122013
+Fri.,2013-03-22,7:05 ET,Mercyhurst,4,vs,Connecticut,1,,,ah,True,True,False,False,20122013
+Fri.,2013-03-22,4:00 ET,Brown,4,vs,Quinnipiac,0,,,ec,True,True,False,False,20122013
+Fri.,2013-03-22,7:30 ET,Union,5,vs,Yale,0,,,ec,True,True,False,False,20122013
+Fri.,2013-03-22,8:00 ET,Boston University,6,vs,Boston College,3,,,he,True,True,False,False,20122013
+Fri.,2013-03-22,5:00 ET,Providence,1,vs,UMass Lowell,2,,,he,True,True,False,False,20122013
+Fri.,2013-03-22,2:05 CT,Wisconsin,4,vs,St. Cloud State,1,,,wc,True,True,False,False,20122013
+Fri.,2013-03-22,7:05 CT,Colorado College,2,vs,Minnesota,0,,,wc,True,True,False,False,20122013
+Sat.,2013-03-23,7:05 ET,Canisius,7,vs,Mercyhurst,2,,,ah,True,True,False,False,20122013
+Sat.,2013-03-23,4:35 ET,Michigan,6,vs,Miami,2,,,cc,True,True,False,False,20122013
+Sat.,2013-03-23,1:05 ET,Ohio State,1,vs,Notre Dame,3,,,cc,True,True,False,False,20122013
+Sat.,2013-03-23,7:00 ET,Brown,1,vs,Union,3,,,ec,True,True,False,False,20122013
+Sat.,2013-03-23,4:00 ET,Yale,0,vs,Quinnipiac,3,,,ec,True,True,False,False,20122013
+Sat.,2013-03-23,7:00 ET,Boston University,0,vs,UMass Lowell,1,,,he,True,True,False,False,20122013
+Sat.,2013-03-23,7:05 CT,Colorado College,2,vs,Wisconsin,3,,,wc,True,True,False,False,20122013
+Sun.,2013-03-24,2:05 ET,Michigan,1,vs,Notre Dame,3,,,cc,True,True,False,False,20122013
+Fri.,2013-03-29,4:30 ET,Wisconsin,1,vs,UMass Lowell,6,,,nc,True,True,False,False,20122013
+Fri.,2013-03-29,8:00 ET,Denver,2,vs,New Hampshire,5,,,nc,True,True,False,False,20122013
+Fri.,2013-03-29,5:30 ET,Niagara,1,vs,North Dakota,2,,,nc,True,True,False,False,20122013
+Fri.,2013-03-29,2:00 ET,Yale,3,vs,Minnesota,2,OT,,nc,True,True,False,True,20122013
+Sat.,2013-03-30,5:30 ET,Canisius,3,vs,Quinnipiac,4,,,nc,True,True,False,False,20122013
+Sat.,2013-03-30,9:00 ET,Union,5,vs,Boston College,1,,,nc,True,True,False,False,20122013
+Sat.,2013-03-30,1:30 ET,St. Cloud State,5,vs,Notre Dame,1,,,nc,True,True,False,False,20122013
+Sat.,2013-03-30,5:00 ET,Minnesota State,0,vs,Miami,4,,,nc,True,True,False,False,20122013
+Sat.,2013-03-30,6:00 ET,New Hampshire,0,vs,UMass Lowell,2,,,nc,True,True,False,False,20122013
+Sat.,2013-03-30,4:00 ET,Yale,4,vs,North Dakota,1,,,nc,True,True,False,False,20122013
+Sun.,2013-03-31,6:30 ET,Union,1,vs,Quinnipiac,5,,,nc,True,True,False,False,20122013
+Sun.,2013-03-31,4:00 ET,St. Cloud State,4,vs,Miami,1,,,nc,True,True,False,False,20122013
+Thu.,2013-04-11,8:00 ET,St. Cloud State,1,vs,Quinnipiac,4,,,nc,True,True,False,False,20122013
+Thu.,2013-04-11,4:30 ET,Yale,3,vs,UMass Lowell,2,OT,,nc,True,True,False,True,20122013
+Sat.,2013-04-13,7:00 ET,Yale,4,vs,Quinnipiac,0,,,nc,True,True,False,False,20122013
