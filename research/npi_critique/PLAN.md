@@ -464,6 +464,61 @@ codebase's own NPI implementation, whose SOS term averages opponents'
 ratings directly, a use case KRACH-style unbounded ratings would be
 poorly suited to.
 
+**S8 -- DONE (`e12_schedule_manipulability.py`,
+`reports/e12_schedule_manipulability.md`). RPI, not NPI, is the most
+schedule-manipulable metric -- a real reframing of earlier work.** One
+team's true strength fixed at the field median throughout; its real
+37-game schedule structure (dates, home/away) held fixed while its
+opponent on each date is redrawn from one of five true-strength
+percentile bands, 150 replications. **KRACH is essentially
+schedule-invariant** (induced rank 33.6 to 33.9 across the entire
+weakest-to-strongest opponent range, schedule alpha +1.12) -- the
+clean, empirical confirmation of the opponent-adjusted-MLE property
+this study was designed to test. NPI shows a real effect (alpha
++12.52, 11x KRACH's). **RPI shows an effect nearly 3x larger than
+NPI's and in the more damaging direction** (alpha -31.45: rank
+improves from 52.5 to 12.9, a ~40-position swing, purely from playing
+tougher opponents with zero change in true ability). This directly
+complicates `reports/rpi_results.md`'s recommendation that "going back
+to plain RPI... would likely have been a better direction than NPI's
+actual evolution" -- true on predictive accuracy, false on schedule
+manipulability, the more selection-relevant property. No model in this
+roster is uniformly better across every axis tested.
+
+**S3 -- DONE (`reports/e14_qwb_kink.md`). The plan's own framing was
+imprecise, corrected before reporting.** NPI's quality-win bonus is not
+a "cliff" (a jump) -- checked the exact formula directly: it's
+continuous at the 51.0 threshold (both sides evaluate to 0 there). What
+it actually is: a **kink** -- zero credit for any opponent NPI at or
+below 51 (a win over a 45-rated team gets the identical zero bonus as a
+win over a 20-rated team), then a positive slope above it. This is
+practically relevant, not a corner case: 18% of teams sit within ±1 of
+the threshold and 34% within ±2 in a typical simulated season, densely
+packed within hundredths of a point of each other -- meaning whether a
+specific win earns any QWB credit at all can hinge on essentially
+arbitrary week-to-week movement in the opponent's own rating. This
+connects directly to E1's paradox finding (6.3-12.0% of below-median-
+opponent wins lowering the winner's NPI) as a plausible structural
+cause.
+
+**S7 -- BLOCKED, and a second dead-config-dial bug found
+(`reports/e13_s7_blocked_ot_credit_dead_config.md`).** Designed as a
+cheap, fair-minded test (does NPI's OT-credit dial actually help?).
+Checked the code before sweeping a config value: `ot_win_weight`/
+`ot_loss_weight` are never read by `NPI.fit()` at all -- the OT credit
+formula hardcodes `0.4`/`0.2` as literal constants (matching the
+intended 0.6/0.4 split only by coincidence at neutral sites). This is
+the same bug class already found for `weight_wp`/`weight_sos`
+(`reports/e1_truth_recovery.md`), a second instance, not a new kind of
+finding -- but unlike that case, no post-hoc `reweight_npi()`-style
+workaround applies, since OT credit feeds the iteration itself rather
+than only the final linear combination. Checked and confirmed the
+original real-data dial-sensitivity sweep (`reports/npi_critique.md`,
+via `src/analysis/npi_vs_krach.py`) was already aware of and correctly
+worked around the `weight_wp`/`weight_sos` version of this bug -- that
+report's numbers stand. S7 itself remains untestable without a
+production fix or a from-scratch reimplementation; neither attempted.
+
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
 for the definitive account).** The one place S1/S2's hypothesis could
@@ -493,13 +548,13 @@ question.
 | 1 | **S1** games-played mismatch | **Done** -- null result, see above |
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
 | 3 | **S9** selection-field accuracy | **Done, corrected twice** -- KRACH beats NPI, modestly (12.34 vs 11.92), see below |
-| 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
+| 4 | **S8** schedule manipulability | **Done** -- RPI, not NPI, is the most exploitable metric, see below |
 | 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |
-| 7 | S3 QWB cliff | Not started |
-| 8 | S5 echo chamber | Not started |
+| 7 | S3 QWB cliff | **Done** -- it's a kink, not a cliff; densely relevant in practice, see below |
+| 8 | S5 echo chamber | Not started; needs more harness work (controlled cross-conference rewiring) |
 | 9 | S6 connectivity | **Done** -- the sharpest gap in the whole critique, and it favors NPI, see below |
-| 10 | S7 OT credit | Not started |
+| 10 | S7 OT credit | **Blocked** -- another dead-config-dial bug found, see below |
 | 11 | S10 stability | Not started |
 
 S1 and S2 can start immediately — they use official dials only, so they
