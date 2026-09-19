@@ -44,11 +44,13 @@ from research.npi_critique.harness.simulate import (
 from research.npi_critique.harness.paths import results_path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
-N_REPLICATIONS = 150
+N_REPLICATIONS = 30
 TARGET_TEAM_STRENGTH = 1.0   # ~field median -> roughly a .500 team
 LONG_GAMES = 40              # near the real max (Denver: 41)
 SHORT_GAMES = 25             # deliberately below 12*2=24-ish decisive-game floor headroom,
                               # to guarantee the short version can plausibly sit AT/BELOW 12 wins
+TARGET_TEAM_OVERRIDE = 'Sacred Heart'  # real 40-game Atlantic Hockey (weak-conference) schedule;
+                                        # None reverts to the original Denver/NCHC design
 
 
 def load_real_schedule(season=20252026):
@@ -76,7 +78,14 @@ def main():
     schedule = load_real_schedule()
     teams = sorted(set(schedule['HomeTeam']).union(schedule['AwayTeam']))
     gp = games_played(schedule)
-    target_team = gp.idxmax()  # the team with the most real games (most room to thin down)
+    # First pass used Denver (gp.idxmax(), NCHC -- a strong, homogeneous
+    # conference) and found the filter almost never triggers. Per
+    # reports/e4_bad_wins_filter_games_mismatch.md's own recommendation,
+    # re-run with a team that has the same thinning headroom (>=40 real
+    # games) but plays a weaker, more heterogeneous conference (Atlantic
+    # Hockey) instead -- more likely to have genuine mismatch games on
+    # its real schedule for the filter to have anything to act on.
+    target_team = TARGET_TEAM_OVERRIDE or gp.idxmax()
     print(f"Target team (uses {target_team}'s real schedule, thinned to {SHORT_GAMES} and "
           f"{LONG_GAMES} games): baseline {int(gp[target_team])} real games")
 
