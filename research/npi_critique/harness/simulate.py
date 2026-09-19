@@ -253,18 +253,33 @@ def assign_conference_stratified_strengths(teams, conf_map, rng,
     DEFAULT SIGMAS ARE NOT REALISTIC -- calibrate before trusting a
     result that depends on realistic conference-strength dispersion.
     conf_log_sigma=0.35 (this function's default, used by S2's e3/e3b/e3c)
-    produces a between-conference win% std of only ~0.042 on the real
-    schedule -- real 2025-26 data shows 0.102 (non-conference win% by
-    conference ranges 0.38-0.64; conference membership accounts for
-    ~40% of total team-level win% variance). S9's reversal
-    (reports/e5b_selection_field_accuracy_conf_stratified.md) shows this
-    is not a cosmetic gap: the field-accuracy ranking flips entirely
-    between the iid and conference-stratified designs. Calibrated
-    values used there: conf_log_sigma=1.1, team_log_sigma=0.30 (matches
-    real between-conference std 0.080 and overall std 0.156 -- still a
-    slight undershoot on the former; push higher and re-check before
-    treating 1.1 as final). S2's own findings used the uncalibrated
-    0.35 default and have not been re-checked against this gap either.
+    produces a between-conference win% std far below real data.
+
+    CALIBRATION HISTORY (corrected twice -- read this before changing
+    these numbers again):
+    1. First pass (reports/e5b_selection_field_accuracy_conf_stratified.md)
+       used conf_log_sigma=1.1, team_log_sigma=0.30, checked against
+       2025-26 ALONE, and measured the simulator's between-conference std
+       on ALL games. That combination of (a) one season and (b) an
+       inconsistent measurement basis (real target 0.102 was computed
+       differently than the simulator check) produced a value that
+       looked calibrated but wasn't apples-to-apples.
+    2. Corrected pass (reports/e6_assumption_audit.md,
+       reports/e5c_selection_field_accuracy_recalibrated.md): checked
+       against all THREE recent seasons (2023-24/2024-25/2025-26) using
+       ONE consistent measurement basis throughout (between- and
+       overall-std both computed on NON-CONFERENCE games only, for both
+       real data and simulator output). Real 3-season average:
+       between-conf std 0.130, overall std 0.203 (conference share of
+       variance ~42% -- notably, 2025-26 alone showed only 28%, the
+       smallest of the three years, which is why calibrating against it
+       alone understated the true effect and then over-corrected with
+       too-high a sigma). Properly calibrated, consistently-measured
+       result: conf_log_sigma=0.4, team_log_sigma=0.24 (simulator
+       between-conf std 0.128, overall std 0.204 -- both within 2% of
+       target). **Use these values, not 1.1/0.30, for any future work.**
+       S2's e3/e3b/e3c used the original 0.35 default and have not been
+       re-checked against either calibration.
     """
     confs = sorted(set(conf_map.values()))
     conf_effect = {c: rng.normal(0, conf_log_sigma) for c in confs}

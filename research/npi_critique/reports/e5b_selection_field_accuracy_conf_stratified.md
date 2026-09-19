@@ -1,5 +1,15 @@
 # S9, Corrected: Selection-Field Accuracy Under Realistic Conference Structure
 
+> **MAGNITUDE SUPERSEDED -- see `reports/e5c_selection_field_accuracy_recalibrated.md`.**
+> This report's `conf_log_sigma=1.1` was calibrated against 2025-26
+> alone using an inconsistent measurement basis, and turns out to
+> substantially overshoot a properly, consistently calibrated value
+> (0.4) once checked against all three recent seasons. The direction of
+> the finding below (KRACH beats NPI once conference structure exists)
+> survives in the corrected report, but the magnitude here (13.97 vs.
+> 13.09) is inflated -- the corrected gap is 12.34 vs. 11.92. Kept for
+> the record, not deleted.
+
 ## This reverses the previous headline finding, and the previous finding should not be trusted
 
 `reports/e5_selection_field_accuracy.md` reported NPI seating more of

@@ -330,38 +330,40 @@ accuracy than its own predecessor (RPI) -- are untouched by this section
 and stand independently. What's now in question is specifically the
 *conference-inflation-via-lucky-wins* framing, not the broader critique.
 
-**S9 -- DONE, then REVERSED on a direct question about the design
-(`e5_selection_field_accuracy.py`, `e5b_selection_field_accuracy_conf_stratified.py`).**
-The original run (300 reps, iid true strengths) found NPI seating more
-of the true top-16 than KRACH or RPI (12.35 vs. 12.01 and 11.83) --
-called "NPI's first clear strength in this workspace." Asked directly
-whether that assumed all conferences are equal: yes, it did, and real
-2025-26 data shows they clearly aren't (conference membership accounts
-for ~40% of total team-level win% variance). Re-run with true strengths
-drawn from a calibrated conference-stratified model instead (matched to
-real between-conference and overall win% dispersion): **the ranking
-inverts.** KRACH (13.97) and Massey (13.89) now lead; NPI (13.09) and
-RPI (12.97) fall behind. Likely mechanism: KRACH's opponent-adjusted
-MLE has real conference-strength signal to extract once it actually
-exists, which the iid world didn't provide. **The "NPI's first clear
-strength" framing is retracted, not confirmed** -- caught by a direct
-question from you, not by this project's own review. What still stands
-from the original run: no games-played selection bias for any model
-(conference-structure-independent), and a real, still-standing pattern
-of both models mishandling independent/thin-schedule teams -- KRACH
-disproportionately *excludes* them (LIU, 37/300 in the iid run), NPI
-and RPI disproportionately *include* weak ones wrongly (124 and 160
-instances respectively vs. KRACH's 50, in the conference-stratified
-run) -- two different failure modes on the same class of team, not a
-contradiction.
+**S9 -- DONE, reversed, then re-calibrated a second time. Final numbers
+below (`e5` -> `e5b` -> `e5c`, in that order of correction).** The
+original run (iid true strengths) found NPI seating more of the true
+top-16 than KRACH or RPI (12.35 vs. 12.01 and 11.83). Asked directly
+whether that assumed all conferences are equal: yes, and real data
+shows they aren't -- re-run with a conference-stratified model
+(`e5b`, `conf_log_sigma=1.1` calibrated against 2025-26 alone) and the
+ranking inverted dramatically (KRACH 13.97, Massey 13.89 vs. NPI 13.09,
+RPI 12.97). A full three-season assumption audit (E6) then found that
+calibration itself was built on an inconsistent measurement basis and
+tuned against the least representative of the last three seasons.
+Recalibrated properly against the 3-season average with one consistent
+basis (`e5c`, `conf_log_sigma=0.4`): **the direction survives, the
+magnitude shrinks substantially** -- KRACH 12.34 vs. NPI 11.92
+(paired p<0.0001, still significant), Massey and RPI essentially
+unchanged from the iid-world values (12.70, 11.84). NPI vs. RPI, which
+iid had NPI clearly winning, is now a statistical tie. **Three tellings
+of the same experiment produced three different numbers; the lesson is
+not "the last one is finally correct" but that field-accuracy ranking
+between NPI and KRACH is real, directionally in KRACH's favor, and far
+more modest than either earlier version suggested.** What survives
+unchanged throughout all three versions: no games-played selection bias
+for any model, and the independents-mishandling pattern (KRACH
+disproportionately excludes them; NPI/RPI disproportionately include
+weak ones) in both directions.
 
-**Broader implication: every other iid-strength result in this
-workspace (E1, S1, S4) carries the same unexamined assumption** and has
-not been re-checked under conference-stratified strengths. None of
-their core findings are as directly conference-strength-dependent as
-field-selection accuracy turned out to be, but none should be treated
-as validated against this specific gap just because S9 was. This is
-flagged as an open item, not silently assumed fine elsewhere.
+**Broader implication, still open: E1, S1, and S4 carry the same
+iid-conference assumption and have not been re-checked under either
+conference calibration.** None of their core findings are as directly
+conference-strength-dependent as field-selection accuracy turned out to
+be, but none should be treated as validated against this gap just
+because S9 was -- and S9's own history (two corrections needed before
+trusting a number) is a caution against assuming a first recalibration
+is the last one needed.
 
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
@@ -391,7 +393,7 @@ question.
 |---|---|---|
 | 1 | **S1** games-played mismatch | **Done** -- null result, see above |
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
-| 3 | **S9** selection-field accuracy | **Done, then reversed** -- iid-strength result retracted under conference-stratified re-test, see below |
+| 3 | **S9** selection-field accuracy | **Done, corrected twice** -- KRACH beats NPI, modestly (12.34 vs 11.92), see below |
 | 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
 | 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |
