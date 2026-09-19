@@ -658,10 +658,11 @@ invocation alongside each result rather than only in an appendix, in
 keeping with the practice we have followed throughout this project's
 development. The full codebase -- every model implementation, the
 walk-forward backtesting engine, the significance-testing code, and the
-raw and processed game data underlying every table above -- is version
-controlled with a complete commit history, pinned to the exact package
-versions (Python, pandas, NumPy, SciPy, statsmodels, scikit-learn) used
-to produce these results. Every model's default configuration is
+raw and processed game data underlying every table above -- is publicly
+available at \url{https://github.com/healeycm/hockey-rankings-2026}, with
+a complete commit history and pinned to the exact package versions
+(Python, pandas, NumPy, SciPy, statsmodels, scikit-learn) used to produce
+these results. Every model's default configuration is
 documented inline in the project's central configuration file alongside
 the specific validation finding that justifies it, positive or negative.
 We regard this level of reproducibility -- not just "the code exists" but
@@ -691,8 +692,8 @@ toolchain of choice; not reproduced inline here.]*
   `reports/colley_results.md`. Framing around the top of Table 1 updated
   to honestly reflect Dixon-Coles and Massey being statistically tied
   rather than bolding Massey alone.
-- Repository visibility: pending (see below) -- URL will be dropped into
-  Section 8 once pushed.
+- Repository is public: https://github.com/healeycm/hockey-rankings-2026
+  (linked in Section 8).
 - Acknowledgments: left as a placeholder per your request, to fill in
   later.
 - NPI citation in references.bib is still the placeholder D3 general
