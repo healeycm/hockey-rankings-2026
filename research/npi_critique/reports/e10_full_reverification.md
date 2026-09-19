@@ -18,11 +18,12 @@ explanation tied directly to the fix itself.
 
 ## E1: Truth recovery
 
-> **Note added later: this section's "Massey best" ordering is itself
-> retracted under a different DGP -- see `reports/e15_dgp_robustness.md`.**
-> The comparison below (pre-fix vs. post-fix OT rate) is still valid
-> *within* the Poisson DGP both used; it just turns out the Poisson DGP
-> itself was the wrong thing to hold fixed.
+> **Note added later: this section's "Massey best" ordering is
+> DGP-sensitive, not simply wrong -- see `reports/e15_dgp_robustness.md`
+> and `reports/e20_dgp_c_misspecified.md`.** It loses to NPI under a
+> Bradley-Terry DGP but returns (significantly) under a third, neutral
+> DGP favoring no model. The comparison below (pre-fix vs. post-fix OT
+> rate) is still valid *within* the Poisson DGP both used.
 
 | Model | Pre-fix ρ | Post-fix ρ |
 |---|---:|---:|

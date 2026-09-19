@@ -1,17 +1,20 @@
 # E1: Truth Recovery in Simulated Seasons with Known Ground Truth
 
-> **HEADLINE FINDING RETRACTED -- see `reports/e15_dgp_robustness.md`.**
-> This report's claim that Massey recovers ground truth best does NOT
-> survive a genuinely different data-generating process (Bradley-Terry
-> outcomes instead of independent Poisson goals): under that DGP, NPI
-> significantly beats Massey (p=1.1e-38) and Massey is only tied with
-> KRACH, not ahead of it. The DGP caveat this report itself raised (and
-> every subsequent report repeated without resolving) turned out to be
-> exactly the problem it warned about. The NPI-dial-sweep and paradox-rate
-> findings below are not model-comparison claims and are not affected by
-> this. E10's re-verification of this report under the OT-rate fix is
-> also unaffected in its own terms (same DGP throughout) but inherits
-> this same retraction.
+> **HEADLINE FINDING CORRECTED, NOT RETRACTED -- see
+> `reports/e15_dgp_robustness.md` and `reports/e20_dgp_c_misspecified.md`.**
+> An earlier version of this notice said the Massey-recovers-truth-best
+> finding was retracted after it lost to NPI under a Bradley-Terry DGP
+> (p=1.1e-38). That was an overstatement, corrected after checking a
+> third, deliberately neutral DGP (misspecified for every model, not
+> just favoring a different one): **Massey's advantage returns and is
+> significant there too** (p=4.25e-17 vs. NPI). Massey wins under 2 of
+> the 3 data-generating processes tested -- the original Poisson one and
+> the neutral mixed one -- and loses only under the Bradley-Terry DGP,
+> which is specifically structured to maximize KRACH's (and secondarily
+> NPI's) advantage. The accurate characterization: this finding is real
+> but not robust to the single most adversarial DGP tested, not simply
+> wrong. The NPI-dial-sweep and paradox-rate findings below are not
+> model-comparison claims and are unaffected either way.
 
 ## Summary
 

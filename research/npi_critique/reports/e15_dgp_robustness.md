@@ -1,5 +1,15 @@
 # DGP Robustness: One Headline Finding Reverses, One Survives
 
+> **UPDATE: see `reports/e20_dgp_c_misspecified.md`.** A third,
+> deliberately neutral DGP (misspecified for every model, not just
+> favoring KRACH the way this report's Bradley-Terry DGP does) found
+> Massey's truth-recovery advantage returns and is significant there
+> too. The correct characterization of "Result 1" below is "not robust
+> to the single most adversarial DGP tested," not a blanket reversal --
+> this report's own framing below is corrected by that later one. S9's
+> field-accuracy result, this report's "Result 2," is unaffected by the
+> correction and is now confirmed across all three DGPs tested.
+
 ## Why this had to be checked
 
 Every experiment in this workspace, from `e1_truth_recovery.md` onward,

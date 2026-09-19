@@ -59,13 +59,12 @@ Planned DGPs:
 - **DGP-B (Bradley-Terry outcome)** — draw win/loss directly from `θ_h/(θ_h+θ_a)`, then attach a goal margin conditionally. Favors win/loss-based models.
 - **DGP-C (heavy-tailed / misspecified)** — e.g., team strength that drifts within season, or occasional "bad night" outliers, so no model in the roster is correctly specified. The fairest test.
 
-**This retroactively qualifies E1's headline.** E1 reported Massey
-recovering ground truth best (ρ=0.912) under DGP-A only — a process
-whose scoring structure is closer to Massey's own assumptions than to
-KRACH's. That result should not be quoted in the paper until it's been
-re-run under DGP-B and DGP-C. Flagged in
-`reports/e1_truth_recovery.md`'s open items; upgrading it to a blocker
-here.
+**UPDATE: all three DGPs have now been built and run -- see the "READ
+THIS FIRST" section at the top of this document for the final,
+three-way-checked picture.** Short version: S9/S6/S8 confirmed under
+all three DGPs; E1 holds under 2 of 3 (real, not an artifact, but not
+robust to the single DGP built to maximally favor KRACH). This section
+is kept for the historical record of what was originally planned.
 
 ---
 
@@ -287,37 +286,54 @@ Reuses the LOO machinery already written for the paradox check in E1.
 
 ---
 
-## READ THIS FIRST: a cross-cutting finding that qualifies everything below
+## READ THIS FIRST: DGP robustness, checked three ways, final picture
 
-**DGP robustness (`reports/e15_dgp_robustness.md`), done after S6/S8.**
-Every study below used `simulate_season()`'s independent-Poisson-goals
-process -- flagged as a threat to validity since E1's very first report
-and never resolved until now. Built a genuinely different DGP
-(`simulate_season_bradley_terry()`: outcomes drawn directly from the
-Bradley-Terry probability, margin generated independently of strength)
-and re-checked the two headline model-comparison claims:
+**Every study in this workspace originally used `simulate_season()`'s
+independent-Poisson-goals process** -- flagged as a threat to validity
+since E1's very first report. Three data-generating processes have now
+been built and cross-checked against each other:
 
-- **E1's "Massey recovers ground truth best" is RETRACTED.** Under the
-  Bradley-Terry DGP, NPI significantly beats Massey (p=1.1e-38) and
-  Massey is only tied with KRACH. This was a DGP artifact, not a
-  general property -- exactly the failure mode the original DGP caveat
-  warned about.
-- **S9's "KRACH beats NPI on field accuracy" SURVIVES.** Same direction,
-  comparable significance (p=0.0031 vs. the Poisson DGP's p=0.0001),
-  under a DGP where KRACH is the correctly-specified estimator rather
-  than a DGP that structurally favors nothing in particular between the
-  two.
+1. **Poisson** (`simulate_season()`) -- correctly specified for Massey.
+2. **Bradley-Terry** (`simulate_season_bradley_terry()`) -- correctly
+   specified for KRACH.
+3. **Mixed/neutral** (`simulate_season_mixed()`, 50/50 per-game blend of
+   the above) -- correctly specified for *neither*, the fairest test.
 
-**Practical rule going forward, stated explicitly rather than left
-implicit**: findings about a model's *fitting/formula structure*
-(S6's connectivity result, S8's schedule-manipulability result) are
-reasoned to be DGP-independent, since they test properties of how a
-model estimates from given outcomes, not how outcomes were generated --
-but this is an argument, not a direct re-check, and is flagged as such.
-Findings that are specifically a *model-vs-model comparison on a
-truth-recovery metric* (E1's type of claim) should not be trusted
-without a DGP check, and none of the ones in this workspace beyond E1
-and S9 have had one.
+**Final, three-way-checked picture** (`reports/e15_dgp_robustness.md`,
+`reports/e20_dgp_c_misspecified.md`):
+
+- **S9's "KRACH beats NPI on field accuracy" is confirmed across ALL
+  THREE DGPs** (Poisson p=0.0001-0.0031, Bradley-Terry p=0.0031, Mixed
+  p=0.0012), plus two independent sigma calibrations and one OT-rate
+  fix beforehand. This is the single most heavily re-verified finding
+  in the entire workspace.
+- **E1's "Massey recovers ground truth best" holds under 2 of 3 DGPs**
+  (the original Poisson one and the neutral Mixed one, both p<1e-16
+  favoring Massey) **and reverses only under the Bradley-Terry DGP**,
+  which is specifically structured to maximize KRACH's (and
+  secondarily NPI's) advantage over Massey. An earlier version of this
+  section called this finding "RETRACTED" -- that was an overstatement,
+  corrected in `reports/e20_dgp_c_misspecified.md` after checking the
+  third DGP. The accurate characterization: real, but not robust to the
+  single most adversarial DGP tested, not simply wrong.
+- **S6 (connectivity) and S8 (schedule manipulability) are both
+  confirmed across all three DGPs** (`reports/e16_connectivity_bt_dgp.md`,
+  `reports/e17_schedule_manipulability_bt_dgp.md`,
+  `reports/e21_e22_s6_s8_dgp_c_verification.md`) -- same order of
+  magnitude and same ordering/signs throughout. These were originally
+  *argued* to be DGP-independent (properties of model-fitting, not of
+  outcome-generation); that argument has now been directly verified,
+  not just asserted.
+- **S5 (echo chamber) has NOT been checked against any DGP beyond the
+  default Poisson process** -- flagged as the one remaining structural
+  finding without a robustness check, in `reports/e18_echo_chamber.md`'s
+  own open items.
+
+**The lesson, stated plainly**: a single alternative DGP is not enough
+to trust a reversal. E1's finding looked "retracted" after one
+alternative DGP and turned out to be more nuanced after a second,
+fairer one. Every claim in this workspace should be read with this
+history in mind, not just its most recent number.
 
 ## Status (updated after S1/S2 first pass)
 
@@ -581,13 +597,13 @@ question.
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
 | 3 | **S9** selection-field accuracy | **Done, corrected twice** -- KRACH beats NPI, modestly (12.34 vs 11.92), see below |
 | 4 | **S8** schedule manipulability | **Done** -- RPI, not NPI, is the most exploitable metric, see below |
-| 5 | **DGP-B robustness** | **Done, partial** -- E1 retracted, S9 survives, see below. DGP-C (misspecified) still not built |
+| 5 | **DGP robustness (B & C)** | **Done, complete** -- three DGPs cross-checked; S9/S6/S8 confirmed all three, E1 nuanced (2 of 3), see below |
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |
 | 7 | S3 QWB cliff | **Done** -- it's a kink, not a cliff; densely relevant in practice, see below |
-| 8 | S5 echo chamber | Not started; needs more harness work (controlled cross-conference rewiring) |
+| 8 | S5 echo chamber | **Done** -- KRACH/Massey have a real artifact, NPI mostly does not, RPI worsens with mixing, see below |
 | 9 | S6 connectivity | **Done** -- the sharpest gap in the whole critique, and it favors NPI, see below |
 | 10 | S7 OT credit | **Blocked** -- another dead-config-dial bug found, see below |
-| 11 | S10 stability | Not started |
+| 11 | S10 stability | **Done** -- Massey most stable, RPI least, see below |
 
 S1 and S2 can start immediately — they use official dials only, so they
 do **not** depend on fixing the hard-coded-weights issue below.

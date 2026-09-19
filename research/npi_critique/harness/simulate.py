@@ -408,3 +408,83 @@ def assign_conference_stratified_strengths(teams, conf_map, rng,
         base = conf_effect.get(c, 0.0)
         strengths[t] = float(np.exp(base + rng.normal(0, team_log_sigma)))
     return strengths
+
+
+def simulate_season_mixed(schedule_df, true_strength, rng, poisson_frac=0.5):
+    """
+    DGP-C: a deliberately MISSPECIFIED process for every model, not just
+    "correctly specified for a different one." simulate_season() is
+    correctly specified for Massey (margin carries real strength signal);
+    simulate_season_bradley_terry() is correctly specified for KRACH
+    (outcomes ARE the Bradley-Terry probability). Neither is a fair
+    single test of "which model is actually best" on its own -- this
+    mixes them: each game independently uses the Poisson mechanism with
+    probability poisson_frac and the Bradley-Terry mechanism otherwise.
+    No single functional form describes the resulting process, so no
+    model in this workspace's roster is correctly specified for it.
+    """
+    df = schedule_df.copy()
+    n = len(df)
+    use_poisson = rng.random(n) < poisson_frac
+
+    poisson_part = simulate_season(df[use_poisson], true_strength, rng) if use_poisson.any() else df[use_poisson]
+    bt_part = simulate_season_bradley_terry(df[~use_poisson], true_strength, rng) if (~use_poisson).any() else df[~use_poisson]
+
+    combined = pd.concat([poisson_part, bt_part]).sort_index()
+    return combined.reset_index(drop=True)
+
+
+# ---------------------------------------------------------------------------
+# S5: echo chamber under controlled cross-conference connectivity
+# ---------------------------------------------------------------------------
+
+def make_multiconference_schedule(n_conferences, teams_per_conf, cross_frac, rng,
+                                   games_per_team=36, start_date='2025-10-01'):
+    """
+    A fully synthetic schedule with CONTROLLABLE cross-conference
+    connectivity -- something the real schedule can't provide, since its
+    cross-conference fraction (~38.5%, see PLAN.md) is fixed by history.
+    `n_conferences` conferences of `teams_per_conf` teams each; each
+    team's `games_per_team` games are split into a `(1-cross_frac)`
+    fraction drawn from its own conference (round-robin-style, repeating
+    as needed) and a `cross_frac` fraction drawn uniformly from every
+    other conference. Built specifically for a null-hypothesis design:
+    assign every conference EQUAL true strength (conf_log_sigma=0) and
+    check whether ratings still cluster by conference as cross_frac
+    shrinks -- any such clustering is then provably an artifact of
+    network sparsity, since there is no true conference-level difference
+    to detect.
+    """
+    teams = [f"C{c}T{t:02d}" for c in range(n_conferences) for t in range(teams_per_conf)]
+    conf_map = {f"C{c}T{t:02d}": f"conf{c}" for c in range(n_conferences) for t in range(teams_per_conf)}
+    conf_of = lambda team: conf_map[team]
+
+    rows = []
+    dates = pd.date_range(start_date, periods=max(1, len(teams) * games_per_team // 4))
+    d_idx = 0
+    game_count = {t: 0 for t in teams}
+
+    for team in teams:
+        own_conf_teams = [t for t in teams if conf_of(t) == conf_of(team) and t != team]
+        other_teams = [t for t in teams if conf_of(t) != conf_of(team)]
+        n_intra = round(games_per_team * (1 - cross_frac))
+        n_cross = games_per_team - n_intra
+
+        opponents = list(rng.choice(own_conf_teams, size=n_intra, replace=True)) if own_conf_teams else []
+        opponents += list(rng.choice(other_teams, size=n_cross, replace=True)) if other_teams else []
+
+        for opp in opponents:
+            if game_count[team] >= games_per_team:
+                break
+            is_home = rng.random() < 0.5
+            home, away = (team, opp) if is_home else (opp, team)
+            game_type = conf_of(team) if conf_of(team) == conf_of(opp) else 'nc'
+            rows.append({
+                'HomeTeam': home, 'AwayTeam': away, 'Date': dates[d_idx % len(dates)],
+                'Type': game_type, 'NeutralSite': False, 'Is_Exhibition': False,
+            })
+            game_count[team] += 1
+            d_idx += 1
+
+    df = pd.DataFrame(rows).sort_values('Date').reset_index(drop=True)
+    return df, teams, conf_map
