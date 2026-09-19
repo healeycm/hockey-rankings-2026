@@ -168,6 +168,13 @@ conference-strength separation -- S2, S4, and S9 most directly.
 3. **The tie-rate discrepancy is unexplained** -- worth a short,
    dedicated check of `games_archive.csv`'s `Result==0.5` rows before
    it's used to justify or contradict anything else.
-4. **Distribution-shape mismatch not yet acted on** -- no immediate fix
-   proposed; flagged as the assumption most likely to matter for
-   tail-dependent studies (S2, S4) if it is investigated further.
+4. ~~Distribution-shape mismatch~~ -- **RESOLVED as a non-issue, see
+   `reports/e7_distribution_shape_resolution.md`.** The mismatch was
+   between real win% and the *input* strength assumption; checked
+   directly, the simulator's actual *output* win% distribution (skew,
+   kurtosis, Shapiro-Wilk normality, and min/max tails) already lands
+   within or very close to the real 3-season range for both strength-
+   assignment methods used in this workspace. Win%'s [0,1] boundedness
+   and averaging over ~36 stochastic games per team dampens the input
+   lognormal's right skew before it reaches anything a study measures.
+   No code change made.

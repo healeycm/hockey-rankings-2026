@@ -365,6 +365,21 @@ because S9 was -- and S9's own history (two corrections needed before
 trusting a number) is a caution against assuming a first recalibration
 is the last one needed.
 
+**E7 -- distribution-shape mismatch (E6 open item) checked and resolved
+as a non-issue (`e7_distribution_shape_check.py`,
+`reports/e7_distribution_shape_resolution.md`).** E6 found real win% is
+close to normal/slightly left-skewed while the simulator assumes
+right-skewed lognormal true strength, and flagged it as the assumption
+most likely to matter for tail-dependent studies. Checked before
+changing anything: the simulator's actual *output* win% distribution
+(not the input assumption) already matches real data's shape and tails
+closely, for both strength-assignment methods used in this workspace --
+win%'s boundedness and the ~36-game averaging dampens the input's skew
+before it reaches anything a study measures. No code change made. This
+is the reverse-direction version of the S9 lesson: check whether a
+superficial mismatch actually propagates before spending effort "fixing"
+it.
+
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
 for the definitive account).** The one place S1/S2's hypothesis could
