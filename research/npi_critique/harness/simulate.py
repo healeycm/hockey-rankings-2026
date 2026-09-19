@@ -38,6 +38,21 @@ MEAN_GOALS_PER_TEAM = 2.55
 HOME_ICE_MULT = 1.17
 OT_STRENGTH_EXPONENT = 0.15  # << 1: OT winner is close to a coin flip
 
+# Independent-Poisson scoring alone produces an OT rate of ~14%, but all
+# three of the last three real seasons show 18-22% (reports/e6_assumption_audit.md,
+# reports/e8_ot_rate_correction.md) -- real hockey has more regulation
+# ties than two independent Poisson processes with the same means would
+# produce, plausibly because teams genuinely play tighter, more
+# risk-averse hockey in a close third period (fewer empty-net/pulled-
+# goalie situations, more conservative forechecking) rather than treating
+# every minute of regulation identically. CLOSE_GAME_PROB models this
+# directly: with this probability, both teams' regulation goals are drawn
+# from a SHARED count (forcing a tie) instead of independently -- a
+# "close, low-event game" mode layered on top of the independent-Poisson
+# baseline, calibrated so mean total goals and home-ice win rate are
+# preserved (see reports/e8_ot_rate_correction.md for the calibration).
+CLOSE_GAME_PROB = 0.07
+
 
 def assign_true_strengths(teams, rng, sigma=0.4):
     """One synthetic true-strength value per team, log-normal so ratios
@@ -73,6 +88,21 @@ def simulate_season(schedule_df, true_strength, rng):
 
     hg = rng.poisson(lam_home)
     ag = rng.poisson(lam_away)
+
+    # Close-game mode: a CLOSE_GAME_PROB fraction of games are redrawn as
+    # a single SHARED score for both teams (forcing a regulation tie),
+    # using the geometric-mean rate of the two teams' independent rates
+    # so the combined total stays close to what an ordinary game of this
+    # matchup's overall scoring level would produce. This directly lifts
+    # the tie/OT rate to match real data without needing to alter
+    # MEAN_GOALS_PER_TEAM or HOME_ICE_MULT (both already separately
+    # validated against real data -- see e0_calibration_check.py).
+    is_close_game = rng.random(n) < CLOSE_GAME_PROB
+    if is_close_game.any():
+        shared_lam = np.sqrt(lam_home * lam_away)
+        shared_score = rng.poisson(shared_lam)
+        hg = np.where(is_close_game, shared_score, hg)
+        ag = np.where(is_close_game, shared_score, ag)
 
     tied = hg == ag
     home_goals[~tied] = hg[~tied]

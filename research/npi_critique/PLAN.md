@@ -380,6 +380,27 @@ is the reverse-direction version of the S9 lesson: check whether a
 superficial mismatch actually propagates before spending effort "fixing"
 it.
 
+**E8 -- OT-rate undershoot (E6's other open item) fixed and verified
+(`e8_ot_rate_calibration.py`, `reports/e8_ot_rate_correction.md`).**
+Unlike distribution shape, this one was real: simulator gave 14.3% OT
+rate vs. real 18.1-22.3% across all three seasons. Added a
+`CLOSE_GAME_PROB=0.07` mechanism (7% of games drawn as a shared,
+forced-tie score instead of independent Poisson) to `simulate_season()`
+-- OT rate now lands at 0.205 (iid) / 0.213 (conf-stratified), squarely
+in the real range, on the first calibration attempt, with home win% and
+mean goals essentially undisturbed. **This changes the core simulator
+retroactively -- every experiment in this workspace's exact numbers are
+now stale relative to current code.** Re-ran S9's final result (`e5c`)
+immediately rather than leave it stale: the ordering (Massey > KRACH >
+NPI > RPI) and the KRACH-beats-NPI finding both survive (12.12 vs.
+11.88, p=0.0001), making this the most heavily re-verified finding in
+the whole critique (three sigma calibrations plus one OT-rate
+correction). One real, non-headline change: NPI vs. RPI flipped from a
+tie to a clear NPI win, since RPI's field accuracy dropped more than
+the other three models' under the fix -- not investigated further.
+**E1, S1, S2, and S4 were not re-run and remain stale** -- flagged, not
+assumed fine.
+
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
 for the definitive account).** The one place S1/S2's hypothesis could
