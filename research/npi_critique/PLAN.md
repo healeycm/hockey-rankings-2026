@@ -330,6 +330,19 @@ accuracy than its own predecessor (RPI) -- are untouched by this section
 and stand independently. What's now in question is specifically the
 *conference-inflation-via-lucky-wins* framing, not the broader critique.
 
+**S4 -- in progress, inconclusive (`e4_bad_wins_filter_games_mismatch.py`,
+`reports/e4_bad_wins_filter_games_mismatch.md`).** The one place S1/S2's
+hypothesis could still hold, since S1/S2 both used plain `NPI` (no
+filter). Confirmed the filter's mechanism matches the NCAA's real
+documented "12-win minimum" dial. First test found it barely triggers
+for a median-strength team on a strong-conference schedule (Denver);
+a same-session attempt to fix this by widening the opponent-strength
+spread was itself caught as uncalibrated (it overshot real win%
+dispersion) and reverted before being trusted. Net: this is the one
+study in the battery that hasn't produced a clean answer yet in either
+direction -- flagged honestly as open rather than forced to a
+conclusion, per your stated priority on correctness.
+
 ---
 
 ## Priority order
@@ -341,7 +354,7 @@ and stand independently. What's now in question is specifically the
 | 3 | **S9** selection-field accuracy | Not started |
 | 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
 | 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
-| 6 | S4 bad-wins filter (`NPIGames`) | Not started; **raised in priority** -- the one place S1's hypothesized mechanism could still show up |
+| 6 | S4 bad-wins filter (`NPIGames`) | **In progress, inconclusive** -- see `reports/e4_bad_wins_filter_games_mismatch.md`. Mechanism confirmed real (matches the NCAA's documented 12-win floor); first design (median team, Denver's schedule, sigma=0.4) found it almost never triggers; a same-day attempted "fix" (raise sigma to 0.7) was itself caught as uncalibrated against real win% dispersion and reverted. Next step: different target team, not a sigma change. |
 | 7 | S3 QWB cliff | Not started |
 | 8 | S5 echo chamber | Not started |
 | 9 | S6 connectivity | Not started; honesty study, must appear before submission |
