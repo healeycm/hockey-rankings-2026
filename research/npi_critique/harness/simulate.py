@@ -249,6 +249,22 @@ def assign_conference_stratified_strengths(teams, conf_map, rng,
     conf_effect_override: dict[conf_code] -> fixed log-strength effect,
     for constructing a specific "conference X is elite, conference Y is
     weak" scenario deterministically rather than leaving it to chance.
+
+    DEFAULT SIGMAS ARE NOT REALISTIC -- calibrate before trusting a
+    result that depends on realistic conference-strength dispersion.
+    conf_log_sigma=0.35 (this function's default, used by S2's e3/e3b/e3c)
+    produces a between-conference win% std of only ~0.042 on the real
+    schedule -- real 2025-26 data shows 0.102 (non-conference win% by
+    conference ranges 0.38-0.64; conference membership accounts for
+    ~40% of total team-level win% variance). S9's reversal
+    (reports/e5b_selection_field_accuracy_conf_stratified.md) shows this
+    is not a cosmetic gap: the field-accuracy ranking flips entirely
+    between the iid and conference-stratified designs. Calibrated
+    values used there: conf_log_sigma=1.1, team_log_sigma=0.30 (matches
+    real between-conference std 0.080 and overall std 0.156 -- still a
+    slight undershoot on the former; push higher and re-check before
+    treating 1.1 as final). S2's own findings used the uncalibrated
+    0.35 default and have not been re-checked against this gap either.
     """
     confs = sorted(set(conf_map.values()))
     conf_effect = {c: rng.normal(0, conf_log_sigma) for c in confs}

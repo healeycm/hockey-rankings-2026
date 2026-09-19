@@ -330,24 +330,38 @@ accuracy than its own predecessor (RPI) -- are untouched by this section
 and stand independently. What's now in question is specifically the
 *conference-inflation-via-lucky-wins* framing, not the broader critique.
 
-**S9 -- DONE (`e5_selection_field_accuracy.py`). NPI's first clear
-strength in this workspace.** Using the real schedule with no
-constructed scenario at all (300 replications, iid true strengths),
-NPI seats more of the true top-16 tournament field than KRACH or RPI
-does (mean overlap 12.35 of 16, vs. KRACH 12.01 and RPI 11.83; only
-Massey does better at 12.72). No games-played selection bias for any
-model, a second independent confirmation of S1's null in the
-un-manipulated real setting. A genuinely new finding: KRACH
-disproportionately *excludes* real independent/thin-schedule teams
-(LIU excluded in 37/300 replications, far more than any other team for
-any model) -- concrete, real-data evidence for the connectivity concern
-Study S6 exists to test, and consistent with S2's finding that KRACH's
-likelihood structure is more sensitive to a team's position in the
-comparison graph than NPI's averaged formula is, in both directions.
-**This is the first result in the whole battery that reads as a genuine
-NPI strength, not a non-finding** -- worth featuring prominently
-alongside the harder-hitting real-data critique findings, per your
-explicit interest in strengths as well as weaknesses.
+**S9 -- DONE, then REVERSED on a direct question about the design
+(`e5_selection_field_accuracy.py`, `e5b_selection_field_accuracy_conf_stratified.py`).**
+The original run (300 reps, iid true strengths) found NPI seating more
+of the true top-16 than KRACH or RPI (12.35 vs. 12.01 and 11.83) --
+called "NPI's first clear strength in this workspace." Asked directly
+whether that assumed all conferences are equal: yes, it did, and real
+2025-26 data shows they clearly aren't (conference membership accounts
+for ~40% of total team-level win% variance). Re-run with true strengths
+drawn from a calibrated conference-stratified model instead (matched to
+real between-conference and overall win% dispersion): **the ranking
+inverts.** KRACH (13.97) and Massey (13.89) now lead; NPI (13.09) and
+RPI (12.97) fall behind. Likely mechanism: KRACH's opponent-adjusted
+MLE has real conference-strength signal to extract once it actually
+exists, which the iid world didn't provide. **The "NPI's first clear
+strength" framing is retracted, not confirmed** -- caught by a direct
+question from you, not by this project's own review. What still stands
+from the original run: no games-played selection bias for any model
+(conference-structure-independent), and a real, still-standing pattern
+of both models mishandling independent/thin-schedule teams -- KRACH
+disproportionately *excludes* them (LIU, 37/300 in the iid run), NPI
+and RPI disproportionately *include* weak ones wrongly (124 and 160
+instances respectively vs. KRACH's 50, in the conference-stratified
+run) -- two different failure modes on the same class of team, not a
+contradiction.
+
+**Broader implication: every other iid-strength result in this
+workspace (E1, S1, S4) carries the same unexamined assumption** and has
+not been re-checked under conference-stratified strengths. None of
+their core findings are as directly conference-strength-dependent as
+field-selection accuracy turned out to be, but none should be treated
+as validated against this specific gap just because S9 was. This is
+flagged as an open item, not silently assumed fine elsewhere.
 
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
@@ -377,7 +391,7 @@ question.
 |---|---|---|
 | 1 | **S1** games-played mismatch | **Done** -- null result, see above |
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
-| 3 | **S9** selection-field accuracy | **Done** -- NPI's first clear strength found, see below |
+| 3 | **S9** selection-field accuracy | **Done, then reversed** -- iid-strength result retracted under conference-stratified re-test, see below |
 | 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
 | 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |

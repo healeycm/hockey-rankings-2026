@@ -1,5 +1,22 @@
 # S9: Selection-Field Accuracy — NPI's First Clear Strength in This Workspace
 
+> **SUPERSEDED, in part -- see `reports/e5b_selection_field_accuracy_conf_stratified.md`.**
+> This report's headline finding rests on `assign_true_strengths`,
+> which draws every team's strength independently -- implicitly
+> assuming all conferences are equal in expectation. Checked against
+> real 2025-26 data, they are not (real conferences differ by up to
+> 0.26 in non-conference win%, and conference membership accounts for
+> roughly 40% of total team-level win% variance). Re-run with a
+> properly calibrated conference-stratified strength assignment, **the
+> finding below reverses**: KRACH and Massey lead, NPI and RPI fall
+> behind. Kept below for the record and because the games-played and
+> per-team findings (LIU/independents exclusion pattern) are not
+> conference-strength-dependent and still stand -- but the "NPI's first
+> clear strength" framing in this report's title and summary should be
+> read as retracted, not confirmed. Caught by a direct question, not by
+> this project's own review process -- see the linked report for the
+> full account.
+
 ## Summary
 
 Every prior study in this workspace tested a specific mechanism
