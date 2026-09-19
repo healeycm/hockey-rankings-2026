@@ -287,21 +287,66 @@ Reuses the LOO machinery already written for the paradox check in E1.
 
 ---
 
+## Status (updated after S1/S2 first pass)
+
+**S1 -- DONE (`e2_games_played_mismatch.py`, `e2b_minimal_worked_example.py`).**
+Honest null result on the design tested: games-played mismatch alone
+(plain `NPI`, no bad-wins filter) produces small, *symmetric* rank noise
+for NPI, KRACH, and Massey alike -- no unique NPI bias found. Two real
+bugs found and fixed along the way (a cross-team thinning-protection bug
+in the harness; an index-alignment bug in a diagnostic print), both
+documented in `reports/e2_games_played_mismatch.md`. This raises, not
+lowers, the priority of testing the bad-wins filter specifically
+(`NPIGames`), which remains untested -- see "Known blockers" below.
+
+**S2 -- DONE, first pass, result is genuinely surprising
+(`e3_weak_team_strong_conference.py`, `e3b_strength_sweep.py`,
+`e3c_fluke_win_marginal_effect.py`).** Three separate designs, all
+pointing the same direction, none confirming the original hypothesis in
+its expected form:
+- A team's *overall* conference-driven rank distortion is larger for
+  KRACH than NPI at the weak extreme, and NPI's error actually flips to
+  *underrating* as the planted team's true strength rises toward the
+  field median (`e3`, `e3b`).
+- The **precise mechanism you described** -- one or two fluke wins
+  against very strong opponents -- is real and positive for all three
+  models, but **largest for KRACH, not NPI** (`e3c`: KRACH +3.5 rank
+  positions per fluke win vs. NPI's +1.8, at n=150).
+
+**Net effect on the critique's shape:** the "NPI's SOS/QWB formula is
+uniquely exploitable" framing is not supported by any of the three
+designs run so far. What IS supported: KRACH's opponent-adjusted
+likelihood shows *larger* single-result leverage than NPI's capped,
+averaged formula, in both the overall-distortion and marginal-fluke-win
+framings. This is a more nuanced, more defensible, and arguably more
+interesting paper than the original hypothesis would have produced --
+report it as found, not adjusted to fit the motivating concern.
+
+**This does not mean NPI is vindicated.** The real-data critique
+(`reports/npi_critique.md`)'s core findings -- 7+ arbitrary parameters,
+632 dial-sensitivity rank shifts vs. KRACH's zero, the QWB
+discontinuity, the bad-wins-filter selection bias, worse predictive
+accuracy than its own predecessor (RPI) -- are untouched by this section
+and stand independently. What's now in question is specifically the
+*conference-inflation-via-lucky-wins* framing, not the broader critique.
+
+---
+
 ## Priority order
 
-| Order | Study | Why |
+| Order | Study | Status |
 |---|---|---|
-| 1 | **S1** games-played mismatch | User-raised; premise verified (30–41 games); untested anywhere |
-| 2 | **S2** weak-team-in-strong-conference | User-raised; the Ohio State mechanism, now testable against truth |
-| 3 | **S9** selection-field accuracy | Turns S1/S2 into tournament-field consequences; closes a known project gap |
-| 4 | **S8** schedule manipulability | Sharpest theoretical result; uniquely simulation-only |
-| 5 | **DGP-B/C robustness** | Blocker on quoting E1 (and S1/S2) in the paper |
-| 6 | S4 bad-wins filter | Clean selection-bias test; interacts with S1 |
-| 7 | S3 QWB cliff | Near-analytic; great figure |
-| 8 | S5 echo chamber | Strong design, more harness work |
-| 9 | S6 connectivity | Honesty study; must appear before submission |
-| 10 | S7 OT credit | Fair-minded; cheap |
-| 11 | S10 stability | Nice-to-have |
+| 1 | **S1** games-played mismatch | **Done** -- null result, see above |
+| 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
+| 3 | **S9** selection-field accuracy | Not started |
+| 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
+| 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
+| 6 | S4 bad-wins filter (`NPIGames`) | Not started; **raised in priority** -- the one place S1's hypothesized mechanism could still show up |
+| 7 | S3 QWB cliff | Not started |
+| 8 | S5 echo chamber | Not started |
+| 9 | S6 connectivity | Not started; honesty study, must appear before submission |
+| 10 | S7 OT credit | Not started |
+| 11 | S10 stability | Not started |
 
 S1 and S2 can start immediately — they use official dials only, so they
 do **not** depend on fixing the hard-coded-weights issue below.

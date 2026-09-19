@@ -103,3 +103,161 @@ def true_ranking(true_strength):
     """Teams sorted strongest-first -- the ground-truth ranking every
     model's induced ranking is compared against."""
     return sorted(true_strength, key=lambda t: true_strength[t], reverse=True)
+
+
+# ---------------------------------------------------------------------------
+# S1: games-played mismatch
+# ---------------------------------------------------------------------------
+
+CONFERENCE_CODES = ['ah', 'he', 'ec', 'nt', 'cc2', 'b10']  # matches src/rankings/npi.py
+
+
+def get_conference_map(schedule_df):
+    """team -> conference code, by most frequent conference-coded game type
+    a team appears in. Same logic src/rankings/npi.py's
+    _build_conf_tourney_index uses to build its own conference map, kept
+    consistent deliberately since we're testing that production code."""
+    conf_mask = schedule_df['Type'].str.lower().isin(CONFERENCE_CODES)
+    conf_games = schedule_df[conf_mask]
+    counts = {}
+    for _, row in conf_games.iterrows():
+        code = row['Type'].lower()
+        for team in (row['HomeTeam'], row['AwayTeam']):
+            counts.setdefault(team, {}).setdefault(code, 0)
+            counts[team][code] += 1
+    return {t: max(d, key=d.get) for t, d in counts.items()}
+
+
+def games_played(schedule_df):
+    """team -> total games played (home + away), as a pandas Series."""
+    return pd.concat([schedule_df['HomeTeam'], schedule_df['AwayTeam']]).value_counts()
+
+
+def thin_team_schedule(schedule_df, team, target_games, rng, prefer_type='nc', protect_teams=()):
+    """
+    Drop games for `team` (and, unavoidably, for whichever opponent was in
+    each dropped game) until `team` has exactly `target_games` games left.
+    Games are dropped preferentially from non-conference ('nc') games
+    first, falling back to any of the team's games once the non-conference
+    pool is exhausted -- mirroring the real mechanism (a team starting the
+    season late, or ending it early, misses games concentrated at the
+    schedule's edges/non-conference slate, not a uniform random subset of
+    its whole season) more closely than dropping uniformly at random would.
+    No-op (returns schedule_df unchanged) if the team already has
+    target_games or fewer.
+
+    `protect_teams`: teams whose OWN game count has already been finalized
+    by an earlier call (see thin_multiple_teams) -- games against them are
+    excluded from the droppable pool wherever possible, so thinning `team`
+    can't silently push an already-finalized team below its own target.
+    If protecting them leaves too few droppable games to hit target_games
+    exactly, protection is dropped only as a last resort (a printed
+    warning-worthy edge case, not a silent failure) and the team is thinned
+    as far as the unprotected pool allows.
+    """
+    team_mask = (schedule_df['HomeTeam'] == team) | (schedule_df['AwayTeam'] == team)
+    team_games = schedule_df[team_mask]
+    n_current = len(team_games)
+    n_to_drop = n_current - target_games
+    if n_to_drop <= 0:
+        return schedule_df
+
+    opponent = np.where(team_games['HomeTeam'] == team, team_games['AwayTeam'], team_games['HomeTeam'])
+    unprotected = team_games[~pd.Series(opponent, index=team_games.index).isin(protect_teams)]
+    pool_source = unprotected if len(unprotected) >= n_to_drop else team_games
+
+    nc_idx = pool_source[pool_source['Type'].str.lower() != prefer_type].index.tolist()
+    other_idx = pool_source[pool_source['Type'].str.lower() == prefer_type].index.tolist()
+    # drop from non-"prefer_type" pool first (i.e. keep conference games,
+    # drop non-conference first) -- matches the real mechanism, since NC
+    # games cluster early in the season, which is exactly what a
+    # late-starting team misses
+    drop_pool = nc_idx + other_idx
+    rng.shuffle(drop_pool)
+    to_drop = drop_pool[:n_to_drop]
+    return schedule_df.drop(index=to_drop).reset_index(drop=True)
+
+
+def thin_multiple_teams(schedule_df, team_targets, rng, prefer_type='nc'):
+    """team_targets: dict[team] -> target game count. Applies
+    thin_team_schedule sequentially, protecting each already-finalized
+    team's games from being dropped by a later team's thinning pass --
+    without this, thinning team B after team A can drop a shared A-vs-B
+    game and silently push A below the target it already hit (a real bug
+    caught while building e2b_minimal_worked_example.py: two adjacent
+    thinned teams that play each other ended up with far fewer games than
+    intended)."""
+    df = schedule_df
+    finalized = []
+    for team, target in team_targets.items():
+        df = thin_team_schedule(df, team, target, rng, prefer_type=prefer_type,
+                                 protect_teams=finalized)
+        finalized.append(team)
+    return df
+
+
+# ---------------------------------------------------------------------------
+# S2: conference-stratified true strength
+# ---------------------------------------------------------------------------
+
+def make_round_robin_schedule(teams, games_per_pair=2, start_date='2025-10-01', conf_map=None):
+    """
+    A small, fully-traceable synthetic schedule: every team plays every
+    other team `games_per_pair` times (home-and-home if 2), evenly spaced
+    dates. No exhibition games, no OT/tie info yet (simulate_season fills
+    that in). `conf_map` (dict[team]->code), if given, is stamped into a
+    'Type' column so downstream conference-aware logic (e.g. npi.py's
+    conference-tournament detection) sees a consistent conference
+    structure; otherwise every game is tagged 'nc' (non-conference).
+
+    Built for the "named minimal example" reporting standard in PLAN.md --
+    small enough (a dozen-ish teams) that the full schedule and every
+    result can be listed in a table and hand-verified, as a complement to
+    the large-N studies run on the real 63-team schedule.
+    """
+    rows = []
+    dates = pd.date_range(start_date, periods=max(1, len(teams) * (len(teams) - 1) * games_per_pair // 4))
+    d_idx = 0
+    for i, a in enumerate(teams):
+        for b in teams[i + 1:]:
+            for g in range(games_per_pair):
+                home, away = (a, b) if g % 2 == 0 else (b, a)
+                if conf_map is not None and conf_map.get(home) == conf_map.get(away):
+                    game_type = conf_map[home]
+                else:
+                    game_type = 'nc'
+                rows.append({
+                    'HomeTeam': home, 'AwayTeam': away, 'Date': dates[d_idx % len(dates)],
+                    'Type': game_type, 'NeutralSite': False, 'Is_Exhibition': False,
+                })
+                d_idx += 1
+    df = pd.DataFrame(rows).sort_values('Date').reset_index(drop=True)
+    return df
+
+
+def assign_conference_stratified_strengths(teams, conf_map, rng,
+                                            conf_log_sigma=0.35, team_log_sigma=0.30,
+                                            conf_effect_override=None):
+    """
+    Two-level log-normal: each conference gets its own mean-strength
+    effect (drawn once per replication, or fixed via
+    conf_effect_override for a deliberately-elite/weak conference design),
+    and each team's strength is that conference effect plus its own
+    within-conference noise. A team with no conference (independents) gets
+    conf_effect 0 (average).
+
+    conf_effect_override: dict[conf_code] -> fixed log-strength effect,
+    for constructing a specific "conference X is elite, conference Y is
+    weak" scenario deterministically rather than leaving it to chance.
+    """
+    confs = sorted(set(conf_map.values()))
+    conf_effect = {c: rng.normal(0, conf_log_sigma) for c in confs}
+    if conf_effect_override:
+        conf_effect.update(conf_effect_override)
+
+    strengths = {}
+    for t in teams:
+        c = conf_map.get(t)
+        base = conf_effect.get(c, 0.0)
+        strengths[t] = float(np.exp(base + rng.normal(0, team_log_sigma)))
+    return strengths
