@@ -440,6 +440,30 @@ undermines S4's original null. **Zero direction reversals across the
 entire re-verification.** Every experiment in this workspace has now
 been checked against the current simulator at least once.
 
+**S6 -- DONE (`e11_connectivity_degenerate_cases.py`,
+`reports/e11_connectivity_degenerate_cases.md`). The sharpest gap the
+whole critique has found, and it favors NPI.** A real 37-game team
+forced undefeated, a different one forced winless, everything else
+simulated normally, 100 replications: **KRACH's field-spread ratio
+(max rating / min positive rating across all 63 teams) averages
+875,397x, reaching 4.76 million in the worst case.** NPI and RPI, both
+bounded/averaged formulas, stay within 1.6-1.8x by construction. This
+is the confirmed, empirically-measured version of the "KRACH has no
+finite MLE for a perfect separator" property the study was designed to
+test -- `max(points, 0.1)` only prevents an immediate divide-by-zero,
+not the iterative solver's drift toward an extreme value. The honest
+nuance: this does NOT clearly translate to collateral rank damage for
+the rest of the field -- Massey shows the *least* disruption to
+unrelated teams' ranks, and KRACH is not distinguishably worse than
+NPI/RPI even when isolating the degenerate team's direct opponents
+specifically (KRACH's direct/indirect distortion ratio, 2.0x, is
+actually the *smallest* of the four models, not the largest). The
+failure mode is specifically about raw rating-value usability, not
+about propagating ranking damage -- which matters concretely for this
+codebase's own NPI implementation, whose SOS term averages opponents'
+ratings directly, a use case KRACH-style unbounded ratings would be
+poorly suited to.
+
 **S4 -- DONE (`e4_bad_wins_filter_games_mismatch.py`,
 `e4b_bad_wins_filter_cupcakes.py`; see `reports/e4b_bad_wins_filter_cupcakes.md`
 for the definitive account).** The one place S1/S2's hypothesis could
@@ -474,7 +498,7 @@ question.
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |
 | 7 | S3 QWB cliff | Not started |
 | 8 | S5 echo chamber | Not started |
-| 9 | S6 connectivity | Not started; honesty study, must appear before submission |
+| 9 | S6 connectivity | **Done** -- the sharpest gap in the whole critique, and it favors NPI, see below |
 | 10 | S7 OT credit | Not started |
 | 11 | S10 stability | Not started |
 
