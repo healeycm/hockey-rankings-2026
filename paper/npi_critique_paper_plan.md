@@ -102,10 +102,70 @@ predecessor" evidence.
    returning to a principled zero-parameter method
 8. Conclusion
 
-## Not started
+## Simulation study (new: real data + simulated seasons)
 
-This is a plan only -- no drafting has begun. Say the word when you want
-me to start on the Introduction/History section (item 2 above needs real
-research into the committee's stated rationale before I can write it
-honestly, so that's the natural first step rather than jumping straight
-to the parts already backed by `npi_critique.md`).
+Per your direction, this paper features both real data (the existing
+`reports/npi_critique.md` material above) and simulated seasons with
+**known ground-truth team strength** -- something real data structurally
+cannot provide, since we never actually know which real team was truly
+better, only what happened. Workspace: `research/npi_critique/` (isolated,
+same convention as `research/preseason/` and `research/roster_talent/`,
+enforced by `tests/unit/test_research_isolation.py`).
+
+**Design:** reuse a real season's actual schedule (2025-26: who played
+whom, when, home ice, conference/exhibition structure) but assign each
+team a synthetic true strength and simulate outcomes from it (Poisson
+scoring tilted by relative strength, calibrated against this project's
+own real-data findings on home-ice edge, scoring rate, and OT rate --
+see `research/npi_critique/experiments/e0_calibration_check.py`). Every
+model's induced ranking can then be scored directly against ground truth
+(Spearman correlation), rather than only against realized outcomes.
+
+**E1 (done) -- truth recovery:** 200 simulated seasons. Massey recovers
+ground truth best (ρ=0.912, p<1e-40 vs. everything else). Among NPI
+variants, a genuinely nuanced result: **the official 0.75 SOS weight
+recovers ground truth significantly *better* than the 0.66 the real-data
+critique recommends** (p=1.3e-7), though a much higher weight (0.9) is
+far worse (p=4.4e-64) -- i.e., not simply "higher is better" either.
+Full writeup, including why this doesn't necessarily contradict the
+real-data recommendation (predictive accuracy on realized outcomes and
+ground-truth recovery are different targets, the same resolution-vs-
+calibration tension the comparative paper already documents) and a
+full accounting of a real implementation gap found along the way
+(`NPI.fit()` hard-codes its 0.25/0.75 split; config-based reweighting is
+silently a no-op; `src/analysis/npi_vs_krach.py`'s existing `reweight_npi()`
+workaround was reused, with its own limitation -- final-linear-combination
+sensitivity only, not full re-convergence -- stated plainly):
+`research/npi_critique/reports/e1_truth_recovery.md`. Also corroborates
+the paradox mechanism under controlled conditions (6.3% of sampled
+below-median-opponent wins lowered the winner's NPI, versus 20 instances
+found by inspection in one real season -- consistent in direction, not a
+matched replication).
+
+**This is the paper's honesty test, and it passed on the first result.**
+The temptation with a critique paper is to report only findings that
+support the thesis; E1 immediately produced one that complicates it
+(0.75 beating 0.66 on truth-recovery). The plan is to report this
+straightforwardly in the paper's own Discussion, not suppress or
+explain it away -- consistent with this project's established practice
+throughout, and arguably more persuasive to a skeptical reader than a
+critique with no internal tension at all.
+
+**Not yet built** (see `e1_truth_recovery.md`'s Open Items for detail):
+a true full-reconvergence dial sweep (patching `NPI.fit()` itself rather
+than reweighting post-hoc); sensitivity to the true-strength
+distribution's spread; a matched-sample-size real-vs-simulated paradox
+rate comparison; a minimal hand-constructed analytic paradox example for
+pedagogical clarity. A natural E2 would stress-test the conference-silo/
+"echo chamber" effect (`reports/npi_critique.md` Section 6) under
+controlled schedule sparsity, which real data's fixed conference
+structure can't isolate the way a simulated, adjustable schedule can.
+
+## Not started (drafting)
+
+Prose drafting of the paper itself has not begun. The simulation study
+above is real, run, and reported -- but Section 2 (History) still needs
+real research into the committee's stated rationale for adopting NPI
+before it can be written honestly, and that's the natural next step
+before assembling a full draft, rather than drafting Section 4-6 first
+just because their evidence already exists.

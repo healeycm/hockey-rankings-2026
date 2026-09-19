@@ -12,6 +12,7 @@ import pytest
 
 from research.preseason.harness.paths import WORKSPACE as PRESEASON_WORKSPACE, research_path as preseason_research_path
 from research.roster_talent.harness.paths import WORKSPACE as ROSTER_TALENT_WORKSPACE, research_path as roster_talent_research_path
+from research.npi_critique.harness.paths import WORKSPACE as NPI_CRITIQUE_WORKSPACE, research_path as npi_critique_research_path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 PRODUCTION_DIRS = ["src", "scripts", "webpage"]
@@ -20,6 +21,7 @@ RESEARCH_REF = re.compile(r"^\s*(from|import)\s+research\b|['\"]research[/\\.]",
 WORKSPACES = [
     (PRESEASON_WORKSPACE, preseason_research_path),
     (ROSTER_TALENT_WORKSPACE, roster_talent_research_path),
+    (NPI_CRITIQUE_WORKSPACE, npi_critique_research_path),
 ]
 
 
@@ -58,5 +60,8 @@ def test_research_workspaces_do_not_overlap():
     """Each isolated exploration is a sibling, not nested inside another --
     otherwise one workspace's research_path() could silently write into
     another's."""
-    assert PRESEASON_WORKSPACE not in ROSTER_TALENT_WORKSPACE.parents
-    assert ROSTER_TALENT_WORKSPACE not in PRESEASON_WORKSPACE.parents
+    all_workspaces = [PRESEASON_WORKSPACE, ROSTER_TALENT_WORKSPACE, NPI_CRITIQUE_WORKSPACE]
+    for i, a in enumerate(all_workspaces):
+        for b in all_workspaces[i + 1:]:
+            assert a not in b.parents
+            assert b not in a.parents
