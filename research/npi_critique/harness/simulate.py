@@ -129,6 +129,92 @@ def simulate_season(schedule_df, true_strength, rng):
     return df
 
 
+def simulate_season_bradley_terry(schedule_df, true_strength, rng,
+                                   margin_mean=0.8, loser_goals_mean=2.0, margin_cap=6,
+                                   close_game_prob=0.20):
+    """
+    A genuinely different data-generating process from simulate_season()'s
+    independent-Poisson-goals model, built specifically to check whether
+    this workspace's findings are artifacts of a scoring process that
+    structurally favors margin-based models (Massey) -- flagged as a
+    threat to validity since E1 and never addressed until now (see
+    reports/e1_truth_recovery.md's DGP caveat, repeated in every
+    subsequent report in this workspace).
+
+    Here, WHO WINS is drawn directly from the Bradley-Terry probability
+    p_home = (theta_home * hia) / (theta_home * hia + theta_away) -- the
+    same functional form KRACH's own likelihood is built on, so KRACH is
+    the *correctly specified* estimator under this DGP, the mirror image
+    of simulate_season()'s Poisson process favoring Massey. The MARGIN is
+    then generated independently of true strength entirely (a realistic
+    but strength-uninformative margin layered on top of the win/loss
+    draw) -- deliberately removing the extra signal Massey's
+    goal-differential regression exploits under the Poisson DGP, to test
+    directly whether Massey's advantage survives when margin carries no
+    additional information beyond who won.
+
+    Same structural OT/close-game mechanism as simulate_season() (a
+    forced shared-score regulation tie, resolved by the same
+    strength-compressed near-coin-flip), but calibrated with its own
+    close_game_prob=0.20 rather than simulate_season()'s 0.07 -- under
+    this DGP, margin is always >=1 by construction, so ties can ONLY
+    come from the close-game mechanism (simulate_season()'s independent
+    Poisson draws also produce natural ties on their own, on top of its
+    close-game boost). Calibrated directly against real 2025-26 data:
+    OT rate 0.198 (real 0.181-0.223), home win% 0.530 (real 0.532-0.578),
+    mean goals 5.62 (real 5.688-5.969, a slight undershoot), win% std
+    0.114 (real 0.150-0.158, a real undershoot not fully corrected --
+    documented, not hidden, since this DGP's purpose is a genuinely
+    different robustness check, not a pixel-perfect match).
+    """
+    df = schedule_df.copy()
+    n = len(df)
+
+    theta_home = df['HomeTeam'].map(true_strength).values
+    theta_away = df['AwayTeam'].map(true_strength).values
+    neutral = df['NeutralSite'].astype(bool).values
+    hia = np.where(neutral, 1.0, HOME_ICE_MULT)
+
+    p_home = (theta_home * hia) / (theta_home * hia + theta_away)
+    is_close_game = rng.random(n) < close_game_prob
+
+    home_goals = np.empty(n, dtype=int)
+    away_goals = np.empty(n, dtype=int)
+    is_ot = np.zeros(n, dtype=bool)
+
+    # Decisive (non-close) games: winner drawn from the BT probability;
+    # margin drawn independently of strength.
+    decisive = ~is_close_game
+    home_wins = rng.random(n) < p_home
+    loser_goals = rng.poisson(loser_goals_mean, size=n)
+    margin = 1 + rng.poisson(margin_mean, size=n)
+    margin = np.minimum(margin, margin_cap)
+    winner_goals = loser_goals + margin
+
+    home_goals[decisive] = np.where(home_wins[decisive], winner_goals[decisive], loser_goals[decisive])
+    away_goals[decisive] = np.where(home_wins[decisive], loser_goals[decisive], winner_goals[decisive])
+
+    # Close games: forced regulation tie, resolved by the same
+    # strength-compressed near-coin-flip OT mechanism as simulate_season().
+    n_close = is_close_game.sum()
+    if n_close > 0:
+        tied_score = rng.poisson(loser_goals_mean, size=n_close)
+        p_home_ot = (theta_home[is_close_game] ** OT_STRENGTH_EXPONENT) / (
+            theta_home[is_close_game] ** OT_STRENGTH_EXPONENT + theta_away[is_close_game] ** OT_STRENGTH_EXPONENT
+        )
+        home_wins_ot = rng.random(n_close) < p_home_ot
+        home_goals[is_close_game] = np.where(home_wins_ot, tied_score + 1, tied_score)
+        away_goals[is_close_game] = np.where(home_wins_ot, tied_score, tied_score + 1)
+        is_ot[is_close_game] = True
+
+    df['HomeGoals'] = home_goals
+    df['AwayGoals'] = away_goals
+    df['IsOT'] = is_ot
+    df['GoalMargin'] = home_goals - away_goals
+    df['Result'] = (home_goals > away_goals).astype(float)
+    return df
+
+
 def true_ranking(true_strength):
     """Teams sorted strongest-first -- the ground-truth ranking every
     model's induced ranking is compared against."""

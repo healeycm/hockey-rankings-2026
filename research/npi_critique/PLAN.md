@@ -287,6 +287,38 @@ Reuses the LOO machinery already written for the paradox check in E1.
 
 ---
 
+## READ THIS FIRST: a cross-cutting finding that qualifies everything below
+
+**DGP robustness (`reports/e15_dgp_robustness.md`), done after S6/S8.**
+Every study below used `simulate_season()`'s independent-Poisson-goals
+process -- flagged as a threat to validity since E1's very first report
+and never resolved until now. Built a genuinely different DGP
+(`simulate_season_bradley_terry()`: outcomes drawn directly from the
+Bradley-Terry probability, margin generated independently of strength)
+and re-checked the two headline model-comparison claims:
+
+- **E1's "Massey recovers ground truth best" is RETRACTED.** Under the
+  Bradley-Terry DGP, NPI significantly beats Massey (p=1.1e-38) and
+  Massey is only tied with KRACH. This was a DGP artifact, not a
+  general property -- exactly the failure mode the original DGP caveat
+  warned about.
+- **S9's "KRACH beats NPI on field accuracy" SURVIVES.** Same direction,
+  comparable significance (p=0.0031 vs. the Poisson DGP's p=0.0001),
+  under a DGP where KRACH is the correctly-specified estimator rather
+  than a DGP that structurally favors nothing in particular between the
+  two.
+
+**Practical rule going forward, stated explicitly rather than left
+implicit**: findings about a model's *fitting/formula structure*
+(S6's connectivity result, S8's schedule-manipulability result) are
+reasoned to be DGP-independent, since they test properties of how a
+model estimates from given outcomes, not how outcomes were generated --
+but this is an argument, not a direct re-check, and is flagged as such.
+Findings that are specifically a *model-vs-model comparison on a
+truth-recovery metric* (E1's type of claim) should not be trusted
+without a DGP check, and none of the ones in this workspace beyond E1
+and S9 have had one.
+
 ## Status (updated after S1/S2 first pass)
 
 **S1 -- DONE (`e2_games_played_mismatch.py`, `e2b_minimal_worked_example.py`).**
@@ -549,7 +581,7 @@ question.
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
 | 3 | **S9** selection-field accuracy | **Done, corrected twice** -- KRACH beats NPI, modestly (12.34 vs 11.92), see below |
 | 4 | **S8** schedule manipulability | **Done** -- RPI, not NPI, is the most exploitable metric, see below |
-| 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
+| 5 | **DGP-B robustness** | **Done, partial** -- E1 retracted, S9 survives, see below. DGP-C (misspecified) still not built |
 | 6 | S4 bad-wins filter (`NPIGames`) | **Done** -- no meaningful games-played advantage, see above |
 | 7 | S3 QWB cliff | **Done** -- it's a kink, not a cliff; densely relevant in practice, see below |
 | 8 | S5 echo chamber | Not started; needs more harness work (controlled cross-conference rewiring) |

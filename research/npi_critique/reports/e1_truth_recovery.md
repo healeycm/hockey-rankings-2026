@@ -1,5 +1,18 @@
 # E1: Truth Recovery in Simulated Seasons with Known Ground Truth
 
+> **HEADLINE FINDING RETRACTED -- see `reports/e15_dgp_robustness.md`.**
+> This report's claim that Massey recovers ground truth best does NOT
+> survive a genuinely different data-generating process (Bradley-Terry
+> outcomes instead of independent Poisson goals): under that DGP, NPI
+> significantly beats Massey (p=1.1e-38) and Massey is only tied with
+> KRACH, not ahead of it. The DGP caveat this report itself raised (and
+> every subsequent report repeated without resolving) turned out to be
+> exactly the problem it warned about. The NPI-dial-sweep and paradox-rate
+> findings below are not model-comparison claims and are not affected by
+> this. E10's re-verification of this report under the OT-rate fix is
+> also unaffected in its own terms (same DGP throughout) but inherits
+> this same retraction.
+
 ## Summary
 
 Real data can never tell us which team was actually better -- only what

@@ -18,6 +18,12 @@ explanation tied directly to the fix itself.
 
 ## E1: Truth recovery
 
+> **Note added later: this section's "Massey best" ordering is itself
+> retracted under a different DGP -- see `reports/e15_dgp_robustness.md`.**
+> The comparison below (pre-fix vs. post-fix OT rate) is still valid
+> *within* the Poisson DGP both used; it just turns out the Poisson DGP
+> itself was the wrong thing to hold fixed.
+
 | Model | Pre-fix ρ | Post-fix ρ |
 |---|---:|---:|
 | Massey | 0.912 | 0.905 |
