@@ -330,6 +330,25 @@ accuracy than its own predecessor (RPI) -- are untouched by this section
 and stand independently. What's now in question is specifically the
 *conference-inflation-via-lucky-wins* framing, not the broader critique.
 
+**S9 -- DONE (`e5_selection_field_accuracy.py`). NPI's first clear
+strength in this workspace.** Using the real schedule with no
+constructed scenario at all (300 replications, iid true strengths),
+NPI seats more of the true top-16 tournament field than KRACH or RPI
+does (mean overlap 12.35 of 16, vs. KRACH 12.01 and RPI 11.83; only
+Massey does better at 12.72). No games-played selection bias for any
+model, a second independent confirmation of S1's null in the
+un-manipulated real setting. A genuinely new finding: KRACH
+disproportionately *excludes* real independent/thin-schedule teams
+(LIU excluded in 37/300 replications, far more than any other team for
+any model) -- concrete, real-data evidence for the connectivity concern
+Study S6 exists to test, and consistent with S2's finding that KRACH's
+likelihood structure is more sensitive to a team's position in the
+comparison graph than NPI's averaged formula is, in both directions.
+**This is the first result in the whole battery that reads as a genuine
+NPI strength, not a non-finding** -- worth featuring prominently
+alongside the harder-hitting real-data critique findings, per your
+explicit interest in strengths as well as weaknesses.
+
 **S4 -- in progress, inconclusive (`e4_bad_wins_filter_games_mismatch.py`,
 `reports/e4_bad_wins_filter_games_mismatch.md`).** The one place S1/S2's
 hypothesis could still hold, since S1/S2 both used plain `NPI` (no
@@ -351,7 +370,7 @@ conclusion, per your stated priority on correctness.
 |---|---|---|
 | 1 | **S1** games-played mismatch | **Done** -- null result, see above |
 | 2 | **S2** weak-team-in-strong-conference | **Done, first pass** -- surprising result, see above |
-| 3 | **S9** selection-field accuracy | Not started |
+| 3 | **S9** selection-field accuracy | **Done** -- NPI's first clear strength found, see below |
 | 4 | **S8** schedule manipulability | Not started; sharpest theoretical result remaining |
 | 5 | **DGP-B/C robustness** | Not started; blocks quoting E1/S1/S2 in the paper |
 | 6 | S4 bad-wins filter (`NPIGames`) | **In progress, inconclusive** -- see `reports/e4_bad_wins_filter_games_mismatch.md`. Mechanism confirmed real (matches the NCAA's documented 12-win floor); first design (median team, Denver's schedule, sigma=0.4) found it almost never triggers; a same-day attempted "fix" (raise sigma to 0.7) was itself caught as uncalibrated against real win% dispersion and reverted. Next step: different target team, not a sigma change. |
