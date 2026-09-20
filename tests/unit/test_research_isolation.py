@@ -13,6 +13,8 @@ import pytest
 from research.preseason.harness.paths import WORKSPACE as PRESEASON_WORKSPACE, research_path as preseason_research_path
 from research.roster_talent.harness.paths import WORKSPACE as ROSTER_TALENT_WORKSPACE, research_path as roster_talent_research_path
 from research.npi_critique.harness.paths import WORKSPACE as NPI_CRITIQUE_WORKSPACE, research_path as npi_critique_research_path
+from research.lrmc_hockey.harness.paths import WORKSPACE as LRMC_HOCKEY_WORKSPACE, research_path as lrmc_hockey_research_path
+from research.womens_comparison.harness.paths import WORKSPACE as WOMENS_COMPARISON_WORKSPACE, research_path as womens_comparison_research_path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 PRODUCTION_DIRS = ["src", "scripts", "webpage"]
@@ -22,6 +24,8 @@ WORKSPACES = [
     (PRESEASON_WORKSPACE, preseason_research_path),
     (ROSTER_TALENT_WORKSPACE, roster_talent_research_path),
     (NPI_CRITIQUE_WORKSPACE, npi_critique_research_path),
+    (LRMC_HOCKEY_WORKSPACE, lrmc_hockey_research_path),
+    (WOMENS_COMPARISON_WORKSPACE, womens_comparison_research_path),
 ]
 
 
@@ -60,7 +64,8 @@ def test_research_workspaces_do_not_overlap():
     """Each isolated exploration is a sibling, not nested inside another --
     otherwise one workspace's research_path() could silently write into
     another's."""
-    all_workspaces = [PRESEASON_WORKSPACE, ROSTER_TALENT_WORKSPACE, NPI_CRITIQUE_WORKSPACE]
+    all_workspaces = [PRESEASON_WORKSPACE, ROSTER_TALENT_WORKSPACE, NPI_CRITIQUE_WORKSPACE,
+                      LRMC_HOCKEY_WORKSPACE, WOMENS_COMPARISON_WORKSPACE]
     for i, a in enumerate(all_workspaces):
         for b in all_workspaces[i + 1:]:
             assert a not in b.parents
