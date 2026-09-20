@@ -198,9 +198,11 @@ structure* still holds even though the *occupants of each axis* change.
 
 ## Phase 3 — Does the NPI critique replicate? (the strongest angle)
 
-**Status (2026-09-20): W5, W6, W8 done** — see `reports/w5_win_paradox.md`,
-`reports/w6_dial_sensitivity.md`, `reports/w8_bubble_divergence.md`. W7,
-W9, W10 not started.
+**Status (2026-09-20): W5, W6, W8, W10 done** — see `reports/w5_win_paradox.md`,
+`reports/w6_dial_sensitivity.md`, `reports/w8_bubble_divergence.md`,
+`reports/w10_schedule_manipulability.md` (single-DGP pass; a 2nd/3rd DGP
+robustness check, matching the men's E17/E22 pattern, is a natural next
+step, not yet done). W7, W9 not started.
 
 This is where a women's extension is most likely to be genuinely novel,
 because the NPI paper's claims are claims about a formula's behavior on a
