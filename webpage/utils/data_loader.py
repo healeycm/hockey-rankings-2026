@@ -58,13 +58,13 @@ def normalize_name(name):
     res = res.replace('umass', 'mass')
     return res
 
-def _load_canonical_mapping():
+def _load_canonical_mapping(division='men'):
     """
-    Loads both CHN -> USCHO and USCHO -> USCHO mappings to ensure 
+    Loads both CHN -> USCHO and USCHO -> USCHO mappings to ensure
     any variation maps to the canonical USCHO name.
     """
     mapping = {}
-    info_path = TEAM_INFO_DIR / "team_info.csv"
+    info_path = _team_info_path(division)
     if info_path.exists():
         df = pd.read_csv(info_path)
         for _, row in df.iterrows():
@@ -75,19 +75,23 @@ def _load_canonical_mapping():
             mapping[normalize_name(chn)] = uscho
     return mapping
 
-# Singleton-style cache for the mapping
-_CANONICAL_MAPPING = None
+# Singleton-style cache for the mapping, one per division -- men's and
+# women's team_info files are separate rosters (see _team_info_path), so a
+# single shared cache would resolve women's-only program names (no men's
+# team) to themselves incorrectly, and silently map shared-name schools
+# (e.g. "Boston College") the same either way, which happens to work but
+# only by coincidence.
+_CANONICAL_MAPPING = {}
 
-def get_canonical_name(name):
+def get_canonical_name(name, division='men'):
     """
     Returns the canonical USCHO name for any team name variation.
     """
-    global _CANONICAL_MAPPING
-    if _CANONICAL_MAPPING is None:
-        _CANONICAL_MAPPING = _load_canonical_mapping()
-    
+    if division not in _CANONICAL_MAPPING:
+        _CANONICAL_MAPPING[division] = _load_canonical_mapping(division)
+
     norm = normalize_name(name)
-    return _CANONICAL_MAPPING.get(norm, name)
+    return _CANONICAL_MAPPING[division].get(norm, name)
 
 def get_latest_file(folder_pattern):
     """Finds the most recent file in a folder based on filename sorting (assumes date-based naming)."""
@@ -200,8 +204,8 @@ def get_logo_url(team_name, division='men'):
     """Returns the web URL for a team logo."""
     # This relies on ensure_logos_in_assets having run
     info_path = _college_teams_path(division)
-    
-    canonical_name = get_canonical_name(team_name)
+
+    canonical_name = get_canonical_name(team_name, division=division)
     norm_canonical = normalize_name(canonical_name)
     
     if info_path.exists():
@@ -262,7 +266,7 @@ def load_records(division='men'):
     records = {}
 
     def update_record(team, result, is_ot):
-        canonical_team = get_canonical_name(team)
+        canonical_team = get_canonical_name(team, division=division)
         if canonical_team not in records:
             records[canonical_team] = {'W': 0, 'L': 0, 'T': 0, 'OTW': 0, 'OTL': 0}
 
@@ -311,7 +315,7 @@ def load_rankings(selected_model="KRACH", division='men'):
         df = pd.read_csv(latest)
         # Apply canonical names to the rankings file as well
         if 'Team' in df.columns:
-            df['Team'] = df['Team'].apply(get_canonical_name)
+            df['Team'] = df['Team'].apply(lambda t: get_canonical_name(t, division=division))
             
         # Expected cols: Rank, Team, <ValueCol>
         # We need to find the value column (not Rank or Team)
@@ -333,15 +337,15 @@ def load_rankings(selected_model="KRACH", division='men'):
         info_df = pd.read_csv(info_path)
         # Canonicalize team names in info_df for robust merging
         if 'Team Name' in info_df.columns and 'Conference' in info_df.columns:
-            info_df['Team'] = info_df['Team Name'].apply(get_canonical_name)
+            info_df['Team'] = info_df['Team Name'].apply(lambda t: get_canonical_name(t, division=division))
             conf_df = info_df[['Team', 'Conference']]
             master_df = pd.merge(master_df, conf_df, on='Team', how='left')
 
     return master_df
 
-def load_projections(model_name="LRMC_Classic"):
+def load_projections(model_name="LRMC_Classic", division='men'):
     """Loads the latest projection file."""
-    proj_dir = OUTPUT_DIR / "projections" / model_name
+    proj_dir = _output_dir(division) / "projections" / model_name
     latest = get_latest_file(proj_dir / "*.csv")
 
     if latest:
@@ -351,12 +355,12 @@ def load_projections(model_name="LRMC_Classic"):
         return df
     return pd.DataFrame()
 
-def load_team_analysis(team_name, model="KRACH"):
+def load_team_analysis(team_name, model="KRACH", division='men'):
     """
     Loads detailed team analysis (stats, best wins, worst losses).
     Returns dict: { 'stats': {}, 'top_wins': df, 'worst_losses': df, 'model': str }
     """
-    analysis_root = OUTPUT_DIR / "analysis" / model
+    analysis_root = _output_dir(division) / "analysis" / model
     # Analysis folder contains date folders: output/analysis/KRACH/2026-01-10/
     latest_dir_path = get_latest_file(analysis_root / "*")
     
@@ -375,14 +379,14 @@ def load_team_analysis(team_name, model="KRACH"):
         "date": latest_date_path.name
     }
 
-    canonical_name = get_canonical_name(team_name)
-    
+    canonical_name = get_canonical_name(team_name, division=division)
+
     # 1. Season Summary (WinPct, SOS)
     summary_path = latest_date_path / "season_summary.csv"
     if summary_path.exists():
         sdf = pd.read_csv(summary_path)
         # Match using canonical name
-        row = sdf[sdf['Team'].apply(get_canonical_name) == canonical_name]
+        row = sdf[sdf['Team'].apply(lambda t: get_canonical_name(t, division=division)) == canonical_name]
         if not row.empty:
             results["stats"] = row.iloc[0].to_dict()
 
@@ -412,37 +416,37 @@ def load_team_analysis(team_name, model="KRACH"):
             
     return results
 
-def get_team_schedule(team_name, model="LRMC_Classic"):
+def get_team_schedule(team_name, model="LRMC_Classic", division='men'):
     """
     Gets schedule + win probs for a team.
     Calculates specific WinProb (Home vs Away perspective).
     """
-    df = load_projections(model)
+    df = load_projections(model, division=division)
     if df.empty:
         return df
-    
-    canonical_name = get_canonical_name(team_name)
-    
+
+    canonical_name = get_canonical_name(team_name, division=division)
+
     # Filter for team in either Home or Away
     if not df.empty:
         # Normalize Home/Away cols for comparison
         team_games = df[
-            (df['HomeTeam'].apply(get_canonical_name) == canonical_name) | 
-            (df['AwayTeam'].apply(get_canonical_name) == canonical_name)
+            (df['HomeTeam'].apply(lambda t: get_canonical_name(t, division=division)) == canonical_name) |
+            (df['AwayTeam'].apply(lambda t: get_canonical_name(t, division=division)) == canonical_name)
         ].copy()
-    
+
     if team_games.empty:
         return team_games
-    
+
     # helper
     def calc_prob(row):
         # Use canonical name for comparison to ensure correct home/away assignment
-        return row['HomeWinProb'] if get_canonical_name(row['HomeTeam']) == canonical_name else (1.0 - row['HomeWinProb'])
-        
+        return row['HomeWinProb'] if get_canonical_name(row['HomeTeam'], division=division) == canonical_name else (1.0 - row['HomeWinProb'])
+
     team_games['WinProb'] = team_games.apply(calc_prob, axis=1)
-    
+
     team_games['Opponent'] = team_games.apply(
-        lambda x: x['AwayTeam'] if get_canonical_name(x['HomeTeam']) == canonical_name else x['HomeTeam'], axis=1
+        lambda x: x['AwayTeam'] if get_canonical_name(x['HomeTeam'], division=division) == canonical_name else x['HomeTeam'], axis=1
     )
     
     team_games['Location'] = team_games.apply(
@@ -456,20 +460,20 @@ def get_team_schedule(team_name, model="LRMC_Classic"):
         team_games = team_games.sort_values('Date')
         
     return team_games
-def load_rank_distribution(team_name, model="KRACH"):
+def load_rank_distribution(team_name, model="KRACH", division='men'):
     """
     Loads rank distribution for a team from simulation results.
     Returns: df with [Rank, Probability]
     """
-    sim_root = OUTPUT_DIR / "simulator" / model
+    sim_root = _output_dir(division) / "simulator" / model
     latest = get_latest_file(sim_root / "*.csv")
-    
-    canonical_name = get_canonical_name(team_name)
-    
+
+    canonical_name = get_canonical_name(team_name, division=division)
+
     if latest:
         df = pd.read_csv(latest)
         # Filter using canonical name
-        team_df = df[df['Team'].apply(get_canonical_name) == canonical_name]
+        team_df = df[df['Team'].apply(lambda t: get_canonical_name(t, division=division)) == canonical_name]
         if not team_df.empty:
             return team_df[['Rank', 'Probability']].sort_values('Rank')
             

@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-division="men">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Canisius</title>
 <link rel="stylesheet" href="../assets/style.css">
 </head>
-<body>
+<body data-division="men">
 <header class="site-header">
   <a class="brand" href="../index.html">College Hockey Rankings</a>
   <nav>
@@ -28,9 +28,10 @@
 function renderDist(canvasId, labels, probs) {
   const ctx = document.getElementById(canvasId);
   if (!ctx || !window.Chart) return;
+  const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#1d4ed8';
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: accent }] },
     options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
   });
 }

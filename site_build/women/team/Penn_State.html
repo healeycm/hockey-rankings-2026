@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-division="women">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Penn State</title>
 <link rel="stylesheet" href="../../assets/style.css">
 </head>
-<body>
+<body data-division="women">
 <header class="site-header">
   <a class="brand" href="../../index.html">College Hockey Rankings</a>
   <nav>
@@ -19,18 +19,19 @@
 
 <h1><img class="logo" src="../../assets/logos/penn_state.png" style="width:32px;height:32px;vertical-align:middle;"> Penn State</h1>
 <div class="grid-2">
-  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
-  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 37</li><li>Win%: 0.595</li><li>Strength of schedule: 186.9</li></ul></div>
+  <div class="card"><h2>Upcoming schedule</h2><p>Schedule projections aren't run for women's D-I yet.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 39</li><li>Win%: 0.846</li><li>Strength of schedule: 132.1</li></ul></div>
 </div>
-<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Wisconsin</li><li>Arizona State</li><li>Michigan</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Clarkson</li><li>Wisconsin</li><li>Wisconsin</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Michigan</li><li>Wisconsin</li><li>Wisconsin</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Clarkson</li><li>Notre Dame</li></ul><h3>Projected finish</h3><canvas id="dist-KRACH" height="140"></canvas><script>renderDist('dist-KRACH', [12, 13], [0.278, 0.722]);</script></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Wisconsin</li><li>Ohio State</li><li>Minnesota</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Wisconsin</li><li>Wisconsin</li><li>Michigan State</li></ul></div>
+<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Northeastern</li><li>Cornell</li><li>Connecticut</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Ohio State</li><li>Mercyhurst</li></ul></div><div class="card"><h2>HockeyBT</h2><h3>Best wins</h3><ul class='plain'><li>Northeastern</li><li>Connecticut</li><li>Cornell</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Mercyhurst</li><li>Northeastern</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Northeastern</li><li>Connecticut</li><li>Cornell</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Mercyhurst</li><li>Northeastern</li></ul></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Cornell</li><li>Connecticut</li><li>Northeastern</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Ohio State</li><li>Ohio State</li></ul></div><div class="card"><h2>RPI</h2><h3>Best wins</h3><ul class='plain'><li>Northeastern</li><li>Connecticut</li><li>Cornell</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RIT</li><li>Mercyhurst</li><li>Northeastern</li></ul></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
 <script>
 function renderDist(canvasId, labels, probs) {
   const ctx = document.getElementById(canvasId);
   if (!ctx || !window.Chart) return;
+  const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#1d4ed8';
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: accent }] },
     options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
   });
 }

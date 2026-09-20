@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-division="women">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>St. Cloud State</title>
 <link rel="stylesheet" href="../../assets/style.css">
 </head>
-<body>
+<body data-division="women">
 <header class="site-header">
   <a class="brand" href="../../index.html">College Hockey Rankings</a>
   <nav>
@@ -19,18 +19,19 @@
 
 <h1><img class="logo" src="../../assets/logos/st._cloud_state.png" style="width:32px;height:32px;vertical-align:middle;"> St. Cloud State</h1>
 <div class="grid-2">
-  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
-  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 36</li><li>Win%: 0.458</li><li>Strength of schedule: 169.6</li></ul></div>
+  <div class="card"><h2>Upcoming schedule</h2><p>Schedule projections aren't run for women's D-I yet.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 37</li><li>Win%: 0.351</li><li>Strength of schedule: 384.4</li></ul></div>
 </div>
-<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Minnesota Duluth</li><li>Denver</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Omaha</li><li>Colorado College</li><li>Vermont</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Western Michigan</li><li>Denver</li><li>Denver</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Vermont</li><li>Omaha</li><li>St. Thomas</li></ul><h3>Projected finish</h3><canvas id="dist-KRACH" height="140"></canvas><script>renderDist('dist-KRACH', [24, 25], [0.722, 0.278]);</script></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Minnesota Duluth</li><li>Arizona State</li><li>Denver</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Colorado College</li><li>Denver</li><li>Omaha</li></ul></div>
+<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Minnesota Duluth</li><li>Minnesota State</li><li>Minnesota State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Clarkson</li><li>Minnesota State</li><li>Bemidji State</li></ul></div><div class="card"><h2>HockeyBT</h2><h3>Best wins</h3><ul class='plain'><li>Connecticut</li><li>Minnesota</li><li>Minnesota Duluth</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Bemidji State</li><li>St. Thomas</li><li>Clarkson</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Minnesota</li><li>Connecticut</li><li>Minnesota Duluth</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Bemidji State</li><li>Clarkson</li><li>St. Thomas</li></ul></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Minnesota Duluth</li><li>Minnesota State</li><li>Minnesota State</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Minnesota State</li><li>Minnesota</li><li>Minnesota</li></ul></div><div class="card"><h2>RPI</h2><h3>Best wins</h3><ul class='plain'><li>Connecticut</li><li>Minnesota</li><li>Minnesota Duluth</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Bemidji State</li><li>St. Thomas</li><li>St. Thomas</li></ul></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
 <script>
 function renderDist(canvasId, labels, probs) {
   const ctx = document.getElementById(canvasId);
   if (!ctx || !window.Chart) return;
+  const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#1d4ed8';
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: accent }] },
     options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
   });
 }

@@ -54,7 +54,6 @@ def _safe_name(team):
 
 
 def _read_manifest(division):
-    path = ROOT_DIR / "output" / ("women" if division == "women" else "") / "last_run.json"
     path = ROOT_DIR / "output" / "last_run.json" if division == "men" else ROOT_DIR / "output" / "women" / "last_run.json"
     if not path.exists():
         return {}
@@ -62,21 +61,25 @@ def _read_manifest(division):
         return json.load(f)
 
 
+# The stylesheet itself lives at src/site/assets/style.css (a real .css
+# file, not a Python string) -- main() copies it into out_dir/assets/.
+STYLE_CSS_PATH = Path(__file__).resolve().parent / "assets" / "style.css"
+
 PAGE_SHELL = """<!doctype html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-division="{division}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <link rel="stylesheet" href="{root}assets/style.css">
 </head>
-<body>
+<body data-division="{division}">
 <header class="site-header">
   <a class="brand" href="{root}index.html">College Hockey Rankings</a>
   <nav>
-    <a href="{root}index.html">Men's</a>
-    <a href="{root}women/index.html">Women's</a>
-    <a href="{root}methodology.html">Methodology</a>
+    <a href="{root}index.html"{men_cur}>Men's</a>
+    <a href="{root}women/index.html"{women_cur}>Women's</a>
+    <a href="{root}methodology.html"{meth_cur}>Methodology</a>
   </nav>
 </header>
 <main class="container">
@@ -89,58 +92,32 @@ PAGE_SHELL = """<!doctype html>
 </html>
 """
 
-STYLE_CSS = """
-:root {
-  --bg: #f7f7f5; --panel: #ffffff; --text: #1b1b1f; --muted: #6b6b76;
-  --border: #e3e3e8; --accent: #7a3ff2; --accent-bg: #f1eafe;
-  --banner-bg: #fff4e5; --banner-border: #f0c987; --banner-text: #7a4a00;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #16161a; --panel: #1e1e24; --text: #eceef1; --muted: #9a9aa5;
-    --border: #302f38; --accent: #b18bff; --accent-bg: #2a2140;
-    --banner-bg: #3a2c10; --banner-border: #7a5a20; --banner-text: #f0cf8f;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #16161a; --panel: #1e1e24; --text: #eceef1; --muted: #9a9aa5;
-  --border: #302f38; --accent: #b18bff; --accent-bg: #2a2140;
-  --banner-bg: #3a2c10; --banner-border: #7a5a20; --banner-text: #f0cf8f;
-}
-* { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, Segoe UI, Roboto, sans-serif; }
-.container { max-width: 980px; margin: 0 auto; padding: 8px 16px 48px; }
-.site-header { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px; border-bottom: 1px solid var(--border); background: var(--panel); flex-wrap: wrap; gap: 8px; }
-.site-header .brand { font-weight: 700; color: var(--text); text-decoration: none; font-size: 1.1rem; }
-.site-header nav a { color: var(--muted); text-decoration: none; margin-left: 18px; font-size: .95rem; }
-.site-header nav a:hover { color: var(--accent); }
-.site-footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px 16px; }
-h1 { font-size: 1.5rem; margin: 18px 0 6px; }
-h2 { font-size: 1.15rem; margin: 24px 0 8px; }
-.subtitle { color: var(--muted); font-size: .9rem; margin-bottom: 16px; }
-.banner { background: var(--banner-bg); border: 1px solid var(--banner-border); color: var(--banner-text); border-radius: 8px; padding: 10px 14px; margin-bottom: 16px; font-size: .9rem; }
-.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
-.tab-btn { border: 1px solid var(--border); background: var(--panel); color: var(--text); border-radius: 999px; padding: 6px 14px; font-size: .85rem; cursor: pointer; }
-.tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-.table-wrap { overflow-x: auto; border-radius: 8px; }
-table { width: 100%; min-width: 480px; border-collapse: collapse; background: var(--panel); border: 1px solid var(--border); }
-th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--border); font-size: .9rem; }
-th { color: var(--muted); font-weight: 600; cursor: pointer; user-select: none; }
-tr:last-child td { border-bottom: none; }
-tr:hover td { background: var(--accent-bg); }
-.team-link { display: flex; align-items: center; gap: 8px; color: var(--text); text-decoration: none; }
-.team-link:hover { color: var(--accent); }
-.logo { width: 22px; height: 22px; object-fit: contain; }
-.num { text-align: right; font-variant-numeric: tabular-nums; }
-.card { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; margin-bottom: 16px; }
-.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-@media (max-width: 700px) { .grid-2 { grid-template-columns: 1fr; } }
-.win { color: #1a7f37; } .loss { color: #cf222e; }
-ul.plain { list-style: none; padding: 0; margin: 0; }
-ul.plain li { padding: 4px 0; border-bottom: 1px solid var(--border); font-size: .88rem; }
-ul.plain li:last-child { border-bottom: none; }
-canvas#distChart { max-width: 100%; }
-"""
+
+def _page_shell(title, root, body, model_count, division="", current=""):
+    """Renders PAGE_SHELL. `division` is 'men'/'women'/'' (methodology,
+    which isn't division-scoped and falls back to the men's-blue accent --
+    see style.css). `current` marks the active nav link ('men'/'women'/
+    'methodology') for a visual "you are here" state."""
+    return PAGE_SHELL.format(
+        title=title, root=root, body=body, model_count=model_count, division=division,
+        men_cur=' class="current"' if current == "men" else "",
+        women_cur=' class="current"' if current == "women" else "",
+        meth_cur=' class="current"' if current == "methodology" else "",
+    )
+
+
+def _displayed_season(manifest, target_season):
+    """The season these rankings actually reflect, for the h1 tag. Mirrors
+    _banner_html's own fallback logic (0-games-played target season ->
+    the prior season's numbers) so the two never say different seasons."""
+    games = manifest.get("games_played_this_season")
+    target_fmt = _format_season(target_season) if target_season else None
+    if games is not None and games == 0 and target_season:
+        return _format_season(shift_season_code(target_season, 1))
+    manifest_season = manifest.get("target_season")
+    if manifest_season:
+        return _format_season(manifest_season)
+    return target_fmt or "current season"
 
 
 def _banner_html(manifest, target_season):
@@ -205,8 +182,9 @@ def build_rankings_page(division, active_models, out_dir, root):
         panels.append(f'<div class="tab-panel" id="panel-{model}"{hidden}>{_rankings_table_html(model, df, division, root)}</div>')
 
     section_title = "Women's D-I Rankings" if division == "women" else "Men's D-I Rankings"
+    season_label = _displayed_season(manifest, target_season)
     body = f"""
-<h1>{section_title}</h1>
+<h1>{section_title} <span class="season-tag">{season_label}</span></h1>
 {_banner_html(manifest, target_season)}
 <div class="tabs">{''.join(tabs)}</div>
 {''.join(panels)}
@@ -217,9 +195,9 @@ function showTab(name) {{
 }}
 </script>
 """
-    html_out = PAGE_SHELL.format(
-        title=f"{'Women' if division == 'women' else 'Men'}'s Rankings",
-        root=root, body=body, model_count=len(models_here),
+    html_out = _page_shell(
+        title=f"{'Women' if division == 'women' else 'Men'}'s Rankings — {season_label}",
+        root=root, body=body, model_count=len(models_here), division=division, current=division,
     )
     fname = "index.html" if division == "men" else "women/index.html"
     (out_dir / fname).parent.mkdir(parents=True, exist_ok=True)
@@ -238,13 +216,20 @@ def _game_row_html(row):
 
 def build_team_page(team, division, active_models, out_dir, root):
     schedule_model = active_models[0] if active_models else "Massey"
-    schedule = get_team_schedule(team, model=schedule_model)
+    schedule = get_team_schedule(team, model=schedule_model, division=division)
     logo = get_logo_url(team, division=division)
 
-    upcoming_html = "<p>No upcoming games scheduled.</p>"
     if schedule is not None and not schedule.empty:
         rows = [_game_row_html(r) for _, r in schedule.head(15).iterrows()]
         upcoming_html = f'<ul class="plain">{"".join(rows)}</ul>'
+    elif division == "women":
+        # Distinguish "the pipeline doesn't produce this for women's yet"
+        # from "no games left this season" (men's) -- saying the wrong one
+        # here reads as a bug, not an honest gap. See the plan's Phase 1
+        # note: women's has no output/women/projections/ tree at all.
+        upcoming_html = "<p>Schedule projections aren't run for women's D-I yet.</p>"
+    else:
+        upcoming_html = "<p>No upcoming games scheduled.</p>"
 
     # Games/WinPct/SOS_Rating are team-level facts, identical across every
     # model's season_summary.csv (confirmed: they don't vary by model) --
@@ -256,7 +241,7 @@ def build_team_page(team, division, active_models, out_dir, root):
     # alongside the other models' cards).
     overview_html = "<p>No data.</p>"
     for model in active_models:
-        analysis = load_team_analysis(team, model=model)
+        analysis = load_team_analysis(team, model=model, division=division)
         stats = analysis.get("stats") if analysis else None
         if stats:
             games = stats.get("Games")
@@ -275,8 +260,8 @@ def build_team_page(team, division, active_models, out_dir, root):
 
     model_sections = []
     for model in active_models:
-        analysis = load_team_analysis(team, model=model)
-        dist_df = load_rank_distribution(team, model=model)
+        analysis = load_team_analysis(team, model=model, division=division)
+        dist_df = load_rank_distribution(team, model=model, division=division)
         parts = [f"<h2>{html.escape(model)}</h2>"]
         has_content = False
         if analysis:
@@ -317,19 +302,206 @@ def build_team_page(team, division, active_models, out_dir, root):
 function renderDist(canvasId, labels, probs) {{
   const ctx = document.getElementById(canvasId);
   if (!ctx || !window.Chart) return;
+  const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#1d4ed8';
   new Chart(ctx, {{
     type: 'bar',
-    data: {{ labels: labels, datasets: [{{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }}] }},
+    data: {{ labels: labels, datasets: [{{ label: 'Probability', data: probs, backgroundColor: accent }}] }},
     options: {{ plugins: {{ legend: {{ display: false }} }}, scales: {{ x: {{ title: {{ display: true, text: 'Final rank' }} }} }} }}
   }});
 }}
 </script>
 """
-    html_out = PAGE_SHELL.format(title=f"{team}", root=root, body=body, model_count=len(active_models))
+    html_out = _page_shell(title=f"{team}", root=root, body=body, model_count=len(active_models), division=division)
     rel = f"team/{_safe_name(team)}.html" if division == "men" else f"women/team/{_safe_name(team)}.html"
     path = out_dir / rel
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(html_out, encoding="utf-8")
+
+
+# Full methodology copy, one entry per model this project runs (whether or
+# not it's in either division's current active_models list -- unlisted
+# ones are marked "implemented, not currently featured" rather than
+# omitted, so this page is a complete map of what's in src/rankings/, not
+# just a gloss on the 1-2 rosters currently live). Ordered by how the page
+# presents them: the 4 shared/legacy methods first, then the 2 that were
+# added specifically to beat NPI.
+#
+# `example` uses real numbers pulled from this project's own latest output
+# CSVs (not illustrative placeholders) -- see the comment on each entry for
+# which two teams/season. External links are general references for the
+# method itself, not endorsements of this project; verify they still
+# resolve before treating this list as final.
+MODEL_DOCS = [
+    {
+        "key": "ELO",
+        "summary": "A sequential rating that updates after every single game, the way chess "
+                    "and most competitive-game rating systems work.",
+        "how": "Every team starts at a baseline rating. After each game, the winner takes rating "
+               "points from the loser -- more points for a bigger upset (beating a much "
+               "higher-rated team), fewer for beating a team you were already expected to beat. "
+               "The exchange is also scaled by margin of victory and adjusted for home ice, so a "
+               "5-goal road win moves the ratings more than a 1-goal home win.",
+        "example": "Our most recent final ratings had Michigan at 1188.7 and North Dakota at "
+                   "1176.1. Elo's own win-probability formula, 1 / (1 + 10^(-diff/400)), turns "
+                   "that 12.6-point gap into a roughly 52% chance for Michigan on a neutral "
+                   "sheet of ice -- illustrating how close Elo says these two teams actually are, "
+                   "despite the rating gap looking larger in isolation.",
+        "strengths": "Reacts fast to a team's current form (a hot or cold streak shows up "
+                     "immediately), is cheap to recompute after each night's games, and in our "
+                     "own calibration testing it's the best-calibrated model we run -- its stated "
+                     "win probabilities match actual outcomes more closely than any other model "
+                     "here, including Massey (see reports/calibration_metrics.md).",
+        "caveats": "Purely sequential, so it has no real memory of a full season's context -- "
+                    "two teams with identical records can end up at different ratings just "
+                    "because of the order they played their games in.",
+        "links": [
+            ("Wikipedia: Elo rating system", "https://en.wikipedia.org/wiki/Elo_rating_system"),
+            ("FiveThirtyEight: How our NFL predictions work (Elo primer)",
+             "https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/"),
+        ],
+    },
+    {
+        "key": "Massey",
+        "summary": "A least-squares rating: the set of team ratings that, together, best explain "
+                    "every game's actual goal differential.",
+        "how": "Solves a system of linear equations -- one per game, each saying roughly "
+               "'winner's rating minus loser's rating should predict this goal margin' -- for the "
+               "single set of ratings that minimizes the total prediction error across every game "
+               "played. On top of Kenneth Massey's original method we add a fitted home-ice term, "
+               "a fitted rest/fatigue adjustment (penalizing a team playing on short rest), and "
+               "ridge regularization so teams with thin schedules don't get wild ratings.",
+        "example": "Same two teams as above: Michigan's Massey rating was 1.918 to North "
+                   "Dakota's 1.797, a 0.12-goal gap -- Massey's native scale is predicted goal "
+                   "margin, so that's a razor-thin expected difference before the home-ice and "
+                   "rest adjustments are applied to an actual matchup.",
+        "strengths": "The best model we run overall: it beats KRACH, Elo, and HockeyBT on "
+                     "accuracy, Brier score, and log loss simultaneously, with all 9 of those "
+                     "head-to-head comparisons statistically significant (reports/"
+                     "massey_calibration_results.md, reports/massey_experiments_2026.md).",
+        "caveats": "Wins on resolution (how sharply it separates good teams from bad) rather "
+                    "than calibration -- Elo's stated probabilities are actually closer to true "
+                    "frequencies (reports/calibration_metrics.md).",
+        "links": [
+            ("Kenneth Massey's rating site", "https://masseyratings.com/"),
+            ("Langville & Meyer, Who's #1? (the standard reference for Massey/Colley/Keener)",
+             "https://press.princeton.edu/books/paperback/9780691162231/whos-1"),
+        ],
+    },
+    {
+        "key": "KRACH",
+        "summary": "Bradley-Terry maximum-likelihood ratings -- the same family of model behind "
+                    "the NCAA hockey selection committee's own comparison tool.",
+        "how": "Iteratively solves for a rating per team such that each team's *expected* win "
+               "total against its actual opponents (summing rating_A / (rating_A + rating_B) "
+               "over every game) matches its *actual* win total. Fit purely from this season's "
+               "results -- no home ice, no margin of victory, no other adjustments.",
+        "example": "Michigan's KRACH rating (576.9) against North Dakota's (351.5) gives a "
+                   "textbook Bradley-Terry win probability of 576.9 / (576.9 + 351.5) ≈ 62%.",
+        "strengths": "Transparent and already recognized by the sport -- it's the model the "
+                     "NCAA hockey selection committee itself consults. We deliberately keep our "
+                     "KRACH implementation \"pure\" (no home-ice or margin additions) so it's "
+                     "directly cross-checkable against published KRACH numbers elsewhere.",
+        "caveats": "Ignoring home ice and margin of victory throws away real information the "
+                    "other models use. Bradley-Terry ratings can also become unstable when two "
+                    "parts of the schedule graph are only thinly connected (few common "
+                    "opponents) -- a genuine structural weakness of this whole model family that "
+                    "our own audit found actually favors NPI in that specific scenario "
+                    "(reports/npi_critique.md, \"connectivity limits\").",
+        "links": [
+            ("USCHO: understanding KRACH", "https://www.uscho.com/rankings/mens-di-krach/"),
+            ("Wikipedia: Bradley-Terry model", "https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"),
+        ],
+    },
+    {
+        "key": "NPI",
+        "summary": "Our from-scratch reimplementation of the NCAA's own official selection-"
+                    "committee formula.",
+        "how": "Combines a team's winning percentage (with road wins weighted more than home "
+               "wins) with its strength of schedule (opponents' winning percentage) and a "
+               "\"quality win bonus\" for beating strong opponents, into the single index the "
+               "committee uses at-large and seeding. Purely this-season results.",
+        "example": "On the NPI scale, Michigan's 59.50 vs. North Dakota's 58.75 is a 0.75-point "
+                   "gap -- NPI is a selection-committee index, not a predictive model, so unlike "
+                   "the others above this number isn't meant to convert into a win probability.",
+        "strengths": "It's the actual formula that determines the tournament field, so it's the "
+                     "one number on this page with direct bracket implications. Our "
+                     "reimplementation matches the NCAA's own published numbers after we found "
+                     "and fixed a date-cutoff and a strength-of-schedule filter bug (reports/"
+                     "npi_investigation_2026.md).",
+        "caveats": "Our own multi-part critique found real weaknesses relative to the other "
+                    "models here: worse predictive accuracy than Massey or even plain RPI, the "
+                    "same schedule-connectivity sensitivity as KRACH, and several other findings "
+                    "detailed across reports/npi_critique.md and the dial-interaction/bubble-"
+                    "divergence/tail-risk experiment reports. We publish NPI because it's the "
+                    "committee's own formula, not because our research rates it as the best "
+                    "predictor.",
+        "links": [
+            ("NCAA Division I Ice Hockey selection criteria (official)",
+             "https://www.ncaa.com/news/icehockey-men/article/ncaa-di-mens-hockey-championship-selection-process"),
+            ("USCHO: understanding the NPI", "https://www.uscho.com/rankings/mens-di-npi/"),
+        ],
+    },
+    {
+        "key": "HockeyBT",
+        "summary": "An extended Bradley-Terry model (Davidson-Beaver) -- KRACH's exact same "
+                    "engine, plus a fitted home-ice term and a genuine three-outcome (win/tie/"
+                    "loss) treatment of overtime games.",
+        "how": "KRACH's plain Bradley-Terry math assumes only two outcomes and no home ice. "
+               "HockeyBT adds two fitted parameters on top of that same core: theta (home-ice "
+               "advantage, fit from the data rather than assumed) and nu (a Davidson tie term, "
+               "since roughly a fifth of NCAA hockey games are decided in overtime/shootout and "
+               "are statistically closer to a draw than a clean regulation win). MAP "
+               "regularization keeps thinly-scheduled teams' ratings from blowing up, the same "
+               "problem plain KRACH has.",
+        "example": "In this season's women's ratings, Ohio State's HockeyBT rating (821.0) vs. "
+                   "Wisconsin's (738.7) gives an approximate 52.6% Bradley-Terry win probability "
+                   "before HockeyBT's home-ice and tie terms are applied to a specific matchup.",
+        "strengths": "Beats KRACH on calibration (Brier score, log loss) and beats NPI on "
+                     "accuracy at the same time, in a 5-year, 20-split backtest (reports/"
+                     "hockey_bt_results.md) -- it's the model we run for women's D-I.",
+        "caveats": "Not currently run for men's: the site's men's roster was trimmed to a "
+                    "smaller, reports-supported set, and HockeyBT wasn't in that cut -- it's "
+                    "fully implemented and configured in config.yaml and can be turned back on "
+                    "for men's at any time.",
+        "links": [
+            ("Wikipedia: Bradley-Terry model (Davidson tie extension is covered under "
+             "\"ties\")", "https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"),
+        ],
+    },
+    {
+        "key": "RPI",
+        "summary": "The classic Ratings Percentage Index: a weighted blend of a team's own "
+                    "record, its opponents' records, and its opponents' opponents' records.",
+        "how": "RPI = 0.25 × (own winning percentage) + 0.50 × (opponents' average "
+               "winning percentage) + 0.25 × (opponents' opponents' average winning "
+               "percentage), using the same road-win-weighted/home-win-discounted convention as "
+               "NPI. This is the formula NPI itself replaced in NCAA hockey selection years ago "
+               "with committee-tuned weights and a quality-win bonus.",
+        "example": "This season's women's RPI has Ohio State at 0.6346 and Wisconsin at 0.6169 "
+                   "-- RPI's native scale is a 0-1 percentage-like index, not goals or a "
+                   "probability.",
+        "strengths": "Beats NPI on accuracy in our backtests (reports/rpi_results.md) -- the "
+                     "second independent confirmation, after HockeyBT, that NPI underperforms "
+                     "simpler alternatives on pure predictive accuracy.",
+        "caveats": "Loses to Massey on every metric we track. We keep it running mainly for its "
+                    "diagnostic value as an NPI comparison, not because it's a top model in its "
+                    "own right.",
+        "links": [
+            ("Wikipedia: Ratings Percentage Index", "https://en.wikipedia.org/wiki/Rating_percentage_index"),
+        ],
+    },
+]
+
+
+def _method_tags(key, active_men, active_women):
+    tags = []
+    if key in active_men:
+        tags.append('<span class="tag men">Men\'s</span>')
+    if key in active_women:
+        tags.append('<span class="tag women">Women\'s</span>')
+    if not tags:
+        tags.append('<span class="tag">Implemented, not currently featured</span>')
+    return f'<div class="tag-row">{"".join(tags)}</div>'
 
 
 def build_methodology_page(out_dir, root):
@@ -337,32 +509,61 @@ def build_methodology_page(out_dir, root):
     # -- per an explicit request to keep that out of the published site for
     # now, even though it validated well (reports/preseason_priors_results.md).
     # Revisit this copy if/when that's ready to be public.
-    body = """
+    config = _config()
+    active_men = config['models']['active_models']
+    active_women = config['models'].get('active_models_women', active_men)
+
+    cards = []
+    for doc in MODEL_DOCS:
+        links_html = "".join(f'<a href="{href}" rel="noopener" target="_blank">{html.escape(text)}</a>'
+                              for text, href in doc["links"])
+        cards.append(f"""
+<div class="card">
+<div class="card-head"><h2>{html.escape(doc['key'])}</h2>{_method_tags(doc['key'], active_men, active_women)}</div>
+<p>{doc['summary']}</p>
+<h3>How it works</h3>
+<p>{doc['how']}</p>
+<div class="example-block"><strong>Worked example:</strong> {doc['example']}</div>
+<h3>Strengths</h3>
+<p>{doc['strengths']}</p>
+<h3>Caveats</h3>
+<p>{doc['caveats']}</p>
+<div class="links-row">{links_html}</div>
+</div>""")
+
+    body = f"""
 <h1>Methodology</h1>
+<p class="subtitle">Six ranking models, all implemented and validated in this project's own
+backtests. Every model below is fit fresh from this season's actual game results -- none of
+them use a human poll, recruiting rankings, or last season's finish as an input (preseason
+priors are used for early-season stability on ELO/Massey but are kept off this public page for
+now).</p>
+
 <div class="card">
-<h2>ELO</h2>
-<p>Sequential rating updated after every game (margin-of-victory weighted, home-ice adjusted).</p>
+<h2>How to read these rankings</h2>
+<p>Each division's rankings page shows every model that division currently runs, as tabs over the
+same team list. The models don't always agree -- that disagreement is informative, not a bug:
+Elo reacts fastest to recent form, Massey is our most accurate model overall, KRACH and NPI are
+the two "official"/committee-recognized formulas, and HockeyBT/RPI exist specifically to
+stress-test NPI against genuine alternatives. See "What we've validated" below for how each
+claim on this page was tested.</p>
 </div>
+
+{"".join(cards)}
+
 <div class="card">
-<h2>Massey</h2>
-<p>Least-squares ratings fit to goal differential, with a fitted home-ice term, fitted rest/fatigue
-adjustment, and ridge regularization. Backtested to beat KRACH/ELO/HockeyBT on accuracy, Brier
-score, and log loss (see reports/massey_calibration_results.md, reports/massey_experiments_2026.md).</p>
+<h2>What we've validated</h2>
+<p>Every performance claim above is backed by a written report with the actual backtest numbers,
+not just an assertion. The full set (accuracy, Brier score, log loss, calibration/ECE, and the
+specific model-vs-model comparisons) lives in this project's <code>reports/</code> directory,
+including <code>massey_calibration_results.md</code>, <code>hockey_bt_results.md</code>,
+<code>rpi_results.md</code>, <code>npi_critique.md</code>, <code>npi_investigation_2026.md</code>,
+and <code>calibration_metrics.md</code>. Models are only added to a division's live roster after
+they clear that bar -- see config.yaml's own notes on how the current men's and women's rosters
+were chosen.</p>
 </div>
-<div class="card">
-<h2>KRACH</h2>
-<p>Bradley-Terry maximum-likelihood ratings (the model behind the NCAA hockey selection
-committee's own comparison tool). Purely fit from this season's game results.</p>
-</div>
-<div class="card">
-<h2>NPI</h2>
-<p>A from-scratch reimplementation of the NCAA's official Nutting Power Index (winning percentage
-+ strength of schedule, quality-win bonus, home/road weighting).</p>
-</div>
-<p class="subtitle">See the project's <code>reports/</code> folder for full backtests and validation
-methodology behind every claim above.</p>
 """
-    html_out = PAGE_SHELL.format(title="Methodology", root=root, body=body, model_count=4)
+    html_out = _page_shell(title="Methodology", root=root, body=body, model_count=len(MODEL_DOCS), division="", current="methodology")
     (out_dir / "methodology.html").write_text(html_out, encoding="utf-8")
 
 
@@ -445,7 +646,7 @@ def main():
 
     assets_dir = out_dir / "assets"
     assets_dir.mkdir(exist_ok=True)
-    (assets_dir / "style.css").write_text(STYLE_CSS, encoding="utf-8")
+    shutil.copy2(STYLE_CSS_PATH, assets_dir / "style.css")
 
     logos_src = ROOT_DIR / "webpage" / "assets" / "logos"
     logos_dst = assets_dir / "logos"

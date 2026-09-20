@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-division="women">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Robert Morris</title>
 <link rel="stylesheet" href="../../assets/style.css">
 </head>
-<body>
+<body data-division="women">
 <header class="site-header">
   <a class="brand" href="../../index.html">College Hockey Rankings</a>
   <nav>
@@ -19,18 +19,19 @@
 
 <h1><img class="logo" src="../../assets/logos/robert_morris.png" style="width:32px;height:32px;vertical-align:middle;"> Robert Morris</h1>
 <div class="grid-2">
-  <div class="card"><h2>Upcoming schedule</h2><p>No upcoming games scheduled.</p></div>
-  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 40</li><li>Win%: 0.438</li><li>Strength of schedule: 68.5</li></ul></div>
+  <div class="card"><h2>Upcoming schedule</h2><p>Schedule projections aren't run for women's D-I yet.</p></div>
+  <div class="card"><h2>Season overview</h2><ul class='plain'><li>Games played: 36</li><li>Win%: 0.389</li><li>Strength of schedule: 39.2</li></ul></div>
 </div>
-<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>Sacred Heart</li><li>Air Force</li><li>Army</li></ul><h3>Toughest losses</h3><ul class='plain'><li>LIU</li><li>Lindenwood</li><li>Niagara</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>Sacred Heart</li><li>Holy Cross</li><li>Holy Cross</li></ul><h3>Toughest losses</h3><ul class='plain'><li>LIU</li><li>LIU</li><li>Niagara</li></ul></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>Sacred Heart</li><li>Air Force</li><li>Air Force</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Canisius</li><li>Sacred Heart</li><li>Sacred Heart</li></ul></div>
+<div class="card"><h2>Massey</h2><h3>Best wins</h3><ul class='plain'><li>RIT</li><li>Lindenwood</li><li>LIU</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Bemidji State</li><li>Bemidji State</li><li>Lindenwood</li></ul></div><div class="card"><h2>HockeyBT</h2><h3>Best wins</h3><ul class='plain'><li>RIT</li><li>RIT</li><li>Lindenwood</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RPI</li><li>RPI</li><li>Bemidji State</li></ul></div><div class="card"><h2>KRACH</h2><h3>Best wins</h3><ul class='plain'><li>RIT</li><li>RIT</li><li>Lindenwood</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RPI</li><li>RPI</li><li>Bemidji State</li></ul></div><div class="card"><h2>ELO</h2><h3>Best wins</h3><ul class='plain'><li>LIU</li><li>RIT</li><li>Lindenwood</li></ul><h3>Toughest losses</h3><ul class='plain'><li>Lindenwood</li><li>Mercyhurst</li><li>Mercyhurst</li></ul></div><div class="card"><h2>RPI</h2><h3>Best wins</h3><ul class='plain'><li>RIT</li><li>Lindenwood</li><li>RIT</li></ul><h3>Toughest losses</h3><ul class='plain'><li>RPI</li><li>RPI</li><li>Bemidji State</li></ul></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
 <script>
 function renderDist(canvasId, labels, probs) {
   const ctx = document.getElementById(canvasId);
   if (!ctx || !window.Chart) return;
+  const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#1d4ed8';
   new Chart(ctx, {
     type: 'bar',
-    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: '#7a3ff2' }] },
+    data: { labels: labels, datasets: [{ label: 'Probability', data: probs, backgroundColor: accent }] },
     options: { plugins: { legend: { display: false } }, scales: { x: { title: { display: true, text: 'Final rank' } } } }
   });
 }
