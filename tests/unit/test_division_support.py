@@ -82,3 +82,48 @@ def test_explicit_kwarg_beats_context_manager():
         # would otherwise blow up on the bogus context-manager path.
         model = KRACH(data, filter_di_teams=False)
     assert len(model.games) == 2
+
+
+# --- apply_division_model_config_overrides (P0.3): NPI's dials genuinely
+# differ by division (no home/away multiplier for women's, different QWB
+# base -- confirmed against the NCAA's own official document; see
+# config.yaml's npi_women block and research/womens_comparison/reports/
+# p0_3_npi_validation.md). Women's NPI was actually computed and published
+# with men's dials before this was caught -- these guard the fix.
+from src.run_system import apply_division_model_config_overrides  # noqa: E402
+from src.utils.config import load_config  # noqa: E402
+
+
+def test_women_division_swaps_in_npi_women_config():
+    config = load_config()
+    result = apply_division_model_config_overrides(config, 'women')
+    assert result['models']['npi'] == config['models']['npi_women']
+    # No home/away multiplier for women's NPI -- the actual bug this fixed.
+    assert result['models']['npi']['home_multiplier'] == 1.0
+    assert result['models']['npi']['away_multiplier'] == 1.0
+
+
+def test_men_division_leaves_npi_config_untouched():
+    config = load_config()
+    result = apply_division_model_config_overrides(config, 'men')
+    assert result['models']['npi'] == config['models']['npi']
+    assert result is config  # no-op should return the same object, not a copy
+
+
+def test_override_does_not_mutate_the_input_config():
+    """A women's-division call must never leak into a men's run sharing the
+    same config object (e.g. across two divisions handled by one process)."""
+    config = load_config()
+    original_npi = config['models']['npi']
+    apply_division_model_config_overrides(config, 'women')
+    assert config['models']['npi'] is original_npi
+
+
+def test_override_ignores_active_models_women_list():
+    """active_models_women is a LIST (a roster), not a model config dict --
+    the generic '*_<division>' matching must not also try to overwrite
+    config['models']['active_models'] with it."""
+    config = load_config()
+    result = apply_division_model_config_overrides(config, 'women')
+    assert result['models']['active_models'] == config['models']['active_models']
+    assert isinstance(result['models']['active_models'], list)
