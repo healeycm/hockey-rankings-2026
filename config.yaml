@@ -172,11 +172,17 @@ models:
   # (Rest of config...)
   # Men's D-I NPI dials -- verified against the NCAA's own official values
   # (25/75, QWB base 51.0/mult 0.5) in reports/npi_investigation_2026.md.
-  # NOTE: ot_win_weight/ot_loss_weight here are currently DEAD CONFIG --
-  # src/rankings/npi.py hardcodes the 60/40 OT split directly into its
-  # formula (`0.4 * mult + 0.2`) rather than reading these keys. Left as
-  # documentation of the intended value, not wired up; see
-  # research/womens_comparison/reports/p0_3_npi_validation.md.
+  # NOTE: ot_win_weight/ot_loss_weight AND weight_wp/weight_sos here are
+  # ALL currently DEAD CONFIG -- src/rankings/npi.py hardcodes the 60/40 OT
+  # split directly into its formula (`0.4 * mult + 0.2`) and hardcodes the
+  # 25/75 win%/SOS split in its fit loop, neither read from self.conf (only
+  # home_multiplier/away_multiplier and quality_win_base/quality_win_mult
+  # are genuinely wired up). Left as documentation of the intended value,
+  # not wired up; see research/womens_comparison/reports/
+  # p0_3_npi_validation.md (OT) and w6_dial_sensitivity.md (weight_wp/sos,
+  # discovered while building that experiment -- use
+  # src/analysis/npi_vs_krach.py's reweight_npi() for a valid weight_wp
+  # sensitivity analysis instead of passing it through config).
   npi:
     weight_wp: 0.25
     weight_sos: 0.75
@@ -201,7 +207,9 @@ models:
   # here, since (like men's) the formula doesn't actually read
   # ot_win_weight/ot_loss_weight; fixing the OT split requires generalizing
   # npi.py's hardcoded formula, deliberately not done in this pass -- see
-  # research/womens_comparison/reports/p0_3_npi_validation.md.
+  # research/womens_comparison/reports/p0_3_npi_validation.md. weight_wp/
+  # weight_sos are ALSO dead config here, same as the men's block above --
+  # see w6_dial_sensitivity.md.
   npi_women:
     weight_wp: 0.25
     weight_sos: 0.75

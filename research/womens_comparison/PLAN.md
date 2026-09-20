@@ -167,6 +167,9 @@ candidates for "the models."
 
 ## Phase 2 — Does the models paper replicate? (real data)
 
+**Status (2026-09-20): W2 done** — see `reports/w2_full_backtest_with_npi.md`.
+W3/W4 not started.
+
 **W2 — Full 6-model backtest with significance.** Massey, HockeyBT, KRACH,
 ELO, RPI, **and NPI** (never previously backtested on women's data), 5
 seasons × 4 cutoffs, men's protocol exactly, with the paired t-test/McNemar
@@ -194,6 +197,10 @@ structure* still holds even though the *occupants of each axis* change.
 ---
 
 ## Phase 3 — Does the NPI critique replicate? (the strongest angle)
+
+**Status (2026-09-20): W5, W6, W8 done** — see `reports/w5_win_paradox.md`,
+`reports/w6_dial_sensitivity.md`, `reports/w8_bubble_divergence.md`. W7,
+W9, W10 not started.
 
 This is where a women's extension is most likely to be genuinely novel,
 because the NPI paper's claims are claims about a formula's behavior on a

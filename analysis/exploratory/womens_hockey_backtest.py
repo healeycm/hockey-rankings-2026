@@ -1,10 +1,12 @@
 """
-5-year/20-split backtest of the core model roster (Massey, HockeyBT, KRACH,
-ELO, RPI) on women's D-I hockey data — re-run, not ported, per
+5-year/20-split backtest of the full 6-model roster (Massey, HockeyBT,
+KRACH, ELO, RPI, NPI) on women's D-I hockey data — re-run, not ported, per
 reports/womens_hockey_import.md's plan. Every hyperparameter here is the
-men's-tuned default; this script's job is to check whether those defaults
-still make sense on a structurally different competitive landscape, not to
-assume they do.
+men's-tuned default EXCEPT NPI, which uses config.yaml's npi_women block
+(women's-specific dials, verified against the NCAA's own official document
+-- see research/womens_comparison/reports/p0_3_npi_validation.md); this
+script's job is to check whether those defaults still make sense on a
+structurally different competitive landscape, not to assume they do.
 
 IMPORTANT: every model instantiation must happen inside a
 `using_di_team_path(...)` block — see src/rankings/base_ranker.py's
@@ -21,9 +23,11 @@ paired significance testing below was added (BacktestEngine already
 collected per-game predictions in self.all_predictions; it just never
 persisted or paired-tested them for women's data the way
 analysis/exploratory/hockey_bt_backtest.py already does for men's).
-NPI is deliberately NOT in this roster yet -- see P0.3, which validates our
-women's NPI implementation against the NCAA's own published numbers before
-any comparison involving it is treated as meaningful.
+NPI was added to this backtest 2026-09-20 (W2) now that P0.3 has validated
+its women's-specific dials -- this is the FIRST time NPI has been included
+in a women's-hockey accuracy/Brier/LogLoss backtest; every prior claim
+about NPI on this project's public site was carried over from men's-only
+evidence.
 """
 import pandas as pd
 import numpy as np
@@ -114,11 +118,21 @@ def main():
     print(f"Women's D-I historical games loaded: {len(history_df)}")
     print(history_df['Season'].value_counts().sort_index())
 
-    models = {"Massey": Massey, "HockeyBT": HockeyBT, "KRACH": KRACH, "ELO": ELO, "RPI": RPI}
+    # NPI added 2026-09-20 (W2, research/womens_comparison/PLAN.md) now that
+    # P0.3 has validated the women's-specific dials -- see config.yaml's
+    # npi_women block and research/womens_comparison/reports/
+    # p0_3_npi_validation.md. Without this config override NPI() would use
+    # its constructor default (men's dials), silently reproducing the exact
+    # bug P0.3 found and fixed.
+    from src.rankings.npi import NPI
+    from src.utils.config import load_config
+    npi_women_config = load_config()['models']['npi_women']
+
+    models = {"Massey": Massey, "HockeyBT": HockeyBT, "KRACH": KRACH, "ELO": ELO, "RPI": RPI, "NPI": NPI}
     configs = {
         "Massey": {'fit_home_ice': True, 'ridge_lambda': 1.0, 'fit_beta': True},
         "HockeyBT": {'fit_home_ice': True, 'fit_ties': True, 'prior_strength': 0.4},
-        "KRACH": {}, "ELO": {}, "RPI": {},
+        "KRACH": {}, "ELO": {}, "RPI": {}, "NPI": npi_women_config,
     }
 
     out_dir = Path('data/validation/backtest_results')
@@ -130,7 +144,7 @@ def main():
     summary.to_csv(out_dir / 'womens_hockey_backtest.csv', index=False)
     print("\n=== Women's hockey: split-averaged means (men's-tuned defaults) ===")
     cols = ['Accuracy', 'Brier', 'LogLoss', 'ECE', 'Reliability', 'Resolution']
-    print(summary.groupby('Model')[cols].mean().reindex(['Massey', 'HockeyBT', 'KRACH', 'ELO', 'RPI']))
+    print(summary.groupby('Model')[cols].mean().reindex(['Massey', 'HockeyBT', 'KRACH', 'ELO', 'RPI', 'NPI']))
 
     # P0.2: persist per-game predictions and run the same paired
     # significance tests the men's-hockey scripts already run.
