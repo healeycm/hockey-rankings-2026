@@ -27,6 +27,42 @@ def get_run_date(config_date_str):
     return config_date_str
 
 
+def apply_division_model_config_overrides(config, division):
+    """
+    Some models have dials that genuinely differ by division, not just by
+    active_models membership -- NPI is the first: no home/away multiplier
+    exists for women's D-I hockey at all, and its QWB base differs from
+    men's (confirmed against the NCAA's own official document; see
+    config.yaml's npi_women block and
+    research/womens_comparison/reports/p0_3_npi_validation.md -- this was
+    a real bug, not a hypothetical, caught after women's NPI had already
+    been computed and published with men's dials).
+
+    For `division`, swaps config['models']['<model>_<division>'] into
+    config['models']['<model>'] wherever such an override section exists,
+    so registry.py's division-agnostic get_model_config() picks it up
+    unchanged. Returns a NEW config dict (shallow copy at the top level and
+    at 'models') -- never mutates the input, so a men's run in the same
+    process is never affected by a women's override.
+    """
+    models_cfg = config.get('models', {})
+    overrides = {}
+    suffix = f"_{division}"
+    for key, value in models_cfg.items():
+        # Only dict-valued sections are model configs (a roster like
+        # active_models_women is a LIST, not a dict -- deliberately
+        # excluded here so this doesn't also try to overwrite
+        # config['models']['active_models'] with a roster list; that key
+        # is handled separately, above, before this function is called).
+        if key.endswith(suffix) and isinstance(value, dict):
+            base_key = key[: -len(suffix)]
+            if isinstance(models_cfg.get(base_key), dict):
+                overrides[base_key] = value
+    if not overrides:
+        return config
+    return {**config, 'models': {**models_cfg, **overrides}}
+
+
 def generate_team_files(pred_df, model_name, base_output_dir):
     team_out_dir = base_output_dir / "team_projections" / model_name
     team_out_dir.mkdir(parents=True, exist_ok=True)
@@ -119,6 +155,7 @@ def main():
         active_models = config['models'].get(
             'active_models_women', ["Massey", "HockeyBT", "KRACH", "ELO", "RPI"]
         )
+        config = apply_division_model_config_overrides(config, division)
 
     # Fail loudly on an unrecognized model_key instead of silently skipping
     # it later in the loop -- see src/rankings/registry.py's module

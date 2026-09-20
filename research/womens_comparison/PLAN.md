@@ -99,6 +99,16 @@ failure; the point is that we cannot retrofit the story afterwards.
 
 ## Phase 0 — Prerequisites (hard blockers)
 
+**Status (2026-09-20): all four done.** See each item's report:
+`research/womens_comparison/reports/p0_1_conference_data.md`,
+`p0_2_paired_significance.md`, `p0_3_npi_validation.md`,
+`p0_4_power_analysis.md`. One of these (P0.3) surfaced a real production
+bug — women's NPI was silently computed with men's-hockey dials (no
+home/away multiplier exists for women's NPI at all; QWB base also
+differed) — fixed in `config.yaml`/`src/run_system.py`, see that report for
+the before/after impact. Cheapest-first sequencing below is now historical
+context for how this was approached, not a to-do list.
+
 These gate later phases. None are research; all are plumbing or validation.
 
 **P0.1 — Populate women's conference data. BLOCKS W7, W9, W10, W12.**

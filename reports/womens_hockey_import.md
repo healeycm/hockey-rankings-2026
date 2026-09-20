@@ -18,7 +18,7 @@ This adds NCAA women's D-I hockey (2021-22 through 2025-26) to the ranking syste
 ## 3. Phase 2 — Analysis
 
 - Processed via [`processor.py`](../src/data/processor.py) (now `division`-aware) into `data/processed/women/games_archive.csv` (3,866 games) and `upcoming_schedule.csv` (0 rows — the 2026-27 women's schedule has not been scraped yet).
-- **5-year / 20-split backtest** ([`tests/womens_hockey_backtest.py`](../tests/womens_hockey_backtest.py)) run on the validated 5-model roster (Massey, HockeyBT, KRACH, ELO, RPI), reusing the men's-tuned hyperparameters as a first pass rather than re-sweeping (explicitly scoped out — see Open Items). Split-averaged results:
+- **5-year / 20-split backtest** ([`analysis/exploratory/womens_hockey_backtest.py`](../analysis/exploratory/womens_hockey_backtest.py)) run on the validated 5-model roster (Massey, HockeyBT, KRACH, ELO, RPI), reusing the men's-tuned hyperparameters as a first pass rather than re-sweeping (explicitly scoped out — see Open Items). Split-averaged results:
 
 | Model    | Accuracy | Brier  | LogLoss | ECE    | Reliability | Resolution |
 |----------|---------:|-------:|--------:|-------:|------------:|-----------:|
@@ -32,7 +32,7 @@ This adds NCAA women's D-I hockey (2021-22 through 2025-26) to the ranking syste
 - Massey remains the best model by Accuracy, Brier, and LogLoss — the core "Massey is the best model" finding from men's hockey transfers to women's hockey.
 - Overall accuracy is noticeably higher than men's hockey's typical ~68-70% range in this project's men's backtests, consistent with women's D-I hockey's flatter/smaller field producing more predictable outcomes.
 - HockeyBT, not Massey or ELO, has the best calibration (lowest ECE/Reliability) for women's hockey — a genuine difference from the men's-hockey calibration ranking, worth investigating further before treating Massey as the calibration-optimal choice as well as the accuracy-optimal one.
-- **Not done for this pass, flagged as a gap:** the men's-hockey validation work in this project also runs paired significance tests (paired t-test on Brier/LogLoss, McNemar's test on Accuracy) over pooled per-game predictions. `BacktestEngine` currently only persists split-level aggregate rows, not per-game predictions, so those paired tests were **not** computed here — only the split-averaged means above. Producing them would require extending the backtest run to dump per-game predictions (a small addition, not done in this pass; see Open Items).
+- **Update (2026-09-20):** the paired-significance gap flagged below is closed — see `research/womens_comparison/reports/p0_2_paired_significance.md`. `BacktestEngine` now has `save_predictions()`, and the same paired t-test (Brier/LogLoss)/McNemar's (Accuracy) tests the men's-hockey scripts already run are wired into this backtest. Result: Massey beats KRACH, ELO, and RPI on all three metrics with real significance (McNemar p=0.004–<0.0001, paired-t p<1e-8 on Brier/LogLoss); Massey vs. HockeyBT is significant on accuracy (p=0.017) but NOT on Brier/LogLoss (p=0.71, p=0.26) — consistent with, not contradicting, HockeyBT's separately-measured calibration edge noted above.
 
 - **Rankings generated** ([`src/generate_womens_rankings.py`](../src/generate_womens_rankings.py), standalone — not yet wired into `run_system.py`'s orchestrator) for the most recently completed season (2025-26) across all 5 models, written to `output/women/rankings/{Model}/rankings_{Model}_{date}.csv` in the exact format the website expects. Passed a domain sanity check: Massey ranked Ohio State #1, Wisconsin #2.
 
@@ -55,9 +55,8 @@ This adds NCAA women's D-I hockey (2021-22 through 2025-26) to the ranking syste
 
 ## 7. Open items (explicitly deferred, not oversights)
 
-- Paired significance tests (paired t-test on Brier/LogLoss, McNemar's on Accuracy) for the women's backtest — needs `BacktestEngine` extended to persist per-game predictions.
 - Hyperparameter re-sweeping for Massey/HockeyBT/RPI/KRACH specifically on women's hockey, rather than reusing men's-tuned defaults.
-- Conference assignments for `college_hockey_teams_women.csv` (currently blank) — needs a verified authoritative source.
+- ~~Conference assignments for `college_hockey_teams_women.csv`~~ — done 2026-09-20, see `research/womens_comparison/reports/p0_1_conference_data.md` (45/45, cross-checked against 2+ independent sources per team, current-season only — not backfilled for realignment within the 5-year backtest window).
 - Team-detail, projection, schedule, and rank-distribution pages for women's hockey — currently explicitly blocked with a placeholder message rather than wired incompletely.
 - A `config.yaml` `system.division` key — division-awareness is currently all explicit-parameter/context-manager driven, not config-driven.
 - Integrating `generate_womens_rankings.py` into `run_system.py`'s full orchestrator (currently a standalone script).

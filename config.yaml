@@ -158,6 +158,13 @@ models:
       min_common_opponents: 1
 
   # (Rest of config...)
+  # Men's D-I NPI dials -- verified against the NCAA's own official values
+  # (25/75, QWB base 51.0/mult 0.5) in reports/npi_investigation_2026.md.
+  # NOTE: ot_win_weight/ot_loss_weight here are currently DEAD CONFIG --
+  # src/rankings/npi.py hardcodes the 60/40 OT split directly into its
+  # formula (`0.4 * mult + 0.2`) rather than reading these keys. Left as
+  # documentation of the intended value, not wired up; see
+  # research/womens_comparison/reports/p0_3_npi_validation.md.
   npi:
     weight_wp: 0.25
     weight_sos: 0.75
@@ -166,6 +173,31 @@ models:
     ot_win_weight: 0.6
     ot_loss_weight: 0.4
     quality_win_base: 51.0
+    quality_win_mult: 0.5
+
+  # Women's D-I NPI dials -- NOT the same as men's, confirmed against the
+  # NCAA's own official document (NCWIH_PairWiseExplained.pdf: "National
+  # Collegiate Women's Ice Hockey currently uses an NPI based on 25% win
+  # percentage and 75% strength of schedule, with a Quality Win Bonus base
+  # of 51.5 and a multiplier of 0.5... Game sites are not currently
+  # weighted, i.e no distinction is made between home/away victories or
+  # losses."). Two real differences from men's: QWB base is 51.5 not 51.0,
+  # and there is NO home/away multiplier at all (set to 1.0/1.0 here, not
+  # omitted, so a caller that forgets this section still gets an explicit
+  # no-op instead of silently falling back to men's 0.8/1.2). OT split is
+  # also officially 66.7%/33.3% (women's) vs. men's 60%/40% -- NOT applied
+  # here, since (like men's) the formula doesn't actually read
+  # ot_win_weight/ot_loss_weight; fixing the OT split requires generalizing
+  # npi.py's hardcoded formula, deliberately not done in this pass -- see
+  # research/womens_comparison/reports/p0_3_npi_validation.md.
+  npi_women:
+    weight_wp: 0.25
+    weight_sos: 0.75
+    home_multiplier: 1.0
+    away_multiplier: 1.0
+    ot_win_weight: 0.667
+    ot_loss_weight: 0.333
+    quality_win_base: 51.5
     quality_win_mult: 0.5
 
   # RPI (src/rankings/rpi.py) — the direct historical predecessor to NPI for

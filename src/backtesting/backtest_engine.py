@@ -193,6 +193,34 @@ class BacktestEngine:
                     except Exception as e:
                         print(f"    ! Error running {model_name}: {e}")
 
+    def save_predictions(self):
+        """
+        Writes every held-out per-game prediction (Season, Cutoff, Date,
+        HomeTeam, AwayTeam, Result, IsOT, HomeWinProb, Model, and P_Home/
+        P_Tie/P_Away when the model exposes predict_outcomes()) to
+        <output_dir>/backtest_predictions.csv.
+
+        This is what a paired significance test (paired t-test on per-game
+        Brier/LogLoss, McNemar's on per-game correctness) needs -- run()
+        already collects every row in self.all_predictions; this just
+        persists it, the same way summary/aggregate rows already are.
+        Men's-hockey scripts (e.g. analysis/exploratory/hockey_bt_backtest.py)
+        currently do these tests in-process off engine.all_predictions
+        without ever saving it; saving it here makes the same tests
+        reproducible from disk, and unblocks the women's-hockey backtest
+        from doing the same (see reports/womens_hockey_import.md's Open
+        Items and research/womens_comparison/PLAN.md's P0.2).
+        """
+        if not self.all_predictions:
+            print("No predictions to save.")
+            return
+
+        preds_df = pd.concat(self.all_predictions, ignore_index=True)
+        preds_path = self.output_dir / "backtest_predictions.csv"
+        preds_df.to_csv(preds_path, index=False)
+        print(f"Saved {len(preds_df)} per-game predictions to {preds_path}")
+        return preds_df
+
     def save_results(self):
         if not self.results_summary:
             print("No results to save.")
