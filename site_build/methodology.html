@@ -18,20 +18,26 @@
 <main class="container">
 
 <h1>Methodology</h1>
-<p class="subtitle">Six ranking models, all implemented and validated in this project's own
-backtests. Every model below is fit fresh from this season's actual game results -- none of
-them use a human poll, recruiting rankings, or last season's finish as an input (preseason
-priors are used for early-season stability on ELO/Massey but are kept off this public page for
-now).</p>
+<p class="subtitle">Six ranking models, run for both divisions. Every model below is fit fresh
+from this season's actual game results -- none of them use a human poll, recruiting rankings, or
+last season's finish as an input (preseason priors are used for early-season stability on
+ELO/Massey but are kept off this public page for now). Running the same model for both divisions
+is not the same claim as having tested it on both -- see each card's "Men's vs. women's" note
+where the two diverge or where we simply don't have evidence yet for one division.</p>
 
 <div class="card">
 <h2>How to read these rankings</h2>
 <p>Each division's rankings page shows every model that division currently runs, as tabs over the
 same team list. The models don't always agree -- that disagreement is informative, not a bug:
-Elo reacts fastest to recent form, Massey is our most accurate model overall, KRACH and NPI are
-the two "official"/committee-recognized formulas, and HockeyBT/RPI exist specifically to
-stress-test NPI against genuine alternatives. See "What we've validated" below for how each
-claim on this page was tested.</p>
+Elo reacts fastest to recent form, Massey is our most accurate model on both men's and women's
+data, KRACH and NPI are the two "official"/committee-recognized formulas, and HockeyBT/RPI were
+built specifically to stress-test NPI against genuine alternatives. Our research (the reports/
+directory, and the "papers" linked from the project README) was written primarily from a
+men's-hockey vantage point -- more teams, more games, a longer backtest history -- and several
+of its headline comparisons (HockeyBT beats NPI, RPI beats NPI) have never been re-run with NPI
+included in a women's-hockey backtest. Where a finding is men's-only, known to differ for
+women's, or simply untested for one division, we say so explicitly below rather than implying it
+transfers.</p>
 </div>
 
 
@@ -40,11 +46,12 @@ claim on this page was tested.</p>
 <p>A sequential rating that updates after every single game, the way chess and most competitive-game rating systems work.</p>
 <h3>How it works</h3>
 <p>Every team starts at a baseline rating. After each game, the winner takes rating points from the loser -- more points for a bigger upset (beating a much higher-rated team), fewer for beating a team you were already expected to beat. The exchange is also scaled by margin of victory and adjusted for home ice, so a 5-goal road win moves the ratings more than a 1-goal home win.</p>
-<div class="example-block"><strong>Worked example:</strong> Our most recent final ratings had Michigan at 1188.7 and North Dakota at 1176.1. Elo's own win-probability formula, 1 / (1 + 10^(-diff/400)), turns that 12.6-point gap into a roughly 52% chance for Michigan on a neutral sheet of ice -- illustrating how close Elo says these two teams actually are, despite the rating gap looking larger in isolation.</div>
+<div class="example-block"><strong>Worked example:</strong> Our most recent final men's ratings had Michigan at 1188.7 and North Dakota at 1176.1. Elo's own win-probability formula, 1 / (1 + 10^(-diff/400)), turns that 12.6-point gap into a roughly 52% chance for Michigan on a neutral sheet of ice -- illustrating how close Elo says these two teams actually are, despite the rating gap looking larger in isolation.</div>
 <h3>Strengths</h3>
-<p>Reacts fast to a team's current form (a hot or cold streak shows up immediately), is cheap to recompute after each night's games, and in our own calibration testing it's the best-calibrated model we run -- its stated win probabilities match actual outcomes more closely than any other model here, including Massey (see reports/calibration_metrics.md).</p>
+<p>Reacts fast to a team's current form (a hot or cold streak shows up immediately) and is cheap to recompute after each night's games. In our men's-hockey calibration testing it's the best-calibrated model we run -- its stated win probabilities match actual outcomes more closely than any other model here, including Massey (reports/calibration_metrics.md).</p>
 <h3>Caveats</h3>
 <p>Purely sequential, so it has no real memory of a full season's context -- two teams with identical records can end up at different ratings just because of the order they played their games in.</p>
+<h3>Men's vs. women's</h3><div class="example-block cross-division">The calibration result above does NOT transfer to women's hockey: in the separate women's-hockey backtest, ELO is not the best-calibrated model -- HockeyBT is (ELO's ECE is 0.0706 vs. HockeyBT's 0.0568; see reports/womens_hockey_import.md). We haven't re-run the men's calibration report's full methodology on women's data, so treat this as a real, evidenced difference, not a gap in testing.</div>
 <div class="links-row"><a href="https://en.wikipedia.org/wiki/Elo_rating_system" rel="noopener" target="_blank">Wikipedia: Elo rating system</a><a href="https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/" rel="noopener" target="_blank">FiveThirtyEight: How our NFL predictions work (Elo primer)</a></div>
 </div>
 <div class="card">
@@ -52,11 +59,12 @@ claim on this page was tested.</p>
 <p>A least-squares rating: the set of team ratings that, together, best explain every game's actual goal differential.</p>
 <h3>How it works</h3>
 <p>Solves a system of linear equations -- one per game, each saying roughly 'winner's rating minus loser's rating should predict this goal margin' -- for the single set of ratings that minimizes the total prediction error across every game played. On top of Kenneth Massey's original method we add a fitted home-ice term, a fitted rest/fatigue adjustment (penalizing a team playing on short rest), and ridge regularization so teams with thin schedules don't get wild ratings.</p>
-<div class="example-block"><strong>Worked example:</strong> Same two teams as above: Michigan's Massey rating was 1.918 to North Dakota's 1.797, a 0.12-goal gap -- Massey's native scale is predicted goal margin, so that's a razor-thin expected difference before the home-ice and rest adjustments are applied to an actual matchup.</div>
+<div class="example-block"><strong>Worked example:</strong> Same two men's teams as above: Michigan's Massey rating was 1.918 to North Dakota's 1.797, a 0.12-goal gap -- Massey's native scale is predicted goal margin, so that's a razor-thin expected difference before the home-ice and rest adjustments are applied to an actual matchup.</div>
 <h3>Strengths</h3>
-<p>The best model we run overall: it beats KRACH, Elo, and HockeyBT on accuracy, Brier score, and log loss simultaneously, with all 9 of those head-to-head comparisons statistically significant (reports/massey_calibration_results.md, reports/massey_experiments_2026.md).</p>
+<p>The best model we run overall on men's hockey: it beats KRACH, Elo, and HockeyBT on accuracy, Brier score, and log loss simultaneously, with all 9 of those head-to-head comparisons statistically significant (reports/massey_calibration_results.md).</p>
 <h3>Caveats</h3>
-<p>Wins on resolution (how sharply it separates good teams from bad) rather than calibration -- Elo's stated probabilities are actually closer to true frequencies (reports/calibration_metrics.md).</p>
+<p>On men's hockey, wins on resolution (how sharply it separates good teams from bad) rather than calibration -- Elo's stated probabilities are actually closer to true frequencies there (reports/calibration_metrics.md).</p>
+<h3>Men's vs. women's</h3><div class="example-block cross-division">The headline finding does transfer: Massey is also the single best model on accuracy, Brier score, AND log loss in the separate 5-year women's-hockey backtest (0.7544 accuracy vs. HockeyBT's 0.7473, KRACH's 0.7450, ELO's 0.7428, RPI's 0.7279 -- reports/womens_hockey_import.md). That backtest hasn't yet run the same paired-significance tests (paired t-test/McNemar's) as the men's one has, so we can say Massey is ahead on women's data but not yet claim statistical significance the way we can for men's.</div>
 <div class="links-row"><a href="https://masseyratings.com/" rel="noopener" target="_blank">Kenneth Massey&#x27;s rating site</a><a href="https://press.princeton.edu/books/paperback/9780691162231/whos-1" rel="noopener" target="_blank">Langville &amp; Meyer, Who&#x27;s #1? (the standard reference for Massey/Colley/Keener)</a></div>
 </div>
 <div class="card">
@@ -64,60 +72,70 @@ claim on this page was tested.</p>
 <p>Bradley-Terry maximum-likelihood ratings -- the same family of model behind the NCAA hockey selection committee's own comparison tool.</p>
 <h3>How it works</h3>
 <p>Iteratively solves for a rating per team such that each team's *expected* win total against its actual opponents (summing rating_A / (rating_A + rating_B) over every game) matches its *actual* win total. Fit purely from this season's results -- no home ice, no margin of victory, no other adjustments.</p>
-<div class="example-block"><strong>Worked example:</strong> Michigan's KRACH rating (576.9) against North Dakota's (351.5) gives a textbook Bradley-Terry win probability of 576.9 / (576.9 + 351.5) ≈ 62%.</div>
+<div class="example-block"><strong>Worked example:</strong> Michigan's men's KRACH rating (576.9) against North Dakota's (351.5) gives a textbook Bradley-Terry win probability of 576.9 / (576.9 + 351.5) ≈ 62%.</div>
 <h3>Strengths</h3>
 <p>Transparent and already recognized by the sport -- it's the model the NCAA hockey selection committee itself consults. We deliberately keep our KRACH implementation "pure" (no home-ice or margin additions) so it's directly cross-checkable against published KRACH numbers elsewhere.</p>
 <h3>Caveats</h3>
-<p>Ignoring home ice and margin of victory throws away real information the other models use. Bradley-Terry ratings can also become unstable when two parts of the schedule graph are only thinly connected (few common opponents) -- a genuine structural weakness of this whole model family that our own audit found actually favors NPI in that specific scenario (reports/npi_critique.md, "connectivity limits").</p>
+<p>Ignoring home ice and margin of victory throws away real information the other models use. Bradley-Terry ratings can also become unstable when two parts of the schedule graph are only thinly connected (few common opponents) -- a genuine structural weakness of this whole model family that our own men's-hockey audit found actually favors NPI in that specific scenario (reports/npi_critique.md, "connectivity limits").</p>
+<h3>Men's vs. women's</h3><div class="example-block cross-division">That connectivity finding is men's-hockey-specific (the audit behind it never touched women's data) and hasn't been separately checked against women's D-I's smaller, differently-shaped schedule graph -- we don't know whether it applies the same way there.</div>
 <div class="links-row"><a href="https://www.uscho.com/rankings/mens-di-krach/" rel="noopener" target="_blank">USCHO: understanding KRACH</a><a href="https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model" rel="noopener" target="_blank">Wikipedia: Bradley-Terry model</a></div>
 </div>
 <div class="card">
-<div class="card-head"><h2>NPI</h2><div class="tag-row"><span class="tag men">Men's</span></div></div>
+<div class="card-head"><h2>NPI</h2><div class="tag-row"><span class="tag men">Men's</span><span class="tag women">Women's</span></div></div>
 <p>Our from-scratch reimplementation of the NCAA's own official selection-committee formula.</p>
 <h3>How it works</h3>
 <p>Combines a team's winning percentage (with road wins weighted more than home wins) with its strength of schedule (opponents' winning percentage) and a "quality win bonus" for beating strong opponents, into the single index the committee uses at-large and seeding. Purely this-season results.</p>
-<div class="example-block"><strong>Worked example:</strong> On the NPI scale, Michigan's 59.50 vs. North Dakota's 58.75 is a 0.75-point gap -- NPI is a selection-committee index, not a predictive model, so unlike the others above this number isn't meant to convert into a win probability.</div>
+<div class="example-block"><strong>Worked example:</strong> On the NPI scale, Michigan's men's rating of 59.50 vs. North Dakota's 58.75 is a 0.75-point gap -- NPI is a selection-committee index, not a predictive model, so unlike the others above this number isn't meant to convert into a win probability.</div>
 <h3>Strengths</h3>
-<p>It's the actual formula that determines the tournament field, so it's the one number on this page with direct bracket implications. Our reimplementation matches the NCAA's own published numbers after we found and fixed a date-cutoff and a strength-of-schedule filter bug (reports/npi_investigation_2026.md).</p>
+<p>It's the actual formula that determines the tournament field, so it's the one number on this page with direct bracket implications. Our men's-hockey reimplementation matches the NCAA's own published numbers after we found and fixed a date-cutoff and a strength-of-schedule filter bug (reports/npi_investigation_2026.md).</p>
 <h3>Caveats</h3>
-<p>Our own multi-part critique found real weaknesses relative to the other models here: worse predictive accuracy than Massey or even plain RPI, the same schedule-connectivity sensitivity as KRACH, and several other findings detailed across reports/npi_critique.md and the dial-interaction/bubble-divergence/tail-risk experiment reports. We publish NPI because it's the committee's own formula, not because our research rates it as the best predictor.</p>
+<p>Our own multi-part critique of men's-hockey NPI found real weaknesses relative to the other models here: worse predictive accuracy than Massey or even plain RPI, and the same schedule-connectivity sensitivity as KRACH (reports/npi_critique.md). We publish NPI because it's the committee's own formula, not because our research rates it as the best predictor.</p>
+<h3>Men's vs. women's</h3><div class="example-block cross-division">None of the critique above has been re-run on women's data -- our women's-hockey backtest (reports/womens_hockey_import.md) never included NPI, so we don't have women's-specific evidence for or against it. The women's NPI ratings shown on this site were computed fresh on 2026-09-20 for display parity with men's, but they have not been cross-checked against the NCAA's own published women's NPI numbers the way the men's numbers were.</div>
 <div class="links-row"><a href="https://www.ncaa.com/news/icehockey-men/article/ncaa-di-mens-hockey-championship-selection-process" rel="noopener" target="_blank">NCAA Division I Ice Hockey selection criteria (official)</a><a href="https://www.uscho.com/rankings/mens-di-npi/" rel="noopener" target="_blank">USCHO: understanding the NPI</a></div>
 </div>
 <div class="card">
-<div class="card-head"><h2>HockeyBT</h2><div class="tag-row"><span class="tag women">Women's</span></div></div>
+<div class="card-head"><h2>HockeyBT</h2><div class="tag-row"><span class="tag men">Men's</span><span class="tag women">Women's</span></div></div>
 <p>An extended Bradley-Terry model (Davidson-Beaver) -- KRACH's exact same engine, plus a fitted home-ice term and a genuine three-outcome (win/tie/loss) treatment of overtime games.</p>
 <h3>How it works</h3>
 <p>KRACH's plain Bradley-Terry math assumes only two outcomes and no home ice. HockeyBT adds two fitted parameters on top of that same core: theta (home-ice advantage, fit from the data rather than assumed) and nu (a Davidson tie term, since roughly a fifth of NCAA hockey games are decided in overtime/shootout and are statistically closer to a draw than a clean regulation win). MAP regularization keeps thinly-scheduled teams' ratings from blowing up, the same problem plain KRACH has.</p>
 <div class="example-block"><strong>Worked example:</strong> In this season's women's ratings, Ohio State's HockeyBT rating (821.0) vs. Wisconsin's (738.7) gives an approximate 52.6% Bradley-Terry win probability before HockeyBT's home-ice and tie terms are applied to a specific matchup.</div>
 <h3>Strengths</h3>
-<p>Beats KRACH on calibration (Brier score, log loss) and beats NPI on accuracy at the same time, in a 5-year, 20-split backtest (reports/hockey_bt_results.md) -- it's the model we run for women's D-I.</p>
+<p>In a men's-hockey 5-year, 20-split backtest, beats KRACH on calibration (Brier score, log loss) and beats NPI on accuracy at the same time (reports/hockey_bt_results.md).</p>
 <h3>Caveats</h3>
-<p>Not currently run for men's: the site's men's roster was trimmed to a smaller, reports-supported set, and HockeyBT wasn't in that cut -- it's fully implemented and configured in config.yaml and can be turned back on for men's at any time.</p>
+<p>The 'beats NPI' comparison above is men's-hockey-only -- our women's-hockey backtest never included NPI, so we can't say HockeyBT beats NPI on women's data, only that both are computed for women's now. On women's data specifically, HockeyBT is the best-calibrated model of the 5 we backtested (lowest ECE) but is NOT the most accurate -- Massey is (reports/womens_hockey_import.md).</p>
+
 <div class="links-row"><a href="https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model" rel="noopener" target="_blank">Wikipedia: Bradley-Terry model (Davidson tie extension is covered under &quot;ties&quot;)</a></div>
 </div>
 <div class="card">
-<div class="card-head"><h2>RPI</h2><div class="tag-row"><span class="tag women">Women's</span></div></div>
+<div class="card-head"><h2>RPI</h2><div class="tag-row"><span class="tag men">Men's</span><span class="tag women">Women's</span></div></div>
 <p>The classic Ratings Percentage Index: a weighted blend of a team's own record, its opponents' records, and its opponents' opponents' records.</p>
 <h3>How it works</h3>
 <p>RPI = 0.25 × (own winning percentage) + 0.50 × (opponents' average winning percentage) + 0.25 × (opponents' opponents' average winning percentage), using the same road-win-weighted/home-win-discounted convention as NPI. This is the formula NPI itself replaced in NCAA hockey selection years ago with committee-tuned weights and a quality-win bonus.</p>
 <div class="example-block"><strong>Worked example:</strong> This season's women's RPI has Ohio State at 0.6346 and Wisconsin at 0.6169 -- RPI's native scale is a 0-1 percentage-like index, not goals or a probability.</div>
 <h3>Strengths</h3>
-<p>Beats NPI on accuracy in our backtests (reports/rpi_results.md) -- the second independent confirmation, after HockeyBT, that NPI underperforms simpler alternatives on pure predictive accuracy.</p>
+<p>Beats NPI on accuracy in our men's-hockey backtest (reports/rpi_results.md) -- the second independent confirmation, after HockeyBT, that NPI underperforms simpler alternatives on men's-hockey predictive accuracy.</p>
 <h3>Caveats</h3>
-<p>Loses to Massey on every metric we track. We keep it running mainly for its diagnostic value as an NPI comparison, not because it's a top model in its own right.</p>
+<p>Loses to Massey on every metric we track, on both men's and women's data -- RPI is the lowest-accuracy model of the 5 backtested for women's hockey too (0.7279, reports/womens_hockey_import.md). We keep it running mainly for its diagnostic value as an NPI comparison, not because it's a top model in its own right.</p>
+<h3>Men's vs. women's</h3><div class="example-block cross-division">The 'beats NPI' finding above is men's-only -- our women's-hockey backtest never included NPI, so we have no women's-specific evidence that RPI beats NPI there.</div>
 <div class="links-row"><a href="https://en.wikipedia.org/wiki/Rating_percentage_index" rel="noopener" target="_blank">Wikipedia: Ratings Percentage Index</a></div>
 </div>
 
 <div class="card">
 <h2>What we've validated</h2>
-<p>Every performance claim above is backed by a written report with the actual backtest numbers,
-not just an assertion. The full set (accuracy, Brier score, log loss, calibration/ECE, and the
-specific model-vs-model comparisons) lives in this project's <code>reports/</code> directory,
-including <code>massey_calibration_results.md</code>, <code>hockey_bt_results.md</code>,
+<p>Every performance claim above is backed by a written report with real backtest numbers, not
+just an assertion, and each is scoped to the division it was actually tested on. The full set
+(accuracy, Brier score, log loss, calibration/ECE, and the specific model-vs-model comparisons)
+lives in this project's <code>reports/</code> directory, including
+<code>massey_calibration_results.md</code>, <code>hockey_bt_results.md</code>,
 <code>rpi_results.md</code>, <code>npi_critique.md</code>, <code>npi_investigation_2026.md</code>,
-and <code>calibration_metrics.md</code>. Models are only added to a division's live roster after
-they clear that bar -- see config.yaml's own notes on how the current men's and women's rosters
-were chosen.</p>
+<code>calibration_metrics.md</code>, and the separate <code>womens_hockey_import.md</code> (the
+only report that backtests women's hockey specifically -- it covers Massey, HockeyBT, KRACH,
+ELO, and RPI, not NPI). Two honest gaps: (1) HockeyBT and RPI were added to the men's site roster
+and NPI to the women's roster on 2026-09-20 for site parity -- their ratings are freshly computed
+for every division, but the specific model-vs-model comparisons involving NPI have only been
+backtested for men's; (2) the women's backtest hasn't yet run the same paired-significance tests
+(paired t-test, McNemar's) that the men's backtests have, so where we say a women's-hockey result
+is "ahead" rather than "significantly better," that's why.</p>
 </div>
 
 </main>

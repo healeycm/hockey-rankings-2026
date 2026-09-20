@@ -153,6 +153,7 @@ tbody tr:nth-child(-n+3) td:first-child { color: var(--accent); font-weight: 700
   border-radius: 4px; padding: 10px 14px; margin: 10px 0; font-size: .88rem;
 }
 .example-block code { font-family: ui-monospace, Consolas, monospace; font-size: .85rem; }
+.example-block.cross-division { border-left-color: var(--banner-border); background: var(--banner-bg); color: var(--banner-text); }
 .links-row { margin-top: 8px; font-size: .85rem; }
 .links-row a { color: var(--accent); text-decoration: none; margin-right: 14px; }
 .links-row a:hover { text-decoration: underline; }

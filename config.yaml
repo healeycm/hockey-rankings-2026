@@ -50,29 +50,41 @@ models:
   # simulation cost scale linearly with this list's length, so trimming it
   # is the single biggest lever on in-season run time
   # (reports/in_season_revamp_plan.md).
-  # Featured-model roster (2026-09-13 decision): the 4 models the site
-  # surfaces to visitors -- ELO and Massey get preseason priors (see
-  # `preseason:` below), NPI stays the pure official-selection-formula
-  # replica, KRACH stays pure by default too. HockeyBT and RPI are still
-  # fully configured below (not removed) -- add them back to this list any
-  # time, no other code change needed.
+  # Featured-model roster (updated 2026-09-20): both divisions now run the
+  # same 6 models, so the site's methodology page and rankings tabs line
+  # up between men's and women's instead of showing a different model set
+  # per division. ELO and Massey get preseason priors (see `preseason:`
+  # below); NPI and KRACH stay pure (no home-ice/margin additions) so
+  # they're directly cross-checkable against published numbers.
+  #
+  # IMPORTANT caveat this list itself can't express (see methodology.html's
+  # per-model copy, which does): "beats X on accuracy/Brier/LogLoss"-style
+  # claims for HockeyBT and RPI come from men's-hockey backtests only
+  # (reports/hockey_bt_results.md, reports/rpi_results.md) -- they were
+  # never re-run with NPI included in a women's-hockey backtest, so do NOT
+  # assume they beat NPI for women's too. Symmetric ranking OUTPUT (this
+  # list) is not the same claim as symmetric VALIDATION EVIDENCE -- see
+  # reports/womens_hockey_import.md for exactly what has been tested for
+  # women's (Massey/HockeyBT/KRACH/ELO/RPI only; NPI was backfilled for
+  # display parity on 2026-09-20 but has no women's-specific backtest).
   active_models:
     - "ELO"
     - "Massey"
     - "KRACH"
     - "NPI"
+    - "HockeyBT"
+    - "RPI"
 
-  # Validated model roster for women's hockey specifically (see
-  # reports/womens_hockey_import.md's 5-year backtest) — used when
-  # system.division (or --division) is "women". Kept as its own list
-  # rather than reusing active_models above since the two divisions'
-  # backtests are separate and don't necessarily support the same roster.
+  # Women's roster: same 6 models as active_models above (see the caveat
+  # in that comment about which cross-model performance claims actually
+  # have women's-specific evidence vs. are carried over from men's).
   active_models_women:
     - "Massey"
     - "HockeyBT"
     - "KRACH"
     - "ELO"
     - "RPI"
+    - "NPI"
 
   # Davidson-Beaver extended Bradley-Terry model (src/rankings/hockey_bt.py).
   # Extends KRACH's own Bradley-Terry core with a fitted home-ice term

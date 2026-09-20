@@ -341,19 +341,25 @@ MODEL_DOCS = [
                "higher-rated team), fewer for beating a team you were already expected to beat. "
                "The exchange is also scaled by margin of victory and adjusted for home ice, so a "
                "5-goal road win moves the ratings more than a 1-goal home win.",
-        "example": "Our most recent final ratings had Michigan at 1188.7 and North Dakota at "
-                   "1176.1. Elo's own win-probability formula, 1 / (1 + 10^(-diff/400)), turns "
+        "example": "Our most recent final men's ratings had Michigan at 1188.7 and North Dakota "
+                   "at 1176.1. Elo's own win-probability formula, 1 / (1 + 10^(-diff/400)), turns "
                    "that 12.6-point gap into a roughly 52% chance for Michigan on a neutral "
                    "sheet of ice -- illustrating how close Elo says these two teams actually are, "
                    "despite the rating gap looking larger in isolation.",
         "strengths": "Reacts fast to a team's current form (a hot or cold streak shows up "
-                     "immediately), is cheap to recompute after each night's games, and in our "
-                     "own calibration testing it's the best-calibrated model we run -- its stated "
-                     "win probabilities match actual outcomes more closely than any other model "
-                     "here, including Massey (see reports/calibration_metrics.md).",
+                     "immediately) and is cheap to recompute after each night's games. In our "
+                     "men's-hockey calibration testing it's the best-calibrated model we run -- "
+                     "its stated win probabilities match actual outcomes more closely than any "
+                     "other model here, including Massey (reports/calibration_metrics.md).",
         "caveats": "Purely sequential, so it has no real memory of a full season's context -- "
                     "two teams with identical records can end up at different ratings just "
                     "because of the order they played their games in.",
+        "cross_division": "The calibration result above does NOT transfer to women's hockey: in "
+                           "the separate women's-hockey backtest, ELO is not the best-calibrated "
+                           "model -- HockeyBT is (ELO's ECE is 0.0706 vs. HockeyBT's 0.0568; see "
+                           "reports/womens_hockey_import.md). We haven't re-run the men's "
+                           "calibration report's full methodology on women's data, so treat this "
+                           "as a real, evidenced difference, not a gap in testing.",
         "links": [
             ("Wikipedia: Elo rating system", "https://en.wikipedia.org/wiki/Elo_rating_system"),
             ("FiveThirtyEight: How our NFL predictions work (Elo primer)",
@@ -370,17 +376,25 @@ MODEL_DOCS = [
                "played. On top of Kenneth Massey's original method we add a fitted home-ice term, "
                "a fitted rest/fatigue adjustment (penalizing a team playing on short rest), and "
                "ridge regularization so teams with thin schedules don't get wild ratings.",
-        "example": "Same two teams as above: Michigan's Massey rating was 1.918 to North "
+        "example": "Same two men's teams as above: Michigan's Massey rating was 1.918 to North "
                    "Dakota's 1.797, a 0.12-goal gap -- Massey's native scale is predicted goal "
                    "margin, so that's a razor-thin expected difference before the home-ice and "
                    "rest adjustments are applied to an actual matchup.",
-        "strengths": "The best model we run overall: it beats KRACH, Elo, and HockeyBT on "
-                     "accuracy, Brier score, and log loss simultaneously, with all 9 of those "
-                     "head-to-head comparisons statistically significant (reports/"
-                     "massey_calibration_results.md, reports/massey_experiments_2026.md).",
-        "caveats": "Wins on resolution (how sharply it separates good teams from bad) rather "
-                    "than calibration -- Elo's stated probabilities are actually closer to true "
-                    "frequencies (reports/calibration_metrics.md).",
+        "strengths": "The best model we run overall on men's hockey: it beats KRACH, Elo, and "
+                     "HockeyBT on accuracy, Brier score, and log loss simultaneously, with all 9 "
+                     "of those head-to-head comparisons statistically significant (reports/"
+                     "massey_calibration_results.md).",
+        "caveats": "On men's hockey, wins on resolution (how sharply it separates good teams "
+                    "from bad) rather than calibration -- Elo's stated probabilities are actually "
+                    "closer to true frequencies there (reports/calibration_metrics.md).",
+        "cross_division": "The headline finding does transfer: Massey is also the single best "
+                           "model on accuracy, Brier score, AND log loss in the separate 5-year "
+                           "women's-hockey backtest (0.7544 accuracy vs. HockeyBT's 0.7473, "
+                           "KRACH's 0.7450, ELO's 0.7428, RPI's 0.7279 -- reports/"
+                           "womens_hockey_import.md). That backtest hasn't yet run the same "
+                           "paired-significance tests (paired t-test/McNemar's) as the men's one "
+                           "has, so we can say Massey is ahead on women's data but not yet claim "
+                           "statistical significance the way we can for men's.",
         "links": [
             ("Kenneth Massey's rating site", "https://masseyratings.com/"),
             ("Langville & Meyer, Who's #1? (the standard reference for Massey/Colley/Keener)",
@@ -395,7 +409,7 @@ MODEL_DOCS = [
                "total against its actual opponents (summing rating_A / (rating_A + rating_B) "
                "over every game) matches its *actual* win total. Fit purely from this season's "
                "results -- no home ice, no margin of victory, no other adjustments.",
-        "example": "Michigan's KRACH rating (576.9) against North Dakota's (351.5) gives a "
+        "example": "Michigan's men's KRACH rating (576.9) against North Dakota's (351.5) gives a "
                    "textbook Bradley-Terry win probability of 576.9 / (576.9 + 351.5) ≈ 62%.",
         "strengths": "Transparent and already recognized by the sport -- it's the model the "
                      "NCAA hockey selection committee itself consults. We deliberately keep our "
@@ -405,8 +419,12 @@ MODEL_DOCS = [
                     "other models use. Bradley-Terry ratings can also become unstable when two "
                     "parts of the schedule graph are only thinly connected (few common "
                     "opponents) -- a genuine structural weakness of this whole model family that "
-                    "our own audit found actually favors NPI in that specific scenario "
-                    "(reports/npi_critique.md, \"connectivity limits\").",
+                    "our own men's-hockey audit found actually favors NPI in that specific "
+                    "scenario (reports/npi_critique.md, \"connectivity limits\").",
+        "cross_division": "That connectivity finding is men's-hockey-specific (the audit behind "
+                           "it never touched women's data) and hasn't been separately checked "
+                           "against women's D-I's smaller, differently-shaped schedule graph -- "
+                           "we don't know whether it applies the same way there.",
         "links": [
             ("USCHO: understanding KRACH", "https://www.uscho.com/rankings/mens-di-krach/"),
             ("Wikipedia: Bradley-Terry model", "https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"),
@@ -420,21 +438,27 @@ MODEL_DOCS = [
                "wins) with its strength of schedule (opponents' winning percentage) and a "
                "\"quality win bonus\" for beating strong opponents, into the single index the "
                "committee uses at-large and seeding. Purely this-season results.",
-        "example": "On the NPI scale, Michigan's 59.50 vs. North Dakota's 58.75 is a 0.75-point "
-                   "gap -- NPI is a selection-committee index, not a predictive model, so unlike "
-                   "the others above this number isn't meant to convert into a win probability.",
+        "example": "On the NPI scale, Michigan's men's rating of 59.50 vs. North Dakota's 58.75 "
+                   "is a 0.75-point gap -- NPI is a selection-committee index, not a predictive "
+                   "model, so unlike the others above this number isn't meant to convert into a "
+                   "win probability.",
         "strengths": "It's the actual formula that determines the tournament field, so it's the "
-                     "one number on this page with direct bracket implications. Our "
+                     "one number on this page with direct bracket implications. Our men's-hockey "
                      "reimplementation matches the NCAA's own published numbers after we found "
                      "and fixed a date-cutoff and a strength-of-schedule filter bug (reports/"
                      "npi_investigation_2026.md).",
-        "caveats": "Our own multi-part critique found real weaknesses relative to the other "
-                    "models here: worse predictive accuracy than Massey or even plain RPI, the "
-                    "same schedule-connectivity sensitivity as KRACH, and several other findings "
-                    "detailed across reports/npi_critique.md and the dial-interaction/bubble-"
-                    "divergence/tail-risk experiment reports. We publish NPI because it's the "
-                    "committee's own formula, not because our research rates it as the best "
-                    "predictor.",
+        "caveats": "Our own multi-part critique of men's-hockey NPI found real weaknesses "
+                    "relative to the other models here: worse predictive accuracy than Massey or "
+                    "even plain RPI, and the same schedule-connectivity sensitivity as KRACH "
+                    "(reports/npi_critique.md). We publish NPI because it's the committee's own "
+                    "formula, not because our research rates it as the best predictor.",
+        "cross_division": "None of the critique above has been re-run on women's data -- our "
+                           "women's-hockey backtest (reports/womens_hockey_import.md) never "
+                           "included NPI, so we don't have women's-specific evidence for or "
+                           "against it. The women's NPI ratings shown on this site were computed "
+                           "fresh on 2026-09-20 for display parity with men's, but they have not "
+                           "been cross-checked against the NCAA's own published women's NPI "
+                           "numbers the way the men's numbers were.",
         "links": [
             ("NCAA Division I Ice Hockey selection criteria (official)",
              "https://www.ncaa.com/news/icehockey-men/article/ncaa-di-mens-hockey-championship-selection-process"),
@@ -456,13 +480,15 @@ MODEL_DOCS = [
         "example": "In this season's women's ratings, Ohio State's HockeyBT rating (821.0) vs. "
                    "Wisconsin's (738.7) gives an approximate 52.6% Bradley-Terry win probability "
                    "before HockeyBT's home-ice and tie terms are applied to a specific matchup.",
-        "strengths": "Beats KRACH on calibration (Brier score, log loss) and beats NPI on "
-                     "accuracy at the same time, in a 5-year, 20-split backtest (reports/"
-                     "hockey_bt_results.md) -- it's the model we run for women's D-I.",
-        "caveats": "Not currently run for men's: the site's men's roster was trimmed to a "
-                    "smaller, reports-supported set, and HockeyBT wasn't in that cut -- it's "
-                    "fully implemented and configured in config.yaml and can be turned back on "
-                    "for men's at any time.",
+        "strengths": "In a men's-hockey 5-year, 20-split backtest, beats KRACH on calibration "
+                     "(Brier score, log loss) and beats NPI on accuracy at the same time (reports/"
+                     "hockey_bt_results.md).",
+        "caveats": "The 'beats NPI' comparison above is men's-hockey-only -- our women's-hockey "
+                    "backtest never included NPI, so we can't say HockeyBT beats NPI on women's "
+                    "data, only that both are computed for women's now. On women's data "
+                    "specifically, HockeyBT is the best-calibrated model of the 5 we backtested "
+                    "(lowest ECE) but is NOT the most accurate -- Massey is (reports/"
+                    "womens_hockey_import.md).",
         "links": [
             ("Wikipedia: Bradley-Terry model (Davidson tie extension is covered under "
              "\"ties\")", "https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"),
@@ -480,12 +506,18 @@ MODEL_DOCS = [
         "example": "This season's women's RPI has Ohio State at 0.6346 and Wisconsin at 0.6169 "
                    "-- RPI's native scale is a 0-1 percentage-like index, not goals or a "
                    "probability.",
-        "strengths": "Beats NPI on accuracy in our backtests (reports/rpi_results.md) -- the "
-                     "second independent confirmation, after HockeyBT, that NPI underperforms "
-                     "simpler alternatives on pure predictive accuracy.",
-        "caveats": "Loses to Massey on every metric we track. We keep it running mainly for its "
-                    "diagnostic value as an NPI comparison, not because it's a top model in its "
-                    "own right.",
+        "strengths": "Beats NPI on accuracy in our men's-hockey backtest (reports/"
+                     "rpi_results.md) -- the second independent confirmation, after HockeyBT, "
+                     "that NPI underperforms simpler alternatives on men's-hockey predictive "
+                     "accuracy.",
+        "caveats": "Loses to Massey on every metric we track, on both men's and women's data -- "
+                    "RPI is the lowest-accuracy model of the 5 backtested for women's hockey too "
+                    "(0.7279, reports/womens_hockey_import.md). We keep it running mainly for "
+                    "its diagnostic value as an NPI comparison, not because it's a top model in "
+                    "its own right.",
+        "cross_division": "The 'beats NPI' finding above is men's-only -- our women's-hockey "
+                           "backtest never included NPI, so we have no women's-specific evidence "
+                           "that RPI beats NPI there.",
         "links": [
             ("Wikipedia: Ratings Percentage Index", "https://en.wikipedia.org/wiki/Rating_percentage_index"),
         ],
@@ -517,6 +549,10 @@ def build_methodology_page(out_dir, root):
     for doc in MODEL_DOCS:
         links_html = "".join(f'<a href="{href}" rel="noopener" target="_blank">{html.escape(text)}</a>'
                               for text, href in doc["links"])
+        cross_html = ""
+        if doc.get("cross_division"):
+            cross_html = (f'<h3>Men\'s vs. women\'s</h3>'
+                          f'<div class="example-block cross-division">{doc["cross_division"]}</div>')
         cards.append(f"""
 <div class="card">
 <div class="card-head"><h2>{html.escape(doc['key'])}</h2>{_method_tags(doc['key'], active_men, active_women)}</div>
@@ -528,39 +564,52 @@ def build_methodology_page(out_dir, root):
 <p>{doc['strengths']}</p>
 <h3>Caveats</h3>
 <p>{doc['caveats']}</p>
+{cross_html}
 <div class="links-row">{links_html}</div>
 </div>""")
 
     body = f"""
 <h1>Methodology</h1>
-<p class="subtitle">Six ranking models, all implemented and validated in this project's own
-backtests. Every model below is fit fresh from this season's actual game results -- none of
-them use a human poll, recruiting rankings, or last season's finish as an input (preseason
-priors are used for early-season stability on ELO/Massey but are kept off this public page for
-now).</p>
+<p class="subtitle">Six ranking models, run for both divisions. Every model below is fit fresh
+from this season's actual game results -- none of them use a human poll, recruiting rankings, or
+last season's finish as an input (preseason priors are used for early-season stability on
+ELO/Massey but are kept off this public page for now). Running the same model for both divisions
+is not the same claim as having tested it on both -- see each card's "Men's vs. women's" note
+where the two diverge or where we simply don't have evidence yet for one division.</p>
 
 <div class="card">
 <h2>How to read these rankings</h2>
 <p>Each division's rankings page shows every model that division currently runs, as tabs over the
 same team list. The models don't always agree -- that disagreement is informative, not a bug:
-Elo reacts fastest to recent form, Massey is our most accurate model overall, KRACH and NPI are
-the two "official"/committee-recognized formulas, and HockeyBT/RPI exist specifically to
-stress-test NPI against genuine alternatives. See "What we've validated" below for how each
-claim on this page was tested.</p>
+Elo reacts fastest to recent form, Massey is our most accurate model on both men's and women's
+data, KRACH and NPI are the two "official"/committee-recognized formulas, and HockeyBT/RPI were
+built specifically to stress-test NPI against genuine alternatives. Our research (the reports/
+directory, and the "papers" linked from the project README) was written primarily from a
+men's-hockey vantage point -- more teams, more games, a longer backtest history -- and several
+of its headline comparisons (HockeyBT beats NPI, RPI beats NPI) have never been re-run with NPI
+included in a women's-hockey backtest. Where a finding is men's-only, known to differ for
+women's, or simply untested for one division, we say so explicitly below rather than implying it
+transfers.</p>
 </div>
 
 {"".join(cards)}
 
 <div class="card">
 <h2>What we've validated</h2>
-<p>Every performance claim above is backed by a written report with the actual backtest numbers,
-not just an assertion. The full set (accuracy, Brier score, log loss, calibration/ECE, and the
-specific model-vs-model comparisons) lives in this project's <code>reports/</code> directory,
-including <code>massey_calibration_results.md</code>, <code>hockey_bt_results.md</code>,
+<p>Every performance claim above is backed by a written report with real backtest numbers, not
+just an assertion, and each is scoped to the division it was actually tested on. The full set
+(accuracy, Brier score, log loss, calibration/ECE, and the specific model-vs-model comparisons)
+lives in this project's <code>reports/</code> directory, including
+<code>massey_calibration_results.md</code>, <code>hockey_bt_results.md</code>,
 <code>rpi_results.md</code>, <code>npi_critique.md</code>, <code>npi_investigation_2026.md</code>,
-and <code>calibration_metrics.md</code>. Models are only added to a division's live roster after
-they clear that bar -- see config.yaml's own notes on how the current men's and women's rosters
-were chosen.</p>
+<code>calibration_metrics.md</code>, and the separate <code>womens_hockey_import.md</code> (the
+only report that backtests women's hockey specifically -- it covers Massey, HockeyBT, KRACH,
+ELO, and RPI, not NPI). Two honest gaps: (1) HockeyBT and RPI were added to the men's site roster
+and NPI to the women's roster on 2026-09-20 for site parity -- their ratings are freshly computed
+for every division, but the specific model-vs-model comparisons involving NPI have only been
+backtested for men's; (2) the women's backtest hasn't yet run the same paired-significance tests
+(paired t-test, McNemar's) that the men's backtests have, so where we say a women's-hockey result
+is "ahead" rather than "significantly better," that's why.</p>
 </div>
 """
     html_out = _page_shell(title="Methodology", root=root, body=body, model_count=len(MODEL_DOCS), division="", current="methodology")
